@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 51</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 51</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="136-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2q2w9"><!-- c51 -->
+        <head xml:id="ho8ccf-a2q2w9-Hd1e99">Caput 51</head>
+        <head xml:id="ho8ccf-a2q2w9-Hd1e101" type="question-title">De distinctione Ordinum</head>
+        <p xml:id="ho8ccf-a2q2w9-d1e104">
+          <lb ed="#A" n="33"/>CAPVT II.
+          <lb ed="#A" n="34"/>De distinctione Ordinim.
+        </p>
+        <p xml:id="ho8ccf-a2q2w9-d1e111">
+          <lb ed="#A" n="35"/><milestone ed="#A" unit="p" rend="initial"/> DIuiduntur autem ordines in minores &amp; maiores,
+          <lb ed="#A" n="36"/>Minores quatuor nominantur, Ostiarii siue
+          la<lb ed="#A" n="37" break="no"/>nitores, Lectores, Exorcistae, Aolythi. Maiores
+          <lb ed="#A" n="38"/>tres, Subdiaconi, Diaconi, Saerdotes. Praecedit
+          <lb ed="#A" n="39"/>autem hos omnes prima tonsura, quae non est ordo, sed
+          <lb ed="#A" n="40"/>magis dispositio quaedam ad suscipiendos ordines. In qua
+        </p>
+        <p xml:id="ho8ccf-a2q2w9-d1e128">
+          <lb ed="#A" n="41"/>quod capillorum in modum corone quaedam fit resectio,
+          <lb ed="#A" n="42"/>illud significat, eum cui capilli resecatur, in illius
+          mini<pb ed="#A" n="137-r"/><lb ed="#A" n="1" break="no"/>sterium assumi, cui seruire regnare est, atque in regnum
+          quod<lb ed="#A" n="2" break="no"/>dam spirituale transferri. Ianitorum siue Ostiariorum
+          of<lb ed="#A" n="3" break="no"/>ficium est, stare ad ostia templi, quos dignos esse sciunt
+          <lb ed="#A" n="4"/>adinittere, quos indignos nouerit, eos repellere. Hos
+          <lb ed="#A" n="5"/>Ignatius custodes appellat sanctarum portarum.
+          Cense<lb ed="#A" n="6" break="no"/>bantur autem indigni Pagani siue Ethnici,
+          Catechume<lb ed="#A" n="7" break="no"/>ni, Haeretici, excommunicari, Energumeni, flagitiosi,
+          po<lb ed="#A" n="8" break="no"/>nitentes, qui excludebantur ab adytis templorum: sicut
+          <lb ed="#A" n="9"/>apud Chrysostomum &amp; Ambrosium videre licet.
+          Vide<lb ed="#A" n="10" break="no"/>tur hic ordo etiam Apostolorum temporibus fuisse, &amp; ab
+          <lb ed="#A" n="11"/>ipsis institutus esse: quandoquidem Synchronus
+          Apo<lb ed="#A" n="12" break="no"/>stolorum Dionysius, &amp; qui non magno interuallo cos
+          <lb ed="#A" n="13"/>sequuti sunt, Ignatius &amp; Tertullianus huius ordinis
+          me<lb ed="#A" n="14" break="no"/>minerunt. Dantur ostiario cum ordinatur claues Ecclesiae,
+          <lb ed="#A" n="15"/>simul admonetur ab Episcopo, sic agat quasi rationem Deo
+          <lb ed="#A" n="16"/>redditurus de rebus, quae clauibus iis recluduntur.
+          Offi<lb ed="#A" n="17" break="no"/>cium hoc expressisse videtur Seruator noster, quando
+          fla<lb ed="#A" n="18" break="no"/>gello de funiculis facto ementes &amp; vendentes eiecit de
+          <lb ed="#A" n="19"/>templo: Qui etiam ostium seipsum appellare dignatus
+          <lb ed="#A" n="20"/>est. Per me, inquit, si quis introierit, saluabitur. Ex hoc
+          or<lb ed="#A" n="21" break="no"/>dine prouehitur ordinandus ad officium Lectoris, vt ex
+          Ec<lb ed="#A" n="22" break="no"/>clesiae traditione legat in ea Prophetias &amp; lectiones
+          Apo<lb ed="#A" n="23" break="no"/>stolicas. In cuius rei signum traditur illi codex
+          diuina<lb ed="#A" n="24" break="no"/>rum scripturarum, simul admonetur ab Episcopo, vt
+          ac<lb ed="#A" n="25" break="no"/>cipiat &amp; sit verbi Dei relator, habiturus si officium suum
+          <lb ed="#A" n="26"/>impleuerit partem cum iis, qui bene ministrauerunt. Quod
+          <lb ed="#A" n="27"/>officium exhibuit Dominus noster in propria persona,
+          <lb ed="#A" n="28"/>uando in medio seniorum librum Esaiae aperuit atque in
+          <lb ed="#A" n="29"/>eo legit, Spiritus domini super me, &amp;c. Functos officio
+          le<lb ed="#A" n="30" break="no"/>ctorum legimus apud Cyprianum, Aurelium, Celerinum
+          <lb ed="#A" n="31"/>&amp; Satyrum: apud Gregorium Nazianzenum, Basilium
+          <lb ed="#A" n="32"/>apud Socratem in Ecclesiastica Historia, Ioannem
+          Chry<lb ed="#A" n="33" break="no"/>ostomum. Tertius est exorcistarum ordo, cuius est
+          offi<lb ed="#A" n="34" break="no"/>tium eiicere daemones, &amp; dicere populo, vt qui non com
+          <lb ed="#A" n="35"/>municat, det locum, ac aquam in ministerio fundere.
+          Da<lb ed="#A" n="36" break="no"/>tur huic per Episcopum codex, in quo scripti sunt
+          Exorcis<lb ed="#A" n="37" break="no"/>ni. Dicitur illi vt accipiat &amp; commendet memoriae, &amp; ha
+          <lb ed="#A" n="38"/>beat potestatem imponendi manus super Energumenos,
+          si<lb ed="#A" n="39" break="no"/>le baptizatos, siue Catechumenos. Hoc officio saepe Chri
+          <lb ed="#A" n="40"/>tum &amp; Apostolos eius functos esse legimus, quando
+          dae<lb ed="#A" n="41" break="no"/>nonia ex obsessis corporibus eiecerunt, Quarto loco
+          or<lb ed="#A" n="42" break="no"/>linantur Acolythi, qui Latine ceroferarii, quod accensos
+          <pb ed="#A" n="137-v"/>
+          <lb ed="#A" n="1"/>cereos ferunt cum legitur Euangelium, vel cum offertur
+          <lb ed="#A" n="2"/>sacrificium: non vt propellant tenebras has visibiles, sed
+          <lb ed="#A" n="3"/>vt sicut lumen visibile gestant manibus, quo noctis
+          tene<lb ed="#A" n="4" break="no"/>brae propulsantur, sic luceat lux illorum coram hominibus
+          <lb ed="#A" n="5"/>vt videant opera illorum bona, &amp; glorificent patrem
+          no<lb ed="#A" n="6" break="no"/>strum qui in coelis est. Hi cum ordinantur, accipiunt al
+          <lb ed="#A" n="7"/>Episcopo candelabrum cum cereo, simul ab eo audiunt, vt
+          <lb ed="#A" n="8"/>accipiant ceroferarium cum cereo, &amp; sciant se ad
+          accenden<lb ed="#A" n="9" break="no"/>da Ecclesiae luminaria mancipatos in nomine domini
+          <lb ed="#A" n="10"/>Accipiunt simul vrceum ad suggerendum vinum &amp; aquam
+          <lb ed="#A" n="11"/>in Eucharistiam sanguinis Christi. Hoc officium se
+          testa<lb ed="#A" n="12" break="no"/>tur habere Dominus, dicens: Ego sum lux mundi, qui
+          se<lb ed="#A" n="13" break="no"/>quitur me non ambulat in tenebris. Huius officii formam
+          <lb ed="#A" n="14"/>illi gerebant in veteri Testamento, qui lucernas
+          candela<lb ed="#A" n="15" break="no"/>bri componebant, &amp; accendebant igne coelesti ad
+          illumi<lb ed="#A" n="16" break="no"/>nandas tenebras Aquilonares. In argumento vtriusque
+          <lb ed="#A" n="17"/>Epistolae ad Thessalonicenses fit Onesimi Acolythi
+          men<lb ed="#A" n="18" break="no"/>tio.
+        </p>
+        <p xml:id="ho8ccf-a2q2w9-d1e269">
+          Vnde colligi potest fuisse hunc ordinem, sicuti de aliis
+          <lb ed="#A" n="19"/>quoque recte creditur, Apostolorum temporib. Exiat epist. Gaii
+          <lb ed="#A" n="20"/>Papae &amp; martyris, qui vixit Diocletiam temporibi qua
+          mo<lb ed="#A" n="21" break="no"/>net, ne aliter ordinandi ad ordines Ecclesiasticos accedant,
+          <lb ed="#A" n="22"/>quam vt si quis primo Ostiarius, deinde Lector, postea
+          Exor<lb ed="#A" n="23" break="no"/>cista, inde sacretur Acolythus, deinum Subdiaconus,
+          de<lb ed="#A" n="24" break="no"/>inde Diaconus, &amp; postea Presbyter, &amp; exinde si meretur
+          <lb ed="#A" n="25"/>Episcopus ordinetur. Sic gradatim ad Episcopi dignitatem
+          <lb ed="#A" n="26"/>proueniendum esse decreuit. Quae etiam ratio est, quod
+          <lb ed="#A" n="27"/>Sacramentum hoc, ordo vocatur. Aequum enim esse visum
+          <lb ed="#A" n="28"/>est, quod in gubernatore nauis obseruatur, id multo
+          dili<lb ed="#A" n="29" break="no"/>gentius obseruetur in Ecclesiae naui gubernanda. Sicut
+          <lb ed="#A" n="30"/>enim in illa non statim alicui gubernacula creduntur, sed
+          <lb ed="#A" n="31"/>primum adhibetur ad remos, postea in proram
+          deduci<lb ed="#A" n="32" break="no"/>tur, inde paulatim ad vlteriora procedit, ac vbi multarum
+          <lb ed="#A" n="33"/>rerum maritimarum experientiam consequutus est, tandem
+          <lb ed="#A" n="34"/>ad gubernacula admittitur. Sicut etiam in rebus bellicos,
+          <lb ed="#A" n="35"/>militis primum officio fungitur aliquis, postea
+          decurio<lb ed="#A" n="36" break="no"/>fit, deinde centurio, ac posteaquam ordines duxit
+          aliquan<lb ed="#A" n="37" break="no"/>diu, tandem si sit repertus idoneus, Dux &amp; Imperator mi
+          <lb ed="#A" n="38"/>litum designatur: Ita fieri oportet in Ecclesia, vt ne
+        </p>
+        <p xml:id="ho8ccf-a2q2w9-d1e315">
+          <lb ed="#A" n="39"/>quis ad summum gradum subito prosiliat, verum in
+          mi<lb ed="#A" n="40" break="no"/>noribus aliquandiu se exerceat, ac pedetentim ad
+          maio<lb ed="#A" n="41" break="no"/>res progrediatur: Quod etiam ita fieri oportere in Mo
+          <lb ed="#A" n="42"/>nodia Basilii docet Gregonus Naunzenus. Sosimus
+          <pb ed="#A" n="138-r"/>
+          <lb ed="#A" n="1"/>vero Pontifex, qui fuisse videtur Augustini Synchronus,
+          <lb ed="#A" n="2"/>etiam interuallum temporis describit inter vnumquenque
+          <lb ed="#A" n="3"/>gradum, ita vt inter lectores siue exorcistas quinquennio
+          <lb ed="#A" n="4"/>teneatur, exinde Acolythus vel Subdiaconus quatuor an
+          <lb ed="#A" n="5"/>nis, &amp; sic ad benedictionem Diaconatus si meretur
+          acce<lb ed="#A" n="6" break="no"/>dat, in quo ordine quinque annis si inculpate se gesserit
+          <lb ed="#A" n="7"/>haerere debebit: exinde suffragantibus stipendiis per tot
+          <lb ed="#A" n="8"/>gradus datis propriae fidei documentis, presbyterii
+          Sacer<lb ed="#A" n="9" break="no"/>dotium poterit promereri. De quo loco si eum exactior
+          <lb ed="#A" n="10"/>ad bonos mores vita perduxerit, summum pontificarum
+          <lb ed="#A" n="11"/>sperare debebit. Hinc videre licet, quod suo quisque
+          fun<lb ed="#A" n="12" break="no"/>gebatur ordine in primitiua Ecclesia, &amp; erant certo nume
+          <lb ed="#A" n="13"/>ro ex vnoquoque ordine constituti: Sicut etiam ab
+          Eu<lb ed="#A" n="14" break="no"/>sebio scriptum legimus, vbi recenset Episcopum vnum,
+          <lb ed="#A" n="15"/>Presbyteros quadii aginta sex, Diaconos septem,
+          Subdia<lb ed="#A" n="16" break="no"/>conos septem, Acolythos quadraginta &amp; duos, exorcistas
+          <lb ed="#A" n="17"/>&amp; lectores cum ostiariis quinquaginta &amp; duos.
+          Epipha<lb ed="#A" n="18" break="no"/>nius vbi ordines enumerat, meminit Episcopi primo
+          lo<lb ed="#A" n="19" break="no"/>eo, deinde Presbyteri, Diaconi, Subdiaconi, Lectorum,
+          <lb ed="#A" n="20"/>Laboratorum, &amp; Ianitorum. Ignatius vero salutari iubet
+          <lb ed="#A" n="21"/>primum Presbyterum, deinde Diaconos, mox
+          Subdiaco<lb ed="#A" n="22" break="no"/>nos, Lectores, Cantores, Ostiarios, Laborantes,
+          Exorci<lb ed="#A" n="23" break="no"/>stas, atque Confessores, extremo vero loco custodes
+          sancta<lb ed="#A" n="24" break="no"/>rum portarum. Caeterum ordines ii minores inter sacros
+          <lb ed="#A" n="25"/>non numerabantur, sed ii tres tantum ad sacros ordines
+          <lb ed="#A" n="26"/>pertinere creduntur, Subdiaconatus, Diaconatus, &amp;
+          Sa<lb ed="#A" n="27" break="no"/>cerdotium.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

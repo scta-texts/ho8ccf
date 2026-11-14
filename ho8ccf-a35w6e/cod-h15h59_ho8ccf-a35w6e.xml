@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 67</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 67</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="216-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a35w6e"><!-- c67 -->
+        <head xml:id="ho8ccf-a35w6e-Hd1e99">Caput 67</head>
+        <head xml:id="ho8ccf-a35w6e-Hd1e101" type="question-title">Quod operatur bona Deus in nobis, non ipsis nihil agentibus, verum consentientibus et simul operantibus nobis</head>
+        <p xml:id="ho8ccf-a35w6e-d1e104">
+          <lb ed="#A" n="15"/>CAPVT LXVII
+          <lb ed="#A" n="16"/>Quod operatur bona Deus in nobis, non ipsis nihil agen
+          <lb ed="#A" n="17"/>tibus, verum consentientibus, &amp; simul operantibus nobis
+        </p>
+        <p xml:id="ho8ccf-a35w6e-d1e113">
+          <lb ed="#A" n="18"/><milestone ed="#A" unit="p" rend="initial"/> QVamobrem execrandus est eorum impius error,
+          <lb ed="#A" n="19"/>qui nihilo plus hominem asserunt in bonis age
+          <lb ed="#A" n="20"/>re, quam agat securis in manu fabri, aut lutum
+          <lb ed="#A" n="21"/>in manu figuli: atque ita Deum per filium suum
+          <lb ed="#A" n="22"/>legem in credentibus implere docent, nihil vt agant ipsi
+          <lb ed="#A" n="23"/>Quos etiam ad ea blasphemiarum portenta deuenisse
+          tan<lb ed="#A" n="24" break="no"/>dem videmus, vt eum qui solus bonus est, de quo dicit
+          Pro<lb ed="#A" n="25" break="no"/>pheta: Non Deus volens iniquitatem tu es, eum etiam
+          ma<lb ed="#A" n="26" break="no"/>lorum authorem faciant, neque bona magis, quam ipsa
+          <lb ed="#A" n="27"/>etiam in nobis opera mala impudenter affirmant: quod
+          <lb ed="#A" n="28"/>haud aliter habere se dicant facinorosos, ad ea quae patrant
+          <lb ed="#A" n="29"/>crimina, quam habet se gladius, quo iugulatur proximus.
+          <lb ed="#A" n="30"/>Neque minus esse proprium opus Dei Dauidis adulterium
+          <lb ed="#A" n="31"/>aut Iudae proditionem, quam Pauli vocationem. Nunquid
+          <lb ed="#A" n="32"/>potuit aliquid dici pestilentius? Quid autem est aliud hoc
+          <lb ed="#A" n="33"/>docere, quam omnem ordinem, omnem bene agendi curam,
+          <lb ed="#A" n="34"/>omnem solicitudinem, prouidentiam ac industriam,
+          disci<lb ed="#A" n="35" break="no"/>plinam omnem euertere, religionem ex mortalium animis,
+          <lb ed="#A" n="36"/>radicitus omnem euellere, denique proscriptam ab homine
+          <lb ed="#A" n="37"/>bus velle vitam humanam, &amp; pro illa pecuinam ac feralem
+          <lb ed="#A" n="38"/>quandam securitatem ac licentiam introductam?
+          Quor<lb ed="#A" n="39" break="no"/>sum enim leges? quorsum magistratus? quorsum bonis
+          <lb ed="#A" n="40"/>praemia, malis constituta sunt supplicia? Denique quorsum
+          <lb ed="#A" n="41"/>illud pertinet, quod Deus etiam ipse mercedem regni
+          <pb ed="#A" n="217-r"/>
+          <lb ed="#A" n="1"/>coelestis piis promittit, gehennae vero poenas impiis
+          com<lb ed="#A" n="2" break="no"/>minatur, si omnia, siue bona siue mala, sine nobis,
+          opera<lb ed="#A" n="3" break="no"/>tur in nobis? si absoluta necessitate &amp; ineuitabili,
+          pari<lb ed="#A" n="4" break="no"/>mur magis, quam agimus, aut velut serrae quaedam, ab
+          il<lb ed="#A" n="5" break="no"/>lo acti agimus? Sed nobis illud in praesentia refutare
+          pro<lb ed="#A" n="6" break="no"/>positum non est, a quo non aures modo, verumetiam &amp;
+          <lb ed="#A" n="7"/>cogitationes piorum abhorrent omnium, quod quae
+          faci<lb ed="#A" n="8" break="no"/>norosi patrant scelera, eorum sit author Deus. De eo
+          tan<lb ed="#A" n="9" break="no"/>tum breuibus disserendum esse putauimus, quomodo
+          bo<lb ed="#A" n="10" break="no"/>na Deus operatur in nobis. Aperta sunt scripturae verba,
+          <lb ed="#A" n="11"/>quod a Deo gressus nostri diriguntur, quodque omnia
+          ope<lb ed="#A" n="12" break="no"/>ra nostra Deus operatur in nobis: qua quidem scriptura
+          <lb ed="#A" n="13"/>nihil est certius.
+        </p>
+        <p xml:id="ho8ccf-a35w6e-d1e199">
+          Verum interea non minus certum est &amp;
+          <lb ed="#A" n="14"/>hoc, nos facere cum facimus, quamuis ille faciat vt faciamus,
+          <lb ed="#A" n="15"/>praebendo vires efficacissimas voluntati, qui dixit: Faciam
+          <lb ed="#A" n="16"/>vt in iustificationibus meis ambuletis, &amp; iudicia mea
+          ob<lb ed="#A" n="17" break="no"/>seruetis &amp; faciatis ea. Quem Prophetae locum adducens
+          <lb ed="#A" n="18"/>Augustinus: Cum dicit, inquit, faciam vt faciatis, quid
+          <lb ed="#A" n="19"/>aliud dicit, nisi auferam a vobis cor lapideum, vnde non
+          <lb ed="#A" n="20"/>faciebatis, &amp; dabo cor carneum, vnde faciatis? Et hoc quid
+          <lb ed="#A" n="21"/>est? nisi auferam cor durum, vnde non faciebatis &amp; dabo
+          <lb ed="#A" n="22"/>cor obediens, vnde faciatis. Ille facit, vt faciamus, cui
+          di<lb ed="#A" n="23" break="no"/>cit homo: Pone domine custodiam ori meo: quod
+          bene<lb ed="#A" n="24" break="no"/>ficium Dei iam fuerat consequutus, qui dixit: Posui
+          cu<lb ed="#A" n="25" break="no"/>stodiam ori meo. Quando igitur legimus in scripturis
+          <lb ed="#A" n="26"/>quod omnia opera nostra operatur Deus in nobis, quod
+          <lb ed="#A" n="27"/>operatur et velle &amp; perficere, quod operatur omnia in om
+          <lb ed="#A" n="28"/>nibus, quod facit in nobis, quod placeat coram se, nequa
+          <lb ed="#A" n="29"/>quam in eo sensu accipiendum est, vt sic agi nos cum
+          agi<lb ed="#A" n="30" break="no"/>mur spiritu Dei putemus, quemadmodum faber agit
+          ser<lb ed="#A" n="31" break="no"/>ram, sed potius quemadmodum sessor agit equum.
+          Opera<lb ed="#A" n="32" break="no"/>tur quidem in nobis Deus, verum non otiosis nobis, sed
+          <lb ed="#A" n="33"/>ipsis etiam &amp; voluntatem &amp; conatum adhibentibus.
+          Quan<lb ed="#A" n="34" break="no"/>quam vt velimus sine nobis operatur, inquit Augustinus:
+          <lb ed="#A" n="35"/>ab ipso enim praeparatur voluntas nostra: cum autem
+          volu<lb ed="#A" n="36" break="no"/>mus &amp; sic volumus vt faciamus, nobiscum cooperatur: sine
+          <lb ed="#A" n="37"/>illo tamen, vel operante vt velimus, vel cooperante cum
+          vo<lb ed="#A" n="38" break="no"/>lumus, ad bona pietatis opera nihil valemus. Praeclare
+          <lb ed="#A" n="39"/>Guilelmus Parisiensis, Opera, inquit, nostra, opera sunt
+          <lb ed="#A" n="40"/>etiam Dei, quae ipse operatur in nobis &amp; etiam per nos,
+          <lb ed="#A" n="41"/>Non quidem tanquam per organa quaedam aut
+          instrumen<lb ed="#A" n="42" break="no"/>tum, tunc enim, nec ad laudem, nec ad vituperium, nec
+          <pb ed="#A" n="217-v"/>
+          <lb ed="#A" n="1"/>ad culpam, nec ad meritum imputanda essent nobis opera
+          <lb ed="#A" n="2"/>bona: Sicut Citharae &amp; Tibiae nihil imputatur ad culpa
+          <lb ed="#A" n="3"/>aut meritum de citharizantibus &amp; tibicinantibus. In
+          no<lb ed="#A" n="4" break="no"/>bis igitur operatur Deus, bona opera sua &amp; nostra: non
+          <lb ed="#A" n="5"/>tam praesiando virtutem, facultatem, &amp; oportunitatem,
+          <lb ed="#A" n="6"/>quam enam excitando, &amp; foris doctrinis &amp; praedicationis
+          <lb ed="#A" n="7"/>bus &amp; beneficiorum consolatione, flagellorum quoque
+          sti<lb ed="#A" n="8" break="no"/>mulationibus, &amp; interdum compulsionibus, &amp; interius
+          in<lb ed="#A" n="9" break="no"/>spirationibus, ac reuelationibus, terroribus, &amp; aliis modis
+          <lb ed="#A" n="10"/>multiplicibus, qui sibi soli noti sunt. Aequum est autem vt
+          il<lb ed="#A" n="11" break="no"/>lius adscribamus omnia diuine bonitati, non quod nihil
+          <lb ed="#A" n="12"/>agamus ipsi, sed quod nihil possumus, nihil volumus,
+          agi<lb ed="#A" n="13" break="no"/>mus aut fumus, quod non illius beneficio possimus,
+          veli<lb ed="#A" n="14" break="no"/>mus, agamus aut simus, a quo solo proficiscitur, omne
+          da<lb ed="#A" n="15" break="no"/>tum optimum, &amp; omne donum perfectum. Neque enim
+          suf<lb ed="#A" n="16" break="no"/>ficientes sumus, vel cogitare saltem aliquid ex nobis, quasi
+          <lb ed="#A" n="17"/>ex nobis, sed sufficientia nostra ex deo est. Quemadmodum
+          <lb ed="#A" n="18"/>igitur a Paulo dictum est. Viuo autem iam non ego, viuit
+          au<lb ed="#A" n="19" break="no"/>tem in me Christus: ita qui cum Paulo per fidem &amp;
+          ap<lb ed="#A" n="20" break="no"/>tismum, eidem Christi corpori sumus insiti, cuius etiam
+          spi<lb ed="#A" n="21" break="no"/>ritu vegetamur, si quod subinde nos monet, imitatores
+          il<lb ed="#A" n="22" break="no"/>lius facti fuerimus, dicere quisque nostrum cum illo poterit.
+          <lb ed="#A" n="23"/>viuo autem iam non ego, viuit autem in me Christus:
+          labo<lb ed="#A" n="24" break="no"/>ro autem iam non ego, laborat autem in me Christus:
+          ope<lb ed="#A" n="25" break="no"/>ror autem iam non ego, operatur autem in me Christus:
+          me<lb ed="#A" n="26" break="no"/>reor autem iam non ego, meretur autem in me Christus, mo
+          <lb ed="#A" n="27"/>do sanus adsit horum verborum intellectus: Neque enim ea
+          <lb ed="#A" n="28"/>sic oportet accipi, quasi non viuamus, non laboremus, non
+          <lb ed="#A" n="29"/>operemus, non mercamur ipsi quoque: quinimo nos sumus,
+          <lb ed="#A" n="30"/>quia viuimus, nos sumus qui laboramus, qui operamur,
+          <lb ed="#A" n="31"/>qui meremur: sed vt viuamus, facit vita nostra Christus:
+          <lb ed="#A" n="32"/>vt operemur, facit qui &amp; voluntatem inspirat, &amp; vires ad
+          <lb ed="#A" n="33"/>operandum suppeditat, adiutor noster Christus: vt
+          merea<lb ed="#A" n="34" break="no"/>mur facit, qui merita sua nobiscum communicat, redemptor
+          <lb ed="#A" n="35"/>noster Christus. Sic Augustinus ad Bonifacium scribens.
+          <lb ed="#A" n="36"/>Nos quidem ambulamus, verum est, nos obseruamus, nos
+          faci<lb ed="#A" n="37" break="no"/>mus, sed ille facit vt ambulemus, vt obseruemus, vt
+          facia<lb ed="#A" n="38" break="no"/>mus. Haec est gratia Dei, bonos faciens nos, haec misericor
+          <lb ed="#A" n="39"/>dia eius praeueniens nos. Quando itaque dicit homo
+          Chri<lb ed="#A" n="40" break="no"/>stianus, Viuo autem iam non ego, viuit autem in me christus,
+          <lb ed="#A" n="41"/>hoc dicere videtur: viuo autem ego non iam ille, qui con
+          <lb ed="#A" n="42"/>ceptus in iniquitatibus ex carnis meae parentibus, ire filius
+          <pb ed="#A" n="218-r"/>
+          <lb ed="#A" n="1"/>natus: verum quisum ex aqua &amp; spiritu sancto, Dei filius
+          re<lb ed="#A" n="2" break="no"/>natus, qui sum in baptismo veterem exutus, &amp; nouum ho
+          <lb ed="#A" n="3"/>minem indutus, Dominum nostrum Iesum Christum, in
+          <lb ed="#A" n="4"/>cuius fide viuo, cuius etiam agor spiritu. Hic meam
+          infirmi<lb ed="#A" n="5" break="no"/>tatem adiuuat: hic ad operandum &amp; voluntatem impellit,
+          <lb ed="#A" n="6"/>&amp; facultatem suggerit, hic efficit pro sua inenarrabili
+          bo<lb ed="#A" n="7" break="no"/>nitate, vt qui dum natura filius essem irae, nihil mereri
+          po<lb ed="#A" n="8" break="no"/>teram, nisi gehennae supplicia, factus per adoptionis
+          gra<lb ed="#A" n="9" break="no"/>tiam dei filius &amp; haeres, frater autem ipsius &amp; coheres, iam
+          <lb ed="#A" n="10"/>deinceps mereri possim ea, quae Dei filio &amp; haeredi, quae
+          <lb ed="#A" n="11"/>Christum induto debentur, vt quicquid mereor, non tam
+          <lb ed="#A" n="12"/>meo, quam ipsius quem indui Christi merito merear. Meu
+          <lb ed="#A" n="13"/>namque meritum quatenus pure meum, extra Christum
+          fa<lb ed="#A" n="14" break="no"/>ctum, non erat nisi meritum supplicii: Postquam autem
+          vi<lb ed="#A" n="15" break="no"/>uo in fide filii dei, iam illud qualecunque a me profectum,
+          <lb ed="#A" n="16"/>illius aspersum sanguine pretioso, pretium ex eo
+          mutua<lb ed="#A" n="17" break="no"/>tur, vt fiat meritum coelestis praemis, non sua quidem ipsius,
+          <lb ed="#A" n="18"/>verum Christi viuentis, operantis &amp; merentis in me,
+          vir<lb ed="#A" n="19" break="no"/>tute dignitateque, qui, quae est illius immensa benignitas,
+          <lb ed="#A" n="20"/>merita mea quae sunt ipsi dona non tanquam merita mea, sed
+          <lb ed="#A" n="21"/>tanquam dona sua coronat. Nam &amp; ab ipso manant, &amp; ex
+          <lb ed="#A" n="22"/>ipsius morte pretiam acquirunt. Hic sanus est &amp; pius
+          ho<lb ed="#A" n="23" break="no"/>rum verborum intellectus. Nos ergo sumus qui viuimus,
+          <lb ed="#A" n="24"/>nos sumus, qui operamur, nos sumus, qui viuentes in fide
+          <lb ed="#A" n="25"/>filii Dei, legem implemus, qui quae mandata sunt ab eo
+          per<lb ed="#A" n="26" break="no"/>ficimus: verum non sine eo qui dicit: sine me nihil potestis
+          <lb ed="#A" n="27"/>facere. Illius destituti gratia, nihil possumus, illius
+          adiun<lb ed="#A" n="28" break="no"/>gratia, nihil non possumus, qua fretus nemo est, ex his qui
+          <lb ed="#A" n="29"/>credunt in Christum, qui non confidenter dicere queat:
+          <lb ed="#A" n="30"/>Omnia possum in eo qui me confortat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

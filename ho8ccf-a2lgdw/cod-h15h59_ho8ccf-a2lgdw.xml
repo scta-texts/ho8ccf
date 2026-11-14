@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 44</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 44</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="118-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2lgdw"><!-- c44 -->
+        <head xml:id="ho8ccf-a2lgdw-Hd1e99">Caput 44</head>
+        <head xml:id="ho8ccf-a2lgdw-Hd1e101" type="question-title">De Sacramento Poenitentiae</head>
+        <p xml:id="ho8ccf-a2lgdw-d1e104">
+          <lb ed="#A" n="22"/>CAPVT XLIIII
+          <lb ed="#A" n="23"/>De Sacramento Poenitentiae.
+        </p>
+        <p xml:id="ho8ccf-a2lgdw-d1e111">
+          <lb ed="#A" n="24"/><milestone ed="#A" unit="p" rend="indent"/> PEr lauacrum regenerationis nouam quandam
+          vi<lb ed="#A" n="25" break="no"/>tam ingredimur. Non in eo vetus homo noster cru
+          <lb ed="#A" n="26"/>cifigitur, neque viuit iam in nobis, nisi is qui
+          prop<lb ed="#A" n="27" break="no"/>ter nos &amp; propter nostram salutem homo fieri digna
+          <lb ed="#A" n="28"/>tus est, Deus &amp; dominus noster Iesus Christus, quem
+          ba<lb ed="#A" n="29" break="no"/>ptizati induimus. Ingredimur autem in hanc vitam, non
+          <lb ed="#A" n="30"/>totio vacemus &amp; deliriis, sed vt contra mundum,
+          car<lb ed="#A" n="31" break="no"/>nem, &amp; diabolum in acie semper stemus. Ad quos hostes
+          <lb ed="#A" n="32"/>nostros superandos datur nobis in Sacramento
+          confir<lb ed="#A" n="33" break="no"/>mationis adiutor sanctus spiritus, cuius virtute facilius
+          <lb ed="#A" n="34"/>impetum eorum propulsare possimus. Datur etiam ad
+          su<lb ed="#A" n="35" break="no"/>stentandos nos in Eucharistia, non quiuis cibus, sed
+          pre<lb ed="#A" n="36" break="no"/>tiosi corporis &amp; sanguinis domini nostri Iesu Christi. Fit
+          <lb ed="#A" n="37"/>nihilominus. quod in praeliis vsu venire solet, vt saepe
+          gra<lb ed="#A" n="38" break="no"/>uiter ab hostibus nostris sauciari corruamus, &amp; quam
+          <lb ed="#A" n="39"/>per lauacrum regenerationis adepti vitam fueramus, eam
+          <lb ed="#A" n="40"/>morte commutemus. Sed ne sic quidem oblitus est
+          mi<lb ed="#A" n="41" break="no"/>sericordiae suae pater ille misericordiarum, &amp; Deus totius con
+          <lb ed="#A" n="42"/>solationis. Ipse enim est qui alleuat omnes qui corruunt, &amp;
+          <pb ed="#A" n="118-v"/>
+          <lb ed="#A" n="1"/>erigit omnes elisos: Cuius tanta est benignitas &amp; clemen
+          <lb ed="#A" n="2"/>tia, omnem vt humanam affectionem longo interuallo
+          su<lb ed="#A" n="3" break="no"/>peret. Magna est matris erga puerum suum infantem
+          be<lb ed="#A" n="4" break="no"/>nignitas, sed hanc superat patris nostri coelestis bonitas.
+          <lb ed="#A" n="5"/>Quod haec ipsius per Prophetam loquentis verba
+          testan<lb ed="#A" n="6" break="no"/>tur. Nunquid obliuisci, inquit, poterit mulier infantem
+          <lb ed="#A" n="7"/>suum, vt non reminiscatur filii vteri sui etsi illa
+          oblita<lb ed="#A" n="8" break="no"/>fuerit, ego tamen, inquit, non obliuiscar tui. Non vult ille
+          <lb ed="#A" n="9"/>benignus &amp; misericors, patiens &amp; multae misericordiae, &amp;
+          <lb ed="#A" n="10"/>praestabilis super malitia, quenquam de venia lapsum
+          de<lb ed="#A" n="11" break="no"/>sperare, sed huic quoque rei remedium instituit,
+          poeniten<lb ed="#A" n="12" break="no"/>tiae Sacramentum, per quod lapso resurgere liceret.
+        </p>
+        <p xml:id="ho8ccf-a2lgdw-d1e184">
+          Quam<lb ed="#A" n="13" break="no"/>obrem sicut Baptisinus intrantium, confirmatio
+          pugnan<lb ed="#A" n="14" break="no"/>tium, Eucharistia vires resumentium: sic hoc resurgentium
+          <lb ed="#A" n="15"/>Sacramentum esse dicitur, cuius virtute fit, vt cum
+          corrue<lb ed="#A" n="16" break="no"/>rimus eleuemur, vt si in ista colluctatione, quae nobis est
+          <lb ed="#A" n="17"/>aduersus principatus &amp; potestates tenebrarum harum, nos
+          <lb ed="#A" n="18"/>prostemi contigerit, non propterea statim animum
+          abi<lb ed="#A" n="19" break="no"/>cere, verum ad hoc poenitentiae remedium confugere
+          no<lb ed="#A" n="20" break="no"/>oporteat, per quod erigi prostrati, ac vires ad pugnandum
+          <lb ed="#A" n="21"/>recuperare possimus. Nam qui non venit vocare iustos,
+          <lb ed="#A" n="22"/>sed peccatores ad poenitentiam, non vult mortem impii,
+          <lb ed="#A" n="23"/>sed magis vt conuertatur &amp; viuat. Sic enim per
+          Prophe<lb ed="#A" n="24" break="no"/>tam loquitur. Nunquid voluntatis meae est mors impii
+          <lb ed="#A" n="25"/>&amp; non vt conuertatur a viis suis &amp; viuat? Ac paulo post,
+          <lb ed="#A" n="26"/>Conuertimini &amp; agite poenitentiam ab omnibus
+          iniqui<lb ed="#A" n="27" break="no"/>tatibus vestris, &amp; non erit vobis in ruinam iniquitas.
+          Pro<lb ed="#A" n="28" break="no"/>licite a vobis omnes praeuaricationes vestras, in quibus
+          <lb ed="#A" n="29"/>praeuaricati estis, &amp; facite vobis cor nouum &amp; spiritum
+          no<lb ed="#A" n="30" break="no"/>uum. Et quare moriemini domus Israel? quia nolo
+          mo<lb ed="#A" n="31" break="no"/>tem morientis dicit dominus Deus, reuertimini &amp; viuite
+          <lb ed="#A" n="32"/>Adeo ipse nos inuitat pius &amp; misericors pater, &amp;
+          reuerta<lb ed="#A" n="33" break="no"/>mur potius &amp; viuamus, quam vt in peccata prolapsi, de
+          il<lb ed="#A" n="34" break="no"/>lius benignitate desperemus. Pronior est ad miserendum.
+          <lb ed="#A" n="35"/>quam nos ad misericordiam ab eo petendam. Iucundius
+          <lb ed="#A" n="36"/>enim dat Deus, ait Gregorius Nazianzenus, quam alii ac
+          <lb ed="#A" n="37"/>ceptant. Simul vt dereliquerit impius viam suam, ac vir
+          in<lb ed="#A" n="38" break="no"/>juus cogitationes suas, ac ad dominum conuersus fue
+          <lb ed="#A" n="39"/>obuiis, quod aiunt, manibus eum ad se reuertentem
+          exa<lb ed="#A" n="40" break="no"/>pit. Estque majus gaudium in coelo super vno peccatore po
+          <lb ed="#A" n="41"/>nitentiam agente, quam super nonaginta nouem iustis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

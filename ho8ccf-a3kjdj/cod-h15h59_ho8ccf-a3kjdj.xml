@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 81</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 81</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="275-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3kjdj"><!-- c81 -->
+        <head xml:id="ho8ccf-a3kjdj-Hd1e99">Caput 81</head>
+        <head xml:id="ho8ccf-a3kjdj-Hd1e101" type="question-title">De quinto praecepto</head>
+        <p xml:id="ho8ccf-a3kjdj-d1e104">
+          <pb ed="#A" n="275-v"/>
+          <lb ed="#A" n="1"/>CAPVT LXXXI.
+          <lb ed="#A" n="2"/>De quinto Praecepto.
+        </p>
+        <p xml:id="ho8ccf-a3kjdj-d1e113">
+          <lb ed="#A" n="3"/><milestone ed="#A" unit="p" rend="initial"/> QVemadmodum nihil est magis secundum
+          natu<lb ed="#A" n="4" break="no"/>ram, quam vt homo homini, quicunque sit, ob eam
+          <lb ed="#A" n="5"/>ipsam tamen causam, quod homo sit, consultum
+          <lb ed="#A" n="6"/>velit: Sic e contrario detrahere aliquid alteri, vio
+          <lb ed="#A" n="7"/>lare alterum, &amp; hominem hominis incommodo suum au
+          <lb ed="#A" n="8"/>gere commodum, magis est contra naturam, quam mors,
+          <lb ed="#A" n="9"/>quam paupertas, quam dolor, quam caetera quae possint,
+          <lb ed="#A" n="10"/>aut corpori accidere, aut rebus externis. Inter omnia
+          au<lb ed="#A" n="11" break="no"/>tem incommoda, quae per hominem homini possunt
+          im<lb ed="#A" n="12" break="no"/>portari, multo grauissimum habetur, &amp; longe facinus
+          atro<lb ed="#A" n="13" break="no"/>cissimum existimatur, si quis alicui lucis huius vsuram
+          en<lb ed="#A" n="14" break="no"/>piat, si quem vita priuet.
+        </p>
+        <p xml:id="ho8ccf-a3kjdj-d1e143">
+          Quamobrem recte primo loco
+          <lb ed="#A" n="15"/>Deus id prohibet dicens: Non occides. Quod tamen in
+          <lb ed="#A" n="16"/>terdictum non ita late patet, vt minime nobis per id
+          lice<lb ed="#A" n="17" break="no"/>re putemus animalia terrae, volucres coeli, pisces maris, ad
+          <lb ed="#A" n="18"/>quaecunque tandem bruta animantia, quae in vsum hominis
+          <lb ed="#A" n="19"/>creata sunt, occidere. Nam si quicquid viuit occidendum
+          <lb ed="#A" n="20"/>non est, viuunt &amp; herbae, viuunt &amp; plantae. Non ergo
+          fa<lb ed="#A" n="21" break="no"/>fuerit virgultum vellere, aut herbis etiam vesci: Cum
+          ta<lb ed="#A" n="22" break="no"/>men disertis verbis scriptum sit: Omne quod mouetur &amp;
+          <lb ed="#A" n="23"/>viuit, erit vobis in cibum, quasi olera virentia, tradidi
+          vo<lb ed="#A" n="24" break="no"/>bis omnia, vt feras, &amp; quascunque tandem bestias, &amp;
+          peco<lb ed="#A" n="25" break="no"/>ra, non alio loco habere debeamus, quam quo vel herbas
+          <lb ed="#A" n="26"/>vel fructus alios. Cum praesertim a Paulo quoque
+          scri<lb ed="#A" n="27" break="no"/>ptum sit: Omne quod in macello venit, manducat.
+          Tan<lb ed="#A" n="28" break="no"/>tum autem abest, vt bestias &amp; pecora Deus occidi
+          prohi<lb ed="#A" n="29" break="no"/>buerit, ipsum, etiam vt hominem occidi iussent, idque in
+          <lb ed="#A" n="30"/>eiusdem libri capite mox sequenti? Qui percusserit, inquit
+          <lb ed="#A" n="31"/>hominem volens occidere, morte moriatur. Et proxime
+          <lb ed="#A" n="32"/>insequenti: Maleficos non patieris viuere. Et rursus in
+          di<lb ed="#A" n="33" break="no"/>uitico: Qui percusserit &amp; occiderit hominem, morte
+          mo<lb ed="#A" n="34" break="no"/>riatur. Et in Deuteronomio: Qui superbierit nolens obe
+          <lb ed="#A" n="35"/>dire Sacerdoti, ex decreto iudicis moriatur homo ille.
+          <lb ed="#A" n="36"/>Quod ergo dicit hoc loco, Non occides, ad priuatos
+          ho<lb ed="#A" n="37" break="no"/>mines pertinere voluit. Nam si qui magistratu funguntur,
+          <lb ed="#A" n="38"/>supplicium capitis de nocente sumpserint, non ipsi hoc
+          <lb ed="#A" n="39"/>sed ille facere videtur, qui dixit: Ego occidam &amp; viuere
+          fa<lb ed="#A" n="40" break="no"/>ciam. Ipse enim est per quem reges regnant, &amp; legum
+          condi<lb ed="#A" n="41" break="no"/>tores iusta decernunt. Quid enim aliud est rex, aut iudex
+          <lb ed="#A" n="42"/>quicunque, quam Dei minister, bonis in bonum? si autem ma
+          <pb ed="#A" n="276-r"/>
+          <lb ed="#A" n="1"/>lum feceris, inquit Paulus, time: non enim sine causa
+          gla<lb ed="#A" n="2" break="no"/>lium portat. Dei enim minister est, &amp; vindex in iram, ei
+          <lb ed="#A" n="3"/>qui male agit. Ipsius ministerio Deus plectit fontes, quos
+          <lb ed="#A" n="4"/>propterea vult occidi, vt vel metu adactus quisque, quod
+          <lb ed="#A" n="5"/>le non occidendo praeceptum est, tanto diligentius obser
+          <lb ed="#A" n="6"/>tet.
+        </p>
+        <p xml:id="ho8ccf-a3kjdj-d1e222">
+          Quamobrem non modo non peccat iudex, cum de
+          <lb ed="#A" n="7"/>onte ponas sumit: verumetiam si id facere intermittat,
+          <lb ed="#A" n="8"/>non minus in vitio est, quam ille ipse qui facinus patrauit,
+          <lb ed="#A" n="9"/>luius causa mortis reus erat pronuntiatus. Homicida est,
+          <lb ed="#A" n="10"/>jusquis iurisdictionem sibi datam habens, homicidam
+          im<lb ed="#A" n="11" break="no"/>punitum relinquit: de quo eum debitas paenas exegerit, non
+          <lb ed="#A" n="12"/>lam homicida, verum Dei minister est, vindex in iram ei,
+          <lb ed="#A" n="13"/>jus male agit. Praeclare quidam dixit, quamuis Ethnicus,
+          <lb ed="#A" n="14"/>Saeuit in bonos, qui arcit malis. Impuni a is enim spes
+          <lb ed="#A" n="15"/>maxima est peccandi illecebra, qua furor hominum alitur
+          <lb ed="#A" n="16"/>effrenatus. Non igitur violai praecepti huius reus est
+          iu<lb ed="#A" n="17" break="no"/>fex, si hominem occidi faciat, sed qui priuata sua &amp; propria
+          <lb ed="#A" n="18"/>buthoritate occiderit hominem, is demum violasse manda
+          <lb ed="#A" n="19"/>tum hoc existimandus est: non solum si manu id faciat,
+          <lb ed="#A" n="20"/>verum etiam si sit ex eorum numero de quibus dicit
+          scri<lb ed="#A" n="21" break="no"/>ptura: Filii hominum, dentes eorum arma &amp; sagittae, &amp;
+          lin<lb ed="#A" n="22" break="no"/>gua eorum gladius acutus. Quare siue quis consilium det
+          <lb ed="#A" n="23"/>plicui, vt occidat, siue prouocet alique ad interficiendum
+          <lb ed="#A" n="24"/>vel accusando proximum, vel detrahendo, siue quodcunque
+          <lb ed="#A" n="25"/>praestet auxilium, aut assensum saltem suum praebeat, teus
+          <lb ed="#A" n="26"/>erit huius praecepti violati. Siquidem digni sunt morte,
+          <lb ed="#A" n="27"/>non solum qui faciunt, sed etiam qui consentiunt
+          facien<lb ed="#A" n="28" break="no"/>tibus. Consentire autem videtur &amp; is, qui non obsistit si
+          <lb ed="#A" n="29"/>potest, cum scriptum sit: Erue eos qui ducuntur ad mortem,
+          <lb ed="#A" n="30"/>&amp; qui trahuntur ad interitum liberare ne cesses. Qui
+          vi<lb ed="#A" n="31" break="no"/>det igitur fame monentem, neque pascit, ipse occidisse
+          iudi<lb ed="#A" n="32" break="no"/>catur. Pasce fame morientem, dicit Ambrosius, si non
+          pa<lb ed="#A" n="33" break="no"/>ueris, occidisti. Ac peccant quidem grauiter, qui corpus ho
+          <lb ed="#A" n="34"/>minis occidunt, sed grauius etiam illi, qui animas in
+          ge<lb ed="#A" n="35" break="no"/>hennam mittunt. De Diabolo dicit Christus, quod homi
+          <lb ed="#A" n="36"/>cida erat ab initio.
+        </p>
+        <p xml:id="ho8ccf-a3kjdj-d1e290">
+          Atqui ille non gladio armatus, non
+          fe<lb ed="#A" n="37" break="no"/>ro accinctus ad hominem venit. Verbum malum
+          semina<lb ed="#A" n="38" break="no"/>uit, inquit Augustinus, &amp; occidit. Noli ergo putare te
+          <lb ed="#A" n="39"/>non esse homicidam, quando fratri tuo male persuades,
+          <lb ed="#A" n="40"/>Graue genus id est homicidii, si quis oratione sua
+          homi<lb ed="#A" n="41" break="no"/>nem ad peccandum inuitat, atque ita gehennae reum facit, si
+          <lb ed="#A" n="42"/>doctrinis variis &amp; peregrinis mentem alicuius abducere,
+          <pb ed="#A" n="276-v"/>
+          <lb ed="#A" n="1"/>&amp; in aliud Euangelium transferre conatur, ab eo, qui
+          vo<lb ed="#A" n="2" break="no"/>cauit nos in gratiam Christi. Graue est &amp; illud
+          homicidi<lb ed="#A" n="3" break="no"/>genus, si quis vita sua contaminata corrumpit alios, dum
+          <lb ed="#A" n="4"/>sua in eos vitia infundit, ac plus etiam exemplo quam
+          pe<lb ed="#A" n="5" break="no"/>cato nocet: si praesertim sit ex eorum numero, quibus
+          di<lb ed="#A" n="6" break="no"/>ctum est: Vos estis sal terrae, quod si sal euanuerit, in quo
+          <lb ed="#A" n="7"/>salietur? Vos estis lux mundi. Sic luceat lux vestra
+          co<lb ed="#A" n="8" break="no"/>ram hominibus, vt videant opera vestra bona, &amp;
+          glorifi<lb ed="#A" n="9" break="no"/>cent patrem vestrum, qui in caelis est. Qui si praeierint aliis
+          <lb ed="#A" n="10"/>flagitiose viuendo, tot eos mortibus dignos esse, scribit
+          <lb ed="#A" n="11"/>Gregorius, quot ad subditos suos perditionis exempla
+          <lb ed="#A" n="12"/>transmittunt. Quamobrem tanto diligentius cauere eos
+          <lb ed="#A" n="13"/>oportet, vt non modo crimine, verumetiam suspitione
+          cri<lb ed="#A" n="14" break="no"/>minis vacare queant, quanto pluribus aeternae mortis au
+          <lb ed="#A" n="15"/>thores fiunt, cum sua in illos vitia infundunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

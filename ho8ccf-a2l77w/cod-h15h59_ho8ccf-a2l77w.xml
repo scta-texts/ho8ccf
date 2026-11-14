@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 43</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 43</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="117-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2l77w"><!-- c43 -->
+        <head xml:id="ho8ccf-a2l77w-Hd1e99">Caput 43</head>
+        <head xml:id="ho8ccf-a2l77w-Hd1e101" type="question-title">Quemadmodum affectos ad hoc Sacramentum accedere oporteat</head>
+        <p xml:id="ho8ccf-a2l77w-d1e104">
+          <lb ed="#A" n="18"/>CAPVT X.
+          <lb ed="#A" n="19"/>ri Quemadmodum affectos ad hoc
+          Sacramen<lb ed="#A" n="20" break="no"/>tum accedere oporteat.
+        </p>
+        <p xml:id="ho8ccf-a2l77w-d1e113">
+          <lb ed="#A" n="21"/><milestone ed="#A" unit="p" rend="initial"/> QValiter autem affectum esse oporteat, qui digne
+          <lb ed="#A" n="22"/>manducare corpus, &amp; bibere vult Christi
+          sa<lb ed="#A" n="23" break="no"/>guinem, indicat Paulus cum dicit: Prober autem
+          <lb ed="#A" n="24"/>seipsum homo, &amp; sic de pane illo edat, &amp; de
+          cali<lb ed="#A" n="25" break="no"/>ce bibat. Qui enim manducat &amp; bibit indigne, iudicium
+          <lb ed="#A" n="26"/>sibi manducat &amp; bibit. Quod si in veten lege, vbi figura
+          <lb ed="#A" n="27"/>tantum fuit, non permittebatur accedere ad altare, qui
+          ma<lb ed="#A" n="28" break="no"/>culam haberet, quanto minus illud Iltere debet in hoc
+          Sa<lb ed="#A" n="29" break="no"/>cramento, in quo verum corpus, &amp; verus est Christi
+          san<lb ed="#A" n="30" break="no"/>guis?
+        </p>
+        <p xml:id="ho8ccf-a2l77w-d1e138">
+          Quamobrem suam quisque conscientiam diligenter
+          <lb ed="#A" n="31"/>examinet, priusquam ad hanc mensam accedat, ne quod
+          <lb ed="#A" n="32"/>bonum est male malus accipiat. Hoc est quod fideles ad
+          <lb ed="#A" n="33"/>monet Augustinus. Videte, inquit, fratres, panem celesten
+          <lb ed="#A" n="34"/>spiritualiter manducare, innocentiam ad altare apportare
+          <lb ed="#A" n="35"/>pectata etsi sunt quotidiana, vel non sint mortifera Ante
+          <lb ed="#A" n="36"/>quam ad altare accedatis, attendite quod dicitis, dimitte
+          <lb ed="#A" n="37"/>nubis debita nostra, sicut &amp; nos dimittimus debitoribus
+          <lb ed="#A" n="38"/>nostris. Si dimittis, dimittetur tibi, securus accede,
+          pani<lb ed="#A" n="39" break="no"/>est non venenum: sed vide si dimittis: Nam si non dimit,
+          <lb ed="#A" n="40"/>tis, mentiris, &amp; ei mentiris, quem non fallis. Mentiri Deo
+          <lb ed="#A" n="41"/>potes, Deum fallere non potes. Nouit ille quid agas, intus
+          <pb ed="#A" n="117-v"/>
+          <lb ed="#A" n="1"/>te videt, intus te examinat, intus inspicit, intus iudicat,
+          in<lb ed="#A" n="2" break="no"/>tus aut damnat, aut coronat. Et alio loco, indigne dicit
+          <lb ed="#A" n="3"/>eum accipere, si eo tempore accipiat quo debet agere
+          peni<lb ed="#A" n="4" break="no"/>tentiam. In summa, quisquis ad salutem vult accipere cor
+          <lb ed="#A" n="5"/>pus &amp; sanguinem Christi, hoc imprimis eum contendere
+          <lb ed="#A" n="6"/>&amp; elaborare oportet, vt sit membrum Christi, hoc est, vt
+          <lb ed="#A" n="7"/>per fidem &amp; charitatem Christo adhaereat. Nescitis, dicit
+          <lb ed="#A" n="8"/>Paulus, quoniam corpora vestra membra sunt Christi?
+          <lb ed="#A" n="9"/>Tollens ergo membra Christi, faciam membra
+          meretri<lb ed="#A" n="10" break="no"/>cis? Absit. An nescitis, quoniam qui adhaeret meretrici,
+          <lb ed="#A" n="11"/>vnum corpus efficitur. Erunt enim, inquit, duo in carne
+          <lb ed="#A" n="12"/>vna. Qui autem adhaeret domino, vnus spiritus est. Ex
+          <lb ed="#A" n="13"/>hoc Pauli loco discimus, eius quemque membrum esse, cui
+          <lb ed="#A" n="14"/>adhaeret. Qui adhaeret Christo, membrum est
+          Christi<lb ed="#A" n="15" break="no"/>qui adhaeret meretrici, membrum est meretricis, qui
+          ad<lb ed="#A" n="16" break="no"/>haeret Satanae, membrum est Satanae.
+        </p>
+        <p xml:id="ho8ccf-a2l77w-d1e202">
+          Quamobrem nisi
+          <lb ed="#A" n="17"/>quis hoc egerit, vt sit membrum Christi, nihil est quod
+          <lb ed="#A" n="18"/>communicet corpori &amp; sanguini Christi. Quae enim
+          par<lb ed="#A" n="19" break="no"/>ticipatio iustitiae cum iniquitate? aut quae societas
+          luci<lb ed="#A" n="20" break="no"/>ad tenebras quae autem conuentio Christi ad Belial
+          <lb ed="#A" n="21"/>Non est autem Christi membrum, qui plus diligit creatu
+          <lb ed="#A" n="22"/>ram, &amp; ei magis adhaeret quam creatori reddemporique suo
+          <lb ed="#A" n="23"/>Christo. Non est membrum Christi, qui fratrem ad
+          Chri<lb ed="#A" n="24" break="no"/>sti corpus pertinentem odio habet. Non est membrum
+          <lb ed="#A" n="25"/>Christi, qui segregat semeripsum a corpore Christi.
+          Deni<lb ed="#A" n="26" break="no"/>que quicunque criminis alicuius capitalis reus est, non est
+          <lb ed="#A" n="27"/>membrum Christi.
+        </p>
+        <p xml:id="ho8ccf-a2l77w-d1e228">
+          Quamobrem si quis eius rei sibi
+          con<lb ed="#A" n="28" break="no"/>scius est, non prius ad sumendum viuum &amp; verum Christi
+          <lb ed="#A" n="29"/>corpus accedat, quam corporis eius mystici membrum
+          fa<lb ed="#A" n="30" break="no"/>ctus fuerit, atque vnde auulsus est peccatis suis, Christi
+          cor<lb ed="#A" n="31" break="no"/>pori se rursus inseri curauerit. Quod ita demum futurum
+          <lb ed="#A" n="32"/>est, si &amp; cum Deo, &amp; cum proximo, qui eiusdem corporis
+          <lb ed="#A" n="33"/>membrum est, reconciliari studuerit, &amp; offensam ipse
+          re<lb ed="#A" n="34" break="no"/>mittens, &amp; remitti sibi vicissim postulans. Nam cum omni
+          <lb ed="#A" n="35"/>immunditia atque omni crimine vacare oporteat ad
+          men<lb ed="#A" n="36" break="no"/>sam hanc accessurum, nihil tamen aeque illi aduersatur, atque
+          <lb ed="#A" n="37"/>diuisio, atque voluntatis alienatio, atque ira, odium,
+          aemula<lb ed="#A" n="38" break="no"/>tio. Recte enim vocatur hoc ab Augustino Sacramentum
+          <lb ed="#A" n="39"/>pietatis, signum vnitatis, vinculum charitatis: Recte idem
+          <lb ed="#A" n="40"/>admonet, quod qui accipit mysterium vnitatis, &amp; non ser
+          <lb ed="#A" n="41"/>uat vinculum pacis, non mysterium accipit pro se, sed
+          te<lb ed="#A" n="42" break="no"/>stimonium contra se. Annuntiatur in hoc Sacramento
+          <pb ed="#A" n="118-r"/>
+          <lb ed="#A" n="1"/>Christi mors, dicit Paulus.
+        </p>
+        <p xml:id="ho8ccf-a2l77w-d1e267">
+          Porro Christus mortuus est,
+          <lb ed="#A" n="2"/>vt morte sua, nos Deo patri suo coelesti reconciliaret, vt
+          <lb ed="#A" n="3"/>reconciliatos vnum cum illo, vnum secum, vnum nolipsos
+          <lb ed="#A" n="4"/>inter nos faceret. Quisquis igitur hanc vnitatem rumpit
+          <lb ed="#A" n="5"/>&amp; vel a Christo se lethaliter peccando separauit, vel ab eius
+          <lb ed="#A" n="6"/>corpore quae est Ecclesia, suo plus quam illius iudicio
+          tri<lb ed="#A" n="7" break="no"/>buendo, segregauit, vel a quocunque eiusdem corporis
+          mem<lb ed="#A" n="8" break="no"/>bro per odium &amp; maleuolentiam se diuisit, quid aliud
+          <lb ed="#A" n="9"/>quam rursus crucifigit sibimet ipsi filium Dei, &amp; ostentur
+          <lb ed="#A" n="10"/>habet dum eadem illa designat, propter quae Christus
+          <lb ed="#A" n="11"/>crucifigi &amp; mori dignatus est: quem peccata nostra de co
+          <lb ed="#A" n="12"/>lo detraxerunt, ac tam acerbis illius cruciatibus causam
+          <lb ed="#A" n="13"/>dederunt. Atque ita sit, vt non ad vitam, sed ad mortem
+          su<lb ed="#A" n="14" break="no"/>mat vitam: Reus enim efficitur corporis &amp; sanguinis
+          do<lb ed="#A" n="15" break="no"/>mini. Quapropter quisquis vel Deum, vel proximum se
+          of<lb ed="#A" n="16" break="no"/>fendisse sibi conscius est, non prius ad hanc mensam
+          acce<lb ed="#A" n="17" break="no"/>dat, quam reconciliatus fuerit: ne illud ei eueniat, quod a
+          <lb ed="#A" n="18"/>Propheta dictum est. Fiat mensa eorum coram ipsis in
+          la<lb ed="#A" n="19" break="no"/>queum, &amp; in tribulationem, &amp; in scandalum. Quoniam
+          <lb ed="#A" n="20"/>vero reconciliatio eiusmodi, fit per poenitentiae Sacramen
+          <lb ed="#A" n="21"/>tum, de eo nobis dicendum deinceps restat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

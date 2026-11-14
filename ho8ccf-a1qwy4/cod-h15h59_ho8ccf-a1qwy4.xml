@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 17</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 17</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="20-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1qwy4"><!-- c17 -->
+        <head xml:id="ho8ccf-a1qwy4-Hd1e99">Caput 17</head>
+        <head xml:id="ho8ccf-a1qwy4-Hd1e101" type="question-title">Quod scriptura nihil est certius, quodque certus ex ea sensus elici possit</head>
+        <p xml:id="ho8ccf-a1qwy4-d1e104">
+          <lb ed="#A" n="22"/>CAPVT XVII.
+          <lb ed="#A" n="23"/>Quod scriptura nihil est certius, quodque certus ex
+          <lb ed="#A" n="24"/>ea sensus elici possit.
+        </p>
+        <p xml:id="ho8ccf-a1qwy4-d1e113">
+          <lb ed="#A" n="25"/><milestone ed="#A" unit="p" rend="initial"/> QVod vero certi aliquid e scripturis elici non
+          pos<lb ed="#A" n="26" break="no"/>sit, hoc nemo dixit vnquam Christianus: quin
+          <lb ed="#A" n="27"/>illud etiam indubitatum habet ecclesia, nihil es
+          <lb ed="#A" n="28"/>se scriptura certius. Est enim diuinitus
+          inspira<lb ed="#A" n="29" break="no"/>ta, neque voluntate humana allata est aliquando
+          prophe<lb ed="#A" n="30" break="no"/>tia, sed spiritu sancto inspirati loquuti sunt sancti
+          De<lb ed="#A" n="31" break="no"/>homines.
+        </p>
+        <p xml:id="ho8ccf-a1qwy4-d1e132">
+          Quamobrem adeo firmiter habuit
+          persua<lb ed="#A" n="32" break="no"/>sum semper Ecclesia, nihil scriptura neque verius esse
+          <lb ed="#A" n="33"/>neque certius, vt &amp; quae auribus audiuntur, &amp; quae
+          <lb ed="#A" n="34"/>oculis videntur, &amp; quae manibus contrectantur, ea non
+          <lb ed="#A" n="35"/>aeque certa iudicet, atque illa, quae in scripturis
+          conti<lb ed="#A" n="36" break="no"/>nentur. Hinc est, quod in venerabili Eucharistiae
+          Sacra<lb ed="#A" n="37" break="no"/>mento non oculis fidelium quisquam, non gustui, non
+          <lb ed="#A" n="38"/>tactui credit, sed credit verbo dei dicentis: Hoc est corpus
+          <lb ed="#A" n="39"/>meum. Dicat Zuinglius, dicat Occolampadius, dicat
+          Cal<lb ed="#A" n="40" break="no"/>uinus, hoc significat corpus meum, aut haec est figura
+          cor<lb ed="#A" n="41" break="no"/>poris mei, non credit Ecclesia, nisi Christo in Euangelio
+          <pb ed="#A" n="20-v"/>
+          <lb ed="#A" n="1"/>dicenti, hoc est corpus meum. Tanta est apud illam
+          scri<lb ed="#A" n="2" break="no"/>pturae certitudo. Coelum &amp; terram transitura citius
+          cre<lb ed="#A" n="3" break="no"/>diderit, quam vt vel haec, vel alia quaeuis illius verba
+          pes<lb ed="#A" n="4" break="no"/>sum ire queant.
+        </p>
+        <p xml:id="ho8ccf-a1qwy4-d1e168">
+          Sed quin e scriptura, quae ipsa vera est &amp;
+          <lb ed="#A" n="5"/>certa, falsus elici sensus queat, quis est qui ire inficias
+          au<lb ed="#A" n="6" break="no"/>deat? quum de iis ipsis tribus verbis hoc ipsum factum
+          <lb ed="#A" n="7"/>esse infelici hoc aeuo nostro videamus. Nam quum
+          pla<lb ed="#A" n="8" break="no"/>nam, apertam, &amp; omnibus expositam scripturam esse
+          ve<lb ed="#A" n="9" break="no"/>sint, sicut certe in iis verbis vel ipsa luce clarior est, modo
+          <lb ed="#A" n="10"/>captiuet aliquis intellectum suum in obsequium
+          Christi<lb ed="#A" n="11" break="no"/>tamen inter ipsos etiam Zuinglianos decem sectas de
+          tri<lb ed="#A" n="12" break="no"/>bus iis verbis natas esse, testatur nostri temporis
+          Haere<lb ed="#A" n="13" break="no"/>scon architectus. Non quod certum sensum ex eis
+          pri<lb ed="#A" n="14" break="no"/>dem Ecclesia non elicuerit, sed quod non defuerint,
+          qui<lb ed="#A" n="15" break="no"/>bus non placerent nisi singulares intellectus. Sic a Cyrillo
+          <lb ed="#A" n="16"/>quoque scriptum legimus, quod omnes haeretici de scriptura
+          <lb ed="#A" n="17"/>diuinitus inspirata sui colligunt erroris occasiones, ea quo
+          <lb ed="#A" n="18"/>a Spiritusancto recte dicta sunt, sua malitia corrumpentes
+          <lb ed="#A" n="19"/>&amp; super sua capita flammam inextinguibilem haurientes. Sic
+          <lb ed="#A" n="20"/>ex aliis Christi verbis, pater maior est me, certum sensum
+          <lb ed="#A" n="21"/>elicuit Ecclesia; quae, quatenus exinaniuit semetipsum
+          <lb ed="#A" n="22"/>Christus, formam serui accipiens in similitudinem homini
+          <lb ed="#A" n="23"/>factus, &amp; habitu inuentus vt homo, maiorem eo patrem
+          <lb ed="#A" n="24"/>fuisse confitetur: quatenus autem in forma Dei est, Deus
+          <lb ed="#A" n="25"/>ipse &amp; Dei filius, aequalem eum esse patri asseuerat: verum
+          <lb ed="#A" n="26"/>Ario non satisfecit hic Ecclesiae sensus, singularem suum
+          <lb ed="#A" n="27"/>intellectum attulit, ac per omnia patrem esse filio maiorem
+          <lb ed="#A" n="28"/>asseuerauit.
+        </p>
+        <p xml:id="ho8ccf-a1qwy4-d1e223">
+          Si quis explicare conatus esset qua parte
+          infe<lb ed="#A" n="29" break="no"/>rior, qua parte filius esset aequalis patri, tanquam
+          huma<lb ed="#A" n="30" break="no"/>nas traditiones afferentem prorsus eum respuebat, neque
+          au<lb ed="#A" n="31" break="no"/>diendum esse putabat: non alio semper, quam ad scripturas
+          <lb ed="#A" n="32"/>prouocabat, subinde &amp; ipse vociferans, verbum domini
+          <lb ed="#A" n="33"/>verbum domini. Euangelium, Euangelium. Ostendi sibi
+          <lb ed="#A" n="34"/>ab Athanasio postulabat, vbi scripta vox haec homousios
+          <lb ed="#A" n="35"/>in Euangelio reperiretur, quod extra scripturas nihil esse
+          re<lb ed="#A" n="36" break="no"/>cipiendum diceret. Sic Eutiches in Chalcedonensi
+          conci<lb ed="#A" n="37" break="no"/>lio solas se scripturas scrutari profitebatur, tanquam
+          fir<lb ed="#A" n="38" break="no"/>miores patrum expositionibus, Et quaerebat: In qua
+          scri<lb ed="#A" n="39" break="no"/>ptura iacent duae naturae? A quo vicissim quaesitum est,
+          <lb ed="#A" n="40"/>quae scriptura diceret Homousion. Cumque ille diceret,
+          <lb ed="#A" n="41"/>Ego a sanctis scripturis non didici de duabus naturis,
+          <lb ed="#A" n="42"/>dixit Mamas vicissim. Neque de Homousio a sanctis
+          <pb ed="#A" n="21-r"/>
+          <lb ed="#A" n="1"/>patribus, qui scripturas &amp; pie intellexerunt, &amp; fideliter ex
+          <lb ed="#A" n="2"/>posuerunt. Non ergo nulla est in scripturis certitudo, sed
+          <lb ed="#A" n="3"/>verum est, quod ab Hilario dictum est: Forma fidei certa
+          <lb ed="#A" n="4"/>est, sed quantum ad haereticos, omnis sensus incertus est
+          <lb ed="#A" n="5"/>Certus est ergo scripturarum sensus in Ecclesia, sed in
+          pri<lb ed="#A" n="6" break="no"/>uati hominis intellectu tanto minor est certitudo, quanto
+          <lb ed="#A" n="7"/>suae magis innitens prudentiae, suum admirans ingenium,
+          <lb ed="#A" n="8"/>atque ideo semet ipsum segregans, non ecclesiae, sed suum
+          <lb ed="#A" n="9"/>spiritum sequitur, dum singularem aliquem intellectum
+          <lb ed="#A" n="10"/>antea in ecclesia non auditum adferre conatur. Quod
+          sa<lb ed="#A" n="11" break="no"/>ciunt homines audaces, sibi placentes, qui sectas non
+          me<lb ed="#A" n="12" break="no"/>tuunt introducere, dum nihil eis placet quod receptum, &amp;
+          <lb ed="#A" n="13"/>quod est ecclesiae iudicio comprobatum. Non itaque nutat
+          <lb ed="#A" n="14"/>verbum dei in ecclesia, neque nihil e scripturis elici certi
+          <lb ed="#A" n="15"/>potest, sed quod de Paulinis epistolis dicit Petrus, esse in
+          <lb ed="#A" n="16"/>eis, quaedam intellectu difficilia, quae indocti &amp; instabiles
+          <lb ed="#A" n="17"/>deprauant, sicut &amp; caeteras scripturas, ad suam ipsorum
+          per<lb ed="#A" n="18" break="no"/>ditionem, hoc de caeteris quoque scripturis recte dici post
+          <lb ed="#A" n="19"/>manifestum est. Neque propterea dubitationis aculeus
+          ani<lb ed="#A" n="20" break="no"/>mis fidelium infigitur, quod e scripturis protulit
+          senten<lb ed="#A" n="21" break="no"/>tias Arrius quas ipse iudicauit inexpugnabiles, cum tamen
+          <lb ed="#A" n="22"/>ecclesiae authoritate sint expugnatae: sed ex eo potius
+          disci<lb ed="#A" n="23" break="no"/>tur, in scripturis interpretandis non debere quenquam
+          inge<lb ed="#A" n="24" break="no"/>nio suo fidere, non debere suum priuatum &amp; singularem, sed
+          <lb ed="#A" n="25"/>ecclesiae sensum &amp; consensum sequi
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

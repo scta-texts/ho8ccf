@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 47</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 47</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="122-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2nu40"><!-- c47 -->
+        <head xml:id="ho8ccf-a2nu40-Hd1e99">Caput 47</head>
+        <head xml:id="ho8ccf-a2nu40-Hd1e101" type="question-title">De Confessione et quae illi respondet absolutione</head>
+        <p xml:id="ho8ccf-a2nu40-d1e104">
+          <lb ed="#A" n="31"/>CAPVT XLVII
+          <lb ed="#A" n="32"/>De Confessione &amp; quae illi respondet absolutione.
+        </p>
+        <p xml:id="ho8ccf-a2nu40-d1e111">
+          <lb ed="#A" n="33"/><milestone ed="#A" unit="p" rend="initial"/> CAeterum penitentia hominis Christiani post
+          lap<lb ed="#A" n="34" break="no"/>sum, non solum a peccatis cessatio continetur, &amp;
+          <lb ed="#A" n="35"/>eorum detestatio, aut cor contritum &amp; humiliatum,
+          <lb ed="#A" n="36"/>verum etiam eorundem sacramentalis confessio,
+          sal<lb ed="#A" n="37" break="no"/>tem in voto suo tempore facienda: &amp; sacerdotalis
+          absolu<lb ed="#A" n="38" break="no"/>tio. Nam cum sacramentum hoc medicina sit a summo
+          me<lb ed="#A" n="39" break="no"/>dico Christo instituta, qui sanitatem quidem ipse confert,
+          <lb ed="#A" n="40"/>sed in ea conferenda sacerdotis vtitur ministerio,
+          quem<lb ed="#A" n="41" break="no"/>admodum etiam Origenes admonet, oportet nos
+          mor<lb ed="#A" n="42" break="no"/>bum nostrum coram eo, quo ministro Deus in curando eo
+          <pb ed="#A" n="122-v"/>
+          <lb ed="#A" n="1"/>vtitur, non celare. Fortassis enim, inquit, sicut ii, qui
+          ha<lb ed="#A" n="2" break="no"/>bent intus inclusam escam indigesim humoris vel
+          <lb ed="#A" n="3"/>flegmatis, stomacho grauite &amp; molesti imminentia, fixo
+          <lb ed="#A" n="4"/>mucrint, releuantur: ita etiam ii qui peccauerunt, siquidem
+          <lb ed="#A" n="5"/>occultant &amp; retinent intra se peccatum, intrinsecus
+          vrgen<lb ed="#A" n="6" break="no"/>tur, &amp; propemodum suffocantur a flegmate vel humore
+          <lb ed="#A" n="7"/>peccatorum. Si autem ipse sui accusator fiat, dum accusat
+          <lb ed="#A" n="8"/>semet ipsum &amp; confitetur, simul euomit &amp; delictum, atque
+          <lb ed="#A" n="9"/>omnem morbi digerit causam. Ac ne quis hoc de ea
+          ac<lb ed="#A" n="10" break="no"/>cusatione confessioneque dictum interpretaretur, quae
+          co<lb ed="#A" n="11" break="no"/>ram Deo fit, subdit mox. Tantummodo circunspice
+          di<lb ed="#A" n="12" break="no"/>ligentius, cui debeas confiteri peccatum tuum. Proba
+          <lb ed="#A" n="13"/>prius medicum, cui debeas causam languoris exponere
+          <lb ed="#A" n="14"/>qui sciat infirmari cum infirmante, flere cum flente: qui
+          <lb ed="#A" n="15"/>&amp; condolendi &amp; compatiendi nouerit disciplinam, vt ita
+          <lb ed="#A" n="16"/>demum si quid ille dixerit, qui se prius &amp; eruditum me
+          <lb ed="#A" n="17"/>dicum ostenderit, &amp; misericordem; si quid consilii
+          dede<lb ed="#A" n="18" break="no"/>rit, facias &amp; sequaris. Si intellexerit &amp; prouiderit talem
+          <lb ed="#A" n="19"/>esse languorem tuum, qui in conuentu totius Ecclesia
+          <lb ed="#A" n="20"/>exponi debeat &amp; curari; ex quo fortassis &amp; caeteri
+          aedifi<lb ed="#A" n="21" break="no"/>ri poterint; &amp; tu ipse facile sanari, multa hoc
+          delibera<lb ed="#A" n="22" break="no"/>tione, &amp; satis perito medici illius consilio procurandum
+          <lb ed="#A" n="23"/>est. Neque dissimilia sunt quae scribit Hieronymus,
+          il<lb ed="#A" n="24" break="no"/>ud enarrans ex Ecclesiaste. Si momorderit serpens in
+          si<lb ed="#A" n="25" break="no"/>lentio, non est amplius habenti linguam. Si quem,
+          in<lb ed="#A" n="26" break="no"/>quit, serpens Diabolus occulte momorderit, &amp; nullo
+          con<lb ed="#A" n="27" break="no"/>cio eum peccati veneno infecerit, si tacuerit qui percus
+          <lb ed="#A" n="28"/>sus est, &amp; non egerit poenitentiam, nec vulnus suum
+          fra<lb ed="#A" n="29" break="no"/>tri &amp; magistro voluerit confiteri, magister qui linguam
+          <lb ed="#A" n="30"/>habet ad curandum, facile ei prodesse non poterit. Si
+          <lb ed="#A" n="31"/>enim erubescat aegrotus vulnus medico confiteri, quod
+          <lb ed="#A" n="32"/>ignorat medicina non curat. Et aequalis eius Augustinus.
+        </p>
+        <p xml:id="ho8ccf-a2nu40-d1e208">
+          <lb ed="#A" n="33"/><milestone ed="#A" unit="p" rend="indent"/> Quomodo potest medicos vulnus sanare quod
+          aegrotu<lb ed="#A" n="34" break="no"/>ostendere erubescit? Deus confessionem nostram desyde
+          <lb ed="#A" n="35"/>rat, vt iustam habeat cognoscendi causam. Ante quem
+        </p>
+        <p xml:id="ho8ccf-a2nu40-d1e219">
+          <lb ed="#A" n="36"/>etiam Basilius. Confessio, inquit, peccatorum hanc habet
+          <lb ed="#A" n="37"/>rationem, quam habet vulnus aliquod corporis vel
+          pas<lb ed="#A" n="38" break="no"/>sio, quae medico demonstranda est. Si ergo non omnibus
+        </p>
+        <p xml:id="ho8ccf-a2nu40-d1e228">
+          <lb ed="#A" n="39"/>qui vitia vel vulnera corporis sui reuelat, nec quibuslibet.
+          <lb ed="#A" n="40"/>sed iis tantummodo summae peritiae testimonium habent.
+          <lb ed="#A" n="41"/>&amp; curae ac medelae disciplinam, ita confessio pectatorum
+          <lb ed="#A" n="42"/>fieri debet apud eos tantummodo, qui curare haec
+          praeua<pb ed="#A" n="123-r"/><lb ed="#A" n="1" break="no"/>lent, &amp; emendare secundum quod scriptum est: Vos qui
+          <lb ed="#A" n="2"/>fortiores estis, infirmitatem infirmorum portate, hoc est
+          <lb ed="#A" n="3"/>auferte &amp; exportate per curationem. Et in eodem libro
+          <lb ed="#A" n="4"/>aliquanto ante. Necessarium, inquit, videtur iis quibus
+          di<lb ed="#A" n="5" break="no"/>spensatio mysteriorum Dei commissa est, confitenda esse
+          <lb ed="#A" n="6"/>peccata. Sic enim &amp; ii, qui antiquitus poenitebant,
+          inue<lb ed="#A" n="7" break="no"/>niuntur apud sanctos confessi esse peccata sua. Scriptum
+          <lb ed="#A" n="8"/>est in Euangelio, Quia Ioanni Baptistae confitebantur
+          po<lb ed="#A" n="9" break="no"/>puli peccata sua: &amp; in Actis Apostolorum Apostolis in
+          <lb ed="#A" n="10"/>qui baptizabantur. Ex quibus verbis colligere licet,
+          qua<lb ed="#A" n="11" break="no"/>ta sit confessionis antiquitas, quam a domino institutam
+          <lb ed="#A" n="12"/>esse scribit Tertullianus, ac Ecclesiae consensus obtinet.
+          Vi<lb ed="#A" n="13" break="no"/>detur autem illis verbis instituta, quibus Petro caeteris
+          <lb ed="#A" n="14"/>Apostolis ligandi soluendique, remittendi retinendique
+          pe<lb ed="#A" n="15" break="no"/>cata, potestas a Christo concessa est. Qua vti quemadmo
+          <lb ed="#A" n="16"/>dum potuerint Apostoli, vel etiam nunc possint eorum
+          <lb ed="#A" n="17"/>successores, intelligi non potest, nisi prius cognouerint,
+          <lb ed="#A" n="18"/>cuius generis ea peccata sint, &amp; quae medicina sit illis
+          adhi<lb ed="#A" n="19" break="no"/>benda. Recte dicitur a Sapiente: Qui iudicat quod
+          no<lb ed="#A" n="20" break="no"/>uit, iustitiae iudex est.
+        </p>
+        <p xml:id="ho8ccf-a2nu40-d1e284">
+          Verum est &amp; illud, quod ex Hiero
+          <lb ed="#A" n="21"/>nymo proxime citauimus, quod ignorat medicina non
+          <lb ed="#A" n="22"/>curat. Cum itaque sacerdos &amp; iudex vice Christi sit, &amp;
+          <lb ed="#A" n="23"/>medicus ab ipso constitutus, quomodo aut iudicabit de
+          <lb ed="#A" n="24"/>incognitis, aut morbum, quem cuiusmodi sit ignorat,
+          cu<lb ed="#A" n="25" break="no"/>rabit?
+        </p>
+        <p xml:id="ho8ccf-a2nu40-d1e297">
+          Deinde vero non sola remittendi, verumetiam
+          re<lb ed="#A" n="26" break="no"/>tinendi, neque sola soluendi, verumetiam ligandi potestas
+          <lb ed="#A" n="27"/>illi data est. Quid autem retinere, quid remittere, quid
+          li<lb ed="#A" n="28" break="no"/>gare, quid soluere debeat, quis scire poterit, si non fuerit
+          il<lb ed="#A" n="29" break="no"/>li vulnus indicatum, si peccatum non fuerit
+          manifesta<lb ed="#A" n="30" break="no"/>tum? Ac fatendum quidem est, quod ab ignotis etiam
+          <lb ed="#A" n="31"/>nonnunquam sacerdos absoluit, sed non ab his tamen, quae
+          <lb ed="#A" n="32"/>sciens aliquis proferre nolit, verum ab iis, quae vel peccata
+          <lb ed="#A" n="33"/>esse nescit, vel eorum reminisci non potest.
+        </p>
+        <p xml:id="ho8ccf-a2nu40-d1e317">
+          Verum est enim
+          <lb ed="#A" n="34"/>quod ait Propheta: Delicta quis intelligit? Neque raro fit,
+          <lb ed="#A" n="35"/>vt etiam grauia peccata per ignorantiam committantur
+          <lb ed="#A" n="36"/>Quin &amp; illud ab eodem Propheta non sine causa dictum
+          <lb ed="#A" n="37"/>est: Ab occultis meis munda me.
+        </p>
+        <p xml:id="ho8ccf-a2nu40-d1e328">
+          Quamobrem ad ea
+          ma<lb ed="#A" n="38" break="no"/>nifestanda quae vel esse peccata nescimus, vel memoria non
+          <lb ed="#A" n="39"/>tenemus nemo fuit vnquam obligatus. Non est itaque
+          du<lb ed="#A" n="40" break="no"/>bitandum, quin sicut absolutio a Deo instituta, ita &amp; con
+          <lb ed="#A" n="41"/>fessio, quae fit per peccatorum enumerationem, Dei
+          mi<lb ed="#A" n="42" break="no"/>nistro sacerdoti factam. Quae duo ita sibi mutuo respon
+          <pb ed="#A" n="123-v"/>
+          <lb ed="#A" n="1"/>dent, vt vbi non est confessio, ibi nulla esse possit
+          absolu<lb ed="#A" n="2" break="no"/>tio. Sed si quis alium scripturarum locum a nobis exege
+          <lb ed="#A" n="3"/>rit, vbi Christus confessionem praeceperit, praeter ea quae per
+          <lb ed="#A" n="4"/>nos adducta sunt, ad Petrum &amp; ad reliquos Apostolos
+          di<lb ed="#A" n="5" break="no"/>cta, ab eo vicissim exigere licebit, vt &amp; ipse locum ostendat,
+          <lb ed="#A" n="6"/>vbi primum ecclesia confessionem praeceperit. Quod cum
+          <lb ed="#A" n="7"/>graue multis onus videatur, certe nemine praecipiente
+          su<lb ed="#A" n="8" break="no"/>sceptum a fidelibus vltro fuisse, verisimile non est. Quin
+          <lb ed="#A" n="9"/>&amp; illud difficile est creditu, hominis alicuius authoritate
+          <lb ed="#A" n="10"/>ad hanc rem tam grauem fideles adigi potuisse.
+        </p>
+        <p xml:id="ho8ccf-a2nu40-d1e366">
+          Atqui oster
+          <lb ed="#A" n="11"/>di non potest, quod ea fuerit ab ecclesia instituta, cum ab
+          <lb ed="#A" n="12"/>ipsis Apostolorum temporibus ad haec vsque nostra in vsi
+          <lb ed="#A" n="13"/>semper fuerit. Ex quo colligere licet, quod viua voce
+          pro<lb ed="#A" n="14" break="no"/>culdubio fuerit a Christo tradita, cuius multo maxima
+          <lb ed="#A" n="15"/>dictorum &amp; factorum pars mandata scripturis non est.
+          <lb ed="#A" n="16"/>Clemens Petri successor, hanc Petri doctrinam fuisse
+          re<lb ed="#A" n="17" break="no"/>fert, quam illum a magistro suo Christo accepisse dubium
+          <lb ed="#A" n="18"/>non est: vt si forte alicuius cor, vel liuor, vel infidelitas,
+          <lb ed="#A" n="19"/>vel aliquid malum letanter irrepserit, non erubescat qui
+          <lb ed="#A" n="20"/>animae suae curam gerit, confiteri haec ei qui praeest, vt ab
+          <lb ed="#A" n="21"/>ipso per verbum Dei &amp; consilium salubre curetur. Quo
+          <lb ed="#A" n="22"/>facilius autem perspici possit, eum de occultis peccatis
+          lo<lb ed="#A" n="23" break="no"/>qui, subiungit haec verba. Abiicienda prorsus e corde est
+          <lb ed="#A" n="24"/>omnis intrinsecus latens amaritudo peccati, si qua forte ex
+          <lb ed="#A" n="25"/>desideriis iniquis velut ex cibis noxiis congregata est. Iam
+          <lb ed="#A" n="26"/>illis verbis, Confitemini alterutrum peccata vestra, non
+          <lb ed="#A" n="27"/>tam institutam a Iacobo &amp; praeceptam sacramentalem
+          con<lb ed="#A" n="28" break="no"/>fessionem, quam eam quae pridem instituta esset &amp;
+          praece<lb ed="#A" n="29" break="no"/>pta promulgatum, recte viri quidam pii &amp; docti existima
+          <lb ed="#A" n="30"/>uerunt. Neque mouere quenquam debet vox haec
+          alteru<lb ed="#A" n="31" break="no"/>trum, vt putet eam ad sacramentalem confessionem quae
+          <lb ed="#A" n="32"/>sacerdoti fit referri non posse. Vir fuit excellens &amp;
+          doctri<lb ed="#A" n="33" break="no"/>na &amp; vitae sanctimonia Hugo de sancto Victore
+          Bernar<lb ed="#A" n="34" break="no"/>di aequalis: is cum adduxisset hunc Iacobi locum. Quid
+          <lb ed="#A" n="35"/>est, inquit, alterutrum? Ac mox respondet: non solum
+          <lb ed="#A" n="36"/>homo deo, sed inter vos alter alteri, homines hominibus,
+          <lb ed="#A" n="37"/>oues pastoribus, subiecti praelatis, ii qui peccata habent, in
+          <lb ed="#A" n="38"/>qui peccata dimittere potestatem habent. Et certe
+          commu<lb ed="#A" n="39" break="no"/>nis hoc loquendi mos obtinet, vt dicatur aliquando ab
+          <lb ed="#A" n="40"/>Episcopo, siue eius Vicario, Confiteare cui vis. Quae tamen
+        </p>
+        <p xml:id="ho8ccf-a2nu40-d1e434">
+          <lb ed="#A" n="41"/>verba non ita accipiuntur, quasi non sacerdotibus etiam
+          <lb ed="#A" n="42"/>consitendi potestas permissa sit: verum illud concedi
+          ver<pb ed="#A" n="124-r"/><lb ed="#A" n="1" break="no"/>bis lis videtur, vt non proprio sacerdoti cui lure tenetur,
+          <lb ed="#A" n="2"/>verum cuicunque velit alii, modo sacerdoti confiteri
+          pos<lb ed="#A" n="3" break="no"/>sit. Inter opuscula quae adscribuntur Augustino, extant
+          <lb ed="#A" n="4"/>etiam duo de visitatione infirmorum. In eorum altero
+          <lb ed="#A" n="5"/>scribit his verbis. Sunt quidem qui sufficere sibi ad
+          salu<lb ed="#A" n="6" break="no"/>tem autumant, si soli Deo, cui nihil occultum est, quem
+          <lb ed="#A" n="7"/>nullius latet conscientia sua confiteantur crimina.
+          No<lb ed="#A" n="8" break="no"/>sunt enim aut erubescunt siue dedignantur ostendere se
+          <lb ed="#A" n="9"/>sacerdotibus, quos tamen inter sepram &amp; lepram discer
+          <lb ed="#A" n="10"/>nere per leginatorem constituit Dominus. Sed nolo vt
+          <lb ed="#A" n="11"/>ipsa decipiaris opinione, quatenus confundariis confiteri
+          <lb ed="#A" n="12"/>coram Domini vicario, tabescens prae rubore, vel
+          ceruico<lb ed="#A" n="13" break="no"/>sus prae indignatione. Nam ipsius humiliter subeundum
+          <lb ed="#A" n="14"/>est iudicium, quem Dominus sibi non dignatur vicarium
+          <lb ed="#A" n="15"/>Ergo ad te venire roges sacerdotem, &amp; fac ipsum
+          conscien<lb ed="#A" n="16" break="no"/>tiarum tuarum penitus participem. Nolo seducat te
+          som<lb ed="#A" n="17" break="no"/>niantium illa superstitio, quae in visitando confirmat,
+          <lb ed="#A" n="18"/>quia saluat sacerdote inconsulto ad Deum peccatorum
+          <lb ed="#A" n="19"/>confessio. Nos autem non denegamus quin sit ad Deum
+          <lb ed="#A" n="20"/>frequenter conferenda peccatorum confessio: Beatus enim
+          <lb ed="#A" n="21"/>qui tenebit &amp; allidet paruulos suos ad petram, Petra
+          au<lb ed="#A" n="22" break="no"/>tem Christus est: sed testatur, &amp; testatur illud sana
+          doctri<lb ed="#A" n="23" break="no"/>na. Ne tibi applaudentium faueas auribus, quoniam prius
+          <lb ed="#A" n="24"/>eges sacerdotis, qui mediator sit ad Deum tuum, salubri
+          <lb ed="#A" n="25"/>iudicio. Alioquin &amp; sub lege &amp; sub gratia, ite &amp;
+          ostendi<lb ed="#A" n="26" break="no"/>te vos sacerdotibus, responsum domini quomodo consum
+          <lb ed="#A" n="27"/>maretur? Confitemini alterutrum peccata vestra
+          quomo<lb ed="#A" n="28" break="no"/>do compleretur? Ergo cicatricum tuarum arbiter Dei vice
+          <lb ed="#A" n="29"/>presbyter adhibeatur, &amp; reuela ei vias tuas, &amp; ipse tibi
+          ex<lb ed="#A" n="30" break="no"/>hibebit antidotum reconciliationis. Beda quoque diligens
+          <lb ed="#A" n="31"/>Augustini sectator, verba haec Iacobi itidem de sacramen
+          <lb ed="#A" n="32"/>tali confessione interpretatur, quam esse necessariam cum
+          <lb ed="#A" n="33"/>alio quodam in loco, tum in libro quinquaginta
+          Homi<lb ed="#A" n="34" break="no"/>liarum, testatur Augustinus dicens: Qui post vxores
+          ve<lb ed="#A" n="35" break="no"/>stras vos illicito concubitu maculastis, si praeter vxores
+          <lb ed="#A" n="36"/>vestras cum aliqua concubuistis, agite poenitentiam,
+          qua<lb ed="#A" n="37" break="no"/>lis agitur in Ecclesia. Nemo sibi dicat, occulte ago, apud
+          <lb ed="#A" n="38"/>deum ago, nouit Deus qui mihi ignoscit, quia in corde ago
+          <lb ed="#A" n="39"/>Ergo sine causa dictam est. Quae solueris in terra, soluta erunt
+          <lb ed="#A" n="40"/>in caelo? ergo sine causa sunt claues datae ecclesiae Dei
+          fru<lb ed="#A" n="41" break="no"/>stramus Euangelium dei, frustramus verba Christi,
+          promit<lb ed="#A" n="42" break="no"/>timus vobis quod ille negat, nonne vos decipimus? Sed
+          <pb ed="#A" n="124-v"/>
+          <lb ed="#A" n="1"/>haec de necessitate, vtilitateque confessionis, aut re, aut
+          sal<lb ed="#A" n="2" break="no"/>tem voto, deque eo quod a Christo sit instituta, dicta
+          suffi<lb ed="#A" n="3" break="no"/>ciant.
+        </p>
+        <p xml:id="ho8ccf-a2nu40-d1e542">
+          Caeterum confessioni respondet absolutio. Ac illa
+          <lb ed="#A" n="4"/>quidem praecepta est omnibus, siue ii e clero sint siue e
+          po<lb ed="#A" n="5" break="no"/>pulo. Omnes enim peccauerunt, &amp; egent gloria Dei. Ius
+          <lb ed="#A" n="6"/>autem ligandi &amp; soluendi, sicut ab Ambrosio quoque
+          scri<lb ed="#A" n="7" break="no"/>ptum legimus, permissum est solis sacerdotibus. Quamob
+          <lb ed="#A" n="8"/>rem crassus est error eorum, qui dicunt non magis
+          absol<lb ed="#A" n="9" break="no"/>uere sacerdotem, aut Episcopum, aut Papam, quam vel
+          mu<lb ed="#A" n="10" break="no"/>lierem vel puerum, addere debebant quoque psitacum, nam
+          <lb ed="#A" n="11"/>&amp; is aeque vt puer aut mulier doceri potest vt dicat, ego
+          <lb ed="#A" n="12"/>te absoluo. At non ita Ioannes Chrysostomus, vir non
+          do<lb ed="#A" n="13" break="no"/>ctrina magis quam vitae sanctitate conspicuus, qui vel hoc
+          <lb ed="#A" n="14"/>nomine sacerdotii dignitatem cuiuis alteri anteferendam
+          <lb ed="#A" n="15"/>esse censet, quod terrestres dignitates habent quidem
+          vin<lb ed="#A" n="16" break="no"/>culi potestatem, sed in corpora tantum: at sacerdotum
+          vin<lb ed="#A" n="17" break="no"/>culum ipsam etiam animam attingit, atque ad coelos vsque
+          <lb ed="#A" n="18"/>peruadit, vsqueadeo, vt quaecunque inferne sacerdotes
+          con<lb ed="#A" n="19" break="no"/>fecerint, illa eadem Deus superne rata habeat, ac seruorum
+          <lb ed="#A" n="20"/>sententiam Dominus confirmet: Quam potestatem non
+          <lb ed="#A" n="21"/>modo nullis regibus &amp; principibus, verum ne ipsis
+          qui<lb ed="#A" n="22" break="no"/>dem angelis aut archangelis datam esse dicit. De qua
+          Hy<lb ed="#A" n="23" break="no"/>larius quoque Petrum alloquens ita dicit: O in nuncupa
+          <lb ed="#A" n="24"/>tione noui nominis foelix ecclesia fundamentum, dignaque
+          <lb ed="#A" n="25"/>aedificatione illius petra, quae infernas leges &amp; tartari
+          po<lb ed="#A" n="26" break="no"/>tas, &amp; omnia mortis claustra dissolueret: o beatus coeli
+          la<lb ed="#A" n="27" break="no"/>nitor, cuius arbitrio claues aeterni aditus traduntur, cuius
+          <lb ed="#A" n="28"/>terrestre iudicium praeiudicata authoritatis fit in coelo, vt
+          <lb ed="#A" n="29"/>quae in terris aut ligata sint aut soluta, statuti eiusdem
+          <lb ed="#A" n="30"/>conditionem contineant &amp; in coelo. Ex quibus verbis il
+          <lb ed="#A" n="31"/>lud simul discere possumus, quae sit absolutionis vis, neque
+          <lb ed="#A" n="32"/>enim hoc est absoluere, quod nonnulli somniant,
+          abso<lb ed="#A" n="33" break="no"/>lutum ostendere, sed quod dixit Christus peccata
+          remitt<lb ed="#A" n="34" break="no"/>tere, simul etiam a poenis quae illis debentur soluere. Quod
+          <lb ed="#A" n="35"/>prius in terris quam in coelis fieri etiam Cyprianus
+          indi<lb ed="#A" n="36" break="no"/>cat dicens: Cum permiserit ipse qui legem dedit, vt
+          liga<lb ed="#A" n="37" break="no"/>ta in terris etiam in caelis ligata essent, solui autem possent
+          <lb ed="#A" n="38"/>illic quae hic prius in ecclesia soluerentur. Quos sequutus
+          <lb ed="#A" n="39"/>Bernardus de Petro scribens, ait, quod claues regni
+          coelo<lb ed="#A" n="40" break="no"/>rum tam singulariter accepit: vt praecedat sententia Petri
+          <lb ed="#A" n="41"/>sententiam caeli. Ac ipse quidem hoc authoritate sua Deus
+          <lb ed="#A" n="42"/>efficit, sed in ea tamen re ministerio sacerdotis vtitur.
+        </p>
+        <p xml:id="ho8ccf-a2nu40-d1e629">
+          <pb ed="#A" n="125-r"/>
+          <lb ed="#A" n="1"/>Itaque quicquid eius sacerdos facit, non sua propria, sed a
+          <lb ed="#A" n="2"/>Deo sibi concessa potestate facit. Hunc errorem notasse
+          vi<lb ed="#A" n="3" break="no"/>detur Ioannes Chrysostomus his verbis. Corporis lepram
+          <lb ed="#A" n="4"/>purgare, seu verius dicam non purgare quidem, sed
+          pur<lb ed="#A" n="5" break="no"/>gatos probare, Iudaeorum sacerdotibus solis licebat. Neque
+          <lb ed="#A" n="6"/>nescis quanta cum ambitione, quanto cum studio ac
+          con<lb ed="#A" n="7" break="no"/>certatione sacerdotalis dignitas id temporis
+          acquireba<lb ed="#A" n="8" break="no"/>tur. At vero nostris sacerdotibus non corporis lepram,
+          ve<lb ed="#A" n="9" break="no"/>rum animae sordes, non dico purgatas probare, sed
+          purga<lb ed="#A" n="10" break="no"/>re prorsus concessum est. Ante quadringentos plus minus
+          <lb ed="#A" n="11"/>annos fuerunt, qui absoluere interpretarentur, absolutos
+          <lb ed="#A" n="12"/>ostendere: sed eos viri pii &amp; docti Hugo, &amp; Richardus de
+          <lb ed="#A" n="13"/>sancto Victore grauiter admodum reprehendunt. Ille qui
+          <lb ed="#A" n="14"/>dem his verbis: Non dicit quodcunque solueris, hoc est,
+          <lb ed="#A" n="15"/>vt illi aiunt, solutum ostenderis, fuit solutum, sed erit
+          so<lb ed="#A" n="16" break="no"/>lutum: quia sententiam Petri non praecedit, sed subsequi
+          <lb ed="#A" n="17"/>tur sententia coeli. Ac interiectis nonnullis, de eo quod con
+          <lb ed="#A" n="18"/>mune fuerit hoc omnibus Apostolis &amp; eorum
+          successori<lb ed="#A" n="19" break="no"/>bus, quoniam omnibus ipsis dictum est, Accipite spiritum
+          <lb ed="#A" n="20"/>sanctum, quorum remiseritis, &amp;c. continenter subdit. Vb
+          <lb ed="#A" n="21"/>dixit si ostenderis fuit? Nusquam dixit hoc sed dixit, si
+          fo<lb ed="#A" n="22" break="no"/>ceritis erit. Richardus autem etiam acrius: Extat, inquit
+          <lb ed="#A" n="23"/>quorundam de potestate ligandi atque soluendi
+          senten<lb ed="#A" n="24" break="no"/>tia, vt ridenda videatur potius, quam refellenda.
+          Putan<lb ed="#A" n="25" break="no"/>enim &amp; praedicant, sacerdotes non habere potestatem
+          sol<lb ed="#A" n="26" break="no"/>uendi &amp; ligandi, sed ostendendi homines esse solutos siue
+          <lb ed="#A" n="27"/>ligatos. Sed nunquid dominus dicit, Quodcunque ligatum
+          <lb ed="#A" n="28"/>ostenderis, erit ligatum, &amp; quodcunque solutum ostende
+          <lb ed="#A" n="29"/>ris, erit solutum, non ostendendi aliquem ligatum aut
+          so<lb ed="#A" n="30" break="no"/>lutum, sed ipsa ligandi soluendique potestas sacerdotibus:
+          <lb ed="#A" n="31"/>Christo data est, quae clauium nomine appellatur. Scimus
+          <lb ed="#A" n="32"/>autem quod clauis instrumentum est quo ostium aperitur
+          <lb ed="#A" n="33"/>&amp; clauditur. Regni autem coelorum ostium per peccatum
+          <lb ed="#A" n="34"/>clauditur, &amp; quoad maculam, &amp; quoad poenae reatum.
+          Cla<lb ed="#A" n="35" break="no"/>uium itaque nomine potestas significatur, qua obstaculum
+          <lb ed="#A" n="36"/>eiusmodi remouetur. Haec potestas est in summa trinitate
+          <lb ed="#A" n="37"/>per authoritatem, vt recte penes illam dicatur esse clauis
+          <lb ed="#A" n="38"/>authoritatis: in Christo homine fuit haec potestas ad
+          re<lb ed="#A" n="39" break="no"/>mouendum praedictum obstaculum per meritum
+          passio<lb ed="#A" n="40" break="no"/>nis, quae etiam dicitur ianuam aperire, &amp; ideo dicitur a qui
+          <lb ed="#A" n="41"/>busdam habere claues excellentiae.
+        </p>
+        <p xml:id="ho8ccf-a2nu40-d1e723">
+          Quoniam vero ex
+          la<lb ed="#A" n="42" break="no"/>tere Christi dormientis in cruce sacramenta fluxerunt,
+          qui<pb ed="#A" n="125-v"/><lb ed="#A" n="1" break="no"/>bus Ecclesia fabricata est, ideo in sacramentis Ecclesiae
+          ma<lb ed="#A" n="2" break="no"/>net efficacia passionis: propterea ministris etiam Ecclesiae,
+          <lb ed="#A" n="3"/>qui sunt dispensatores sacramentorum, aliqua potestas ad
+          <lb ed="#A" n="4"/>praedictum obstaculum remouendum est collata, non pro
+          <lb ed="#A" n="5"/>pria sed diuina virtute, &amp; merito passionis Christi: &amp; haec
+          <lb ed="#A" n="6"/>potestas metaphorice clauis Ecclesiae dicitur, quae est clauis
+          <lb ed="#A" n="7"/>ministerii. Clauis authoritatis est penes Deum trinum &amp;
+          <lb ed="#A" n="8"/>vnum: clauis excellentiae penes Christum hominem, cuius
+          <lb ed="#A" n="9"/>passionis merito, quae causa fuerat antea, nobis ianua
+          re<lb ed="#A" n="10" break="no"/>gni celestis est aperta. Clauis ministerii est penes
+          sacerdo<lb ed="#A" n="11" break="no"/>tes, qui potestate vtuntur ligandi &amp; soluendi sibi a
+          Chri<lb ed="#A" n="12" break="no"/>sto concessa. Sed hac de re satis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

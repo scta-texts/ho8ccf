@@ -1,0 +1,2083 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 56</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 56</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="161-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2uiys"><!-- c56 -->
+        <head xml:id="ho8ccf-a2uiys-Hd1e99">Caput 56</head>
+        <head xml:id="ho8ccf-a2uiys-Hd1e101" type="question-title">De impedimentis matrimonii</head>
+        <p xml:id="ho8ccf-a2uiys-d1e104">
+          <lb ed="#A" n="25"/>CAPVT LVI.
+          <lb ed="#A" n="26"/>De impedimentis matrimonij.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e111">
+          <lb ed="#A" n="27"/><milestone ed="#A" unit="p" rend="initial"/> SVnt quaedam de essentia matrimonii, sunt alia quae
+          <lb ed="#A" n="28"/>sicut in caeteris Sacramentis, ita &amp; in hoc magis ad
+          <lb ed="#A" n="29"/>solennitatem quandam pertinent. Quae sunt
+          po<lb ed="#A" n="30" break="no"/>sterioris generis, contrahendum quidem impediunt
+          <lb ed="#A" n="31"/>matrimonium, sed non dirimunt contractum: quae vero
+          <lb ed="#A" n="32"/>prioris, non solum impediunt contrahendum,
+          verum<lb ed="#A" n="33" break="no"/>etiam dirimunt contractum: De vtrisque quo facilius
+          me<lb ed="#A" n="34" break="no"/>moriae commendari possent hos versiculos ante aliquot
+          <lb ed="#A" n="35"/>secula conscriptos legimus.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e134">
+          <lb ed="#A" n="36"/><milestone ed="#A" unit="p" rend="initial"/> Ecclesiae vetitum, nec non tempus feriatum
+          <lb ed="#A" n="37"/>Impediunt fieri, permittunt iuncta teneri
+          <lb ed="#A" n="38"/>Error, conditio, votum, cognatio, crimen
+          <lb ed="#A" n="39"/>Cultus disparitas, vis, ordo, ligamen, honestas,
+          <lb ed="#A" n="40"/>Si sis affinis, si forte coire nequibis.
+          <lb ed="#A" n="41"/>Haec socianda vetant coniugia, facta retractant.
+          <pb ed="#A" n="161-v"/>
+          <lb ed="#A" n="1"/>Nobis de duobus tantum dicere nunc est propositum,
+          <lb ed="#A" n="2"/>de quibus hoc tempore controuerti maxime videmus, de
+          <lb ed="#A" n="3"/>voto &amp; de ordine. Venerem nocte fuisse incontinentiae fae
+          <lb ed="#A" n="4"/>minam, adeo peruulgatum est apud omnes, vt inde nomen
+          <lb ed="#A" n="5"/>etiam traxerit omnis obscoenitas &amp; libido. Haec prima
+          <lb ed="#A" n="6"/>fuisse dicitur in Cypro author mulieribus, vt vulgo
+          quae<lb ed="#A" n="7" break="no"/>stum corpore facerent. Quod ideo scribit eam imperasse
+          <lb ed="#A" n="8"/>Lactantius Firmianus, ne sola praeter alias mulieres
+          im<lb ed="#A" n="9" break="no"/>pudica, &amp; virorum appetens videretur. Huius exemplo
+          <lb ed="#A" n="10"/>duo Martini, quo &amp; ipsi possent inter haereticorum
+          no<lb ed="#A" n="11" break="no"/>mina referri, nominis huius aestro perciti, violato iureius
+          <lb ed="#A" n="12"/>rando quod praestiterunt, vt incesiam libidinem suam
+          <lb ed="#A" n="13"/>explerent, non quibusuis mulieribus, verum eiusdem, cuius
+          <lb ed="#A" n="14"/>&amp; ipsi fuerant ordinis, hoc est, Nonnis, siue quis
+          Sancti<lb ed="#A" n="15" break="no"/>moniales appellare malit, quasi matrimonio coniuncti,
+          <lb ed="#A" n="16"/>authores fuerunt omnibus, qui corpora sua domino
+          con<lb ed="#A" n="17" break="no"/>secrassent, &amp; perpetuam professi continentiam, se voto
+          ca<lb ed="#A" n="18" break="no"/>stitatis obstrinxissent, quo &amp; ipsi contra iurisiurandi sui
+          <lb ed="#A" n="19"/>religionem perfractis pudoris repagulis, ac ruptis
+          pudici<lb ed="#A" n="20" break="no"/>tiae claustris, eadem se nefaria turpitudine
+          contamina<lb ed="#A" n="21" break="no"/>rent. Quamuis autem non par crimen, non omnino
+          ta<lb ed="#A" n="22" break="no"/>men dissimilis causa fuisse videtur Imperatoris
+          Valenti<lb ed="#A" n="23" break="no"/>niani, qui quum alteram vxorem duxisset priore
+          super<lb ed="#A" n="24" break="no"/>stite, nec repudiata, quo leuius videri possit facinus a
+          si<lb ed="#A" n="25" break="no"/>patratum, si plures eiusdem culpae affines facti essent,
+          le<lb ed="#A" n="26" break="no"/>gem tulisse, ac eam promulgari passim iussisse legitur, per
+          <lb ed="#A" n="27"/>quam cuiuis simul duas vxores habere licet.
+          Martino<lb ed="#A" n="28" break="no"/>rum itaque sacrilega audacia factum est, vt in dubium
+          il<lb ed="#A" n="29" break="no"/>lud reuocari coeptum sit, liceat ne voto se castitatis
+          ob<lb ed="#A" n="30" break="no"/>stringere, aut si quis obstrinxisset se, matrimonium nihilo
+          <lb ed="#A" n="31"/>minus contrahere. Quamuis autem nemini, qui
+          catho<lb ed="#A" n="32" break="no"/>licae fidei est dubium sit, quin &amp; licitum sit vouere castita,
+          <lb ed="#A" n="33"/>tem aut continentiam, &amp; quod semel quis vouerit; id ab
+          <lb ed="#A" n="34"/>eo praestari oporteat. Quo tamen magis id persuasum
+          <lb ed="#A" n="35"/>esse queat, etiam his, qui vacillare nonnihil videntur,
+          pau<lb ed="#A" n="36" break="no"/>cis de eo disserendum esse putauimus. Quod est vouere
+          <lb ed="#A" n="37"/>pium, &amp; quod voueris praestare necessarium sit, apertiora
+          <lb ed="#A" n="38"/>sunt scripturae testimonia, quam vt negari possit. Sic
+          <lb ed="#A" n="39"/>enim per Prophetam Deus loquitur: Vouere &amp; reddito
+          <lb ed="#A" n="40"/>domino Deo vestro. Et iterum: Cum vorum voueris
+          do<lb ed="#A" n="41" break="no"/>mino Deo tuo, non tardabis reddere Quod autem
+          coeli<lb ed="#A" n="42" break="no"/>batus votum, pium Deoque gratum sit, vel ex eo cuiuis
+          <pb ed="#A" n="162-r"/>
+          <lb ed="#A" n="1"/>perspicuum esse potest, quod &amp; a Christo laudantur
+          Eu<lb ed="#A" n="2" break="no"/>nuchi, qui se propter Dei regnum castrauerunt. Et apud
+          <lb ed="#A" n="3"/>Esaiam sempiternum se illis daturum nomen Deus
+          pro<lb ed="#A" n="4" break="no"/>misit, quod non peribit. Et de virginibus consilium dat
+          <lb ed="#A" n="5"/>Paulus, qui simul indicat ad Timotheum scribens, quod
+          <lb ed="#A" n="6"/>quae viduae &amp; Ecclesiae stipe alebantur, voto se perpetua
+          <lb ed="#A" n="7"/>continentiae obstringebant. Et Philo testatur (quanquam
+          <lb ed="#A" n="8"/>Iudaeus) qui fuit Apostolorum aequalis, fuisse tum inter
+          <lb ed="#A" n="9"/>Christianos, qui suam Deo castitatem desponderent.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e266">
+          <lb ed="#A" n="10"/>Quamobrem quod asserunt castitatis hostes &amp;
+          continen<lb ed="#A" n="11" break="no"/>tiae, votum culibatus fieri contra mandatum Dei, tam
+          <lb ed="#A" n="12"/>aperte vanum est, vt refellere necesse non sit. Nullum enim
+          <lb ed="#A" n="13"/>Dei mandatum proferre possunt, de non vouendo
+          conti<lb ed="#A" n="14" break="no"/>nentiam, quam Deo gratam &amp; acceptam esse, tot locis
+          <lb ed="#A" n="15"/>non obscure scripturae testantur. Sed hic illi aliam aeque
+          <lb ed="#A" n="16"/>friuolam rationem adferunt, quae votum coelibatus parum
+          <lb ed="#A" n="17"/>esse pium demonstret. Displicere, inquit, Deo infidelem
+          <lb ed="#A" n="18"/>&amp; stultam promissionem, esse autem infidelem &amp; stultam
+          <lb ed="#A" n="19"/>promissionem, vouere quod praestare non possis, cuius
+          <lb ed="#A" n="20"/>generis esse volunt continentiam: de qua non dubitauit
+          <lb ed="#A" n="21"/>alter ex eis dicere, aeque non esse arbitrii sui, vt se a
+          foemi<lb ed="#A" n="22" break="no"/>nae commixtione seruaret, quam non est arbitrii sui, mas
+          <lb ed="#A" n="23"/>sit an faemina: adeo nihil puduit impudens istud os orbi
+          <lb ed="#A" n="24"/>toti suam incontinentiam testatam facere. Quis autem
+          <lb ed="#A" n="25"/>non videt, si nihil vouendum sit, quod a nobis tanquam
+          <lb ed="#A" n="26"/>a nobis praestari non possit, omnem iam vouendi rationem
+          <lb ed="#A" n="27"/>prorsus esse sublatam? Nam non modo facere, verum ne
+          <lb ed="#A" n="28"/>cogitare quidem aliquid ex nobis tanquam ex nobis idonei,
+          <lb ed="#A" n="29"/>sumus, vt recte in altero concilio Arausicano ante mille &amp;
+          <lb ed="#A" n="30"/>centum annos habito scriptum sit: Nemo quicquam domino
+          <lb ed="#A" n="31"/>recte vouerit, nisi ab ipso acceperit, sicut legitur: Quae de
+          <lb ed="#A" n="32"/>manu tua accepimus, damus tibi. Locum illum ex Psalmis
+          <lb ed="#A" n="33"/>enarrans Augustinus, vonete &amp; reddite, monet vt quisque
+          <lb ed="#A" n="34"/>quod potest voueat &amp; reddat. Non sitis, inquit, pigri ad
+          <lb ed="#A" n="35"/>vouendum, non enim viribus vestris implebitis:
+          deficie<lb ed="#A" n="36" break="no"/>tis, si de vobis praesumetis: si autem de illo cui vouetis,
+          vo<lb ed="#A" n="37" break="no"/>uete securi, reddetis. Quo in libro cum de aliis votis, tum
+          <lb ed="#A" n="38"/>de voto castitatis &amp; continentiae, tanquam pio Deoque
+          gra<lb ed="#A" n="39" break="no"/>to copiose disserit. Quod etiam ad Pollentium scribens
+          <lb ed="#A" n="40"/>inter ea numerat, quae rectissime vouentur. Ac
+          inte<lb ed="#A" n="41" break="no"/>caetera: Non eos, inquit, terreat sarcina continentiae,
+          le<lb ed="#A" n="42" break="no"/>uis erit si Christi ent: Christi erit si fides aderit, quae
+          <pb ed="#A" n="162-v"/>
+          <lb ed="#A" n="1"/>impetrat a iubente quod iusserit. Non eos frangat quod
+          <lb ed="#A" n="2"/>videtur eorum continentia necessitatis esse non volunta
+          <lb ed="#A" n="3"/>tis, quia &amp; illi qui eam voluntate delegerunt, fecerunt eam
+          <lb ed="#A" n="4"/>esse necessitatis, quoniam vani sine damnatione ab ea
+          de<lb ed="#A" n="5" break="no"/>uiare non possunt, &amp; qui in eam necessitatem contrusi sunt,
+          <lb ed="#A" n="6"/>faciunt eam esse voluntatis, si non de seipsis, sed de illo a
+          <lb ed="#A" n="7"/>quo est bonum omne confidunt. Qui etiam in
+          confessio<lb ed="#A" n="8" break="no"/>num libris ad Deum orationem conuertens, ait: Tota spes
+          <lb ed="#A" n="9"/>mea in magna valde miseratione tua: da quod iubes &amp;
+          <lb ed="#A" n="10"/>iube quod vis. Imperas nobis continentiam. Et cum
+          sci<lb ed="#A" n="11" break="no"/>rem, ait quidam, quia nemo potest esse continens nisi Deus
+          <lb ed="#A" n="12"/>det, &amp; hoc ipsum erat sapientiae scire cuius esset hoc
+          do<lb ed="#A" n="13" break="no"/>num, adii dominum &amp; deprecatus sum illum. Qui vero
+          <lb ed="#A" n="14"/>sequutus est Augustinum, Faustus, Ordinatio nuptialis,
+          <lb ed="#A" n="15"/>inquit, ex benedictione caepit. Interim nuptiarum munus
+          <lb ed="#A" n="16"/>adhuc in Paradiso a creatore concessum, &amp; earum vsus
+          <lb ed="#A" n="17"/>extra Paradisum iam sumpsit exordium. Peccatum in
+          me<lb ed="#A" n="18" break="no"/>dio fuit inter generationem &amp; concupiscentiam.
+          Quic<lb ed="#A" n="19" break="no"/>quid praeceptio diuina constituit, hoc laudo: quicquid hu
+          <lb ed="#A" n="20"/>mana praeuaricatio adiecit, hoc reprobo. Quomodo si ali
+          <lb ed="#A" n="21"/>quis atro inquinamento candorem vestis aspergat, non
+          <lb ed="#A" n="22"/>displicet factura sed macula, vestimenti non amisit vsum,
+          <lb ed="#A" n="23"/>etsi perdidit dignitatem, futura enim erat indubitanter
+          ca<lb ed="#A" n="24" break="no"/>sta &amp; syncera generatio, si non intercessisset inimica
+          tran<lb ed="#A" n="25" break="no"/>gressio. Sed immaculatos thoros caro maledictioni
+          ad<lb ed="#A" n="26" break="no"/>dicta maculauit, &amp; per superbiae spiritum, simplicem
+          cor<lb ed="#A" n="27" break="no"/>rupit affectum. Et sicut immortalitatis Priuilegium, ita
+          do<lb ed="#A" n="28" break="no"/>num perdidit puritatis. Non in querelam vocatur nuptia
+          <lb ed="#A" n="29"/>lis gratia, sed obscoenae passionis iniuria. Non aurum in
+          <lb ed="#A" n="30"/>culpam venit, sed quicquid auro obriso adulterinum, fraus
+          <lb ed="#A" n="31"/>iniquitatis admiscuit.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e409">
+          Quamobrem non modo non
+          im<lb ed="#A" n="32" break="no"/>possibile, verum etiam facile, iucundum, suaue nobis futu
+          <lb ed="#A" n="33"/>rum est continere, illo adiuuante qui dixit: iugum meum
+          <lb ed="#A" n="34"/>suaue est, &amp; onus meum leue. Verum est quod dixit
+          Co<lb ed="#A" n="35" break="no"/>micus: Nihil est tam facile quin difficile fiat, si inuitus
+          fa<lb ed="#A" n="36" break="no"/>cias. Sed &amp; illud verum est, quod a Ioanne Chrysostomo
+          <lb ed="#A" n="37"/>scriptum est: Nihil est quod non superet amor cum
+          deside<lb ed="#A" n="38" break="no"/>rio: neque potest tam esse quicquam difficile, tam durum,
+          <lb ed="#A" n="39"/>tam molestum, quod non facile, iucundum, &amp; suaue sit
+          aman<lb ed="#A" n="40" break="no"/>ti. Sicubi vera est fides, non illa sola quae triginta his annis
+          <lb ed="#A" n="41"/>praedicari coepta est, quam Iacobus vocat mortuam: sed illa
+          <lb ed="#A" n="42"/>de qua dicit Paulus, quo per charitatem operatur, nihil
+          cre<pb ed="#A" n="163-r"/><lb ed="#A" n="1" break="no"/>denti &amp; amanti difficile, atque adeo nihil non erit
+          cumpri<lb ed="#A" n="2" break="no"/>mis leue &amp; suaue. Qui Pythia cantat, scripsit quidam,
+          ab<lb ed="#A" n="3" break="no"/>stinuit Venere &amp; Baccho.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e443">
+          Deinde vero, qui ferarum
+          capien<lb ed="#A" n="4" break="no"/>darum desiderio tenentur, &amp; eorum quanta saepe sit
+          absti<lb ed="#A" n="5" break="no"/>nentia, vel Hypoliti docemur exemplo. Postea vero, quam
+          <lb ed="#A" n="6"/>iidem in frigore &amp; aestu perferendo patientes sunt? quae
+          <lb ed="#A" n="7"/>non adeunt vitae pericula? Ab equis, a fossis, a
+          praecipi<lb ed="#A" n="8" break="no"/>tiis, a fluminibus, a ferris, quibus aliquando temere sese
+          <lb ed="#A" n="9"/>committentes, immaturam quandoque mortem obeunt,
+          <lb ed="#A" n="10"/>nullam tamen ex eo sentiunt molestiam, quin magis
+          vo<lb ed="#A" n="11" break="no"/>luptatem maximam. Quae vero faciendae rei tenet
+          stu<lb ed="#A" n="12" break="no"/>dium, dum impiger extremos currit mercator ad Indos
+          <lb ed="#A" n="13"/>per mare pauperiem fugiens, per saxa, per ignes, nonne
+          <lb ed="#A" n="14"/>&amp; illius videre saepe licet abstinentiam singularem? qui
+          <lb ed="#A" n="15"/>plurimis praeterea vitam suam exponit periculis &amp;
+          mo<lb ed="#A" n="16" break="no"/>lestiis. Si tantum potest amor &amp; desiderium pecuniae cu
+          <lb ed="#A" n="17"/>mulandae, quam tamen relinquat homo necesse est, cum ex
+          <lb ed="#A" n="18"/>hac vita migrauerit, sicut scriptum est: Dormierunt
+          som<lb ed="#A" n="19" break="no"/>num suum, &amp; nihil inuenerunt viri diuitiarum in
+          mani<lb ed="#A" n="20" break="no"/>bus suis: non multo poterit amplius amor &amp; desiderium
+          <lb ed="#A" n="21"/>illius, qui vita nostra est, &amp; quidem vita sine fine beata;
+          <lb ed="#A" n="22"/>Quo cum essent inflammati sancti Apostoli &amp;
+          marty<lb ed="#A" n="23" break="no"/>res, non ab vxorum complexu tantum abstinuerunt,
+          ve<lb ed="#A" n="24" break="no"/>rumetiam cum caesi essent ibant gaudentes a conspectu
+          <lb ed="#A" n="25"/>concilii, quia digni habiti sunt pro nomine Iesu
+          contu<lb ed="#A" n="26" break="no"/>meliam pati. Quibus vsque eo durum non fuit, aut, quod
+          <lb ed="#A" n="27"/>isti volunt, impossibile, suaue iugum Christi in
+          continen<lb ed="#A" n="28" break="no"/>do, vt non modo carnis concupiscentias frenarent,
+          ve<lb ed="#A" n="29" break="no"/>rumetiam vltro pro Christo mori expeterent. Sic
+          An<lb ed="#A" n="30" break="no"/>dreas cum crucem sibi paratam esset conspicatus
+          excla<lb ed="#A" n="31" break="no"/>masse legitur: O bona crux diu desiderata, &amp; iam
+          con<lb ed="#A" n="32" break="no"/>cupiscenti animo praeparata, securus &amp; gaudens venio
+          <lb ed="#A" n="33"/>ad te, ita &amp; tu exultans suscipe me, discipulum eius qui
+          <lb ed="#A" n="34"/>pependit in te. Sic Laurentius vltro Sixto commori
+          cu<lb ed="#A" n="35" break="no"/>piens: Quo progredieris, inquit, sine filio pater? quo
+          Sa<lb ed="#A" n="36" break="no"/>cerdos sine ministro properas? cumque extrinsecus
+          arde<lb ed="#A" n="37" break="no"/>ret beatus martyr tyranni saeuientis incendiis, maior enim
+          <lb ed="#A" n="38"/>intrinsecus Christi amoris flamma torrebat, &amp; quamuis
+          <lb ed="#A" n="39"/>rex improbus ligna subiiceret, ac grauioribus incendiis
+          <lb ed="#A" n="40"/>cruciaret, tamen sanctus Laurentius has flammas fidei
+          <lb ed="#A" n="41"/>calore non sensit, &amp; dum Christi praecepta cogitat,
+          frigi<lb ed="#A" n="42" break="no"/>dum est ei omne quod patitur. Sic Paulus cum quinquies
+          <pb ed="#A" n="163-v"/>
+          <lb ed="#A" n="1"/>quadragenas a Iudaeis accepisset, ter virgis caesus, semel la
+          <lb ed="#A" n="2"/>pidatus esset, quis ergo nos, inquit, separabit a charitate
+          <lb ed="#A" n="3"/>Christi? tribulatio, an angustia, an fames, an nuditas,
+          ar<lb ed="#A" n="4" break="no"/>periculum, an persecutio, an gladius? Sicut scriptum est
+          <lb ed="#A" n="5"/>quia propter te mortificamur tota die, aestimati sumus
+          si<lb ed="#A" n="6" break="no"/>cut oues occisionis: sed in his omnibus superamus
+          pro<lb ed="#A" n="7" break="no"/>pter eum qui dilexit nos. Certus sum enim, quia neque
+          <lb ed="#A" n="8"/>mors, neque vita, neque Angeli, neque Principatus, neque
+          <lb ed="#A" n="9"/>virtutes, neque instantia, neque futura, neque fortitudo.
+          <lb ed="#A" n="10"/>neque altitudo, neque profundum, neque creatura alia
+          po<lb ed="#A" n="11" break="no"/>terit nos separare a charitate Dei, quae est in CHRISTO
+          <lb ed="#A" n="12"/>IESV domino nostro. Hic mihi respondeant isti delicati
+          <lb ed="#A" n="13"/>martyres, qui siue animi, siue corporis aliquo morbo labo
+          <lb ed="#A" n="14"/>rent, nullum sciunt aliud remedium, praeter foemineas
+          ca<lb ed="#A" n="15" break="no"/>nes, aut quadrupedum &amp; volatilium: vtrum sit difficilius,
+          <lb ed="#A" n="16"/>vtrum ab homine praestari minus queat, carnis vt stimulis
+          <lb ed="#A" n="17"/>resistat, an imminentiis mortis terrorem superet, ac illos
+          <lb ed="#A" n="18"/>cruciatus non difficulter ferat, quos tot millia sanctorum
+          <lb ed="#A" n="19"/>martyrum etiam ex fragili foemineo sexu, tanta
+          animo<lb ed="#A" n="20" break="no"/>rum alacritate legimus pertulisse. Certe cessare stimulos
+          <lb ed="#A" n="21"/>carnis fateamur necesse est, vbi vel metus tantum grauio
+          <lb ed="#A" n="22"/>ris alicuius periculi impendet, adeo motus huius est &amp;
+          im<lb ed="#A" n="23" break="no"/>pulsio vehementior. Et tamen potuerunt illi quae sunt
+          <lb ed="#A" n="24"/>multo grauiora, potuerunt non solum viri, verum etiam
+          <lb ed="#A" n="25"/>foeminae &amp; sexus &amp; aetatis tenerioris: potuerunt autem
+          <lb ed="#A" n="26"/>in illo, qui confortat omnes in se sperantes, Christo. Qui
+          <lb ed="#A" n="27"/>cum viuat in nobis, cum operetur in nobis &amp; velle &amp;
+          per<lb ed="#A" n="28" break="no"/>ficere, quid est quod illo faciente vt faciamus facere non
+          <lb ed="#A" n="29"/>possimus? Ipse enim est qui in pugna nostra
+          congre<lb ed="#A" n="30" break="no"/>ditur. Consydera, inquit Chrysostomus, praesente Deo
+          <lb ed="#A" n="31"/>te cum hoste pugnare, fauet ille vt vincas, fauet vt
+          obti<lb ed="#A" n="32" break="no"/>neas. Ac paulo post: In tua pugna Dominus
+          congredi<lb ed="#A" n="33" break="no"/>tur, Dominus dimicat, Dominus praeliatur, &amp; victoria
+          <lb ed="#A" n="34"/>tibi adscribitur: certamen tuum, Dei certamen est:
+          prae<lb ed="#A" n="35" break="no"/>lium tuum, Christi praelium est. Quid trepidas? Quid
+          <lb ed="#A" n="36"/>formidas? quasi tua virtute deuincas. Prehende arma,
+          <lb ed="#A" n="37"/>procede in bellum, fortiter dimica, vt dimicanti adsit ille
+          <lb ed="#A" n="38"/>qui vinci non potest. Quem sequutus Augustinus: Non
+          <lb ed="#A" n="39"/>enim, inquit, non habes vnde pugnes, Deus tuus in te est,
+          <lb ed="#A" n="40"/>spiritus bonus datus est tibi, spiritus Dei est, qui
+          pugna<lb ed="#A" n="41" break="no"/>in te aduersus te: aduersus illud quod est in te contra re
+          <lb ed="#A" n="42"/>Hunc igitur quum habeamus qui adiuuet infirmitatem
+          <pb ed="#A" n="164-r"/>
+          <lb ed="#A" n="1"/>nostram, confidenter dicat quilibet homo Christianus,
+          <lb ed="#A" n="2"/>claraque voce pronuntiet, omnia possum in eo qui me con
+          <lb ed="#A" n="3"/>fortat. Continentiam iubes Christe? da quod iubes, &amp; iu
+          <lb ed="#A" n="4"/>be quod vis. Iubes vt non modo carnis, verumetiam
+          ocu<lb ed="#A" n="5" break="no"/>lorum concupiscentiam superem? da quod iubes, &amp; iube
+          <lb ed="#A" n="6"/>quod vis. Iubes vt a fastu quoque me contineam? da quod
+          <lb ed="#A" n="7"/>iubes, &amp; iube quod vis. Iubes vt cruciatus pro tuo
+          nomi<lb ed="#A" n="8" break="no"/>ne perferam, vt vitam etiam cum sanguine profundam?
+          <lb ed="#A" n="9"/>da quod iubes, &amp; iube quod vis: Pone me iuxta te, &amp;
+          cu<lb ed="#A" n="10" break="no"/>iusuis manus pugnet contra me. Si consistant aduersum
+          <lb ed="#A" n="11"/>me castra, non timebit cor mem. Si exurgat aduersum
+          <lb ed="#A" n="12"/>me praelium, in hoc ego spero: Omnia possum in te,
+          <lb ed="#A" n="13"/>qui confortas me. Sic dicat, sic faciat strenuus Christi
+          mi<lb ed="#A" n="14" break="no"/>les: neque cum in acie fuerit, contra hostem collocatus, simul
+          <lb ed="#A" n="15"/>vt leuis aliqua impressio facta fuerit, abiecto fidei scuto,
+          <lb ed="#A" n="16"/>statim fugiat &amp; clamet: non possum, non habeo Dei
+          do<lb ed="#A" n="17" break="no"/>num. Mulier quaedam filium in praelium euntem dato illi
+          <lb ed="#A" n="18"/>clipeo, sic adhortata legitur: Fili, aut hunc, aut super hunc,
+          <lb ed="#A" n="19"/>Laconica breuitate filium instruens, ita rem in bello geren
+          <lb ed="#A" n="20"/>dam, vt aut victor clipeum referret, aut mortuus in eo do
+          <lb ed="#A" n="21"/>mum reportaretur. Hoc sibi quoque Christi miles, contra
+          <lb ed="#A" n="22"/>carnem, contra mundum, contra diabolum praelium
+          ini<lb ed="#A" n="23" break="no"/>turus dictum existimare debet, vt aut cum fidei scuto
+          vin<lb ed="#A" n="24" break="no"/>cat hostes, aut in fide moriatur intrepidus: neque dicat, non
+          <lb ed="#A" n="25"/>possum, sed Christo dicenti credat, omnia possibilia
+          sue<lb ed="#A" n="26" break="no"/>credenti; &amp; iterum atque iterum repetendo dicat cum
+          Pau<lb ed="#A" n="27" break="no"/>lo, claraque voce pronuntiet, omnia possum in eo qui me
+          <lb ed="#A" n="28"/>confortat. Neque dispiciat in qua re confortetur a
+          Deo<lb ed="#A" n="29" break="no"/>qua non impium est hoc de Deo cogitare, quod aut
+          no<lb ed="#A" n="30" break="no"/>lit is, qui fons est totius bonitatis &amp; liberalitatis, omnes
+          <lb ed="#A" n="31"/>in omnibus aeque confortare, aut non possit, quem
+          om<lb ed="#A" n="32" break="no"/>nipotentem in fidei nostrae symbolo profitemur.
+          Omni<lb ed="#A" n="33" break="no"/>bus ad omnia semper praesto adest gratia Dei Saluatoris
+          <lb ed="#A" n="34"/>nostri, qui dat donum castitatis coniugibus, qui
+          confor<lb ed="#A" n="35" break="no"/>tat eos, vt quo se Sacramento inuicem obstrinxerunt, id
+          <lb ed="#A" n="36"/>inuiolatum obseruent, etiamsi vel per absentiam, vel per
+          <lb ed="#A" n="37"/>aduersam valetudinem alter alterius corporis
+          potesta<lb ed="#A" n="38" break="no"/>tem habere non possit: idem &amp; coelibatum professis con
+          <lb ed="#A" n="39"/>tinentiae donum dat, &amp; aduersus carnem pugnantes
+          con<lb ed="#A" n="40" break="no"/>fortat, modo postulent ab eo qui dat omnibus affluenter,
+          <lb ed="#A" n="41"/>postulent autem in fide nihil haesitantes.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e714">
+          Quod si non im
+          <lb ed="#A" n="42"/>petrant, non Deo culpam assignent, quasi vel noluerit is,
+          <pb ed="#A" n="164-v"/>
+          <lb ed="#A" n="1"/>vel non potuerit, cum &amp; velit omnia, nostra causa, &amp;
+          pos<lb ed="#A" n="2" break="no"/>sit omnia, sed se potius non eam fidem ad postulandum
+          <lb ed="#A" n="3"/>attulisse putent, quae potuerit impetrare. Paulus cum hanc
+          <lb ed="#A" n="4"/>materiam tractaret, noluit dicere: Qui non possunt
+          con<lb ed="#A" n="5" break="no"/>tinere nubant, sed qui non continent: idque Christi
+          exemplo<lb ed="#A" n="6" break="no"/>qui &amp; ipse non dixit: non omnes possunt capere, ne quis
+          <lb ed="#A" n="7"/>fati rem esse putaret, sicut Origenem secuti, Hieronymus
+          <lb ed="#A" n="8"/>&amp; Chrysostomus annotarunt, sed non omnes capiunt
+          ver<lb ed="#A" n="9" break="no"/>bum hoc. Possumus enim in eo qui nos confortat, sed non
+          <lb ed="#A" n="10"/>volumus omnes, non adhibemus illud studium quod opor
+          <lb ed="#A" n="11"/>tet, non accedimus ea fide qua oportet, ad eum
+          precan<lb ed="#A" n="12" break="no"/>dum, cuius hoc misericordia possumus. Non enim sumus
+          <lb ed="#A" n="13"/>sub lege bonum quidem iubente, non tamen dante, sed su
+          <lb ed="#A" n="14"/>mus sub gratia quae id quod lex iubet faciens nos amare
+          <lb ed="#A" n="15"/>potest liberis liberare. Gregorius Nazianzenus explicans
+          <lb ed="#A" n="16"/>illum locum, Non omnes capiunt verbum hoc, sed quibus
+          <lb ed="#A" n="17"/>datum est, adde, datum quidem his qui volunt &amp; qui
+          assen<lb ed="#A" n="18" break="no"/>tiuntur. Quem praeceptorem suum secutus Hieronymus.
+          <lb ed="#A" n="19"/>datum est, inquit, his qui petierunt, qui voluerunt, qui
+          vi<lb ed="#A" n="20" break="no"/>acciperent laborauerunt. Omni enim petenti dabitur, &amp;
+          <lb ed="#A" n="21"/>quaerens inueniet, &amp; pulsanti aperietur. Omni inquit,
+          pe<lb ed="#A" n="22" break="no"/>tenti non coniugato tantum, sed &amp; caelibi cuiuscunque sexus,
+          <lb ed="#A" n="23"/>cuiuscunque sit ordinis, omni petenti dabitur. Ac ne quis
+          pu<lb ed="#A" n="24" break="no"/>taret hoc aut illud petenti datum iri, dicit alio loco: Quod
+          <lb ed="#A" n="25"/>cunque volueritis peretis, &amp; fiet vobis. Quodcunque petieris
+          <lb ed="#A" n="26"/>patrem in nomine meo, dabit vobis. Omnia quaecunque
+          <lb ed="#A" n="27"/>orantes petitis credite quia accipietis, &amp; euenient vobis:
+          <lb ed="#A" n="28"/>nihil prorsus excludendo, cum omnia quae habemus
+          do<lb ed="#A" n="29" break="no"/>na sunt illius, neque boni quicquam nisi dona illius habere
+          <lb ed="#A" n="30"/>possimus. Etiam pudicitiam coniugalem Dei donum esse
+          <lb ed="#A" n="31"/>beatissimus Paulus ostendit, vbi de hac re loquens, ait,
+          <lb ed="#A" n="32"/>volo autem omnes homines esse sicut meipsum, sed vnus
+          <lb ed="#A" n="33"/>quisque proprium donum habet ex Deo, alius quidem sic
+          <lb ed="#A" n="34"/>alius vero sic Ecce &amp; hoc, inquit Augustinus, donum esse
+          di<lb ed="#A" n="35" break="no"/>xit a Deo, &amp; si inferius quam illa continentia, in qua vole
+          <lb ed="#A" n="36"/>bat omnes esse sicut seipsum, tamen donum a Deo. Vnde in
+          <lb ed="#A" n="37"/>telligimus, cum haec praecipiuntur vt fiant, nihil aliud
+          <lb ed="#A" n="38"/>ostendi, quam inesse nobis oportere ad haec accipienda &amp;
+          <lb ed="#A" n="39"/>habenda, etiam propriam voluntatem. Non solum carnis
+          <lb ed="#A" n="40"/>desideria frenare, sed oculorum etiam concupiscentiam
+          do<lb ed="#A" n="41" break="no"/>mare, fastum quoque calcare, denique a quocunque alio crimine
+          <lb ed="#A" n="42"/>abstinere Dei donum est.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e812">
+          Quid ergo? non posse me dicam,
+          <pb ed="#A" n="165-r"/>
+          <lb ed="#A" n="1"/>quia non est mihi datum? Non ergo penes me culpa erit,
+          <lb ed="#A" n="2"/>sed penes Deum qui mihi donum hoc non est impartiri
+          <lb ed="#A" n="3"/>dignatus. Huc tandem impietatis prolapsi sunt isti, vt
+          <lb ed="#A" n="4"/>Deum malorum authorem, quin etiam impulsorem
+          face<lb ed="#A" n="5" break="no"/>re non dubitent: dum nihilo plus in nobis libertatis esse
+          <lb ed="#A" n="6"/>asserunt, quam in stipite vel in trunco: quorum etiam haec
+          <lb ed="#A" n="7"/>est blasphema vox, non minus proprium pus esse Dei
+          <lb ed="#A" n="8"/>Iudae proditionem, quam Pauli vocationem. Sic error
+          <lb ed="#A" n="9"/>alius ex alio gignitur, &amp; illa vetus ac pridem iam sopita,
+          <lb ed="#A" n="10"/>Simonis haeresis &amp; Manichaei resuscitatur. Interea tamen
+          <lb ed="#A" n="11"/>qui haec tam impia dicere veriti non sunt, tanquam idola
+          <lb ed="#A" n="12"/>quaedam coluntur a multis, &amp; quod scriptum ab illis est.
+          <lb ed="#A" n="13"/>quamlibet pugnat cum Euangelio, Dei tamen verbum &amp;
+          <lb ed="#A" n="14"/>Euangelium vocatur, neque alio iam loco, quam quo
+          scri<lb ed="#A" n="15" break="no"/>ptura Canonica habetur: adeo sunt, proh dolor, mentes
+          <lb ed="#A" n="16"/>hominum excecatae. Sed nos ad institutum redeamus.
+          <lb ed="#A" n="17"/>Planum iam fecisse videmur, neque aduersari Dei manda
+          <lb ed="#A" n="18"/>to votum coelibatus, nec esse eiusmodi quod homo Deo
+          <lb ed="#A" n="19"/>fretus praestare non posset. Est quidem ita, si nostras
+          ipso<lb ed="#A" n="20" break="no"/>rum spectemus vires, nos non posse, sed possumus, si
+          fidu<lb ed="#A" n="21" break="no"/>ciam omnem in illo collocemus, qui paratior est ad
+          prae<lb ed="#A" n="22" break="no"/>standum, quam simus nos ad petendum cum vera fide
+          <lb ed="#A" n="23"/>Quem autem offendit quod continere facile, iucundum
+          <lb ed="#A" n="24"/>&amp; suaue esse dixerimus Deo adiuuante, quid is diceret, si
+          <lb ed="#A" n="25"/>Chrysostomi locum illum inspexisset, vbi contra nos
+          de<lb ed="#A" n="26" break="no"/>clamans qui similiter concubitum, voluptatis quiddam
+          ha<lb ed="#A" n="27" break="no"/>bere, continentem autem voluptatem habere non posse,
+          <lb ed="#A" n="28"/>vt qui bellum cum naturae tyrannide sine intermissione
+          <lb ed="#A" n="29"/>gererent, vociferabantur. Imo contra, inquit, res est,
+          vio<lb ed="#A" n="30" break="no"/>lentia namque &amp; turba penes impuros est maior, tumultus
+          <lb ed="#A" n="31"/>ingens &amp; qualibet tempestate seuior: sic ille habet, vt
+          nun<lb ed="#A" n="32" break="no"/>quam ad cupiditatis congressum consistat, victus assidue
+          <lb ed="#A" n="33"/>cadat, quemadmodum daemoniaci malignis spiritibus
+          agi<lb ed="#A" n="34" break="no"/>tati. Continens autem ille, praelio victor, hanc assiduo
+          <lb ed="#A" n="35"/>prosternit, nobilissima &amp; infinities praestantiore
+          volup<lb ed="#A" n="36" break="no"/>tate potitur, simul ipsa victoria &amp; conscientia bona, &amp; spler
+          <lb ed="#A" n="37"/>didissimis trophis perpetuo fulgens.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e897">
+          Itaque dici non
+          po<lb ed="#A" n="38" break="no"/>test, quanta continentium hominum voluptas sit, vt qui
+          <lb ed="#A" n="39"/>coronam sibi ipsis concinnent, &amp; praemia, consuetudinem
+          <lb ed="#A" n="40"/>angelorum, &amp; toto orbe terrarum praeconium, libertatem,
+          <lb ed="#A" n="41"/>spem certam &amp; immortalem. Certe quod cum tanta
+          vo<lb ed="#A" n="42" break="no"/>luptate coniunctum est, id non potest esse non facile,
+          iu<pb ed="#A" n="165-v"/><lb ed="#A" n="1" break="no"/>cundum &amp; suaue. Quid diceret si Basilium legisset his
+          <lb ed="#A" n="2"/>verbis ea de re disserentem? Ne dixeris, quomodo
+          ascen<lb ed="#A" n="3" break="no"/>dam in coelum, vt virginitatis meae integritatem inde
+          <lb ed="#A" n="4"/>deducam? aut quomodo descendam in abyssum, vt eam
+          <lb ed="#A" n="5"/>dudum a Diabolo corruptam mihi ipsi recuperem? Sed
+          <lb ed="#A" n="6"/>quid? prope te est, inquit, &amp; secundum naturam tibi
+          <lb ed="#A" n="7"/>ingeneratur virginitas: neque igitur mara
+          transfreta<lb ed="#A" n="8" break="no"/>re, vt eam acquiras tibi opus est, neque aerem
+          immen<lb ed="#A" n="9" break="no"/>sum peruolare, neque terrarum tractus hanc
+          inuestigan<lb ed="#A" n="10" break="no"/>do circuire, aut e terris euolare, coelumque pro ea
+          inue<lb ed="#A" n="11" break="no"/>nienda lustrare, sed omissa cura superflua locorum
+          spa<lb ed="#A" n="12" break="no"/>tia &amp; interualla peragrandi, teipsam vt te hibeas
+          diligen<lb ed="#A" n="13" break="no"/>tius inspice, atque hanc in te per naturam opertam
+          abdi<lb ed="#A" n="14" break="no"/>tamque reperies. Quod secundum naturam est, sicut
+          scri<lb ed="#A" n="15" break="no"/>bit Basilius, quid in eo difficultatis, quid esse potest
+          la<lb ed="#A" n="16" break="no"/>boris &amp; molestiae quid non voluptatis potius? Nos
+          ta<lb ed="#A" n="17" break="no"/>men quicquid esse facilitatis in ea re diximus, illius
+          gra<lb ed="#A" n="18" break="no"/>tiae tribuimus qui adiuuat infirmitatem nostram: qui
+          si<lb ed="#A" n="19" break="no"/>mul vt sui charitatem diffuderit in cordibus nostris,
+          ni<lb ed="#A" n="20" break="no"/>hil potest esse tam difficile quod non facile fatim fiat,
+          iu<lb ed="#A" n="21" break="no"/>cundum &amp; suaue: Quam facilitatem qui nondum est
+          con<lb ed="#A" n="22" break="no"/>secutus, extat apud Cassianum Ioannis Chrysostomi
+          di<lb ed="#A" n="23" break="no"/>scipulum Cheremonis consilium, quemadmodum ad eam
+          <lb ed="#A" n="24"/>perueniri possit, id sequatur licebit. Intenogatus
+          Che<lb ed="#A" n="25" break="no"/>remon, quanto tempore possit acquiri &amp; perfici castitas?
+          <lb ed="#A" n="26"/>Temerarium est, inquit, super consummatione castitatis
+          <lb ed="#A" n="27"/>in tanta praesertim vel voluptatum diuersitae vel virium,
+          <lb ed="#A" n="28"/>certam temporis definire mensuram, rationem tamen
+          ob<lb ed="#A" n="29" break="no"/>seruanti &amp; temporis modum quomodo eius possibilitas,
+          <lb ed="#A" n="30"/>agnoscatur, constantissime possumus praefine. Quisquis
+          <lb ed="#A" n="31"/>abstractus a cunctis otiosis confabulationibus, &amp;
+          mortifi<lb ed="#A" n="32" break="no"/>catus ab omni solicitudine, curaque mundana duobus
+          tan<lb ed="#A" n="33" break="no"/>tum paximaciis fuerit quotidiana refectioni contentus, &amp;
+          <lb ed="#A" n="34"/>aquae facietate subtracta, quietem somni trium, vel vt alii
+          <lb ed="#A" n="35"/>statuerunt, quatuor horarum spatio terminiuerit, nec
+          ta<lb ed="#A" n="36" break="no"/>men laborum aut continentia huius merito, sed
+          misera<lb ed="#A" n="37" break="no"/>tione domini eam se crediderit adepturum, quia sine hac
+          <lb ed="#A" n="38"/>fide vana est omnis laboris humani intentis, non amplius
+          <lb ed="#A" n="39"/>quam sex mensibus perfectionem ipsius impossibilem sibi
+          <lb ed="#A" n="40"/>esse cognoscat. Sed est ante Cheremonem Origenes:
+          Nu<lb ed="#A" n="41" break="no"/>trimenta spiritus sunt, diuina lectio, oratiores assidue, ser
+          <lb ed="#A" n="42"/>mo doctrinae: his alitur cibis, his conualesat, his victor
+          <pb ed="#A" n="166-r"/>
+          <lb ed="#A" n="1"/>efficitur. Quod quia non facitis nolite queri de
+          infirmi<lb ed="#A" n="2" break="no"/>tate carnis: nolite dicere quia voluimus sed non possumus.
+          <lb ed="#A" n="3"/>voluimus continenter viuere, sed carnis fragilitate
+          decipi<lb ed="#A" n="4" break="no"/>mur, &amp; impugnamur stimulis eius. Tudas stimulos
+          car<lb ed="#A" n="5" break="no"/>ni tuae: tu eam aduersus spiritum tuum armas, &amp; potentem
+          <lb ed="#A" n="6"/>facis cum eam carnibus facias, vino nimio inundas, omni
+          <lb ed="#A" n="7"/>mollicie pulpas &amp; ad illecebras nutris.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1021">
+          Verum adduci
+          mul<lb ed="#A" n="8" break="no"/>ti creduntur, vt se voto coelibatus implicent, non vt quod
+          <lb ed="#A" n="9"/>rouerint praestent, sed vt, cuius rei causa vouerint,
+          honori<lb ed="#A" n="10" break="no"/>bus &amp; opibus potiantur. Sed hac de re solius rei iudicium
+          <lb ed="#A" n="11"/>est, qui scrutatur corda &amp; renes. Vtinam autem non
+          mul<lb ed="#A" n="12" break="no"/>ti sint, de quibus id non verius quam Ecclesiae expedit,
+          <lb ed="#A" n="13"/>existimari possit. Vetus est autem illa Dei querela, quod
+          <lb ed="#A" n="14"/>nemo vel ostia claudat, vel incendat altare gratuito:
+          Quin<lb ed="#A" n="15" break="no"/>&amp; quo tempore quot Episcopi &amp; Presbyteri, tot fuerunt
+          <lb ed="#A" n="16"/>prope martyres, a Paulo scriptum ad Philippenses
+          legi<lb ed="#A" n="17" break="no"/>mus his verbis: Spero, inquit, Timotheum me cito
+          mit<lb ed="#A" n="18" break="no"/>tere ad vos, vt &amp; ego bono sim animo cognitis quae circa
+          <lb ed="#A" n="19"/>vos sunt: neminem enim habeo tam vnanimem qui
+          syn<lb ed="#A" n="20" break="no"/>cera affectione pro vobis solicitus sit, omnes enim quae sua
+          <lb ed="#A" n="21"/>sunt quaerunt, non quae Iesu Christi. Quod si vere dictum
+          <lb ed="#A" n="22"/>est illo tempore, nostro hoc saeculo multo verius dici
+          po<lb ed="#A" n="23" break="no"/>test, quo mercenarios multos, raros admodum pastores
+          vi<lb ed="#A" n="24" break="no"/>dere licet. Apud eos etiam, qui Euangelici malunt
+          appel<lb ed="#A" n="25" break="no"/>lari, quam Christiani, quorumquemque reperire licet qui
+          <lb ed="#A" n="26"/>gratis praedicet Euangelium? Quorundam ex his tanta
+          <lb ed="#A" n="27"/>fuisse fertur cupiditas, vt explen non posset, quam
+          in<lb ed="#A" n="28" break="no"/>flammauit magis vxorum: &amp; qui sunt ex incesto
+          coniu<lb ed="#A" n="29" break="no"/>gio procreati liberorum frequentia, vt inter alias causas,
+          <lb ed="#A" n="30"/>quamobrem interdicta sunt Sacerdotibus matrimonia.
+          <lb ed="#A" n="31"/>videri possit, haec non postrema, ne magis etiam
+          accen<lb ed="#A" n="32" break="no"/>deretur auantia.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1078">
+          Caeterum quo quis animo Sacerdos
+          <lb ed="#A" n="33"/>fieri velit, aut voto se coelibatus obstringat, Dei solius est
+          <lb ed="#A" n="34"/>iudicium, cuius oculis nuda &amp; aperta sunt omnia: homo
+          <lb ed="#A" n="35"/>videre non potest, nisi ea quae patent, Dominus autem
+          in<lb ed="#A" n="36" break="no"/>ruetur cor.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1089">
+          Verum &amp; demus hoc, esse non neminem, qui
+          <lb ed="#A" n="37"/>dum furiis ambitionis actus ad Sacerdotium aspirat, hac
+          <lb ed="#A" n="38"/>sola de causa coelibatum vouerit, num ideo tollendus est
+          <lb ed="#A" n="39"/>coelibatus? Etiam ad matrimonium accedunt multi, lon
+          <lb ed="#A" n="40"/>ge alia affectione, quam qua suscipi tantum hoc Sacra
+          <lb ed="#A" n="41"/>mentum oporteret: nam quotumquemque reperire
+          li<lb ed="#A" n="42" break="no"/>cet qui illud spectet in matrimonio contrahendo quod
+          <pb ed="#A" n="166-v"/>
+          <lb ed="#A" n="1"/>spectari solum debet, ac non ad dotem, ad formam, aut alio
+          <lb ed="#A" n="2"/>quocunque respiciat: num ideo dicemus, ne sit
+          matrimo<lb ed="#A" n="3" break="no"/>nium? Sed nequit, aiunt, praestare quod vouit. Hoc dicere
+          <lb ed="#A" n="4"/>Simonis est, &amp; Marcionis, ac Manichaei haeresim profiten
+          <lb ed="#A" n="5"/>Christiano dicere fas non est, nisi quod dixit Christus: om
+          <lb ed="#A" n="6"/>nia possibilia sunt credenti: quod dixit imitator eius Pau
+          <lb ed="#A" n="7"/>lus, omnia possum in eo qui me confortat: Quod dixit
+          <lb ed="#A" n="8"/>Augustinus, lenis erit sarcina continentiae si Christi erit,
+          <lb ed="#A" n="9"/>Christi erit si fides aderit, quae impetrat a iubente quod
+          <lb ed="#A" n="10"/>iusserit.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1128">
+          Verum non praestant multi. Nunquid in
+          baptismo<lb ed="#A" n="11" break="no"/>quoque Sathanae &amp; pompis eius non abrenuntiamus?
+          <lb ed="#A" n="12"/>Praestatur ne id ab omnibus? an ideo abroganda erit haec
+          <lb ed="#A" n="13"/>Apostolorum traditio? quae mille quingentis annis in eo
+          <lb ed="#A" n="14"/>clesia durasse videtur? Mosi legem nunquid omnes obser
+          <lb ed="#A" n="15"/>uabant Iudaei? num ideo fuit abroganda, quia praeuarica
+          <lb ed="#A" n="16"/>tores eius erant plurimi, priusquam venisset finis legis
+          Chri<lb ed="#A" n="17" break="no"/>stus? An ideo tollemus praeceptum de non
+          concupiscen<lb ed="#A" n="18" break="no"/>do? quod magis videtur accendere concupiscentiam quam
+          <lb ed="#A" n="19"/>extinguere, si dei simus auxilio destituti? Non ita nos
+          Pau<lb ed="#A" n="20" break="no"/>lus docuit: Lex quidem, inquit, sancta, &amp; mandatum
+          san<lb ed="#A" n="21" break="no"/>ctum, est iustum, &amp; bonum: sic &amp; coelibatus lex sancta est,
+          <lb ed="#A" n="22"/>iusta est, bona est, etiamsi neque sancti, neque iusti, neque
+          <lb ed="#A" n="23"/>boni sunt, qui professi coelibatum, ventri nihilominus &amp;
+          <lb ed="#A" n="24"/>libidini seruiunt. Praeclare Ioannes Chrysostomus: Calum
+          <lb ed="#A" n="25"/>niantur, inquit, ebriosi fructum a Deo factum, dicentes,
+          <lb ed="#A" n="26"/>non sit vinum. At nos ipsis dicamus: non sit ebrietas. Vinum
+          <lb ed="#A" n="27"/>enim dei, ebrietas diaboli opus est. Non vinum ebrietatem fa
+          <lb ed="#A" n="28"/>cit, ne dei creaturam accuses, sed conserui insaniam argue,
+          <lb ed="#A" n="29"/>Totidem verbis respondere licet his qui dicunt, non sit
+          <lb ed="#A" n="30"/>votum coelibatus, vt dicamus illis, non sit scortatio, non
+          <lb ed="#A" n="31"/>sint incestae nuptiae: votum enim caelibaeus, dei: scortatio &amp;
+          <lb ed="#A" n="32"/>incestae nuptiae diaboli opus est. Non coelibatus votum
+          <lb ed="#A" n="33"/>scortationem facit, ne quod a Deo laudatum est accuses,
+          <lb ed="#A" n="34"/>verum illius infamiam argue, qui quod promisit non
+          prae<lb ed="#A" n="35" break="no"/>stat, non quia non potuit, sed quia nduit, quia non ea qua
+          <lb ed="#A" n="36"/>oportuit fide Deum precatus est, vt sibi continentiae donum
+          <lb ed="#A" n="37"/>impartiret. De quo Paulus quoque teratur: Quod fidelis
+          <lb ed="#A" n="38"/>est Deus, qui non parietur nos tentarisupra id quod possu
+          <lb ed="#A" n="39"/>mus, sed faciet etiam cum tentatione prouentum, vt
+          possi<lb ed="#A" n="40" break="no"/>mus sustinere. Non sunt laudandi quise temere votis
+          ob<lb ed="#A" n="41" break="no"/>stringunt, praestat enim longe non votere, quam quod
+          se<lb ed="#A" n="42" break="no"/>mel voueris, in eo non persistere. Sed cum animi cuiusque
+          <pb ed="#A" n="167-r"/>
+          <lb ed="#A" n="1"/>coniectura sit difficilis, etiam si quis anteacto vitae suae
+          tem<lb ed="#A" n="2" break="no"/>pore parum sit continenter vixisse visus (quamuis haberi
+          <lb ed="#A" n="3"/>delectum oporteat, vt ne cito manus cuiuis imponatur,
+          <lb ed="#A" n="4"/>ne peccatis alienis communicetur) prohiberi tamen vix
+          <lb ed="#A" n="5"/>poterit quominus quod sanctum est voueat, nescit enim
+          <lb ed="#A" n="6"/>tarda molimina spiritus sancti gratia: vno momento ex
+          <lb ed="#A" n="7"/>publicano Euangelistam, ex persecutore Apostolum, ex
+          <lb ed="#A" n="8"/>meretrice vas electum, ex latrone paradisi ciuem factum
+          <lb ed="#A" n="9"/>esse legimus: Haec est mutatio dextrae excelsi. Optandum
+          <lb ed="#A" n="10"/>tamen foret, vt quae regula praescripta est ab Apostolo in
+          <lb ed="#A" n="11"/>constituendis Episcopis &amp; presbyteris ea seruaretur. Est
+          au<lb ed="#A" n="12" break="no"/>tem Christianae charitatis, non cogitare malum, nectem
+          <lb ed="#A" n="13"/>re secus aliquid de proximo suspicari. Vere dictum est a
+          <lb ed="#A" n="14"/>quodam ethnico, &amp; a Gregorio Nazianzeno repetitum,
+          <lb ed="#A" n="15"/>quod vt quisque optimus est, ita difficilime alium
+          impro<lb ed="#A" n="16" break="no"/>bum esse suspicatur. Contra vero scriptum a Sapiente legi
+          <lb ed="#A" n="17"/>mus: In via stultus ambulans, quum ipse insipiens sit,
+          om<lb ed="#A" n="18" break="no"/>nes stultos aestimat. Ex suis quisque moribus libenter
+          fin<lb ed="#A" n="19" break="no"/>git alios. Sic Nero scribitur, quum vnus esset omnium im
+          <lb ed="#A" n="20"/>purissimus, animum inducere non potuisse, vt quenque pu
+          <lb ed="#A" n="21"/>dicum esse crederet.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1248">
+          Verum vtcunque res se habeat,
+          reperi<lb ed="#A" n="22" break="no"/>ri videmus non paucos, qui quum se voto caelibatus
+          obli<lb ed="#A" n="23" break="no"/>gauerint, non praesient tamen. In hos iuxta Canonum
+          <lb ed="#A" n="24"/>praecepta potius animaduertendum foret, quam vt sancta
+          <lb ed="#A" n="25"/>lex propter homines non sanctos antiquaretur. Sed hic a
+          <lb ed="#A" n="26"/>Bucero Cypriani nobis authoritas objicitur, qui scriptum
+          <lb ed="#A" n="27"/>alicubi reliquerit quum de virginibus Deo dicatis
+          loque<lb ed="#A" n="28" break="no"/>retur: Si perseuerare nolunt aut non possunt, melius est vt
+          <lb ed="#A" n="29"/>nubant. Fingamus hoc, sicut isti volunt, sensisse
+          Cypria<lb ed="#A" n="30" break="no"/>num. Quod autem est istud singularitatis studium, velle
+          <lb ed="#A" n="31"/>solitariam alicuius opinionem sequi potius, quam totius
+          <lb ed="#A" n="32"/>Ecclesiae Catholicae sensum &amp; consensum? Congregatum
+          <lb ed="#A" n="33"/>fuit vnius omnium sanctissimi, doctissimi, grauissimique
+          <lb ed="#A" n="34"/>Pontificis Leonis authoritate Chalcedonense Concilium,
+          <lb ed="#A" n="35"/>sexcentorum triginta Episcoporum, aliquanto postquam
+          <lb ed="#A" n="36"/>ad Christum Cyprianus migrauerat, quod inter quatuor
+          <lb ed="#A" n="37"/>illa numeratur, quae nec ab ipsis nostri temporis haereticis
+          <lb ed="#A" n="38"/>reiiciuntur, a Catholicis vero non aliter quam sicut
+          qua<lb ed="#A" n="39" break="no"/>tuor Euangelia recipiuntur, in eo disertis orbis
+          contra<lb ed="#A" n="40" break="no"/>rium est sancitum. Nonne totius orbis Christiani potius
+          <lb ed="#A" n="41"/>quam vnius alicuius sequi sententiam oporteret? Quem
+          <lb ed="#A" n="42"/>tamen &amp; ipsum existimandum non est id sensisse quod isti
+          <pb ed="#A" n="167-v"/>
+          <lb ed="#A" n="1"/>volunt, vt quae votum continentiae solenniter esset
+          pro<lb ed="#A" n="2" break="no"/>fessa, Deo dicatae virgini nubere licitum existimaret. Sed
+          <lb ed="#A" n="3"/>scripsit is de deo dicata. Scripsit: sed quo sensu scripserit vi
+          <lb ed="#A" n="4"/>deamus. Postulauerat a Cypriano Pomponius, vt sibi
+          re<lb ed="#A" n="5" break="no"/>scriberet, quid ei de virginibus his videretur, quae quum
+          <lb ed="#A" n="6"/>semel statum suum continenter &amp; firmiter tenere decreue
+          <lb ed="#A" n="7"/>rint, detectae sunt postea in eodem lecto pariter
+          man<lb ed="#A" n="8" break="no"/>sisse cum masculis, ex quibus vnus fuerit Diaconus. Quid
+          <lb ed="#A" n="9"/>huic rescribens Cyprianus, nunquid ait nubant? Nihil
+          mi<lb ed="#A" n="10" break="no"/>nus: verum consulte fecisti, inquit, abstinendo Diaconum:
+          <lb ed="#A" n="11"/>virgines autem inspiciantur ab obstetricibus diligenter,
+          <lb ed="#A" n="12"/>&amp; si virgines inuentae fuerint, accepta communicatione
+          <lb ed="#A" n="13"/>ad ecclesiam admittantur: si autem de his aliquae corruptae
+          <lb ed="#A" n="14"/>fuerint deprehensae, agant poenitentiam plenam, quia quae
+          <lb ed="#A" n="15"/>hoc crimen admisit, non mariti, sed Christi adultera est,
+          <lb ed="#A" n="16"/>&amp; ideo aestimato iusto tempore, postea exomologesi
+          facta<lb ed="#A" n="17" break="no"/>ad Ecclesiam redeant: quod si obstinate perseuerant, nec
+          <lb ed="#A" n="18"/>se ab inuicem separant, sciant se cum hac sua impudica ob
+          <lb ed="#A" n="19"/>stinatione nunquam a nobis admitti in ecclesiam posse.
+          <lb ed="#A" n="20"/>Hoc est rescriptum Cypriani. Quae vero interiecta sunt,
+          do<lb ed="#A" n="21" break="no"/>ctrinam quandam in se continent, quemadmodum
+          asser<lb ed="#A" n="22" break="no"/>uari virgines oporteat: ibi inter caetera verba sunt haec. Si
+          <lb ed="#A" n="23"/>perseuerare nolunt, vel non possunt, melius est vt nubant,
+          <lb ed="#A" n="24"/>Quae nequaquam ita accipienda esse tanquam eis
+          postea<lb ed="#A" n="25" break="no"/>quam se semel Deo despondisset, nubere licere vellet, sed
+          <lb ed="#A" n="26"/>retro potius trahenda, ad id tempus quo nondum se Deo
+          <lb ed="#A" n="27"/>dicauerant, vel sequentia quae iam commemorauimus Cy
+          <lb ed="#A" n="28"/>priani verba manifeste declarant, vbi Christi sponsam Deo
+          <lb ed="#A" n="29"/>dicatam virginem, si cum viro reperta fuerit, non hominis
+          <lb ed="#A" n="30"/>mariti, sed Christi vocat adulteram. Est ne autem
+          credibi<lb ed="#A" n="31" break="no"/>le in hunc errorem tam impium lapsum esse Cyprianum,
+          <lb ed="#A" n="32"/>vt vigini Deo dicatae permittendum adulterium esse
+          cen<lb ed="#A" n="33" break="no"/>seret?
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1370">
+          Deinde vero si quae nupsit homini marito, fas non
+          <lb ed="#A" n="34"/>est vt alii nubat, quomodo fas esse poterit ei cum alique
+          <lb ed="#A" n="35"/>mortalium nuptias contrahere, quae semel Deo nupsit
+          im<lb ed="#A" n="36" break="no"/>mortali? Certe prius illud Augustinus non matrimonium
+          <lb ed="#A" n="37"/>quod est cum altero superstite priore marito contractum,
+          <lb ed="#A" n="38"/>sed adulterium appellat, sicut a nobis paulo ante
+          comme<lb ed="#A" n="39" break="no"/>moratum est, quanto magis adulterium dici meretur, &amp;
+          <lb ed="#A" n="40"/>quidem longe grauissimum adulterium quod a Christi
+          spon<lb ed="#A" n="41" break="no"/>sa committitur, vbi non homini mortali, sed Deo data fides
+          <lb ed="#A" n="42"/>immortali violatur?
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1393">
+          Quamobrem longe ab ea sententia
+          <pb ed="#A" n="168-r"/>
+          <lb ed="#A" n="1"/>Cyprianus abfuit, vt virginibus Deo dicatis nubere
+          lici<lb ed="#A" n="2" break="no"/>tum esse vellet. Quan ille potius non diuersum ea de re
+          sen<lb ed="#A" n="3" break="no"/>sisse credendus est ab eo, quod Hieronymum &amp;
+          Ambro<lb ed="#A" n="4" break="no"/>sium latinos, Basilium &amp; Chrysosiomum graecos aliosque
+          <lb ed="#A" n="5"/>qui secuti sunt eum, sanctos doctores scripsisse legimus,
+          <lb ed="#A" n="6"/>qui quae virgines post conscerationem nupsissent, eas non
+          <lb ed="#A" n="7"/>vxores legitime iunctas, verum adulteras &amp; incestas esse
+          <lb ed="#A" n="8"/>dixerunt. Paulus viduas continentiam professas, quae
+          sal<lb ed="#A" n="9" break="no"/>tem vellent nubere, damnationem habere scribit, &amp; est ve
+          <lb ed="#A" n="10"/>risimile Cyprianum contra Pauli doctrinam hanc, Deo
+          <lb ed="#A" n="11"/>dicatis virginibus nuptias ad aeternam earum
+          damnatio<lb ed="#A" n="12" break="no"/>nem permittere voluisse? Nihil itaque suffragatur istis Cy
+          <lb ed="#A" n="13"/>priani quod adferunt testimonium. Vtrum autem
+          dispen<lb ed="#A" n="14" break="no"/>sari possit vorum celibatus necne, nihil est quod in
+          prae<lb ed="#A" n="15" break="no"/>sentia verba multa faciamus. Thomae quidem Aquinatis
+          <lb ed="#A" n="16"/>quem pro sua sententia confirmanda testem citant
+          non<lb ed="#A" n="17" break="no"/>nulli, verba sunt haec. In voto solennisato per professionem
+          <lb ed="#A" n="18"/>religionis, non potest per Ecclesiam dispensari. Et rationem
+          <lb ed="#A" n="19"/>assignat decretalis, quia castitas est annexa regulae
+          mona<lb ed="#A" n="20" break="no"/>chali.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1441">
+          Atqui tale est votum virginum solenniter Deo
+          dica<lb ed="#A" n="21" break="no"/>tarum. Sed non est praesentis instituti, possit necne dispen
+          <lb ed="#A" n="22"/>sari, de eo disserere: satis fuerit illud scire, quod per se
+          lici<lb ed="#A" n="23" break="no"/>tum est dispensationis non egere. Verum haec de voto
+          di<lb ed="#A" n="24" break="no"/>cta sufficiant. Quod autem ad ordinem attinet, eum non
+          <lb ed="#A" n="25"/>repugnare matrimonio, quatenus vtrunque sacramentum
+          <lb ed="#A" n="26"/>est, a sanctis patribus didicimus, caeterum quae fiunt a
+          ma<lb ed="#A" n="27" break="no"/>trimonio iunctis, quae citra ruborem nominari non
+          pos<lb ed="#A" n="28" break="no"/>sunt, ea cum sacerdotio pugnare vehementer ab Origene,
+          <lb ed="#A" n="29"/>Ambrosio, Hieronymo, Beda, caeterisque viris non doctrina
+          <lb ed="#A" n="30"/>magis quam pietate praeditis excellenti, docemur. Neque
+          <lb ed="#A" n="31"/>vero nurum id alicui videri debet, si matrimonii siue
+          nu<lb ed="#A" n="32" break="no"/>etiarum bonum a malo concupiscentiae discernimus, quod
+          <lb ed="#A" n="33"/>aliquando fecisse Augustinum, Pelagius, Iulianus,
+          Coele<lb ed="#A" n="34" break="no"/>stinus, haeretici reprehendebant, caeterum is, non solum
+          <lb ed="#A" n="35"/>ratione subtili, verumetiam vulgatissimo iudicio
+          natura<lb ed="#A" n="36" break="no"/>li, quod in primis illis hominibus apparuit, hodieque
+          tene<lb ed="#A" n="37" break="no"/>tur etiam ab hominibus coniugatis illud discerni docuit.
+          <lb ed="#A" n="38"/>Quod enim, inquit, illi postea propagatione fecerunt,
+          <lb ed="#A" n="39"/>hoc est connubii bonum: quod vero prius confusione
+          <lb ed="#A" n="40"/>texerunt, hoc est concupiscentiae malum. Proinde nuptia
+          <lb ed="#A" n="41"/>quia etiam de illo malo aliquid boni faciunt, gloriantur.
+          <lb ed="#A" n="42"/>quia vero sine illo fieri non potest, erubescunt. Tanquam si
+          <pb ed="#A" n="168-v"/>
+          <lb ed="#A" n="1"/>quispiam pede vitiato ad aliqud bonum etiam claudicans
+          <lb ed="#A" n="2"/>perueniat, nec propter claudicationis malum, mala est illa
+          <lb ed="#A" n="3"/>peruentio, nec propter illius peruentionis bonum, bona
+          <lb ed="#A" n="4"/>est claudicatio, ita nec propter libidinis malum nuptias
+          <lb ed="#A" n="5"/>condemnare, nec propter nuptarum bonum libidinem lau
+          <lb ed="#A" n="6"/>dare debemus. Bonae sunt itaque nuptiae, sed sine qua bonum
+          <lb ed="#A" n="7"/>nuptiarum fieri non potest, mala est libido. Atque haec est cur
+          <lb ed="#A" n="8"/>repugnat ordo, quae tam turpes est, vt eam etiam ipsi
+          tur<lb ed="#A" n="9" break="no"/>pes turpitudinem vocent: cuius licet sint amatores,
+          osten<lb ed="#A" n="10" break="no"/>tatores esse non audent. Cuius tanta est foeditas, vt etiam
+          <lb ed="#A" n="11"/>copulatio coniugalis, quae secundum matrimonialium
+          prae<lb ed="#A" n="12" break="no"/>scripta tabularum, procreandorum fit causa liberorum, la
+          <lb ed="#A" n="13"/>tebras ad subterfugiendum hominum conspectum, &amp;
+          re<lb ed="#A" n="14" break="no"/>motum ab arbitris cubile conquirat. Certe non qui
+          bene<lb ed="#A" n="15" break="no"/>sed qui male agit, odit lucem, dicit Christus, omnia vero
+          <lb ed="#A" n="16"/>recte facta in luce collocari volunt. Haec igitur opera tene
+          <lb ed="#A" n="17"/>brarum pugnant cum sacerdono maxime, cuius opera in
+          <lb ed="#A" n="18"/>luce collocari volunt.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1532">
+          Quod si illa sic exerceri possent, quo
+          <lb ed="#A" n="19"/>admodum ante peccatum ea primi nostri parentes
+          exer<lb ed="#A" n="20" break="no"/>cuissent in paradiso, nihil vt aliud quam liberorum
+          pro<lb ed="#A" n="21" break="no"/>creatio spectaretur, cum sacerdotio non pugnaret. Nunc
+          <lb ed="#A" n="22"/>illorum peccato factum est, vt sne peccato, quod tamen nisi
+          <lb ed="#A" n="23"/>modum excedat non imputatur, opera nuptiarum
+          exer<lb ed="#A" n="24" break="no"/>cere non liceat. Et hoc est illud peccatum quod vocatur
+          <lb ed="#A" n="25"/>originis, de quo dixit etiam Propheta: Ecce in iniquitatis
+          <lb ed="#A" n="26"/>bus conceptus sum &amp; in peccius concepit me mater mea
+          <lb ed="#A" n="27"/>Quod si sacerdotem esse nihil esset aliud quam
+          Prophe<lb ed="#A" n="28" break="no"/>tam esse, verbique ministerio fungi, ne sic quidem licitum
+          <lb ed="#A" n="29"/>illi futurum existimat Epiphimus, vt mariti officio
+          fungi<lb ed="#A" n="30" break="no"/>tur: sic enim ille scribit: Nuncuid inhonestae sunt nuptiae
+          <lb ed="#A" n="31"/>num impurum cubile? at a Prophetis &amp; Pontificibus pro
+          <lb ed="#A" n="32"/>hibentur propter manus mirisierium. Nam postquam
+          pro<lb ed="#A" n="33" break="no"/>phetauit Moses, non amplius vxori coniunctus est, non
+          <lb ed="#A" n="34"/>amplius liberos genuit, non amplius gignit talis, habet
+          <lb ed="#A" n="35"/>enim vitam domino vacantem vacare autem domino non
+          <lb ed="#A" n="36"/>potest, qui mariti officio fungitur. Multo minus licitum
+          <lb ed="#A" n="37"/>esse videtur ei, qui sacrificium indesinens oblaturus est,
+          <lb ed="#A" n="38"/>quod impediri certum esse scutit Origenes his qui
+          coniu<lb ed="#A" n="39" break="no"/>galibus necessitatibus seruiuit. Ac videtur ei quod illius
+          <lb ed="#A" n="40"/>solius est offerre sacrificium incesinens, qui indesinenti &amp;
+          <lb ed="#A" n="41"/>perpetuae se deuouerit castiti. Si lacus &amp; quicunque
+          fide<lb ed="#A" n="42" break="no"/>lis, dicit Hieronymus, orare non potest, nisi careat officio
+          <pb ed="#A" n="169-r"/>
+          <lb ed="#A" n="1"/>coniugali, sacerdoti, cui semper pro populo offerenda sunt
+          <lb ed="#A" n="2"/>sacrificia, semper orandum est: semper carendum
+          matrimo<lb ed="#A" n="3" break="no"/>nio. Nam &amp; in veteri lege, qui pro populo hostias
+          offere<lb ed="#A" n="4" break="no"/>bant, non solum in domibus suis non erant, sed
+          purifica<lb ed="#A" n="5" break="no"/>bantur ad tempus ab vxoribus separati, &amp; vinum &amp;
+          sice<lb ed="#A" n="6" break="no"/>ram non bibebant, quae solent libidinem prouocare. Et
+          <lb ed="#A" n="7"/>alio loco: Quod si indigne, inquit, accipiunt mariti, non
+          <lb ed="#A" n="8"/>mihi irascantur, sed scripturis sanctis, imo Episcopis,
+          Pres<lb ed="#A" n="9" break="no"/>byteris, &amp; Diaconis, &amp; vniuerso choro sacerdotali &amp;
+          leui<lb ed="#A" n="10" break="no"/>tico, qui se nouerunt hostias offerre non posse, si operi
+          se<lb ed="#A" n="11" break="no"/>uiant coniugali. Sic &amp; Ambrosius enarrans illa verba: D.
+          <lb ed="#A" n="12"/>aconos sint vnius vxoris viri. Veteribus idcirco concessum
+          <lb ed="#A" n="13"/>est laicis aut sacerdotibus, vxores ad vsum habere, quia
+          <lb ed="#A" n="14"/>multum temporis otio vacabant a ministerio aut sacerdo
+          <lb ed="#A" n="15"/>tio, multitudo enim erat sacerdotum, &amp; vnusquisque certo
+          <lb ed="#A" n="16"/>tempore seruiebat diuinis ceremoniis. Nunc autem septem
+          <lb ed="#A" n="17"/>diaconos esse oportet, aliquantos presbyteros, vt bini sint
+          <lb ed="#A" n="18"/>per Ecclesias, &amp; vnus in ciuitate Episcopus, ac per hoc
+          om<lb ed="#A" n="19" break="no"/>nes a conuentu foeminae abstinere debere, quia necesse est
+          <lb ed="#A" n="20"/>eos quotidie praesto esse in Ecclesia, omni enim
+          hebdoma<lb ed="#A" n="21" break="no"/>da offerendum est, etiam si non quotidie peregrinis, incolis ta
+          <lb ed="#A" n="22"/>men vel bis in hebdomada. Si plebeis hominibus
+          oratio<lb ed="#A" n="23" break="no"/>nis causa abstinere se praecipit, vt vacent orationi: quanto
+          <lb ed="#A" n="24"/>magis Leuitis aut sacerdotibus, quos die nocteque pro
+          ple<lb ed="#A" n="25" break="no"/>be sibi commissa oportet orare? Mundiores ergo esse
+          de<lb ed="#A" n="26" break="no"/>bent caeteris, quia actores dei sunt. Beda quoque
+          Vene<lb ed="#A" n="27" break="no"/>rabilis, vicis suo tempore Pontifices templi tantum
+          offi<lb ed="#A" n="28" break="no"/>ciis mancipati, non solum a complexu vxorum, sed ab
+          ip<lb ed="#A" n="29" break="no"/>so quoque domorum suorum abstinebant ingressu, vbi
+          no<lb ed="#A" n="30" break="no"/>stri temporis sacerdotibus quibus semper altari seruire iu
+          <lb ed="#A" n="31"/>betur, perpetuo seruandae castitatis exemplum datur. Quia
+          <lb ed="#A" n="32"/>enim tum sacerdotalis ex stirpe Aaron successio quaereba
+          <lb ed="#A" n="33"/>tur, necessario tempus substituendae soboli procurabatur,
+          <lb ed="#A" n="34"/>at quia nunc non carnalis successio sed perfectio spiritua
+          <lb ed="#A" n="35"/>lis inquiritur, consequenter sacerdotibus, vt semper
+          que<lb ed="#A" n="36" break="no"/>ant altari assistere, semper ab vxoribus continendum,
+          <lb ed="#A" n="37"/>semper castitas obseruanda praecipitur. Non pugnat
+          igi<lb ed="#A" n="38" break="no"/>tur maritum &amp; sacerdotem: sed pugnat inter
+          quotidia<lb ed="#A" n="39" break="no"/>nos vxoris amplexus versari, &amp; coelestia mysteria
+          tracta<lb ed="#A" n="40" break="no"/>re, quum praesertim sui corporis maritus potestatem non
+          <lb ed="#A" n="41"/>habeat, sed vxor, quam quoties id exigit, ei fraudare fas
+          <lb ed="#A" n="42"/>non est.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1680">
+          Porro diuina mysteria liberum hominem
+          requi<pb ed="#A" n="169-v"/><lb ed="#A" n="1" break="no"/>runt, qui suae sit non aliennae potestatis. Quamobrem non
+          <lb ed="#A" n="2"/>apud orientales modo, verum in nostra hac occidentali
+          <lb ed="#A" n="3"/>eclesia nihil impedit, quominus qui maritus est, fiat idem
+          <lb ed="#A" n="4"/>sa erdos, modo quae mariti sunt, ea praestare desinat: his
+          <lb ed="#A" n="5"/>etiam praestandis ita totus animus &amp; corpus impenditur.
+          <lb ed="#A" n="6"/>vi submergi mens &amp; caro tota fieri videatur, sicut ab
+          Au<lb ed="#A" n="7" break="no"/>gistino quoque legimus annotatum. Corpus autem
+          Chri<lb ed="#A" n="8" break="no"/>si quod sacerdos conficit, quum sit spirituale, nihil est quod
+          <lb ed="#A" n="9"/>magis refugiat quam carnem, quod vel illa dei verba
+          sa<lb ed="#A" n="10" break="no"/>tis indicant: Non permanebit spiritus meus in
+          homini<lb ed="#A" n="11" break="no"/>bus istis, quoniam caro sunt. Qui semel vxorem duxit,
+          <lb ed="#A" n="12"/>luoad illa vixerit, etiam si diuortium factum sit,
+          ma<lb ed="#A" n="13" break="no"/>ritus tamen illius esse nunquam definit: caro viri, caro
+          sem<lb ed="#A" n="14" break="no"/>per vxoris est: caro vxoris, caro viri est, neutrius vt
+          pote<lb ed="#A" n="15" break="no"/>statem tertius aliquis habere possit.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1716">
+          Sed si cesserit vltro con
+          <lb ed="#A" n="16"/>iunx iure suo quod habet in viri carnem ac suam quoque
+          <lb ed="#A" n="17"/>Deo carnem consecrauerit, iam &amp; marito licebit ad
+          eun<lb ed="#A" n="18" break="no"/>dem modum se Deo dicare sacerdotioque fungi. Sic Petro
+          <lb ed="#A" n="19"/>non fuit vxor impedimento, quo minus Christi fieret Apo
+          <lb ed="#A" n="20"/>stelus, sed quod eam tamen reliquerit Christum secutus,
+          <lb ed="#A" n="21"/>vt haec ipsius verba testantur cum dicit. Ecce nos
+          reliqui<lb ed="#A" n="22" break="no"/>imas omnia &amp; secuti sumus te, quid ergo erit nobis?
+          Cla<lb ed="#A" n="23" break="no"/>rius autem id ex responso Christi colligitur: Omnis,
+          in<lb ed="#A" n="24" break="no"/>quit, qui reliquerit domum, vel fratres, vel sorores, aut
+          pa<lb ed="#A" n="25" break="no"/>hem, aut matrem, aut vxorem propter nomen meum,
+          cen<lb ed="#A" n="26" break="no"/>tiplum accipiet. An autem reliqui Aposoli coniuges
+          ha<lb ed="#A" n="27" break="no"/>lerint, quoniam hoc de illis relatum nos est, videtur
+          Hie<lb ed="#A" n="28" break="no"/>ramo verisimilius esse quod non habierint. Quod
+          au<lb ed="#A" n="29" break="no"/>tem est nouum hoc Apostolorum genus, qui cum veri Christi
+          <lb ed="#A" n="30"/>Apostoli ductas vxores reliquerint Luangelii studio,
+          <lb ed="#A" n="31"/>meduxerint quum nulli fuerit interdicum, non putant
+          <lb ed="#A" n="32"/>suum Euangelium profiteri posse, risi contra
+          Eccle<lb ed="#A" n="33" break="no"/>se interdictum vxores duxerint? iter septuaginta
+          <lb ed="#A" n="34"/>sepulos, maritos fuisse nonnullos cresibile est, quos
+          ta<lb ed="#A" n="35" break="no"/>nes &amp; ipsos posteaquam Christi discipli facti sunt,
+          Pe<lb ed="#A" n="36" break="no"/>ta exemplo cum vxoribus commertii deinceps nihil
+          ha<lb ed="#A" n="37" break="no"/>uise dubitandum non est. Ea res occaionem dedit
+          Co<lb ed="#A" n="38" break="no"/>miis ex Paulo sciscitandi, quandoquidem videbant isti
+          <lb ed="#A" n="39"/>esopulos vxores suas relinquere, neque scerant qui id ab
+          <lb ed="#A" n="40"/>cemibus in Christum credentibus fieri oportere dicerent,
+          <lb ed="#A" n="41"/>in sibi quoquo relinquendae vxores esent, posteaquam
+          <lb ed="#A" n="42"/>mel in Christum credere cepissent. Quibus respondens
+          <pb ed="#A" n="170-r"/><lb ed="#A" n="1"/>Paulus: De quibus, inquit, scripsistis mihi, quaerentes an ad
+          <lb ed="#A" n="2"/>fidem conuersis cum vxoribus commertium habere mari
+          <lb ed="#A" n="3"/>tis liceret: bonum est homini mulierem non tangere, hoc
+          <lb ed="#A" n="4"/>est ab vxore abstinere, propter fornicationem autem
+          vnus<lb ed="#A" n="5" break="no"/>quisque habeat vxorem suam, &amp; vnaquaeque maritum
+          su<lb ed="#A" n="6" break="no"/>um. Non dixit, ait Hieronymus, vnusquisque ducat, sed
+          <lb ed="#A" n="7"/>vnusquisque habeat vxorem suam, suam, inquit, habeat,
+          <lb ed="#A" n="8"/>sua vtatur quam habebat antequam crederet. Neque
+          so<lb ed="#A" n="9" break="no"/>lus Hieronymus, verum &amp; ante eum, i. Tertullianus, &amp;
+          <lb ed="#A" n="10"/>aequalis eius, 2. Ambrosius &amp; 3. Augustinus, &amp; qui
+          secun<lb ed="#A" n="11" break="no"/>sunt vno &amp; altero post seculo. 4. Gregorius &amp; Fulgentius
+          <lb ed="#A" n="12"/>latini, tum autem. 5. Ioannes Chrysostomus, s.
+          Epiphan<lb ed="#A" n="13" break="no"/>us, v. Theodoritus, 8. Occumenius, o. Theophylactus
+          grae<lb ed="#A" n="14" break="no"/>ci, Pauli locum hunc de coniugatis intelligunt.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1809">
+          Sed
+          mo<lb ed="#A" n="15" break="no"/>menta rationum ait quidam pluris facimus in
+          disputan<lb ed="#A" n="16" break="no"/>do quam authoritates. Quasi vero fuerint ista tot tam
+          <lb ed="#A" n="17"/>praeclara totius orbis Christiani lumina rationibus
+          desti<lb ed="#A" n="18" break="no"/>tuta, ac solus tu sis, qui monumenta rationum adferas. Qui
+          <lb ed="#A" n="19"/>est hic superbiae tumor, quae arrogantia animi quae
+          men<lb ed="#A" n="20" break="no"/>tis inflatio? Sed ipsum verba sua Paulum explicantem au
+          <lb ed="#A" n="21"/>diamus, Quum enim dixisset, propter fornicationem
+          <lb ed="#A" n="22"/>nusquisque habeat vxorem suam, &amp; vnaquaque suum v
+          <lb ed="#A" n="23"/>rum habeat, vt ne cui dubium esse posset quid sibi
+          velle<lb ed="#A" n="24" break="no"/>dicens, habeat vxorem, habeat virum, statim subiungit.
+          <lb ed="#A" n="25"/>Vxori debitum reddat, similiter autem &amp; vxor viro. Quas
+          <lb ed="#A" n="26"/>diceret, si non intelligis quid sit, habeat vir vxorem,
+          ha<lb ed="#A" n="27" break="no"/>beat vxor virum: ecce dicam clarius, vxori debitum
+          red<lb ed="#A" n="28" break="no"/>dat, &amp; vxor viro. Quominus autem ambigi queat di
+          <lb ed="#A" n="29"/>quo debito dicat, subdit euestigio: mulier sui corporis
+          po<lb ed="#A" n="30" break="no"/>testatem non habet, sed vir, similiter &amp; vir sui corporis po
+          <lb ed="#A" n="31"/>testatem non habet, sed mulier. Nolite fraudare inuicem
+          <lb ed="#A" n="32"/>Dic caedo quisquis es, qui te solum sapere, te solum
+          viden<lb ed="#A" n="33" break="no"/>putas, coelebs habeat sui corporis potestatem necne,
+          <lb ed="#A" n="34"/>Tum autem quem fraudet coelebs, si non faciat alteri
+          su<lb ed="#A" n="35" break="no"/>corporis potestatem? quum eius rei nemini sit debitor
+          <lb ed="#A" n="36"/>Vel caeco appareat, non de aliis haec verba dici quam a
+          <lb ed="#A" n="37"/>coniugibus, hic vt sit germanus Pauli verborum sensus, con
+          <lb ed="#A" n="38"/>modum quidem illud foret, quandoquidem tempus breue est, nec
+          <lb ed="#A" n="39"/>procul iam dies ille supremus abest, vt aut relinquerers
+          <lb ed="#A" n="40"/>vxores Apostolorum exemplo, aut eas haberetis tanquam non
+          la<lb ed="#A" n="41" break="no"/>bentes, nec alio quam quo sorores essent apud vos loco, ita
+          <lb ed="#A" n="42"/>in totum ab earum carnali commertio vobis temperaretis
+          <pb ed="#A" n="170-v"/>
+          <lb ed="#A" n="1"/>Quoniam vero periculum est ne qua detur occasio
+          forni<lb ed="#A" n="2" break="no"/>candi, vnusquisque maritus habeat, hoc est, retineat
+          vxo<lb ed="#A" n="3" break="no"/>rem suam, non dimittat illam, vtatur ea, reddat ei quod
+          <lb ed="#A" n="4"/>ex lege coniugii debet, neque enim hactenus est sui
+          cor<lb ed="#A" n="5" break="no"/>poris dominus, vt quod ad vsum coniugalem attinet, eius
+          <lb ed="#A" n="6"/>copia fraudare possit vxorem. Ad eundem modum vna,
+          <lb ed="#A" n="7"/>quaeque vxor habeat, hoc est, retineat virum suum, non
+          <lb ed="#A" n="8"/>discedat ab eo, quin reddat potius quod illi debet ex iure
+          <lb ed="#A" n="9"/>matrimonii.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1895">
+          Nam quod ad vsum pertinet matrimonii, ius
+          <lb ed="#A" n="10"/>vxorii corporis penes maritum est, non penes vxorem, quae
+          <lb ed="#A" n="11"/>sui copiam negare marito non debet. Ex eo videre licet,
+          <lb ed="#A" n="12"/>quanta sit illorum caecitas, qui ex his Pauli verbis longe
+          <lb ed="#A" n="13"/>diuersam sententiam colligere conantur, quasi praecipiat
+          <lb ed="#A" n="14"/>is omnibus qui sunt coelibes, vt vxores ducant, quum
+          ta<lb ed="#A" n="15" break="no"/>men etiam Erasmus ipse Roterodamus quamuis cum
+          pri<lb ed="#A" n="16" break="no"/>mis iniquus coelibatui, paraphrasi locum hunc explicans,
+          <lb ed="#A" n="17"/>de coniugaris eum interpretur, sic enim scribit: Ad
+          quae<lb ed="#A" n="18" break="no"/>stiones de quibus me per literas consuluistis, paucis
+          respon<lb ed="#A" n="19" break="no"/>debo, quid faciendum pro his qui matrimonio sunt
+          irre<lb ed="#A" n="20" break="no"/>tiri, quid his qui in coelibarum degunt, &amp; viduis, item his
+          <lb ed="#A" n="21"/>qui matrimonio sunt molesto aut impari impliciti, postre
+          <lb ed="#A" n="22"/>mo quid virginibus elocandis aut non elocandis. Quam
+          <lb ed="#A" n="23"/>obrem, quo quasi fortissimo telo vsi sunt, rerum
+          nouan<lb ed="#A" n="24" break="no"/>darum cupidi, ad coelibatum oppugnandum, id magis adeo
+          <lb ed="#A" n="25"/>contra ipsos facere manifestum est. Tantum enim abest,
+          <lb ed="#A" n="26"/>vt his Pauli verbis vocentur caelibes ad nuptias, vt ne his
+          <lb ed="#A" n="27"/>quidem, qui matrimonio iam irretiti sunt vsquequaque
+          li<lb ed="#A" n="28" break="no"/>berum esse velit Paulus quouis tempore praestare quae
+          de<lb ed="#A" n="29" break="no"/>bent ex lege matrimonii, seque magis indulgere quam
+          prae<lb ed="#A" n="30" break="no"/>cipere scribat, vt mutuum sibi praestent debitum, sic enim
+          <lb ed="#A" n="31"/>loquitur: Nolite fraudare inuicem, nisi forte ex consensu
+          <lb ed="#A" n="32"/>ad tempus, vt vacetis orationi, &amp; iterum reuertimini in
+          <lb ed="#A" n="33"/>idipsum, ne tentet vos Sathanas propter incontinentiam
+          <lb ed="#A" n="34"/>vestram: hoc autem dico secundum indulgentiam, non se
+          <lb ed="#A" n="35"/>cundum imperium. Quae verba non ita sunt
+          intelligen<lb ed="#A" n="36" break="no"/>da, quasi permittat vt ne precum tempore sese coniuges
+          <lb ed="#A" n="37"/>attingant, sicut quidam somniat non intelligens neque
+          <lb ed="#A" n="38"/>quae loquatur, neque de quibus affirmat, sed hoc (ait)
+          di<lb ed="#A" n="39" break="no"/>co per indulgentiam, vt exacto precum tempore, ne
+          frau<lb ed="#A" n="40" break="no"/>detis deinceps inuicem, sed ad intermissum vsum coniugii
+          <lb ed="#A" n="41"/>reuertamini. Non hoc dico praescribens aut praecipiens,
+          <lb ed="#A" n="42"/>quum aut carere vos prorsus vxoribus, aut eas loco
+          soro<pb ed="#A" n="171-r"/><lb ed="#A" n="1" break="no"/>rum habere cupiam, sed dico hoc infirmitati vestrae
+          con<lb ed="#A" n="2" break="no"/>descendens.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e1975">
+          Quamobrem ex his verbis colligit
+          Hie<lb ed="#A" n="3" break="no"/>ronymus nuptias, indulgentiam vocari debere, non
+          prae<lb ed="#A" n="4" break="no"/>ceptum. Augustinus vero, Posset, inquit, putari, non esse
+          <lb ed="#A" n="5"/>peccatum misceri coniugi non filiorum procreandorum
+          <lb ed="#A" n="6"/>causa, sed carnalis etiam voluptatis, nisi addidisset, hoc
+          au<lb ed="#A" n="7" break="no"/>tem dico secundum veniam, non secundum imperium,
+          <lb ed="#A" n="8"/>Quis autem iam esse peccatum neget, quum dari veniam
+          <lb ed="#A" n="9"/>facientibus Apostolica authoritas fateatur? Datur igitur
+          <lb ed="#A" n="10"/>venia reddendi debitum, non abstinendi. Quamuis
+          au<lb ed="#A" n="11" break="no"/>tem vel prolis procreandae vel stupri vitandi causa rectum
+          <lb ed="#A" n="12"/>sit vxorem ducere, rectius tamen est, sine periculo peccat,
+          <lb ed="#A" n="13"/>grauioris vel relinqui vxorem, vel cum ea tanquam
+          soro<lb ed="#A" n="14" break="no"/>re habitare. Et hoc est quod monet Paulus quum dicit.
+          <lb ed="#A" n="15"/>Tempus breue est, reliquum est vt qui habent vxores
+          tan<lb ed="#A" n="16" break="no"/>quam non habentes sint: nam &amp; absque vsu coniugali
+          con<lb ed="#A" n="17" break="no"/>stare posse matrimonium, non solum Ambrosius &amp;
+          Chry<lb ed="#A" n="18" break="no"/>sostomus Christiani, verumetiam Ethnici docuerunt: Non
+          <lb ed="#A" n="19"/>enim defloratio virginitatis facit coniugium, sed pactio
+          <lb ed="#A" n="20"/>coniugalis, denique quum iungitur puella coniugium est.
+          <lb ed="#A" n="21"/>non cum virili adinixtione cognoscitur, nisi forte non fuit
+          <lb ed="#A" n="22"/>inter Mariam &amp; Ioseph coniugium, vbi nihil intercessisse
+          <lb ed="#A" n="23"/>carnalis commertii certum est. Certe beatiora coniugia
+          <lb ed="#A" n="24"/>iudicanda sunt, inquit Aug. quae siue filiis procreandis, siue
+          <lb ed="#A" n="25"/>etiam ista terrena prole contempta, continentiam inter se
+          <lb ed="#A" n="26"/>pari consensu seruare potuerint, quod neque contra illud
+          <lb ed="#A" n="27"/>praeceptum fit, quo dominus dimitti coniugem vetat: non
+          <lb ed="#A" n="28"/>enim dimittit qui cum ea non carnaliter sed spiritualiter
+          <lb ed="#A" n="29"/>viuit, &amp; illud seruatur quod per Apostolum dicitur:
+          Reli<lb ed="#A" n="30" break="no"/>quum est vt qui habent vxores, quasi non habentes sint.
+          <lb ed="#A" n="31"/>Ad huiusmodi ergo coniugii maritos inuitat Paulus,
+          quo<lb ed="#A" n="32" break="no"/>ad per vxores licuerit, quibus vt reddatur debitum
+          permit<lb ed="#A" n="33" break="no"/>tit, maioris peccati vitandi causa.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e2045">
+          Verum vt vnde deflexit,
+          <lb ed="#A" n="34"/>eo redeat oratio: non esse pugnantia docuimus
+          matrimo<lb ed="#A" n="35" break="no"/>nium &amp; sacerdotium, sed esse pugnantia reddere debitum
+          <lb ed="#A" n="36"/>vxori, &amp; reddere debitum Deo, iuge sacrificium offerendo
+          <lb ed="#A" n="37"/>Quare cui debitum hoc per vxorem fuerit remissum, ei
+          <lb ed="#A" n="38"/>&amp; fuisse semper &amp; esse nunc etiam licitum non in
+          orienta<lb ed="#A" n="39" break="no"/>li modo, verum &amp; in hac Ecclesia nostra sacerdotio
+          fun<lb ed="#A" n="40" break="no"/>gi. Obseruatum autem hoc fuisse legimus &amp; in orientali
+          <lb ed="#A" n="41"/>Ecclesia, vt maritus quum sacerdos esset factus,
+          assentien<lb ed="#A" n="42" break="no"/>te vxore, mariti officium facere defineret, adeo visum id
+          <pb ed="#A" n="171-v"/>
+          <lb ed="#A" n="1"/>est ex diametro, quod aiunt, cum sacerdotis officio
+          pu<lb ed="#A" n="2" break="no"/>gnare. Quod hoc ita sit, docet Hieronymus, quum de
+          <lb ed="#A" n="3"/>Vigilantio loquitur, his verbis: Proh nefas, Episcopos
+          di<lb ed="#A" n="4" break="no"/>citur sui sceleris habere consortes, si tamen Episcopii
+          no<lb ed="#A" n="5" break="no"/>minandi sunt, qui non ordinant Diaconos nisi primum
+          <lb ed="#A" n="6"/>vxores duxerint, nulli coelibi credentes pudicitiam, imo
+          <lb ed="#A" n="7"/>ostendentes quam sancte viuant, qui male de omnibus su
+          <lb ed="#A" n="8"/>spicantur, &amp; nisi praegnantes vxores viderint clericorum,
+          <lb ed="#A" n="9"/>infantesque de vinis eorum vagientes, Christi sacramenta
+          <lb ed="#A" n="10"/>non tribuunt. Quid facient orientis Ecclesiae? quid
+          Aegy<lb ed="#A" n="11" break="no"/>pti, aut sedis Apostolicae? quae aut virgines clericos
+          acci<lb ed="#A" n="12" break="no"/>piunt aut continentes, aut si vxores habuerint, mariti esse
+          <lb ed="#A" n="13"/>desinunt. Hoc docuit Dormitantius, libidini frena
+          per<lb ed="#A" n="14" break="no"/>mittens, &amp; naturalem carnis ardorem, qui in adolescentia
+          <lb ed="#A" n="15"/>plerunque feruescit, suis hortatibus duplicans, imo
+          extin<lb ed="#A" n="16" break="no"/>guens coitu feminarum, vt nihil sit quo differamus a
+          po<lb ed="#A" n="17" break="no"/>cis, quo differamus a brutis animantibus, quo ab equis, de
+          <lb ed="#A" n="18"/>quibus scriptum est: Equi insanientes in fominas facti sunt
+          <lb ed="#A" n="19"/>mihi. Docet qui videtur aequalis Hieronymi fuisse Socra
+          <lb ed="#A" n="20"/>tes quoque Graecus? Si quis, inquit, in Thessalia dericus
+          <lb ed="#A" n="21"/>factus cum vxore, quam ante clericatum legitime duxit,
+          <lb ed="#A" n="22"/>dormierit, abdicator, quum omnes qui praeclari sunt in
+          <lb ed="#A" n="23"/>oriente abstineant, praecipue vero Thessalonia,
+          Macedo<lb ed="#A" n="24" break="no"/>nia, &amp; Helade. Cui suffragatur ad Anastasium
+          Thessalo<lb ed="#A" n="25" break="no"/>nicensem episcopum scribens Leo pontifex: Quum extra
+          <lb ed="#A" n="26"/>clericorum, inquit, ordinem constitutis, nuptiarum
+          socie<lb ed="#A" n="27" break="no"/>tate &amp; procreationi filiorum studere sit liberum, ad
+          exhi<lb ed="#A" n="28" break="no"/>bendam tamen perfectae continentiae puritatem, ne
+          subdia<lb ed="#A" n="29" break="no"/>conibus quidem canale connubium conceditur, vt &amp; qui
+          <lb ed="#A" n="30"/>habent sint tanquam non habentes, &amp; qui non habent,
+          <lb ed="#A" n="31"/>permaneant singulares. Quod si in hoc ordine qui
+          quar<lb ed="#A" n="32" break="no"/>tus a capite est, dignum est custodiri, quanto magis in
+          pri<lb ed="#A" n="33" break="no"/>mo, aut secundo, aut tertio seruandum est? ne aut Leuitis
+          <lb ed="#A" n="34"/>co ministerio, aut presbyterali honore, aut episcopali
+          ex<lb ed="#A" n="35" break="no"/>cellentia quisquam idoneus existimetur, qui se a
+          volupta<lb ed="#A" n="36" break="no"/>te vxoria necdum frenasse detegitur. Clarius autem
+          Epi<lb ed="#A" n="37" break="no"/>phanius Constantiae Cypri Episcopus, qui adducto eo
+          lo<lb ed="#A" n="38" break="no"/>co: Oportet Episcopum irreprehensibilem esse, vnius vxo
+          <lb ed="#A" n="39"/>ris virum. Revera, inquit, non suscipit sancta dei
+          praedi<lb ed="#A" n="40" break="no"/>catio, post Christi aduentum eos, qui a nuptiis mortua
+          <lb ed="#A" n="41"/>ipsorum vxores secundis nuptiis coniuncti sunt, &amp; hoc
+          <lb ed="#A" n="42"/>certe sancta Dei ecclesia cum synceritate obseruat, sed &amp;
+          <pb ed="#A" n="172-r"/>
+          <lb ed="#A" n="1"/>adhuc viuentem &amp; liberos gignentem vnius vxoris virum
+          <lb ed="#A" n="2"/>non suscipit, sed eum qui se ab vna continuit, aut in
+          vidui<lb ed="#A" n="3" break="no"/>tate vixit, diaconum, &amp; presbyterum, &amp; episcopum, &amp;
+          hi<lb ed="#A" n="4" break="no"/>podiaconum, maxime vbi synceri sunt canones
+          ecclesiasti<lb ed="#A" n="5" break="no"/>ci. At dicis mihi. Omnino in quibusdam locis adhuc
+          libe<lb ed="#A" n="6" break="no"/>ros gignere presbyteros, diaconos, &amp; hipodiaconos: at
+          <lb ed="#A" n="7"/>hoc non est iuxta Canonem, sed iuxta hominum mentem,
+          <lb ed="#A" n="8"/>quae per tempus elanguit.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e2180">
+          Quamobrem etiam apud
+          orien<lb ed="#A" n="9" break="no"/>tales vbi synceri fuerunt Canones ecclesiastici, fuisse
+          legi<lb ed="#A" n="10" break="no"/>mus obseruatum, vt sacerdotes mariti deinceps a
+          marito<lb ed="#A" n="11" break="no"/>rum officiis abstinerent. Quod vero scripsit alicubi
+          Ste<lb ed="#A" n="12" break="no"/>phanus Papa, orientalium sacerdotes matrimonio
+          copu<lb ed="#A" n="13" break="no"/>lari, id ibi factum intelligi debet, vbi synceri Canones non
+          <lb ed="#A" n="14"/>sunt. Et quamuis rideat Philippus glossatorem quod is
+          <lb ed="#A" n="15"/>interpretetur copulantur, id est, copulato vtuntur, hunc
+          <lb ed="#A" n="16"/>tamen quem glossator Stephani verborum sensum esse
+          <lb ed="#A" n="17"/>vult, certum est &amp; indubitatum. Quamuis enim cuius
+          <lb ed="#A" n="18"/>Papae Stephani verba sint haec, quae in decretorum librum
+          <lb ed="#A" n="19"/>retulit Gratianus, non satis liqueat (nouem enim eius
+          <lb ed="#A" n="20"/>nominis fuisse constat) neque reperiuntur inter decreta
+          <lb ed="#A" n="21"/>Stephani Papae, cuius Epistola libris Conciliorum est
+          in<lb ed="#A" n="22" break="no"/>serta, nequaquam tamen credendum est quicunque
+          tan<lb ed="#A" n="23" break="no"/>dem fuerit iste Papa Stephanus, adeo rudem eum &amp;
+          re<lb ed="#A" n="24" break="no"/>rum omnium imperitum fuisse, vt illud ignoraret, in
+          nul<lb ed="#A" n="25" break="no"/>la vnquam orbis Christiani parte matrimonia
+          contra<lb ed="#A" n="26" break="no"/>here sacerdotibus licuisse. Ac ex aliis nonnullis locis,
+          <lb ed="#A" n="27"/>quae per Gratianum proferuntur, cuiuis manifestum esse
+          <lb ed="#A" n="28"/>potest, copulantur, hoc loco aliter accipi non posse, quam
+          <lb ed="#A" n="29"/>sicut intellectum est a glossatore, nimirum copulato
+          vtun<lb ed="#A" n="30" break="no"/>tur, ac lege matrimonii, quod pridem initum est,
+          carnali<lb ed="#A" n="31" break="no"/>ter commiscentur. Adfertur ab eodem Gratiano
+          rescri<lb ed="#A" n="32" break="no"/>ptum Nicolai Pontificis ad Salonitanum Episcopum,
+          cu<lb ed="#A" n="33" break="no"/>ius haec verba sunt: Nosse desideras, vtrum mulier quae
+          vi<lb ed="#A" n="34" break="no"/>ri filium ex alia foemina genitum de sacro fonte leuauit,
+          <lb ed="#A" n="35"/>postmodum possit cum eodem viro copulari. Quis non
+          <lb ed="#A" n="36"/>videt, copulari hoc loco, non pro eo accipi quod est
+          matri<lb ed="#A" n="37" break="no"/>monio iungi, quod iampridem factum fuisse verborum
+          <lb ed="#A" n="38"/>contextus indicat. sed canaliter misceri. Qua significatio
+          <lb ed="#A" n="39"/>ne vsus etiam est verbo compulationis Augustinus dicens,
+          <lb ed="#A" n="40"/>Copulatio maris &amp; foeminae generandi causa bonum est
+          na<lb ed="#A" n="41" break="no"/>turale nuptiarum, sed isto bono male vtitur, qui bestialiter
+          <lb ed="#A" n="42"/>vtitur, vt sit eius intentio in voluptate libidinis, non in volum
+          <pb ed="#A" n="172-v"/>
+          <lb ed="#A" n="1"/>tate propaginis. Et eum secutus Gregorius: Postquam
+          co<lb ed="#A" n="2" break="no"/>pulatione coniugii viri atque mulieris vnum corpus
+          effici<lb ed="#A" n="3" break="no"/>tur, non potest ex parte conuerti &amp; ex parte manere in
+          se<lb ed="#A" n="4" break="no"/>culo. Et alio loco: Dum vnum vtrorumque corpus coniugis
+          <lb ed="#A" n="5"/>sit factum compulatione, incongruum est partem
+          conuerti<lb ed="#A" n="6" break="no"/>&amp; partem in seculo remanere. Ad eundem modum
+          Ania<lb ed="#A" n="7" break="no"/>nus interpres Chrysostomi: Habitare cum sponsis nondum
+          <lb ed="#A" n="8"/>sibi copulatis lege coniugii. Certe, compulatio &amp; copulari,
+          <lb ed="#A" n="9"/>in his locis non contractum, sed vsum significant
+          matri<lb ed="#A" n="10" break="no"/>monii, quod etiam illa verba concilii Aurelian. declarant,
+          <lb ed="#A" n="11"/>vbi vis dictionis eius, compuletur, sic est explicata: Nec ipsi
+          <lb ed="#A" n="12"/>adultero vnquam in coniugio compuletur, hoc est, nec
+          pro<lb ed="#A" n="13" break="no"/>priae vxori sibi licet reddere debitum, quam sibi reddidit
+          <lb ed="#A" n="14"/>illicitam sororem eius cognoscendo. Nonne manifeste hic
+          <lb ed="#A" n="15"/>ostenditur, coniugio compulari non aliud esse quam
+          red<lb ed="#A" n="16" break="no"/>dere debitum? Hic itaque germanus est verborum
+          Ste<lb ed="#A" n="17" break="no"/>phani sensus, quod orientalium sacerdotes maritorum
+          o<lb ed="#A" n="18" break="no"/>ficiis funguntur, &amp; praestant vxoribus ea quae debent ex
+          <lb ed="#A" n="19"/>lege matrimonii, occidentalium vero nequaquam: verum
+          <lb ed="#A" n="20"/>si qui sint etiam quos vxores habere contingat, sunt iuxta
+          <lb ed="#A" n="21"/>Pauli consilium tanquam non habentes, deinde quicquam
+          <lb ed="#A" n="22"/>eis cum vxoribus est commercii. Hic sanus cum sit
+          Stepha<lb ed="#A" n="23" break="no"/>ni verborum intellectus, facile apparet quam nihil Philip
+          <lb ed="#A" n="24"/>pum hic locus adiuuet, quo probare nititur sacerdotibus
+          <lb ed="#A" n="25"/>aliquando matrimonium contrahere licuisse, cum etiam
+          <lb ed="#A" n="26"/>Apostolorum canonibus id vetitum esse legamus, extat
+          <lb ed="#A" n="27"/>enim inter alios hic quoque: Qui cum coelibes essent
+          cle<lb ed="#A" n="28" break="no"/>rici facti sunt, ex his solis lectoribus &amp; cantoribus, si
+          mo<lb ed="#A" n="29" break="no"/>do sic eis visum sit matrimonium contrahere licere
+          volu<lb ed="#A" n="30" break="no"/>mus. Quo canone quid aliud statuitur, quam quod hipo
+          <lb ed="#A" n="31"/>diaconis, diaconis, &amp; presbyteris posteaquam ordinati
+          fue<lb ed="#A" n="32" break="no"/>rint vxorem ducere fas non est? tales enim nuptias, vocant
+          <lb ed="#A" n="33"/>patres sub Iustiniano Imperatore in Trullo regii palati
+          <lb ed="#A" n="34"/>Constantinopoli congregari ducenti viginti septem,
+          ille<lb ed="#A" n="35" break="no"/>gitimas, &amp; illegitimum eiusmodi contubernium solui iu
+          <lb ed="#A" n="36"/>bent. Qua synodo ante annos prope noningentos habita,
+          <lb ed="#A" n="37"/>cum posterior fuisse videatur Stephanus hic pontifex,
+          qui<lb ed="#A" n="38" break="no"/>cunque tandem is fuerit (nam primum non fuisse liquet) est
+          <lb ed="#A" n="39"/>ne verisimile cum aut canonem Apostolicum, aut istorum
+          <lb ed="#A" n="40"/>patrum decretum ignorasse? quorum synodum, sextam
+          <lb ed="#A" n="41"/>quidem synodum vocat Gratianus cum eius decreta
+          nonnul<lb ed="#A" n="42" break="no"/>la producit, sed ex Nicoena secunda synodo, tum ex
+          acti<pb ed="#A" n="173-r"/><lb ed="#A" n="1" break="no"/>quoque Florentini concilii, &amp; ex praefatione Anastasii
+          Ab<lb ed="#A" n="2" break="no"/>batis in octauam synodum liquere potest, quod quatuor
+          <lb ed="#A" n="3"/>aut quinque post annis fuerit congregata. Quam cum
+          prae<lb ed="#A" n="4" break="no"/>cesserint aliquanto interuallo Socrates, Hieronymus,
+          Epi<lb ed="#A" n="5" break="no"/>phanius, Leo, qui non vxores modo ducere, verumetiam
+          <lb ed="#A" n="6"/>cum his quas duxissent ante susceptos sacros ordines rem
+          <lb ed="#A" n="7"/>habere sacerdotibus etiam orientalibus licitum non esse
+          <lb ed="#A" n="8"/>scripserunt: non potest ostendi tempus vllum, quo vel
+          orien<lb ed="#A" n="9" break="no"/>talium, vel quarumcunque aliarum ecclesiarum sacerdotibus
+          <lb ed="#A" n="10"/>matrimonium inire fas fuerit, ficulneum vt plane sit
+          prae<lb ed="#A" n="11" break="no"/>sidium hoc Philippi, quo nititur ad incoestas magistri sui
+          <lb ed="#A" n="12"/>nuptias defendendas. Iam illud quam ridiculum, quam
+          <lb ed="#A" n="13"/>ineptum, quam prorsus puerile, quod adfertur ex Nicolae
+          <lb ed="#A" n="14"/>Papa de matricida quodam, cui dum poenitentia praescri
+          <lb ed="#A" n="15"/>bitur, a propria &amp; legitima coniuge non separari iubetur,
+          <lb ed="#A" n="16"/>quem fuisse sacerdotem ex eo colligere volunt, quod
+          obla<lb ed="#A" n="17" break="no"/>tiones facere prohibetur. Quasi vero soli sint sacerdotes
+          <lb ed="#A" n="18"/>qui oblationes offerant, aut quasi non sit oblatio praeter
+          <lb ed="#A" n="19"/>eam de qua superius scripsimus, qua semet ipsum in ara
+          cru<lb ed="#A" n="20" break="no"/>cis Christus obtulit, cuius repraesentatio fit per
+          sacerdo<lb ed="#A" n="21" break="no"/>tem in altari. Poterat iste Theologus, iuris vtriusque con
+          <lb ed="#A" n="22"/>sultus, Grammaticus, Rhetor, Medicus, Geometer,
+          Alyp<lb ed="#A" n="23" break="no"/>tes, Augur, Schaenobates, &amp; quid non poterat ex illo ipso
+          <lb ed="#A" n="24"/>decretorum libro, in quo tam diligenter versatus esse
+          vi<lb ed="#A" n="25" break="no"/>deri vult, hoc quoque legisse, quod profert Gratianus ex
+          <lb ed="#A" n="26"/>Gregorio: Quod omnis Christianus procuret ad missa
+          <lb ed="#A" n="27"/>rum solennia aliquid Deo offerre, &amp; ducere ad memoria
+          <lb ed="#A" n="28"/>quod Deus per Mosen dixit. Non apparebis in conspectu
+          <lb ed="#A" n="29"/>meo vacuus; atque inde discere, suas etiam Laicos
+          obla<lb ed="#A" n="30" break="no"/>tiones habere, quas offerant ad altare, quas etiam apud
+          <lb ed="#A" n="31"/>Catholicos nunc offerri videmus, &amp; fuit hic vsus offeren
+          <lb ed="#A" n="32"/>di antiquissimus. Ab hoc genus oblationibus offerendis
+          <lb ed="#A" n="33"/>repellebantur poenitentes, qualis fuit iste matricida,
+          repel<lb ed="#A" n="34" break="no"/>lebantur fratres dissidentes, tum qui pauperem
+          oppressis<lb ed="#A" n="35" break="no"/>sent, qui sacrilegium commisissent, &amp; vi seruum suum ad
+          <lb ed="#A" n="36"/>ecclesiam profugum extraxissent, raptores, vsurarii,
+          me<lb ed="#A" n="37" break="no"/>retrices, &amp; aliorum atrocium criminum affines,
+          quemad<lb ed="#A" n="38" break="no"/>modum XC. distinctione, multis canonibus allegatis,
+          <lb ed="#A" n="39"/>glossator indicat. Non ergo statim sacerdos est, si quis ob
+          <lb ed="#A" n="40"/>lationem offert, quod non viris magis quam faeminis licet,
+          <lb ed="#A" n="41"/>modo ne sint ex earum numero quarum oblationes
+          reci<lb ed="#A" n="42" break="no"/>pere vetitum est.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e2442">
+          Hinc videre licet quam anxie quaerendo,
+          <pb ed="#A" n="173-v"/>
+          <lb ed="#A" n="1"/>quam nihil inuenire possint nouatores isti quo
+          demon<lb ed="#A" n="2" break="no"/>strent, aliquando sacerdotibus matrimonia contrahere
+          li<lb ed="#A" n="3" break="no"/>cuisse. Quanta est autem ista temeritas, quod per mille quin
+          <lb ed="#A" n="4"/>gentos annos nunquam in Ecclesia catholica licuisse
+          le<lb ed="#A" n="5" break="no"/>gitur, id nunc demum licitum vt sit sacerdotibus,
+          conten<lb ed="#A" n="6" break="no"/>dere? cum tempus multo iam sit breuius, quam fuit illud
+          <lb ed="#A" n="7"/>quo Paulus etiam eos qui haberent vxores voluit esse
+          tan<lb ed="#A" n="8" break="no"/>quam non habentes. Manifestum ergo iam est
+          sacerdoti<lb ed="#A" n="9" break="no"/>bus in Ecclesia Catholica neque licuisse vnquam neque nunc
+          <lb ed="#A" n="10"/>etiam licere matrimonia contrahere. Quod vero adfertur
+          <lb ed="#A" n="11"/>ex Paulo: Oportet Episcopum vnius vxoris esse virum, id
+          <lb ed="#A" n="12"/>ad excludendos bigamos a Sacerdotio dictum esse sancti
+          <lb ed="#A" n="13"/>patres omnes vno ore testantur, quemadmodum apud Ter
+          <lb ed="#A" n="14"/>tullianum, Origenem, Chrysostomum, Epiphanium, Hie
+          <lb ed="#A" n="15"/>ronymum, Ambrosium, Augustinum, Leonem, Theophi
+          <lb ed="#A" n="16"/>lactum, &amp; alios videre licet: Illud autem perridiculum, quod
+          <lb ed="#A" n="17"/>ex his Pauli verbis colligere volunt, non fuisse sed est
+          <lb ed="#A" n="18"/>pportere Episcopum vnius vxoris virum, atque eum
+          libe<lb ed="#A" n="19" break="no"/>ros etiam actu habentem, vt nisi se strenuum vereque
+          mascu<lb ed="#A" n="20" break="no"/>lum in illis procreandis praestiterit, parum fit idoneus qui
+          <lb ed="#A" n="21"/>Episcopi munus obeat. Quorum a sententiam recipimus,
+          <lb ed="#A" n="22"/>non erit Sacerdos &amp; Episcopus Christus, non Paulus ipsi
+          <lb ed="#A" n="23"/>qui haec scripsit, non Ioannes Euangelista, de quo
+          indubi<lb ed="#A" n="24" break="no"/>tatum est virginem fuisse, non aliiquidam Apostoli, qui
+          <lb ed="#A" n="25"/>coelibes fuisse leguntur, non Titus, non Timotheus, non
+          <lb ed="#A" n="26"/>Dionysius, non Ignacius, non Basilias, non Chrysostomus.
+          <lb ed="#A" n="27"/>non innumeri alii Sacerdotes &amp; Episcopi, quos omnes vt
+          <lb ed="#A" n="28"/>aliarum virtutum ita castitatis &amp; cominentiae laude
+          cumpri<lb ed="#A" n="29" break="no"/>mis celebres fuisse legimus. Quic hac vna re dici potest
+          <lb ed="#A" n="30"/>absurdius? Reclamant huic sentenae omnes omni
+          aeta<lb ed="#A" n="31" break="no"/>tum viri doctissimi sanctissimique so Latini magis quam
+          <lb ed="#A" n="32"/>ipsi Graeci. Ac primum Eusebius: Oportet enim, dicit
+          ser<lb ed="#A" n="33" break="no"/>mo diuinus, Episcopum vnius vxoris virum esse: verunta
+          <lb ed="#A" n="34"/>men eos qui sacrati sunt, atque in D ministerio occupari,
+          <lb ed="#A" n="35"/>continere deinceps seipsos ab vxeris commercio decet,
+          <lb ed="#A" n="36"/>Epiphanius contra Montanistas scibens: Vnas, inquit,
+          <lb ed="#A" n="37"/>nuptias honorat Ecclesia, etiamsi maxime Sacerdoti
+          do<lb ed="#A" n="38" break="no"/>na per eos qui ab vnius etiam nupiis se continuerunt, &amp;
+          <lb ed="#A" n="39"/>in virginitate vitam degunt se ornsse prae expressit, velut
+          <lb ed="#A" n="40"/>etiam Apostoli ipsius Ecclesiastican Sacerdotii regulam
+          <lb ed="#A" n="41"/>ordinate ac sancte constituerunt. Etalio loco: Vertex
+          au<lb ed="#A" n="42" break="no"/>tem horum omnium aut mater, vt ta dicam, est sanctum
+          <pb ed="#A" n="174-r"/>
+          <lb ed="#A" n="1"/>Sacerdotium, ex virginibus quidem vt plurimum
+          proce<lb ed="#A" n="2" break="no"/>dens, si vero non ex virginibus, at solitariam vitam
+          de<lb ed="#A" n="3" break="no"/>gentibus, si vero non suffecerint ad ministerium
+          solita<lb ed="#A" n="4" break="no"/>tiam vitam degentes, de his qui continent a propriis
+          vxo<lb ed="#A" n="5" break="no"/>ribus, aut ab vnis nuptiis viduitatem seruantibus: nam
+          <lb ed="#A" n="6"/>eum qui secundas nuptias contraxit, non licet ad
+          sacer<lb ed="#A" n="7" break="no"/>dotium fuscipere. Ioannes Chrysostomus: Tito dicit
+          <lb ed="#A" n="8"/>Paulus, constitue Episcopos sicut ego disposui tibi, si quis
+          <lb ed="#A" n="9"/>est sine crimine, &amp; vnius vxoris viri non ea ratione quod
+          <lb ed="#A" n="10"/>id nunc in Ecclesia obseruetur, oportet enim omni
+          pror<lb ed="#A" n="11" break="no"/>sus castitate Sacerdotem ornatum esse. Idem in
+          episto<lb ed="#A" n="12" break="no"/>lam ad Timotheum: Non hoc velut sanciens dicit
+          Apo<lb ed="#A" n="13" break="no"/>stolus, quasi non liceat absque vxore Episcopum fieri, sed
+          <lb ed="#A" n="14"/>eius rei modum constituens. In eandem sententiam
+          Grae<lb ed="#A" n="15" break="no"/>cus ille scholiastes: vnius vxoris virum. Non de hoc
+          le<lb ed="#A" n="16" break="no"/>gem fert, vt vxorem omnino habeat Episcopus: sed si sit,
+          <lb ed="#A" n="17"/>inquit, ex mundanis, ne sit tamen is qui secundis se
+          nup<lb ed="#A" n="18" break="no"/>tiis implicauerit, vel vt nouerit vnam vxorem esse
+          legiti<lb ed="#A" n="19" break="no"/>mam ad ea praestanda, quae debent inuicem coniuges
+          iu<lb ed="#A" n="20" break="no"/>re matrimonii. Posteaquam vero vocatus ad
+          Episcopa<lb ed="#A" n="21" break="no"/>tum fuerit, illud impleat quod a Paulo scriptum est, vt sint
+          <lb ed="#A" n="22"/>qui habent vxores tanquam non habentes. Et: Volo
+          om<lb ed="#A" n="23" break="no"/>nes esse sicut &amp; ego. Neque dissidet ab his Theophilactus.
+          <lb ed="#A" n="24"/>quinetiam ducenti viginti septem patres, de quibus paulo
+          <lb ed="#A" n="25"/>ante meminimus, qui in Trullo conuenientes Canones
+          <lb ed="#A" n="26"/>ediderunt, inter caeteros hunc etiam conscripserunt:
+          Vxo<lb ed="#A" n="27" break="no"/>eius qui ad Episcopalem dignitatem promotus est, simul
+          <lb ed="#A" n="28"/>vt is electus &amp; consecratus fuerit, communi sui viri
+          con<lb ed="#A" n="29" break="no"/>sensu prius separata, postquam in Episcopum ordinatus
+          <lb ed="#A" n="30"/>est ac consecratus, monasterium ingrediatur, quod ab
+          <lb ed="#A" n="31"/>aedibus Episcopi procul absit. Quid hi tot sancti patres,
+          <lb ed="#A" n="32"/>tam excellenti doctrina praediti, nunquid Pauli locum
+          <lb ed="#A" n="33"/>hunc, de eo quod Episcopus vnius vxoris vir sit, non
+          in<lb ed="#A" n="34" break="no"/>tellexisse iudicandi sunt? per quos nulli vnquam
+          Episco<lb ed="#A" n="35" break="no"/>po esse licuit nisi aut virgini, aut cuius vxor
+          communi<lb ed="#A" n="36" break="no"/>consensu Deo continentiam suam dicasset, quod etiam
+          <lb ed="#A" n="37"/>num apud Graecos &amp; Ruthenos obseruari videmus, qui
+          <lb ed="#A" n="38"/>quamuis plus aliquid Sacerdotibus permittant, neque eos
+          <lb ed="#A" n="39"/>ab vxoribus suis separent, quas ante Sacerdotium
+          duxe<lb ed="#A" n="40" break="no"/>runt, tamen Episcopos non ordinant, nisi vel virgines, vel
+          <lb ed="#A" n="41"/>continentes. Quorsum autem attinet Latinorum quoque
+          <lb ed="#A" n="42"/>super hunc Pauli locum interpretationes adducere? quos
+          <pb ed="#A" n="174-v"/>
+          <lb ed="#A" n="1"/>nunquam eum aliter intellexisse recepta totius Ecclesiae
+          <lb ed="#A" n="2"/>consuetudo manifestum facit: Ne quis tamen de eo
+          ambi<lb ed="#A" n="3" break="no"/>gat, ex multis paucorum testimonia proferemus. Extat
+          ep<lb ed="#A" n="4" break="no"/>stola Syricii, ante annos mille ducentos prope scripta,
+          <lb ed="#A" n="5"/>cuius haec verba sunt: Forte quaeritur, quia scriptum est
+          <lb ed="#A" n="6"/>vnius vxoris virum: non permanenti in concupiscentia
+          <lb ed="#A" n="7"/>generandi dixit, sed propter continentiam futuram, neque
+          <lb ed="#A" n="8"/>enim integros non admisit qui ait, vellem autem omnes
+          <lb ed="#A" n="9"/>homines se esse sicut &amp; ego. Quae verba repetit ad Exupe
+          <lb ed="#A" n="10"/>rium scribens, qui post Anastanum successit Innocentius.
+          <lb ed="#A" n="11"/>Hieronymus quoque: Non dicit Apposiolus Paulus:
+          Eliga<lb ed="#A" n="12" break="no"/>tur Episcopus qui ducat vnam vxorem &amp; filios faciat, sed
+          <lb ed="#A" n="13"/>qui vnam habuerit: vxorem. Et aliquanto post: vnius
+          vxo<lb ed="#A" n="14" break="no"/>ris virum, qui vnam vxorem habuerit, non habeat. Et
+          Am<lb ed="#A" n="15" break="no"/>brosius ad Vercellensem scribens Ecdesiam, vnius vxoris
+          <lb ed="#A" n="16"/>virum esse praecipit Episcopum, non quo exortem excludat
+          <lb ed="#A" n="17"/>coniugii, nam hoc supra legem praecepti est, sed vt
+          coniu<lb ed="#A" n="18" break="no"/>gali castimonia seruet ablutionis sue gratiam, neque
+          ite<lb ed="#A" n="19" break="no"/>rum vt filios in Sacerdotio creare Apostolica inuitetur
+          <lb ed="#A" n="20"/>autoritate, habentem enim dixit filios, non facientem. Ex
+          <lb ed="#A" n="21"/>eo apparet, Apostolicam hanc esse traditionem, continen
+          <lb ed="#A" n="22"/>tes vt sint Sacerdotes, praesertim autem Episcopii: ac totis
+          <lb ed="#A" n="23"/>mille quingentis annis nunquam alit in vniuersa totius
+          <lb ed="#A" n="24"/>orbis Christiani Ecclesia obseruatum fuisse. Quis igitur
+          <lb ed="#A" n="25"/>dubitabit, qui quidem sanae sit menti, quin totius
+          Eccle<lb ed="#A" n="26" break="no"/>siae sensum &amp; consensum sequatur potius, quam vt
+          Mar<lb ed="#A" n="27" break="no"/>tinos audiat, ventris &amp; Veneris impidentissimos
+          patro<lb ed="#A" n="28" break="no"/>nos? qui dum suos incestos ac nefarius concubitus, omni
+          <lb ed="#A" n="29"/>religione spreta &amp; conculcata, deferdere moliuntur, ne
+          <lb ed="#A" n="30"/>ipsi in pietatem peccasse videantur, in item in quod se
+          prae<lb ed="#A" n="31" break="no"/>cipitauerunt impietatis baratrum, reliquos etiam quos
+          <lb ed="#A" n="32"/>possunt omnes, remis, velis, manibus ac pedibus obnixe
+          <lb ed="#A" n="33"/>pertrahere conantur.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e2705">
+          Verum adfertur aliud ex Paulo
+          te<lb ed="#A" n="34" break="no"/>lum: Qui non continent nubant: meius est enim nubere
+          <lb ed="#A" n="35"/>quam vri. Sed hoc quoque modo sanus adsit verborum
+          in<lb ed="#A" n="36" break="no"/>tellectus facile retunditur. Hoc dictum, ait Ambrosius, ad
+          <lb ed="#A" n="37"/>non pollicitam pertinet, ad nondum latam:
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e2717">
+          Caeterum quae
+          <lb ed="#A" n="38"/>se spopondit Christo, &amp; sanctum velimen assumpsit, iam
+          <lb ed="#A" n="39"/>nupsit, iam immortali iuncta est viro, &amp; iam si voluerit
+          nu<lb ed="#A" n="40" break="no"/>bere communi lege coniugii, adulterium perpetrat, ancilla
+          <lb ed="#A" n="41"/>mortis efficitur. Photius enarrans illus: Si nupserit virgo
+          <lb ed="#A" n="42"/>non peccat. Virginem, inquit, hic intelligit, non illam Deo
+          <pb ed="#A" n="175-r"/>
+          <lb ed="#A" n="1"/>consecratam, sed innuptam puellam: illa enim quae Deo
+          <lb ed="#A" n="2"/>iam conscerata sit, si nupserit, adulterum introducit
+          Chri<lb ed="#A" n="3" break="no"/>sto cui nupta est. Ad eundem modum haec Pauli verba
+          in<lb ed="#A" n="4" break="no"/>terpretati sunt ante Photium Epiphanius Graecus, &amp;
+          Hie<lb ed="#A" n="5" break="no"/>ronymus atque Augustinus Latini, vt ad Sacerdotes &amp;
+          eo<lb ed="#A" n="6" break="no"/>qui continentiam suam Deo vouerunt minime referri
+          pos<lb ed="#A" n="7" break="no"/>sint. Cum dixisset, inquit Augustinus, quod si se non
+          con<lb ed="#A" n="8" break="no"/>tinet nubat: melius est enim nubere quam vri non dixit,
+          <lb ed="#A" n="9"/>melius est mochari quam vri. Moechatur autem quisquis
+          <lb ed="#A" n="10"/>post votum factum continentiae, ducit vxorem.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e2754">
+          Quam<lb ed="#A" n="11" break="no"/>obrem necesse est vt alia quaerant remedia, nimirum ea qui
+          <lb ed="#A" n="12"/>bus vsus est Paulus, qui castigauit corpus suum, &amp; in
+          serui<lb ed="#A" n="13" break="no"/>tutem redegit, necesse est vt occasiones omnes fugiant, vt
+          <lb ed="#A" n="14"/>vigiliis, ieiuniis, laboribus carnem atterant. Postquam
+          ve<lb ed="#A" n="15" break="no"/>ro fecerint omnia, quae ad frenanda carnis desideria
+          perti<lb ed="#A" n="16" break="no"/>nere visa fuerint, nihil sibi tribuant, verum omnem de suis
+          <lb ed="#A" n="17"/>viribus fiduciam prorsus abiicientes, in eo solo spem suam
+          <lb ed="#A" n="18"/>positam &amp; defixam habeant, cuius hoc donum est, de quo
+          <lb ed="#A" n="19"/>cum scripserit Propheta: Quod prope est omnibus inuo
+          <lb ed="#A" n="20"/>cantibus se, cum ipse etiam dixerit: Perite &amp; dabitur
+          vo<lb ed="#A" n="21" break="no"/>bis, omnis qui petit accipit, quoniam impossibile est men
+          <lb ed="#A" n="22"/>riri Deum, accedam cum fiducia ad thronum gratiae eius
+          <lb ed="#A" n="23"/>precentur eum supplices in fide nihil haesitantes, facere non
+          <lb ed="#A" n="24"/>poterit benignus &amp; misericors Deus, quin ita precantes
+          <lb ed="#A" n="25"/>exaudiat. Sic fecisse Paulum legimus, cui &amp; ipsi cum datus
+          <lb ed="#A" n="26"/>esset stimulus carnis qui eum colaphizaret, non ad
+          nuptia<lb ed="#A" n="27" break="no"/>rum remedium sibi confugiendum esse putauit, sed cum
+          <lb ed="#A" n="28"/>ter esset dominum deprecatus, posteaquam audiuit,
+          suffi<lb ed="#A" n="29" break="no"/>cit tibi gratia mea nam virtus in infirmitate perficitur,
+          il<lb ed="#A" n="30" break="no"/>lius gratia fretus fortiter contra stimulum carnis
+          pugna<lb ed="#A" n="31" break="no"/>uit, &amp; in ea pugna superior euasit. Sic Hieronymum, sic
+          <lb ed="#A" n="32"/>Benedictum, sic Bernardum, sic sexcentos alios quos
+          enu<lb ed="#A" n="33" break="no"/>merare longam foret, fecisse nobis narrant historiae.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e2806">
+          Quam<lb ed="#A" n="34" break="no"/>obrem non hoc solum remedium datum est his qui
+          ten<lb ed="#A" n="35" break="no"/>tantur libidine, statim vt vxores ducant. Quid enim si
+          <lb ed="#A" n="36"/>quam semel duxerunt, eius propter diuturnam &amp;
+          insana<lb ed="#A" n="37" break="no"/>bilem aegritudinem nullus sit vsus? Quid si longius
+          ma<lb ed="#A" n="38" break="no"/>ritus abesse cogatur, vel quod legatione fungatur, vel
+          mi<lb ed="#A" n="39" break="no"/>litiae, vel mercatus gratia, vel captiuitate separatus, vel
+          <lb ed="#A" n="40"/>quacunque tandem alia ex causa, num statim sibi dictum
+          <lb ed="#A" n="41"/>putabit, melius est nubere quam vri, &amp; ad quamcunque ciui
+          <lb ed="#A" n="42"/>tatem peruenerit, aliam atque aliam vxorem ducet? Quid
+          <pb ed="#A" n="175-v"/>
+          <lb ed="#A" n="1"/>si illicita animositate vxor continere voluerit, nunquid
+          <lb ed="#A" n="2"/>erunt admittenda incontinentium murmura, &amp;
+          permitten<lb ed="#A" n="3" break="no"/>da adulteria? Scimus hoc permisum ab istis incestarum
+          <lb ed="#A" n="4"/>nuptiarum authoribus &amp; propugnatoribus, a quibus etiam
+          <lb ed="#A" n="5"/>libelli scripti sunt, polygamiam approbantes.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e2841">
+          Verum ea res
+          <lb ed="#A" n="6"/>in Ecclesia Christi magnae semperfuit abominationi.
+          Cae<lb ed="#A" n="7" break="no"/>terum quorum Deus venter est, &amp; qui diligenter colunt
+          <lb ed="#A" n="8"/>quae sub ventre sunt, nihil pensi hibent; non eos
+          religio<lb ed="#A" n="9" break="no"/>non eos honestariis publicae ratio monet quicquam,
+          dum<lb ed="#A" n="10" break="no"/>modo libidinem suam incestam expleant. Fuerunt
+          Augu<lb ed="#A" n="11" break="no"/>stini temporibus qui dicerent: Siquis dimisisset vxorem
+          <lb ed="#A" n="12"/>causa fornicationis, licere sibi superstite illa aliam ducere,
+          <lb ed="#A" n="13"/>quod melius foret ubere quam vri.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e2861">
+          Caeterum Augustinus
+          ne<lb ed="#A" n="14" break="no"/>quaquam id licere contendit, &amp; eiusmodi non esse
+          coniu<lb ed="#A" n="15" break="no"/>gia sed adulteria dicit. Quamobrem non vult, vt nuptiis
+          in<lb ed="#A" n="16" break="no"/>continentiae suae medeantur, sed suadet, vt toto potius
+          con<lb ed="#A" n="17" break="no"/>tinentiae facto supplicent Deo, quo donum eis praestet
+          conti<lb ed="#A" n="18" break="no"/>nentiae. Neque carnalis infirmitatis excusationem admittit,
+          <lb ed="#A" n="19"/>sed muliebrem illis castitatem imitandam proponit, quae cum
+          <lb ed="#A" n="20"/>aeque carnem habeant vt viri, taletamen aliquid illis
+          viri<lb ed="#A" n="21" break="no"/>licere nolunt? Cum, inquit, a foeminis vtique carnem
+          haben<lb ed="#A" n="22" break="no"/>tibus tantam flagitant castitatem, vt quando ab vxoribus
+          <lb ed="#A" n="23"/>diutissime peregrinantur, velint eis ab adulterino
+          concu<lb ed="#A" n="24" break="no"/>bitu intaminatas feruorem transim iuuentutis, &amp; plurimae
+          <lb ed="#A" n="25"/>pudicissime transigunt, &amp; maxime Syrae, quarum mariti
+          ne<lb ed="#A" n="26" break="no"/>gotiandi questibus occupati, iuueres adolescentulas dese
+          <lb ed="#A" n="27"/>runt, &amp; vix aliquando senes ad aiculas reuertuntur: eo
+          <lb ed="#A" n="28"/>ipso euidentius conuincunt, non se impossibile, quod se
+          <lb ed="#A" n="29"/>non posse causantur. Si enim hocnon posset infirmitas
+          vi<lb ed="#A" n="30" break="no"/>rorum, multominus id posset sexis infirmior foeminarum.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e2900">
+          <lb ed="#A" n="31"/>Vnde istos qui virilem excellentiam non putant nisi
+          peccan<lb ed="#A" n="32" break="no"/>di licentiam quando terremus ne adilterinis coniugiis
+          hae<lb ed="#A" n="33" break="no"/>rendo perrant in aeternum: solemuscis proponere etiam
+          con<lb ed="#A" n="34" break="no"/>tinentiam clericorum, qui plerunque id eandem sarcinam
+          sub<lb ed="#A" n="35" break="no"/>eundam capiuntur inuiti, eamque susceptam vsque ad debitum
+          <lb ed="#A" n="36"/>finem domino adiuuante perducunt. Picimus ergo eis: Quid
+          <lb ed="#A" n="37"/>si &amp; vos ad hoc subeundum populorum violentia capere
+          <lb ed="#A" n="38"/>mini? nonne susceptum casti custodretis officium? Sed hic
+          <lb ed="#A" n="39"/>quaeritur ab istis, vtrum sit melius illigatum voto
+          continen<lb ed="#A" n="40" break="no"/>tiae fornicari, an matrimonium contuere? Quasi vero vbi
+          <lb ed="#A" n="41"/>vtrunque malum esset, ibi possit alte utrum esse melius, aut
+          <lb ed="#A" n="42"/>quasi non multos videre liceat, qui cui alligati voto continen
+          <pb ed="#A" n="176-r"/>
+          <lb ed="#A" n="1"/>tiae matrimonium contraxissent, nihilo continentiores fuerunt
+          <lb ed="#A" n="2"/>quam videre nonnullos licet, in Catholica caelibatum profel
+          <lb ed="#A" n="3"/>sos. Possemus nos quoque non pauca istorum incontinentia
+          <lb ed="#A" n="4"/>exempla producere, sed qui vixit inter eos Erasini Rotero
+          <lb ed="#A" n="5"/>dami testimonium adferre malumus, sic enim ille loquitur
+          <lb ed="#A" n="6"/>scribens ad fratres inferioris Germaniae. Efferunt
+          honora<lb ed="#A" n="7" break="no"/>bile coniugium &amp; thorum immaculatum, sed innui nonnullos
+          <lb ed="#A" n="8"/>Euangelicos (nam in genere loquutus sum) nihilo castius
+          <lb ed="#A" n="9"/>colere coniugium quam catholicos. Iubent me proferre fabu
+          <lb ed="#A" n="10"/>las. Quid attinet cum vulgo narrentur, negat esse
+          notissi<lb ed="#A" n="11" break="no"/>ma cum falsa sint, &amp; tamen ipse fatetur de duobus. Ego no
+          <lb ed="#A" n="12"/>ui monachum qui pro vna duxerit tres, noui sacrificum,
+          vi<lb ed="#A" n="13" break="no"/>rum alioqui probum, qui duxit vxorem, quam post
+          compe<lb ed="#A" n="14" break="no"/>rit alteri nupsisse. Similia permulta de monachorum &amp;
+          mo<lb ed="#A" n="15" break="no"/>nacharum conuigiis referuntur, qui ductas repudiarunt
+          eo<lb ed="#A" n="16" break="no"/>dem iure quo duxerant. Iam an inter Euangelicos minus
+          <lb ed="#A" n="17"/>indulgeatur libidini, an non minus sit adulteriorum? Quid
+          <lb ed="#A" n="18"/>Argentorati fiat nescio, quid alibi compertum sit, mecum
+          no<lb ed="#A" n="19" break="no"/>uit populus: Iam vt donemus istis Euangelii praeconibus
+          <lb ed="#A" n="20"/>esse fas vxores ducere, quis non iure admiretur ouiculas
+          <lb ed="#A" n="21"/>mactationi destinatas nihil in hoc mundo quaerentes
+          prae<lb ed="#A" n="22" break="no"/>ter Christi gloriam, tot curis districtos, tot afflictionibus
+          <lb ed="#A" n="23"/>obnoxios, quibus accedit &amp; paupertas, onus tum miserum,
+          <lb ed="#A" n="24"/>tum graue, non posse viuere sine vxoribus, quos tam multi
+          <lb ed="#A" n="25"/>ob leuiores causas, aut non ducunt, aut ductas nollent. At
+          <lb ed="#A" n="26"/>istis omnis tragoedia exit in catastrophen comicam, vbi con
+          <lb ed="#A" n="27"/>tigit vxor, occinitur, valete &amp; plaudite. Quae malum est ista
+          <lb ed="#A" n="28"/>tanta salacitas, quam tot mala non possunt excutere? vnde
+          <lb ed="#A" n="29"/>tanta rebellio in his, qui se iactant agi spiritu Christi? Haec
+          <lb ed="#A" n="30"/>Erasmus. Reprehenditur a Philippo Pighius, qui non
+          ve<lb ed="#A" n="31" break="no"/>re magis quam pie scriptum reliquit: minus peccare
+          sacer<lb ed="#A" n="32" break="no"/>dotem, qui ex infirmitate carnis in fornicationem sit
+          pro<lb ed="#A" n="33" break="no"/>lapsus, quam qui nuptias contraxit. Turpis illi videtur
+          <lb ed="#A" n="34"/>haec oratio: contra catholicis honestissima. Probat autem
+          <lb ed="#A" n="35"/>hoc Pighius verbis his a simili: Tu vide, inquit, quis peior
+          <lb ed="#A" n="36"/>seruus est, an qui grauatus seruitio fortasse, negligentius
+          <lb ed="#A" n="37"/>aut incautius agens cadit sub onere, an qui iugum in totum
+          <lb ed="#A" n="38"/>proiicit? Qui peior discipulus, an qui ex praescripto ediscit
+          <lb ed="#A" n="39"/>non quidem vniuersum, quod forte potuisset nisi crapula
+          <lb ed="#A" n="40"/>&amp; somno securius indulsisset, tamen partem: an qui scholam
+          <lb ed="#A" n="41"/>prorsus deserit? Quid in hac oratione turpe? quid non pisi
+          <lb ed="#A" n="42"/>potius &amp; honestum? Non dicit Pighius, bonum est formicari:
+          <pb ed="#A" n="176-v"/>
+          <lb ed="#A" n="1"/>quod si diceret, turpis esset oratio, sed dicit minus malum
+          <lb ed="#A" n="2"/>esse, quam spreta &amp; conculcata iuris iurandi religione
+          nu<lb ed="#A" n="3" break="no"/>bere. Quod non modo Pighio, sed Paulo etiam
+          Aposto<lb ed="#A" n="4" break="no"/>lo tam graue visum est flagitium, vt etiam velle nubere
+          vo<lb ed="#A" n="5" break="no"/>to obligatis damnabile esse diceret. Quid restat igitur
+          <lb ed="#A" n="6"/>aliud, quam vt Pauli orationem turpem esse dicat
+          Philip<lb ed="#A" n="7" break="no"/>pus, qui quod isti fingunt prohibendo nubere doctrinas
+          <lb ed="#A" n="8"/>densoniorum docuerit, docens non modo nubere,
+          verum<lb ed="#A" n="9" break="no"/>etiam velle nubere contra fidem iureiurando
+          interposi<lb ed="#A" n="10" break="no"/>tam, esse damnabile?
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3047">
+          Sed quid in re sit qua de agitur
+          vi<lb ed="#A" n="11" break="no"/>deamus. Quaerunt, plus ne mali sit in nuptiis, an in
+          forni<lb ed="#A" n="12" break="no"/>catione eorum, qui se voto continentiae alligarunt? An
+          <lb ed="#A" n="13"/>istis non recte Comici verbis responderi poterit? Quas
+          <lb ed="#A" n="14"/>tu credis esse has, non sunt verae nuptiae: sunt incesta
+          adul<lb ed="#A" n="15" break="no"/>teria. Sic a Cypriano, sic ab Hieronymo, sic ab Ambrosio,
+          <lb ed="#A" n="16"/>sic a Basilio, Chrysostomo, Photio, sic ab aliis viris piis &amp;
+          <lb ed="#A" n="17"/>doctis vocari legimus. Quam igitur boni rationem habere
+          <lb ed="#A" n="18"/>potest incestum adulterium? Contrahat nuptias qui
+          nul<lb ed="#A" n="19" break="no"/>la est voti religione obstrictus, libenter cum Paulo
+          dice<lb ed="#A" n="20" break="no"/>mus, honorabile connubium &amp; thorus immaculatus: sed
+          <lb ed="#A" n="21"/>si contrahat sacerdos aut monachus, quid aliud recte
+          dice<lb ed="#A" n="22" break="no"/>re possumus, quam abominabile adulterium, &amp; thorus
+          in<lb ed="#A" n="23" break="no"/>cestu contaminatus? sic enim appellant eiusmodi nuptias
+          <lb ed="#A" n="24"/>sancti doctores quorum supra meminimus. Ac ne quis de
+          <lb ed="#A" n="25"/>eo dubitet, libet etiam eorum verba subscribere: ac
+          Cy<lb ed="#A" n="26" break="no"/>priani quidem Ambrosii, Photii, iam commemorauimus.
+          <lb ed="#A" n="27"/>Hieronymi vero verba sunt haec Virgines quae post
+          con<lb ed="#A" n="28" break="no"/>secrationes nupserunt, non tam adulterae sunt quam
+          ince<lb ed="#A" n="29" break="no"/>stae. Basilius vero pluribus ea de re verbis disserit, quae vel
+          <lb ed="#A" n="30"/>ob hanc causam huic libello visum est inserere, vt planum
+          <lb ed="#A" n="31"/>omnibus fieret, quod fuerit sanctorum patrum de
+          Marti<lb ed="#A" n="32" break="no"/>norum nuptiis iudicium. Horrendum vocat ille
+          sacrile<lb ed="#A" n="33" break="no"/>gium, si quis sub ministri nomine &amp; habitu, Christi
+          spon<lb ed="#A" n="34" break="no"/>sae adulter efficitur. Cum enim, inquit, virginitatem
+          do<lb ed="#A" n="35" break="no"/>mino professae sint, carnali postmodum voluptate male
+          <lb ed="#A" n="36"/>blandae, delinitae ac deuictae, stupri scelus honesto coniugij
+          <lb ed="#A" n="37"/>nomine obtegere cupiunt. Non ignorant huiusmodi, quae
+          <lb ed="#A" n="38"/>sponsi dextram &amp; foedera praeuaricata sit, eam nec illius
+          vi<lb ed="#A" n="39" break="no"/>tra esse sponsam, quem nequitiae dans manus dereliquit,
+          <lb ed="#A" n="40"/>neque eius vxorem per vllas leges dici posse, cui se deserto
+          <lb ed="#A" n="41"/>sponso libidine incitata coniunxit. Ac paulo post: Non
+          <lb ed="#A" n="42"/>se fallat, inquit, qui a virginitatis curriculo ad carnis vitia
+          <pb ed="#A" n="177-r"/>
+          <lb ed="#A" n="1"/>deflexit, coniugium quippe illi in peccatum reputabitur:
+          <lb ed="#A" n="2"/>primum quidem, quia pessimum huius coniunctionis
+          fun<lb ed="#A" n="3" break="no"/>damentum voluptatem iecit praeuaricationisque malum: dein
+          <lb ed="#A" n="4"/>de, quia causa non est libera, neque est enim mortuus
+          vi<lb ed="#A" n="5" break="no"/>eius vt cuiuis nubat, viuente immortali viro, merito
+          cense<lb ed="#A" n="6" break="no"/>tur adultera, quae mortalem hominem ob carnis vitia
+          do<lb ed="#A" n="7" break="no"/>mini talanis intulit. Nam quod solenne legitimumque
+          con<lb ed="#A" n="8" break="no"/>nubium sponsus ille occuparit, &amp; virginitatis habitus, &amp;
+          <lb ed="#A" n="9"/>foedera, &amp; conuenta cum illo, &amp; praeterea processus ipse
+          te<lb ed="#A" n="10" break="no"/>statur, huiusmodi quippe nobilitata viro processit in
+          pu<lb ed="#A" n="11" break="no"/>blicum.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3145">
+          Porro si connubium istud &amp; processu, &amp; testibus,
+          <lb ed="#A" n="12"/>cunctis denique iudiciis illustre &amp; apertum est, nec est vir
+          <lb ed="#A" n="13"/>eius mortuus, moechatur quae huiusmodi admittit scelus,
+          <lb ed="#A" n="14"/>viuente viro semper adultera. Nec sane video qua ratione,
+          <lb ed="#A" n="15"/>imo quo sacrilegio ipsa pro immortali viro Dei filio
+          mo<lb ed="#A" n="16" break="no"/>talem hominem in malum suum ambire praesumat, ante
+          <lb ed="#A" n="17"/>viri oculos in ipsum impuris ac nequissimis semper ample
+          <lb ed="#A" n="18"/>xibus impia? quo item furore homo ille cubile domini
+          <lb ed="#A" n="19"/>conscenderet, ac violare non uetuat? Nempe ex rebus hu
+          <lb ed="#A" n="20"/>manis eorum qui sic delinquunt poenas coniectare
+          possu<lb ed="#A" n="21" break="no"/>mus. Quaeso, quo cruciatu digna censeretur mulier, quae
+          <lb ed="#A" n="22"/>nobili coniuncta viro, seruo suo seipsam violandam
+          impu<lb ed="#A" n="23" break="no"/>dice substerneret, ac seruum insidiose nequiterque domini
+          <lb ed="#A" n="24"/>thoris inueheret? Qua vero poena dignus est seruus, qui
+          <lb ed="#A" n="25"/>in dominam suam dominique cubile seipsum petulanter
+          im<lb ed="#A" n="26" break="no"/>misit? Sed enim vafrae istae quid faciunt? quae tantum
+          im<lb ed="#A" n="27" break="no"/>pietatis contra seipsas per carnis flagitia admittere non
+          me<lb ed="#A" n="28" break="no"/>tuerunt? Non modo non lachrymantur aut ingemiscunt,
+          <lb ed="#A" n="29"/>vt vel lachrymis remittant peccatum suum, leuioresque
+          susci<lb ed="#A" n="30" break="no"/>piant poenas, verum virginitatem insuper quam antea
+          pro<lb ed="#A" n="31" break="no"/>fessae fuerant, abnegant, quippe virginitatis limites
+          trans<lb ed="#A" n="32" break="no"/>gredi, vt voluptatibus inseruiatur turpissimum esse,
+          ple<lb ed="#A" n="33" break="no"/>numque dedecoris non ignorantes huiusmodi negatione,
+          <lb ed="#A" n="34"/>maiore scilicet scelere, virginitatem solari sese arbitrantur
+          <lb ed="#A" n="35"/>amissam, homines misere &amp; infeliciter eligunt, sub quibus
+          <lb ed="#A" n="36"/>ad excusationem praeuaricationis abnegent quod fuerant,
+          <lb ed="#A" n="37"/>ante pollicitae, nec dominum metuunt cum quo
+          foedera<lb ed="#A" n="38" break="no"/>castitatis inierant, cuique dederant dextras, eo quod in
+          <lb ed="#A" n="39"/>malorum profunda deciderint. Ignorant miserae, quia
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3208">
+          <lb ed="#A" n="40"/>apud Deum &amp; apud homines contra se crimen exaggerant.
+          <lb ed="#A" n="41"/>cum hi quidem ex praecedente cunctisque cognito
+          virginita<lb ed="#A" n="42" break="no"/>tis instituto, quod se illae professas esse negant, vesaniam
+          <pb ed="#A" n="177-v"/>
+          <lb ed="#A" n="1"/>summamque impudentiam auersentur atque oderint.
+          Chri<lb ed="#A" n="2" break="no"/>stus vero praeter violata virginitatis fodera huiusmodi
+          <lb ed="#A" n="3"/>negationem, quam vice poenitentiae patrocinium criminis
+          <lb ed="#A" n="4"/>sumunt, acrius ac seuerius suo illo iudicio vindicet.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3228">
+          Itaque
+          <lb ed="#A" n="5"/>ne specioso charitatis nomine virgo in hoc peccati
+          bara<lb ed="#A" n="6" break="no"/>trum corruat, charitatem puram omnique mortali
+          affectio<lb ed="#A" n="7" break="no"/>ne liberam sumat. Neque enim prolapsae ad voluptatem
+          <lb ed="#A" n="8"/>quicquam ad excusationem proderit vmbra solariumque
+          <lb ed="#A" n="9"/>connubii: neque viuentem virum sub praetextu coniugii
+          <lb ed="#A" n="10"/>non soluta circumuenire aut fallere poterit, cui mortalem
+          <lb ed="#A" n="11"/>hominem post eximios illos quos ab illo perceperat
+          ho<lb ed="#A" n="12" break="no"/>nores impie per adulterii nefas in honore praetulerit. Nec
+          <lb ed="#A" n="13"/>sane incongrue his qui sunt eiusmodi illud apostolicum
+          <lb ed="#A" n="14"/>aptari potest: Quoniam quum fornicatae a Christo
+          fue<lb ed="#A" n="15" break="no"/>rint, nubere volunt, habentes damnationem, quoniam
+          pri<lb ed="#A" n="16" break="no"/>mam fidem irritam fecerunt: non coniugium, sed
+          adulte<lb ed="#A" n="17" break="no"/>rium male consummantes. Nullus itaque seruus ad id impie
+          <lb ed="#A" n="18"/>tatis erumpat, vt sponsam domini contingere audeat;
+          <lb ed="#A" n="19"/>nullus adeo insanus ac sacrilegus sit, vt immaculatam ho
+          <lb ed="#A" n="20"/>stiam impudicis manibus tractet: nemo in tantum
+          auda<lb ed="#A" n="21" break="no"/>ciae temeritatisque prosiliat, vt eiusmodi vltionem
+          facrile<lb ed="#A" n="22" break="no"/>gis impendere consyderans, non vasa in anima ex auri
+          a<lb ed="#A" n="23" break="no"/>gentique materia claborata, sed animata ipsa &amp; viua
+          dona<lb ed="#A" n="24" break="no"/>ria latronis more profanis manibus temerare atque
+          inco<lb ed="#A" n="25" break="no"/>stare praesumat: imo vero nullus adeo impius, atrox,
+          in<lb ed="#A" n="26" break="no"/>purusque sit, vt non inanimata templi vasa, sed ipsum
+          do<lb ed="#A" n="27" break="no"/>mini templum, virgineum scilicet corpus, ipsamque
+          om<lb ed="#A" n="28" break="no"/>nium pretiosissimam animam in templo Dei sacratissimi
+          <lb ed="#A" n="29"/>donarii vice locatam, libidinis facibus barbarica
+          imma<lb ed="#A" n="30" break="no"/>nitate succendat.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3287">
+          Verum &amp; si sponte sua se virgo sponsi
+          fe<lb ed="#A" n="31" break="no"/>dera transgressa substernat, cunctaque simul &amp; templum, &amp;
+          <lb ed="#A" n="32"/>donaria, &amp; charitatem sponsi, communionemque ac
+          socie<lb ed="#A" n="33" break="no"/>tatem regni, pernitiosae voluptatis gratia confundere
+          at<lb ed="#A" n="34" break="no"/>que calcare nitatur, noli huiusmodi ad scelus vti, neque te
+          <lb ed="#A" n="35"/>peccati communione commacules. Quod si te renuente
+          <lb ed="#A" n="36"/>alii se virgo in matrimonii consortium tradiderit, ille po
+          <lb ed="#A" n="37"/>nas sceleris luat, tu te mundum atque integrum serua, ne
+          <lb ed="#A" n="38"/>sceleris impii in dominum particeps fias. Oportet, inquit,
+          <lb ed="#A" n="39"/>filium hominis tradi, vae autem illi per quem tradetur, vtile
+          <lb ed="#A" n="40"/>illi esset si natus non fuisset. Nonne de illa pari ratione
+          iu<lb ed="#A" n="41" break="no"/>dicabitur, quae virginitatem ante professa, postmodum
+          po<lb ed="#A" n="42" break="no"/>nitens, fruendae voluptatis gratia mortali se viro
+          immun<pb ed="#A" n="178-r"/><lb ed="#A" n="1" break="no"/>la coniunxit? Et si dixerit, oportet me viro coniungi in
+          <lb ed="#A" n="2"/>matrimonium, quemadmodum oportebat filium
+          homi<lb ed="#A" n="3" break="no"/>iis tradi, verum ve illi per quem illa sponsi foedera
+          trans<lb ed="#A" n="4" break="no"/>gressa, suam impleuerit impura libidinem: vtilius fuerat
+          <lb ed="#A" n="5"/>(audeo dicere) homini illi non esse natum, quam socium
+          <lb ed="#A" n="6"/>tanti in dominum flagitii damnari. Non audis quoniam
+          <lb ed="#A" n="7"/>qui dimissam duxerit mochatur. Etsi enim, inquit, pro cul
+          <lb ed="#A" n="8"/>pa dimissa est, viuit tamen vir eius.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3334">
+          Quid ergo dimissam
+          <lb ed="#A" n="9"/>perturbas? cur &amp; spatium non das, vt &amp; de his agat
+          peni<lb ed="#A" n="10" break="no"/>tentiam, quorum gratia dimissa est, &amp; vir a se dimissae po
+          <lb ed="#A" n="11"/>nam emendationemque miseratus ad se rursus proprium
+          <lb ed="#A" n="12"/>reuocet membrum? Quid emendandi se spatium
+          praeri<lb ed="#A" n="13" break="no"/>pis vinente viro sic dimissam ducens Permitte aut ad vi
+          <lb ed="#A" n="14"/>uentem virum remeare meliorem factam mulierem, aut
+          <lb ed="#A" n="15"/>certe cum neque vidua, neque vxor sit, pro remissione culpa
+          <lb ed="#A" n="16"/>qua peccauit in virum, semper poenas dare. Tu cur
+          ante<lb ed="#A" n="17" break="no"/>quam peccatum suum, pro quo dimissa est, plane intelligere
+          <lb ed="#A" n="18"/>possit, eam ad coniugium rapiens, impudentiorem ad sce
+          <lb ed="#A" n="19"/>lera deinceps facis? nempe viuente viro alienam adulteras
+          <lb ed="#A" n="20"/>coniugem, facilemque illi ad nequitiam reditum per
+          connu<lb ed="#A" n="21" break="no"/>bium pandis.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3366">
+          Si autem qui dimissam a mortali viro
+          du<lb ed="#A" n="22" break="no"/>cit, adulter atque impius est, qui immortalis viri sponsam
+          <lb ed="#A" n="23"/>nunquam dimissam violare praesumit, multo profecto fu
+          <lb ed="#A" n="24"/>nestius adulter atque impius erit. Haec aduersus Martinos
+          <lb ed="#A" n="25"/>Basilius, ac plura etiam, nisi quod longum esset omnia
+          ad<lb ed="#A" n="26" break="no"/>scribere, quae ideo pluribus verbis in hunc locum
+          trans<lb ed="#A" n="27" break="no"/>scribenda duximus, vt quae fuerit sanctorum patrum de
+          <lb ed="#A" n="28"/>incestis eiusmodi nuptiis sententia, cunctis constare simul
+          <lb ed="#A" n="29"/>illud planum omnibus fieri posset, non primum fuisse
+          Pi<lb ed="#A" n="30" break="no"/>ghium, qui tolerabilius esse peccatum dixerit, voto
+          obli<lb ed="#A" n="31" break="no"/>gatum ex infirmitate carnis cadere, quam nuptias
+          contra<lb ed="#A" n="32" break="no"/>here: cum hoc expressis verbis a Basilio dictum videamus.
+          <lb ed="#A" n="33"/>qui maius esse scelus dicit, negationem virginitatis,
+          nup<lb ed="#A" n="34" break="no"/>tiasque contractas quam lapsum virginis.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3397">
+          Sed Ioannem quoque
+          <lb ed="#A" n="35"/>Chrysostomum eadem de re disserentem audiamus: Bonum
+          <lb ed="#A" n="36"/>quidem, inquit, nuptias &amp; ipse confiteor: honorabiles
+          nupti<lb ed="#A" n="37" break="no"/>&amp; cubile immaculatum, fornicatores autem &amp; adulteros iu
+          <lb ed="#A" n="38"/>dicat Deus: sed te iam seruare non conuenit priuilegia
+          nu<lb ed="#A" n="39" break="no"/>ptiarum, angelorum enim societate semel iunctum illud
+          relin<lb ed="#A" n="40" break="no"/>quere, &amp; vxoris laqueis implicari, adulterii crimen
+          incur<lb ed="#A" n="41" break="no"/>rere est, quamuis frequenter hoc ipsum nuptias voces, ego
+          ta<lb ed="#A" n="42" break="no"/>men &amp; adulterio illud tanto peius affirmo, quanto maior ad
+          <pb ed="#A" n="178-v"/>
+          <lb ed="#A" n="1"/>melior mortalibus angelus. Neque vllus tibi forte
+          persuase<lb ed="#A" n="2" break="no"/>rit licens, nihil de non accipienda vxore Dominus
+          praece<lb ed="#A" n="3" break="no"/>pit. Nec me ignorare confiteor quod adulterium interdixit,
+          <lb ed="#A" n="4"/>non nuptias vetuit: verum in te adulterii nomen accipiet
+          <lb ed="#A" n="5"/>si volueris vnquam, quod absit, nuptias cogitare. Et quid
+          <lb ed="#A" n="6"/>mirum si nuptiae tales vbi offenditur Deus, adulterio
+          compa<lb ed="#A" n="7" break="no"/>rantur? majus longe audies. Homicida, iustorum laude
+          do<lb ed="#A" n="8" break="no"/>natur: &amp; misericors plusquam homicida punitur, quoniam
+          <lb ed="#A" n="9"/>hoc vetante fit domino, illud volente. Et Phinees quidem
+          <lb ed="#A" n="10"/>ad iustitiam reputatum est, quod impudicum cum turpi
+          <lb ed="#A" n="11"/>foemina virum vno gladio percussisset. Saulem autem
+          Sa<lb ed="#A" n="12" break="no"/>muel sanctus Dei, in luctibus lachrymis, precibusque perno
+          <lb ed="#A" n="13"/>ctans, damnatione, cui illum addixerat Deus, liberare
+          <lb ed="#A" n="14"/>non potuit, quando hostium ducem, quem debuerat tru
+          <lb ed="#A" n="15"/>cidare inuito parcendum credidit Deo. Cum haec ita sint,
+          <lb ed="#A" n="16"/>stupere desiste: si nuptiae peiores adulterio iudicantur.
+          <lb ed="#A" n="17"/>quoties Christus offenditur.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3456">
+          Sed Augustinus, aiunt,
+          vi<lb ed="#A" n="18" break="no"/>tae sanctitate &amp; doctrina istis minime inferior, nec
+          adul<lb ed="#A" n="19" break="no"/>teros vocari vult, qui post votum nupserint, &amp; qui tales
+          <lb ed="#A" n="20"/>diuidant grauiter peccare asserit. Cuius haec verba
+          pro<lb ed="#A" n="21" break="no"/>feruntur non sicut ab illo scripta, sed sicut a Gratiano
+          <lb ed="#A" n="22"/>sunt in decretorum librum relata: qui citat haec verba ex
+          <lb ed="#A" n="23"/>Augusno de bono coniugali: Quidam nubentes post
+          <lb ed="#A" n="24"/>votum asserunt adulteros esse: ego autem dico vobis quod
+          <lb ed="#A" n="25"/>grauiter peccant, qui tales diuidunt. Quid si in eo libro
+          <lb ed="#A" n="26"/>scripta non reperiuntur? Quid si ne in libro quidem de
+          <lb ed="#A" n="27"/>bono viduitatis his verbis? Quid si liber is de bono
+          vi<lb ed="#A" n="28" break="no"/>duitatis Augustini non est, verum Iuliani potius,
+          quemad<lb ed="#A" n="29" break="no"/>modum annotatum ab Erasmo legimus? quid si palam
+          Au<lb ed="#A" n="30" break="no"/>gustini sententiae aduersatur locus hic? cuius haec verba
+          <lb ed="#A" n="31"/>alibi leguntur: Virgo quae si nuberet non peccaret:
+          sancti<lb ed="#A" n="32" break="no"/>monialis si nupserit Christi adultera reputabitur. Nunquid
+          <lb ed="#A" n="33"/>ipse sibi contra dicit Augustinus? nunquid vnius huius quam
+          <lb ed="#A" n="34"/>omnium aliorum, quam etiam sua ipsius alio in loco valere
+          <lb ed="#A" n="35"/>debet authoritas?
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3498">
+          Sed nos tamen dabimus hoc
+          Gratia<lb ed="#A" n="36" break="no"/>no, cuiuscunque sit authoris liber hic, vt parem tamen ac si
+          <lb ed="#A" n="37"/>ab Augustino scriptus esset authoritatem &amp; pondus habeat,
+          <lb ed="#A" n="38"/>modo vt verba illius, non truncatim excerpta, sed quo
+          <lb ed="#A" n="39"/>melius cognosci sententia possit, paulo altius repetita
+          di<lb ed="#A" n="40" break="no"/>ligentius excutiantur. Dixerat is in praecedente capite: Quae
+          <lb ed="#A" n="41"/>se non continent nubant, antequam continentiam
+          profi<lb ed="#A" n="42" break="no"/>teantur, antequam Deo voucant, quod nisi reddant iure
+          <pb ed="#A" n="179-r"/>
+          <lb ed="#A" n="1"/>lamnantur, Alio quippe loco de talibus dicit, quum enim
+          <lb ed="#A" n="2"/>In delitiis egerint, in Christo nubere volunt, habentes dam
+          <lb ed="#A" n="3"/>hationem, quoniam primam fidem irritam fecerunt, id est,
+          <lb ed="#A" n="4"/>voluntatem ad nuptias a proposito continentiae
+          deflexe<lb ed="#A" n="5" break="no"/>runt. Irritam quippe fecerunt fidem quam prius vouerant,
+          <lb ed="#A" n="6"/>quod perseuerantia implere noluerunt. Mox paucis inter
+          <lb ed="#A" n="7"/>lectis in proxime sequenti capite: Quoniam, inquit, sicut
+          <lb ed="#A" n="8"/>ait Dominus, non omnes capiunt verbum hoc quae
+          po<lb ed="#A" n="9" break="no"/>test ergo capere capiat, quae se non continet nubat, quae non
+          <lb ed="#A" n="10"/>coepit deliberet, quae aggressa est perseueret, nulla
+          aduersa<lb ed="#A" n="11" break="no"/>rio datur occasio, nulla Christo subtrahatur oblatio. In
+          <lb ed="#A" n="12"/>coniugali quippe vinculo si pudicitia conseruatur,
+          damna<lb ed="#A" n="13" break="no"/>tio non timetur: sed in viduali &amp; virginali continentia,
+          <lb ed="#A" n="14"/>excellentia muneris amplioris repetitur, qua expetita &amp;
+          <lb ed="#A" n="15"/>electa &amp; voti debito oblata, iam non solum non
+          capesse<lb ed="#A" n="16" break="no"/>re nuptias, sed etiam si non nubatur, nubere velle
+          damna<lb ed="#A" n="17" break="no"/>bile est. Nam vt hoc demonstraret Apostolus, non ait, cum
+          <lb ed="#A" n="18"/>in delitiis egerint in Christo nubunt, sed nubere volunt,
+          <lb ed="#A" n="19"/>habentes, inquit, damnationem, quoniam primam fidem
+          <lb ed="#A" n="20"/>irritam fecerunt, etsi non nubendo, sed tamen volendo,
+          <lb ed="#A" n="21"/>non quia ipsae nuptiae vel talium damnande iudicantur,
+          <lb ed="#A" n="22"/>sed damnatur propositi fraus, damnatur fracta voti fides,
+          <lb ed="#A" n="23"/>damnatur non susceptio a bono inferiori, sed ruina ex
+          bo<lb ed="#A" n="24" break="no"/>no superiori. Postremo damnantur tales, non quia
+          coniu<lb ed="#A" n="25" break="no"/>galem fidem posterius inierunt, sed quia continentiae
+          pri<lb ed="#A" n="26" break="no"/>mam fidem irritam fecerunt: quod vt breuiter insinuaret
+          <lb ed="#A" n="27"/>Apostolus, noluit eas dicere habere damnationem quae
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3576">
+          <lb ed="#A" n="28"/>post amplioris sanctitatis propositum nubunt, non quia
+          <lb ed="#A" n="29"/>non damnentur, sed ne in eis ipsae nuptiae damnari
+          puta<lb ed="#A" n="30" break="no"/>rentur. Sed cum dixisset, nubere volunt, continuo addidit.
+          <lb ed="#A" n="31"/>habentes damnationem, &amp; dixit quare: Quoniam primam
+          <lb ed="#A" n="32"/>fidem irritam fecerunt, vt voluntatem quae a proposito ce
+          <lb ed="#A" n="33"/>cidit appareat esse damnatam, siue subsequantur nuptiae,
+          <lb ed="#A" n="34"/>siue desint. Ac paucis interiectis: Quapropter non possum
+          <lb ed="#A" n="35"/>quidem dicere a proposito meliore lapsas foeminas si
+          nup<lb ed="#A" n="36" break="no"/>serint, adulteria esse non coniugia: sed plane non
+          cogitaue<lb ed="#A" n="37" break="no"/>rim dicere, lapsus &amp; ruinas a castitate sanctiore quae voue
+          <lb ed="#A" n="38"/>tur Deo, adulteriis esse peiores. Si enim quod nullo
+          mo<lb ed="#A" n="39" break="no"/>do dubitandum est, ad offensionem Christi pertinet cum
+          <lb ed="#A" n="40"/>membrum eius fidem non seruat marito, quanto grauius
+          <lb ed="#A" n="41"/>offenditur in eo quod exigit oblatum, qui non exegerat,
+          <lb ed="#A" n="42"/>offerendum? Nunquid autem haec cuiuscunque tandem
+          <pb ed="#A" n="179-v"/>
+          <lb ed="#A" n="1"/>scriptoris verba pro te faciunt? qui falli putat eos, qui
+          ta<lb ed="#A" n="2" break="no"/>lium nuptias non esse nuptias, sed potius adulteria dicunt,
+          <lb ed="#A" n="3"/>&amp; fieri per opinionem hanc non paruum malum, vt a
+          ma<lb ed="#A" n="4" break="no"/>ritis separarentur vxores. Dedimus hoc Gratiano, vt
+          quan<lb ed="#A" n="5" break="no"/>uis haec Iuliani potius, Pelagii sectatoris, contra quem
+          scri<lb ed="#A" n="6" break="no"/>psit Augustinus, quam Augustini censen possint, non
+          mi<lb ed="#A" n="7" break="no"/>nus tamen authoritatis habere patiamur, quam si citra
+          <lb ed="#A" n="8"/>dubitationem vllam ab ipso Augustino essent prolata,
+          <lb ed="#A" n="9"/>Da tu vicissim eidem Gratiano, quem toties in libro tuo
+          <lb ed="#A" n="10"/>testem citas, vt quo ille sensu haec dixisse vult
+          Augusti<lb ed="#A" n="11" break="no"/>num, eo accipi velis, &amp; erit omnis controuersia sublata
+          <lb ed="#A" n="12"/>Sic autem prolatis in vtramque partem authoritatibus
+          non<lb ed="#A" n="13" break="no"/>nullis, loquitur Gratianus: Hic distinguendum est, quod
+          <lb ed="#A" n="14"/>vouentium alii sunt simpliciter vouentes, de quibus
+          Au<lb ed="#A" n="15" break="no"/>gustinus &amp; Theodorus loquuti sunt: alii sunt quibus
+          <lb ed="#A" n="16"/>post votum benedictio accedit consecrationis, vel
+          proposi<lb ed="#A" n="17" break="no"/>tum religionis, de quibus Hieronymus, Nicolaus, &amp;
+          Ca<lb ed="#A" n="18" break="no"/>lixtus scripserunt.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3652">
+          Neque vero solus Gratianus, verum &amp;
+          <lb ed="#A" n="19"/>Petrus Lombardus, quem omnis postea Theologorum
+          <lb ed="#A" n="20"/>est schola sequuta, hoc inter simplex siue priuatum &amp;
+          so<lb ed="#A" n="21" break="no"/>lenne votum discrimen posuerunt, vt hoc matrimonium
+          <lb ed="#A" n="22"/>contractum dirimeret, illud vero non. Vides igitur, quod
+          <lb ed="#A" n="23"/>qua tu vis ex parte, nihil haec verba pro te faciunt? Vbi ve
+          <lb ed="#A" n="24"/>ro dicitur, lapsus &amp; ruinas eiusmodi esse adulteriis
+          prio<lb ed="#A" n="25" break="no"/>res, aperte Pighii sententia confirmatur. In quem dum tu
+          <lb ed="#A" n="26"/>facis impetum, clarissima dei ciuitatis lumina sub illius
+          <lb ed="#A" n="27"/>nomine lacerare, &amp; quae sectari fideliter debebas, ea non
+          <lb ed="#A" n="28"/>dubitas hostiliter insectari, dum non contentus cum
+          Phi<lb ed="#A" n="29" break="no"/>lippo turpem hanc esse Pighii orationem dicere, minus
+          <lb ed="#A" n="30"/>malum esse si fornicetur alligatus voto continentiae quam
+          <lb ed="#A" n="31"/>si nuptias contrahat, blasphemam insuper vocas. Scilicet,
+          <lb ed="#A" n="32"/>blasphemi sunt Cyprianus, Hieronymus, Ambrosius,
+          Au<lb ed="#A" n="33" break="no"/>gustinus, Basilius, Chrysostomus, de quibus non
+          doctri<lb ed="#A" n="34" break="no"/>nae magis quam sanctimoniae tam excellens est apud
+          om<lb ed="#A" n="35" break="no"/>nes opinio, quam late patet orbis Christianus? His tu
+          ta<lb ed="#A" n="36" break="no"/>libus viris ore blasphemo tam horribile crimen obiicere
+          <lb ed="#A" n="37"/>audes? Fortasse vim vocis huius ignoras? Si scholam
+          <lb ed="#A" n="38"/>Xenocratis sicut Polemo ex antelucano conuiuio
+          temu<lb ed="#A" n="39" break="no"/>lentus intrasses, non tanta, quanta in isto coetu tot
+          sancto<lb ed="#A" n="40" break="no"/>rum deberes verecundia coerceri. Hic enim certe tanto
+          <lb ed="#A" n="41"/>maior debet esse verecundia, quanto verior addiscitur
+          sa<lb ed="#A" n="42" break="no"/>pientia. Tanto amplius reuerendi sunt tot
+          venerabi<pb ed="#A" n="180-r"/><lb ed="#A" n="1" break="no"/>lium Episcoporum, quam vnius Xenocratis vultus:
+          <lb ed="#A" n="2"/>quanto Platone Xenocratis doctore, doctor istorum
+          ma<lb ed="#A" n="3" break="no"/>ior est Christus. Nunc tu vide quam illis reuerentiam
+          <lb ed="#A" n="4"/>tribuas, qui non tam antelucano conuiuio temulentus,
+          <lb ed="#A" n="5"/>quam insano conuitio turbulentus eos blasphemos
+          vo<lb ed="#A" n="6" break="no"/>care non vereris, in quibus Christum ipsum loqui
+          dubi<lb ed="#A" n="7" break="no"/>tandum non est. Neque enim Pighii, verum istorum est,
+          <lb ed="#A" n="8"/>quam tu blasphemam vocas, sententia: qui iam inde a mil
+          <lb ed="#A" n="9"/>le &amp; amplius annis pro columnis Ecclesiae sunt habiti,
+          ip<lb ed="#A" n="10" break="no"/>si sunt qui nuptias eorum qui continentiae voto sunt
+          alli<lb ed="#A" n="11" break="no"/>gati, &amp; adulteria vocant, &amp; adulteriis esse peiores
+          affir<lb ed="#A" n="12" break="no"/>mant. Quis autem qui non grauius esse crimen iudicet
+          <lb ed="#A" n="13"/>adulterii quam fornicationis? Sed fac vtrumque esse
+          adul<lb ed="#A" n="14" break="no"/>terium, siue ducat vxorem alligatus voto continentiae,
+          si<lb ed="#A" n="15" break="no"/>ue fornicetur. Nunquid non grauius est quod quis ex pro
+          <lb ed="#A" n="16"/>posito dataque opera committit, quam id quod ex humana
+          <lb ed="#A" n="17"/>sit infirmitate prolapsus? Nunquid quod perpetuum, quam
+          <lb ed="#A" n="18"/>quod intermittitur tamen, magis flagitiosum non est? Non
+          <lb ed="#A" n="19"/>sumus hi, qui sacerdotum &amp; monachorum
+          incontinen<lb ed="#A" n="20" break="no"/>tiae patrocinari velimus: procul a nobis absit haec tam
+          im<lb ed="#A" n="21" break="no"/>pura cogitatio, quin eos disciplina seueriore iuxta sancto
+          <lb ed="#A" n="22"/>rum Canonum sanctiones coercendos esse censemus.
+          <lb ed="#A" n="23"/>Quae quidem disciplina, per istud nuper natum
+          Euange<lb ed="#A" n="24" break="no"/>lium sic est multis in locis abolita, vix vt vllum iam
+          illi<lb ed="#A" n="25" break="no"/>us vestigium appareat.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3763">
+          Quamobrem clara voce
+          pronun<lb ed="#A" n="26" break="no"/>tiamus ingens esse flagitium &amp; graui animaduersione
+          pu<lb ed="#A" n="27" break="no"/>niendum fornicationes &amp; concubinatus sacerdotum &amp;
+          <lb ed="#A" n="28"/>monachorum: sed interea tamen, non possumus
+          Augusti<lb ed="#A" n="29" break="no"/>ni, Basilii, Chrysostomi, ac aliorum sanctorum doctorum
+          <lb ed="#A" n="30"/>sententias non probare, qui nuptias istorum esse multo
+          <lb ed="#A" n="31"/>sceleratiores affirmant. Nam qui peccat ex prolapsione
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3779">
+          <lb ed="#A" n="32"/>carnis, agnoscit persaepe peccatum suum, &amp; eius
+          admis<lb ed="#A" n="33" break="no"/>si poenitet, quo fit, vt a patre misericordiarum, qui non
+          <lb ed="#A" n="34"/>vult mortem peccatoris, sed magis vt conuertatur &amp;
+          vi<lb ed="#A" n="35" break="no"/>uat, facilius misericordiam impetrare possit. At qui ducit
+          <lb ed="#A" n="36"/>vxorem, tantum abest, vt se peccasse confiteatur, vt
+          ali<lb ed="#A" n="37" break="no"/>quem ex eo dolorem animo concipiat, vt etiam
+          tan<lb ed="#A" n="38" break="no"/>quam Sodoma praedicet peccatum suum, vt glorietur in
+          <lb ed="#A" n="39"/>malitia qui potens est in iniquitate, vt virtutis etiam
+          nomi<lb ed="#A" n="40" break="no"/>ne palliare conetur. Nisi forte non palliat suum flagitium
+          vir<lb ed="#A" n="41" break="no"/>tutis nomine, qui, quod praeclara illa ciuitatis dei lumina
+          <lb ed="#A" n="42"/>non modo adulterium, verum &amp; incestum &amp;
+          sacrile<pb ed="#A" n="180-v"/><lb ed="#A" n="1" break="no"/>gium appellarunt, id honorabile onnubium &amp; thorum
+          <lb ed="#A" n="2"/>immaculatum dicere non pertimescunt. Quid est hoc aliud
+          <lb ed="#A" n="3"/>quam cum his quibus Propheta va sempiternum comum
+          <lb ed="#A" n="4"/>natur, dicere malum bonum, &amp; penere tenebras lucem?
+          <lb ed="#A" n="5"/>Quid est hoc aliud, quam in spirrum sanctum peccare,
+          <lb ed="#A" n="6"/>quod peccatum etiam ipse Christustam graue esse dicit,
+          <lb ed="#A" n="7"/>vt nec in hoc, nec in futuro seculo rimittatur.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3822">
+          Sed excutia
+          <lb ed="#A" n="8"/>mus adhuc rem diligentius. Quaerint quid mali sit in
+          nu<lb ed="#A" n="9" break="no"/>ptiis, quibus ipse Christus etiam interesse, &amp; eas primo
+          aedi<lb ed="#A" n="10" break="no"/>to miraculo honestare dignatus est quibus tot tam
+          praecla<lb ed="#A" n="11" break="no"/>ra Paulus tribuit elogia? Vicissim ab eis quaeramus licet:
+          <lb ed="#A" n="12"/>Quid est mali in salutando? quumhic communis vsus sit
+          <lb ed="#A" n="13"/>gratiae, &amp; tamen dixit Christus: Neminem salutaueritis
+          <lb ed="#A" n="14"/>in via. Non hic salutationis officium &amp; sedulitas aufertur,
+          <lb ed="#A" n="15"/>inquit Ambrosius, sed obstaculum impediendae
+          deuotio<lb ed="#A" n="16" break="no"/>nis amouetur, vt quando diuina mandantur, paulisper
+          se<lb ed="#A" n="17" break="no"/>questrentur humana. Pulchra est silutatio, sed pulchrior
+          <lb ed="#A" n="18"/>quo maturior diuinorum exequuto, quae per moram
+          sae<lb ed="#A" n="19" break="no"/>pe traxit offensam. Ideo autem &amp; lonesta prohibentur.
+          <lb ed="#A" n="20"/>ne solennis gratia obrepat officii, &amp; impediat
+          ministeri<lb ed="#A" n="21" break="no"/>um, cuius mora culpa sit. Quod de filutatione dixit
+          Am<lb ed="#A" n="22" break="no"/>brosius, hoc totidem verbis de nuptis dici potest. Quaera
+          <lb ed="#A" n="23"/>mus adhuc ex illis, quid mali fuit inarca sustentanda, quae
+          <lb ed="#A" n="24"/>minari ruinam visa est? an non pietas id potius videri po
+          <lb ed="#A" n="25"/>terat? &amp; tamen qui sustentauerat Ota indignante
+          Domi<lb ed="#A" n="26" break="no"/>no multatus est. Sic quod natura sia pium erat, ratione
+          <lb ed="#A" n="27"/>personae factis est impium. Quid mai est in adolendo
+          in<lb ed="#A" n="28" break="no"/>censo? Certe scribens ad Demophium Dionysius, nihil
+          <lb ed="#A" n="29"/>inconueniens fecisse regem existima, &amp; tamen qui facere
+          <lb ed="#A" n="30"/>id aggressus erat Osias rex, cum quos sacerdotum munus
+          <lb ed="#A" n="31"/>erat proprium, id vsurpare sibi conetur, lepra percussus
+          <lb ed="#A" n="32"/>moritur. Quid mali est in sacrificano? Proprius hic est
+          <lb ed="#A" n="33"/>dei cultus, &amp; illi soli debitus: Core timen, Dathan, &amp; Abi
+          <lb ed="#A" n="34"/>ron, cum id facere seorsim tentassent dirupta est terra sub
+          <lb ed="#A" n="35"/>pedibus eorum, &amp; aperiens os suun deuorauit eos cum
+          <lb ed="#A" n="36"/>tabernaculis suis, &amp; vniuersa substaria eorum,
+          descende<lb ed="#A" n="37" break="no"/>runtque viui in infernum operti huno: quin &amp; ignis
+          egre<lb ed="#A" n="38" break="no"/>sus a domino interfecit ducentos quiuaginta viros, qui
+          <lb ed="#A" n="39"/>offerebant incensum. Qua de re sic diquando scripsit
+          Ba<lb ed="#A" n="40" break="no"/>silius: Fieri potest, vt sit aliquid propria sua ratione, &amp;
+          <lb ed="#A" n="41"/>voluntas dei, &amp; bonum: quando vero praeter personae
+          <lb ed="#A" n="42"/>vel temporis rationem vsurpatur, ian Deo acceptum non
+          <pb ed="#A" n="181-r"/>
+          <lb ed="#A" n="1"/>sit. Vt exempli gratia: Voluntas dei erat, &amp; bonum erat,
+          <lb ed="#A" n="2"/>incensum offerre Deo: verum acceptum illi non erat, cum
+          <lb ed="#A" n="3"/>fieret a Dathan &amp; Abiron. Nihil igitur in arca
+          sustentan<lb ed="#A" n="4" break="no"/>da, nihil in adolendo incenso, nihil in sacrificando
+          mali<lb ed="#A" n="5" break="no"/>fuit, sed quoniam non ab his fiebat, a quibus factum opor
+          <lb ed="#A" n="6"/>ruit, quoniam in diuisione fiebat, a quae per se bona, quae
+          <lb ed="#A" n="7"/>sancta fuit res, quia non bene facta est, male facta est, &amp; in
+          <lb ed="#A" n="8"/>perniciem cessit his, a quibus fiebat. Sic &amp; nuptiae bona
+          <lb ed="#A" n="9"/>sunt, sed bonum quoque malum fit, si non bene fiat, si fiat
+          <lb ed="#A" n="10"/>ab his, a quibus fieri non oportet.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3924">
+          Quod si verum est quod
+          <lb ed="#A" n="11"/>a Gregorio scriptum legitur, quod peccata carnalia, maio
+          <lb ed="#A" n="12"/>ris quidem infamiae, sed minoris culpae sunt quam
+          spiri<lb ed="#A" n="13" break="no"/>tualia, quod adeo verum esse credit Augustinus, vt audeat
+          <lb ed="#A" n="14"/>dicere, quod superbis continentibus expedit cadere, vt in
+          <lb ed="#A" n="15"/>eo ipso in quo se extollunt humilientur. Chrysostomus
+          <lb ed="#A" n="16"/>autem inuidum scortatore, fure, homicida deteriorem
+          ef<lb ed="#A" n="17" break="no"/>se scribat. Quis dubitat affirmare, plus in nuptiis eorum
+          <lb ed="#A" n="18"/>esse culpae, qui voto continentiae sunt alligati, quam in for
+          <lb ed="#A" n="19"/>nicatione? Hoc enim carnis tantum est vitium, ibi vero car
+          <lb ed="#A" n="20"/>nis vitio simul adiunctum est illud, quod e spiritus vitiis
+          <lb ed="#A" n="21"/>vnum est omnium grauissimum, nimirum arrogantia,
+          si<lb ed="#A" n="22" break="no"/>quidem abominatio domino est omnis arrogans. Quae
+          <lb ed="#A" n="23"/>maior autem esse potest arrogantia, quam si quis hoc ipse
+          <lb ed="#A" n="24"/>sibi tribuat, vt se plus intelligere putet, quam omnes
+          om<lb ed="#A" n="25" break="no"/>nium aetatum homines, qui fuerunt ex eo tempore quo
+          <lb ed="#A" n="26"/>Christus homo fieri dignatus est, quibus visum est vnani
+          <lb ed="#A" n="27"/>miter omnibus, neque licere sacerdotibus vxores ducere,
+          <lb ed="#A" n="28"/>neque deesse alia praeter nuptias incontinentiae remedia,
+          <lb ed="#A" n="29"/>Haec arrogantia vna omnium maxime est Deo
+          abomina<lb ed="#A" n="30" break="no"/>bilis, haec primum hominem de paradiso deiecit, neque
+          <lb ed="#A" n="31"/>enim gustando pomo grauissime peccauerat, sed in hoc
+          <lb ed="#A" n="32"/>erat maximum, quod contra dei praeceptum venerat, quod
+          es<lb ed="#A" n="33" break="no"/>se sicut Deus volebat, quod serpentis consilium sequutus
+          <lb ed="#A" n="34"/>quid e re sua foret, se melius quam Deum intelligere sibi
+          per<lb ed="#A" n="35" break="no"/>suadebat, Haec Luciferum quoque de coelo deturbauit: Haec
+          <lb ed="#A" n="36"/>est quae schismata semper generauit, &amp; nunc generat.
+          Hu<lb ed="#A" n="37" break="no"/>ius fons est caecus amor sui, quando quis ita se, ita sua ido
+          <lb ed="#A" n="38"/>la, hoc est, commenta suarum opinionum amat, ita sibi ipsi
+          <lb ed="#A" n="39"/>placet, vt contemptis patrum sanctorum theorematis, sua
+          <lb ed="#A" n="40"/>illis theoremata non dubitanter anteponat.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e3992">
+          Hinc haereses
+          <lb ed="#A" n="41"/>&amp; schismata oriri Petrus etiam indicat cum dicit, eos esse
+          ma<lb ed="#A" n="42" break="no"/>xime cruciandos, qui post carnem in concupiscentia
+          immun<pb ed="#A" n="181-v"/><lb ed="#A" n="1" break="no"/>ditiae ambulant, dominationemque siue potestatem contem
+          <lb ed="#A" n="2"/>nunt, audaces, inquit, sibi placentes, sectas non meruunt
+          in<lb ed="#A" n="3" break="no"/>troducere. Cum enim sibi placeant, cum adeo seipsos ament,
+          <lb ed="#A" n="4"/>vt nihil nisi quod ipsi sentiunt rectum esse putent, ita fiunt
+          <lb ed="#A" n="5"/>in sententia sua pertinaces &amp; praefracti, vt ab eo quod
+          se<lb ed="#A" n="6" break="no"/>mel in animum induxerunt, nulla ratione deduci posse
+          vi<lb ed="#A" n="7" break="no"/>deantur. Hinc existunt postea sectae, sequuntur enim qui
+          <lb ed="#A" n="8"/>sunt hoc ingenio praediti, non quod vniuersae Ecclesiae, sed
+          <lb ed="#A" n="9"/>quod suo capiti videtur. Hinc aedificatur Babylon, quam
+          <lb ed="#A" n="10"/>aedificat, sicut ab Augustino scriptum est, amor sui. Nam
+          <lb ed="#A" n="11"/>dum quisque opinionem suam solitariam amat, &amp; eam
+          tue<lb ed="#A" n="12" break="no"/>tur mordicus, nec dimoueri se de ea patitur, fit Babylon
+          <lb ed="#A" n="13"/>fit confusio linguarum &amp; opinionum tanta, quantam nunc
+          <lb ed="#A" n="14"/>videre licet in ea Babylone, cuius primus architectus fuit
+          <lb ed="#A" n="15"/>Lutherus. Quando igitur quaeritur, plus ne vitii sit in nu
+          <lb ed="#A" n="16"/>ptiis an in fornicatione voto continentiae alligatorum: il
+          <lb ed="#A" n="17"/>lud in quaestionem venire videtur, maior ne sit schisinatis
+          <lb ed="#A" n="18"/>an fornicationis culpa. Neque dubitandum est, quin multo
+          <lb ed="#A" n="19"/>maior sit in schismate: quod Gyprianus tam graue crimi
+          <lb ed="#A" n="20"/>esse scribit, vt ne sanguine quidem expietur. Dauid
+          adul<lb ed="#A" n="21" break="no"/>terio iunxit homicidium, vtrumque tamen crimen
+          remis<lb ed="#A" n="22" break="no"/>sum est illi, simul vt confessus est: de Core, Dathan, &amp; Abi
+          <lb ed="#A" n="23"/>ron, nihil eius generis commemoratur, nullius criminis
+          <lb ed="#A" n="24"/>affines fuisse leguntur, quin vt scribit Cyprianus, eundem
+          <lb ed="#A" n="25"/>cum sacerdote Aaron &amp; Mose Deum nouerant, pari lege
+          <lb ed="#A" n="26"/>&amp; religione viuentes, vnum &amp; verum Deum, qui
+          colen<lb ed="#A" n="27" break="no"/>dus atque inuocandus fuerat, inuocabant, ob hoc solum
+          <lb ed="#A" n="28"/>facinus quodeorsum sacrificabant, quodque loci sui
+          mini<lb ed="#A" n="29" break="no"/>sterium transgressi, contra sacerdotem Aaron &amp;
+          Mosen<lb ed="#A" n="30" break="no"/>insurgentes, se ab illis segregauerant, diuinitus percussi,
+          <lb ed="#A" n="31"/>poenas statim pro illicitis conatibus penderunt.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e4067">
+          Itaque
+          <lb ed="#A" n="32"/>quod olim Donatistis dixit Augustinus: Non in
+          sacramen<lb ed="#A" n="33" break="no"/>tis, sed in praecisione virium est: hoc &amp; nos istis recte
+          dice<lb ed="#A" n="34" break="no"/>re possumus: non tantum in nuptiis voto continentiae
+          al<lb ed="#A" n="35" break="no"/>ligatorum, quantum in separatione crimen esse, quando
+          <lb ed="#A" n="36"/>quis seipsum separat a Christo: separat autem seipsum a
+          <lb ed="#A" n="37"/>Christo, quisquis ab eius corpore, quae est Ecclesia, se segre
+          <lb ed="#A" n="38"/>gat. Etenim totus Christus, quemadmodum ab Augusti
+          <lb ed="#A" n="39"/>no scriptum legimus, caput &amp; corpus est. Caput est vnige
+          <lb ed="#A" n="40"/>nitus Dei filius, &amp; corpus eius Ecclesia: sponsus &amp;
+          sponsa<lb ed="#A" n="41" break="no"/>duo in carne vna. Quicunque de ipso capite a scripturis
+          <lb ed="#A" n="42"/>sanctis dissentiunt, etiam si in omnibus locis inueniantur
+          <pb ed="#A" n="182-r"/>
+          <lb ed="#A" n="1"/>in quibus Ecclesia designata est, non sunt in Ecclesia. Et
+          <lb ed="#A" n="2"/>rursus: Quicunque de ipso capite scripturis sanctis
+          consen<lb ed="#A" n="3" break="no"/>riunt, &amp; vnitati Ecclesiae non communicant, non sunt in
+          <lb ed="#A" n="4"/>ecclesia, quia de Christi corpore quod est ecclesia, ab ipsius
+          <lb ed="#A" n="5"/>Christi testificatione dissentiunt. Verbi gratia: Qui non
+          <lb ed="#A" n="6"/>credunt Christum in carne venisse de virgine Maria
+          ex<lb ed="#A" n="7" break="no"/>semine Dauid, quod apertissime scriptura dei loquitur.
+          <lb ed="#A" n="8"/>aut in corpore ipso resurrexisse, in quo crucifixus &amp;
+          sepul<lb ed="#A" n="9" break="no"/>tus est: etiam si per omnes terras inueniantur, per quas est
+          <lb ed="#A" n="10"/>ecclesia, non vtique sunt in ecclesia, quia ipsum caput
+          eccle<lb ed="#A" n="11" break="no"/>siae non tenent, quod est Christus Iesus, nec in aliqua
+          diui<lb ed="#A" n="12" break="no"/>narum scripturarum obscuritate falluntur, sed notissimis
+          <lb ed="#A" n="13"/>&amp; apertissimis earum testimoniis contradicunt. Item, qui
+          <lb ed="#A" n="14"/>cunque credunt quidem, quod Christus Iesus, ita vt dictum
+          <lb ed="#A" n="15"/>est, in carne venerit, &amp; in eadem carne, in qua natus &amp; par
+          <lb ed="#A" n="16"/>sus est, resurrexerit, &amp; ipse sit filius dei, Deus apud Deum,
+          <lb ed="#A" n="17"/>&amp; cum patre vnum &amp; incommutabile verbum patris, per
+          <lb ed="#A" n="18"/>quod facta sunt omnia, sed tamen ab eius corpore, quod
+          <lb ed="#A" n="19"/>est ecclesia ita dissentiunt, vt eorum communio non sit cum
+          <lb ed="#A" n="20"/>toto, quacunque diffunditur, sed in aliqua parte separata
+          <lb ed="#A" n="21"/>inueniatur, manifestum est eos non esse in ecclesia.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e4142">
+          Ex his
+          <lb ed="#A" n="22"/>Augustini verbis discimus, quod quisquis vnitati ecclesiae
+          <lb ed="#A" n="23"/>non communicat, Christo non communicat: quod a
+          <lb ed="#A" n="24"/>Christo se separat, quisquis ab eius corpore sancta
+          Catho<lb ed="#A" n="25" break="no"/>lica Ecclesia se separat. Nunquid autem is
+          communica<lb ed="#A" n="26" break="no"/>nitati ecclesiae, qui, quod vno ore affirmant omnes, iam
+          <lb ed="#A" n="27"/>inde a mille quingentis annis, continentiae voto alligatis
+          <lb ed="#A" n="28"/>nuptias contrahere fas non esse, contra id venire, &amp;
+          con<lb ed="#A" n="29" break="no"/>trarium asserere audet? Nunquid non aperte a Christi
+          <lb ed="#A" n="30"/>corpore se praecidit, qui quod tam constanter Christi mei
+          <lb ed="#A" n="31"/>bra sancti Catholici &amp; Orthodoxi doctores omnes tot
+          <lb ed="#A" n="32"/>seculis docuerunt, id oppugnare non dubitat? Est non
+          <lb ed="#A" n="33"/>nemo, qui propterea minus peccare putat sacerdotem
+          si<lb ed="#A" n="34" break="no"/>ducet vxorem, quod non in aliud peccet, quam in legem
+          <lb ed="#A" n="35"/>Ecclesiae. Et citatur Augustinus, qui dixerit Gratiano
+          re<lb ed="#A" n="36" break="no"/>ferente: Copulam sacerdotalem vel consanguineorum,
+          <lb ed="#A" n="37"/>nec legali, nec Euangelica, vel Apostolica authoritate
+          <lb ed="#A" n="38"/>prohiberi: quum tamen neque scripserit hoc alicubi
+          Au<lb ed="#A" n="39" break="no"/>gustinus, neque ex Augustini, verum ex sua ipsius
+          senten<lb ed="#A" n="40" break="no"/>tia haec verba proferat Gratianus.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e4186">
+          Sed nos, si quis
+          dixe<lb ed="#A" n="41" break="no"/>rit Ecclesiastica lege copulam sacerdotalem interdici, cum
+          <lb ed="#A" n="42"/>eo tria verba non commutabimus. Nunquid autem qui
+          <pb ed="#A" n="182-v"/>
+          <lb ed="#A" n="1"/>contra legem eiusmodi venit ideo minus peccat, quia non
+          <lb ed="#A" n="2"/>in aliud quam in Ecclesiae legem peccat? Vis audire
+          quan<lb ed="#A" n="3" break="no"/>tum committat flagitium? Audi non Augustinum, non
+          <lb ed="#A" n="4"/>Hieronymum, non hominum quenquam, sed ipsum Deum
+          <lb ed="#A" n="5"/>&amp; hominem Christum huius peccati grauitatem demon
+          <lb ed="#A" n="6"/>strantem: Si non audierit, inquit, Ecclesiam, sit tibi tanquam
+          <lb ed="#A" n="7"/>Ethnicus &amp; Publicanus. Nunquid leue tibi videtur
+          cri<lb ed="#A" n="8" break="no"/>men Ethnicum esse? nunquid non multo grauius quam
+          <lb ed="#A" n="9"/>fornicatorem aut adulterum esse? Quid est autem
+          Eth<lb ed="#A" n="10" break="no"/>nicum esse, nisi infidelem esse? in Christum non
+          crede<lb ed="#A" n="11" break="no"/>re? Potest autem extra Christum spes esse salutis vlla
+          <lb ed="#A" n="12"/>Certe peccatum infidelitatis tantum esse vult Augustinus,
+          <lb ed="#A" n="13"/>vt sub hoc vno, quasi generali nomine, putet peccata
+          om<lb ed="#A" n="14" break="no"/>nia contineri. Et sicut cum dicimus, Apostolus, etiamsi non
+          <lb ed="#A" n="15"/>exprimatur quis Apostolus, non intelligitur tamen nisi
+          <lb ed="#A" n="16"/>Paulus: ita cum dicimus, peccatum, etiamsi non
+          exprima<lb ed="#A" n="17" break="no"/>tur quod peccatum, non intelligitur nisi infidelitas. Quod
+          <lb ed="#A" n="18"/>etiam illa Christi verba videntur indicare quum dicit de
+          <lb ed="#A" n="19"/>spiritu sancto: Ipse arguet mundum de peccato. Ac mox
+          <lb ed="#A" n="20"/>quasi exponens: de peccato quidem, quod non
+          credide<lb ed="#A" n="21" break="no"/>runt in me.
+        </p>
+        <p xml:id="ho8ccf-a2uiys-d1e4241">
+          Itaque tantum esse crimen infidelitatis vult
+          <lb ed="#A" n="22"/>Augustinus, vt etiam quae bona videntur opera, si fiant
+          <lb ed="#A" n="23"/>ab infideli, peccata esse doceat, quod omnis infidelium
+          <lb ed="#A" n="24"/>vita peccatum sit. Quod cum ita sit, cum Ecclesiam non
+          <lb ed="#A" n="25"/>audire sit Ethnicum &amp; infidellem esse, nunquid esse dubium
+          <lb ed="#A" n="26"/>cuiquam poterit, quin multo sit flagitium grauius in
+          Ec<lb ed="#A" n="27" break="no"/>clesiae contemptum, continentiae voto alligatis nubere
+          <lb ed="#A" n="28"/>quam vri? Certe nullum est vitium haeresi, schismate,
+          in<lb ed="#A" n="29" break="no"/>fidelitate deterius. Congerantur, inquit Erasmus, in vnum
+          <lb ed="#A" n="30"/>sacerdotem luxus, libido, ambitio, auaritia, &amp; si quid
+          prae<lb ed="#A" n="31" break="no"/>terea criminum est, omnem hanc vitiorum lernam vna su
+          <lb ed="#A" n="32"/>perat haeresis. Eadem est &amp; schismatis, &amp; infidelitatis
+          ra<lb ed="#A" n="33" break="no"/>tio. Sed hac de re, cum de traditionibus humanis agemus
+          <lb ed="#A" n="34"/>dicendi locus erit vberior. Nunc illud scire sufficiat,
+          ho<lb ed="#A" n="35" break="no"/>norabile connubium &amp; thorum immaculatum, nos cum
+          <lb ed="#A" n="36"/>Paulo praedicare: sed Ecclesiae contemptum, sed schisma,
+          <lb ed="#A" n="37"/>sed infidelitatem siue ethnicismum execrari. Quare
+          qui<lb ed="#A" n="38" break="no"/>cunque non ita credit sanctam Catholicam Ecclesiam, vt
+          <lb ed="#A" n="39"/>eam tanquam parentem audiendam, vt eius legibus
+          tan<lb ed="#A" n="40" break="no"/>quam a spiritu sancto latis obtemperandum esse putet,
+          <lb ed="#A" n="41"/>schismaticus est, haereticus est, ethnicus est &amp; publicanus.
+          <lb ed="#A" n="42"/>Nec est quod existimet, non in aliud se peccare quam in
+          le<pb ed="#A" n="183-r"/><lb ed="#A" n="1" break="no"/>gem Ecclesiae, peccat in Christum ipsum. Neque enim spon
+          <lb ed="#A" n="2"/>sus a sponsa sua, neque caput a corpore suo disiungitur.
+          <lb ed="#A" n="3"/>Qui vos audit, dicit Christus, me audit: qui vos spernit,
+          <lb ed="#A" n="4"/>me spernit. A Christo itaque separatur, quisquis ab eius con
+          <lb ed="#A" n="5"/>pore separatur, &amp; quantumlibet laudabiliter viuere se
+          exi<lb ed="#A" n="6" break="no"/>stimet, hoc solo scelere, quod a Christi vnitate disiunctus
+          <lb ed="#A" n="7"/>est, non habebit vitam, ait Augustinus, sed ira Dei manet
+          <lb ed="#A" n="8"/>super eum: contra, qui permanet in Ecclesiae vnitate,
+          quam<lb ed="#A" n="9" break="no"/>libet grauibus sit flagitiis coopertus, quacunque tamen
+          ho<lb ed="#A" n="10" break="no"/>ra ingemuerit, nihil est quod dubitet, quin posteaquam
+          <lb ed="#A" n="11"/>ex animo patratorum criminum eum poenituerit,
+          remis<lb ed="#A" n="12" break="no"/>sionem peccatorum consequutus, ad vitam peruenire pos
+          <lb ed="#A" n="13"/>fit aeternam. Neque enim est alibi remissio peccatorum &amp;
+          <lb ed="#A" n="14"/>aeternae vitae consequendae spes, quam in ea quae corpus
+          <lb ed="#A" n="15"/>est Christi, sancta Catholica Ecclesia.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

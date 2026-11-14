@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 32</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 32</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="60-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a28fe3"><!-- c32 -->
+        <head xml:id="ho8ccf-a28fe3-Hd1e99">Caput 32</head>
+        <head xml:id="ho8ccf-a28fe3-Hd1e101" type="question-title">De Sacramentis</head>
+        <p xml:id="ho8ccf-a28fe3-d1e104">
+          <lb ed="#A" n="37"/>CAPVT XXXII.
+          <lb ed="#A" n="38"/>De Sacramentis
+        </p>
+        <p xml:id="ho8ccf-a28fe3-d1e111">
+          <lb ed="#A" n="39"/><milestone ed="#A" unit="p" rend="initial"/> QVoniam vero sancta sacramenta per quae
+          sancti<lb ed="#A" n="40" break="no"/>ficamur, &amp; sanctorum communionem,
+          sacra<lb ed="#A" n="41" break="no"/>mentorum participationem significari diximus,
+          <lb ed="#A" n="42"/>horum quoque nobis ratio venit explicanda. Sunt
+          au<pb ed="#A" n="61-r"/><lb ed="#A" n="1" break="no"/>tem sacramenta signa quaedam.
+        </p>
+        <p xml:id="ho8ccf-a28fe3-d1e127">
+          Porro signum, vt est apud
+          <lb ed="#A" n="2"/>Augustinum, est quod praeter speciem quam ingerit
+          sensi<lb ed="#A" n="3" break="no"/>bus, tacit aliquid aliud in cogitationem venire: Sicut
+          ve<lb ed="#A" n="4" break="no"/>stigio viso, transisse animal, cuius vestigium est, cogitamus,
+          <lb ed="#A" n="5"/>Et tumo vuso, ignem subesse cognoscimus: &amp; voce
+          animan<lb ed="#A" n="6" break="no"/>tis audita, affectionem animi eiusdem aduertimus: &amp;
+          tu<lb ed="#A" n="7" break="no"/>ba sonante, milites vel progredi, vel regredi, &amp; si quid aliud
+          <lb ed="#A" n="8"/>pugna postulat, oportere nouerunt. Sic circuncisio fuit
+          <lb ed="#A" n="9"/>signum, per quod veniebatur in cognitionem, eum qui
+          <lb ed="#A" n="10"/>circuncisus esset, esse Iudaeum. Sic baptismus, eucharistia,
+          <lb ed="#A" n="11"/>&amp; alia sacramenta, sunt signa, quae praeter speciem quam
+          <lb ed="#A" n="12"/>ingerunt sensibus, faciunt in agnitionem venire, qui vtun
+          <lb ed="#A" n="13"/>tur illis, eos esse Christianos. Sunt igitur sacramenta signa
+          <lb ed="#A" n="14"/>quaedam siue symbola, aut notae, quibus Christiani a non
+          <lb ed="#A" n="15"/>Christianis discernuntur, qualia signa quaeuis vt habeat
+          <lb ed="#A" n="16"/>congregatio, necesse est. Nam, sicut ab eodem Augustino
+          <lb ed="#A" n="17"/>scriptum est, in nullum nomen aut verum, aut falsum,
+          co<lb ed="#A" n="18" break="no"/>agulari possunt homines, nisi signaculorum vel sacramen
+          <lb ed="#A" n="19"/>torum vissibilium aliquo consortio colligentur. Neque
+          ve<lb ed="#A" n="20" break="no"/>ro huius tantum generis signa sunt sacramenta, sed sunt
+          <lb ed="#A" n="21"/>signa sacrae rei, nimirum inuisibilis gratiae, quae in visibili
+          <lb ed="#A" n="22"/>elemento confertur. Neque qualiacunque signa, sed efficacia,
+          <lb ed="#A" n="23"/>vt quae &amp; continent ipsa gratiam, &amp; eius causa sunt, atque
+          <lb ed="#A" n="24"/>id quod signant, efficiunt. Sunt signa, quibus &amp;
+          praeterito<lb ed="#A" n="25" break="no"/>rum admonemur, &amp; praesentium, &amp; futurorum.
+          Admone<lb ed="#A" n="26" break="no"/>mur eius, quae praeterit, Christi passionis, ex qua virtutem
+          <lb ed="#A" n="27"/>habent omnia sacramenta: admonemur praesentis
+          gra<lb ed="#A" n="28" break="no"/>tiae, quae nobis confertur sacramenta sumentibus:
+          admo<lb ed="#A" n="29" break="no"/>nemur futurae gloriae, cuius quasi pignora quaedam sunt,
+          <lb ed="#A" n="30"/>quod per illa nos ad illam peruenturos certam spem
+          con<lb ed="#A" n="31" break="no"/>cipimus. Exempli gratia: Cum baptizamur, admonemus
+          <lb ed="#A" n="32"/>Christi passionis &amp; mortis, quae iam praeteriit:
+          consepeli<lb ed="#A" n="33" break="no"/>mur enum cum illo per baptismum in mortem, &amp; in
+          mor<lb ed="#A" n="34" break="no"/>te: plius baptizamur, ipsam in nobis repraesentantes.
+          Ad<lb ed="#A" n="35" break="no"/>monemur praeterea gratiae, quae nobis confertur in
+          bap<lb ed="#A" n="36" break="no"/>tismo, nimirum peccatorum remissionis, a quibus ita
+          co<lb ed="#A" n="37" break="no"/>emundatur, dum aqua corpus tangitur, quemadmodum
+        </p>
+        <p xml:id="ho8ccf-a28fe3-d1e209">
+          <lb ed="#A" n="38"/>sordes corporis per aquam ablui consueuerunt: admone
+          <lb ed="#A" n="39"/>mur postremo vitae illius &amp; gloriae aeternae, ad quam nobis
+          <lb ed="#A" n="40"/>aditus patet per baptismum, quam nos consequuturos
+        </p>
+        <p xml:id="ho8ccf-a28fe3-d1e218">
+          <lb ed="#A" n="41"/>hoc quasi pignore dato certos Christus reddidit, si in ea
+          <lb ed="#A" n="42"/>puritate, quam nobis baptismus attulit, permanserimus
+          <pb ed="#A" n="61-v"/>
+          <lb ed="#A" n="1"/>Ex quo videre licet, non vnius rei signum esse
+          sacramen<lb ed="#A" n="2" break="no"/>tum, sicut baptismus passionis Christi, quae praeteriit,
+          <lb ed="#A" n="3"/>signum est rememoratiuum, praesentis gratiae
+          demonstra<lb ed="#A" n="4" break="no"/>tiuum, futurae gloriae prognosticon. Signa autem haec
+          <lb ed="#A" n="5"/>eiusmodi sunt, quae sub sensum cadere, quae videri
+          pos<lb ed="#A" n="6" break="no"/>sint, sub quorum tegumento diuina virtus secretius
+          ope<lb ed="#A" n="7" break="no"/>ratur salutem. Propterea autem virtutem suam in
+          visibi<lb ed="#A" n="8" break="no"/>libus eiusmodi signis operari voluit, vt nostrae se
+          imbecil<lb ed="#A" n="9" break="no"/>litati diuina maiestas accommodaret. Si tu incorporeus
+          <lb ed="#A" n="10"/>esses, dicit Chrysostomus, nuda ipsa bona incorporea
+          tra<lb ed="#A" n="11" break="no"/>didisset tibi:
+        </p>
+        <p xml:id="ho8ccf-a28fe3-d1e251">
+          Quoniam vero corpori coniuncta est
+          ani<lb ed="#A" n="12" break="no"/>ma tua, in sensibilibus intelligenda tibi traduntur. Ita
+          au<lb ed="#A" n="13" break="no"/>tem natura comparatum est, vt ad eorum quae
+          intelligen<lb ed="#A" n="14" break="no"/>da sunt agnitionem, non fere, nisi per ea quae sensu
+          perci<lb ed="#A" n="15" break="no"/>piuntur, peruenire possimus. Quod non ab huius modo
+          <lb ed="#A" n="16"/>seculi sapiente traditum est, qui dixit principium nostra
+          <lb ed="#A" n="17"/>religionis esse a sensu, &amp; nihil esse in intellectu, quod non
+          <lb ed="#A" n="18"/>prius fuerit in sensu: verum ab illo quoque, qui plenus
+          co<lb ed="#A" n="19" break="no"/>lesti sapientia, scriptum reliquit, quod inuisibilia Dei a
+          crea<lb ed="#A" n="20" break="no"/>tura mundi, per ea quae facta sunt intellecta conspiciuntur.
+          <lb ed="#A" n="21"/>Quo facilius itaque secretior operatio Dei mente
+          com<lb ed="#A" n="22" break="no"/>prehendi possit, signis quibusdam visibilibus id
+          demon<lb ed="#A" n="23" break="no"/>strari Deus voluit: cuius etiam sapientiae congruebat vt
+          <lb ed="#A" n="24"/>sicut a visibilibus lapsus occasio sumpta fuit, sic in eisdem
+          <lb ed="#A" n="25"/>visibilibus remedium inueniret. Signa autem haec,
+          ele<lb ed="#A" n="26" break="no"/>menta quoque licet appellare, ad quae simul vt accesserit
+          ver<lb ed="#A" n="27" break="no"/>bum, iam erunt sacramenta. Quae cum esse medicinae quae
+          <lb ed="#A" n="28"/>dam videantur homini adhibendae, qui ex corpore
+          con<lb ed="#A" n="29" break="no"/>stat &amp; anima, ad vtrunque eas accommodari oportuit, vt
+          <lb ed="#A" n="30"/>esset quod corpus tangeret, esset praeterea quod animum
+          <lb ed="#A" n="31"/>afficeret. Corpus tangit elementum, animam afficit
+          ver<lb ed="#A" n="32" break="no"/>bum, quod illa cum audit, credit, credendo vero munda
+          <lb ed="#A" n="33"/>sit, &amp; sanatur a lepra peccatorum, sicut dicit Christus: Iam
+          <lb ed="#A" n="34"/>vos mundi estis propter sermonem. Quem locum
+          expli<lb ed="#A" n="35" break="no"/>cans Augustinus: Quare non ait mundi estis propter
+          <lb ed="#A" n="36"/>baptismum, quo loti estis, sed ais, propter sermonem quem
+          <lb ed="#A" n="37"/>loquutus sum vobis? nisi quia &amp; in aqua verbum mundat.
+          <lb ed="#A" n="38"/>detrahe verbum, &amp; quid est aqua, nisi aqua, accedit
+          ver<lb ed="#A" n="39" break="no"/>bum ad elementum, &amp; rit sacramentum, etiam ipsum visibile
+          <lb ed="#A" n="40"/>verbum. Ac paulo post: Vnde ista tanta virtus aquae vt con
+          <lb ed="#A" n="41"/>pus tangat &amp; abluat, nisi faciente verbo? non quia
+          dici<lb ed="#A" n="42" break="no"/>tur, sed quia creditur. Hinc est quod in Actis Apostolori
+          <pb ed="#A" n="62-r"/>
+          <lb ed="#A" n="1"/>legimus, Funde purificans corda. Fides autem ex auditu,
+          au<lb ed="#A" n="2" break="no"/>ditus per werbum dei. Est itaque signum vel elementum in
+          <lb ed="#A" n="3"/>sacramento instar materiae: verbum vero instar formae. Neque
+          <lb ed="#A" n="4"/>vero eiusmodi signa sunt sacramenta nouae legis, qualia fue
+          <lb ed="#A" n="5"/>runt sacramenta veteris legis: siquidem sacramenta noui
+          <lb ed="#A" n="6"/>Testamenti, sicut ab Augustino scriptum est, dant salutem
+          <lb ed="#A" n="7"/>sacramenta veteris legis promiserunt Saluatorem. Illa
+          ni<lb ed="#A" n="8" break="no"/>hil aliud quam significabant, haec vero quod significant, &amp;
+          conti<lb ed="#A" n="9" break="no"/>nent in se &amp; efficiunt: Continent enim in se gratiam, &amp;
+          <lb ed="#A" n="10"/>propterea vocantur vasa graniae, &amp; sunt causa illius: non
+          <lb ed="#A" n="11"/>quod in eis gratia substantialiter contineatur, vel
+          causali<lb ed="#A" n="12" break="no"/>ter efficiatur, cum receptaculum gratiae sit anima, sed quod
+          <lb ed="#A" n="13"/>ipsa significant grauam, quae in ipsis inuenitur &amp; semper
+          <lb ed="#A" n="14"/>confertur.
+        </p>
+        <p xml:id="ho8ccf-a28fe3-d1e353">
+          Deinde vero sicut quod est in vase, non est de
+          ip<lb ed="#A" n="15" break="no"/>so, nec ex ipso, sed ab ipso hauritur: sic gratia non est a sacra
+          <lb ed="#A" n="16"/>mentis, nec de sacramentis, sed oritur a fonte aeterno, &amp; ab
+          <lb ed="#A" n="17"/>illo hauritur, ab ipsa anima de ipsis sacramentis. Et sicut
+          <lb ed="#A" n="18"/>quis recurrit ad vas cum requirit liquorem, sic quaerenti
+          gra<lb ed="#A" n="19" break="no"/>nae liquorem &amp; non habenti, recurrendum est ad ipsa
+          sa<lb ed="#A" n="20" break="no"/>cramenta, per quae tanquam instrumenta quaedam &amp;
+          va<lb ed="#A" n="21" break="no"/>sa, gratiam curationis a summo medico Christo haurire
+          <lb ed="#A" n="22"/>oportet: qui tamen haud ita gratiam suam sacramentis
+          alli<lb ed="#A" n="23" break="no"/>gasse credendus est, vt non per alias quoque vias quando
+          <lb ed="#A" n="24"/>vult eam conferre queat. Quo melius autem res intelligi
+          <lb ed="#A" n="25"/>possit, exemplo siue similitudine quadam illustrabimus.
+          <lb ed="#A" n="26"/>Quis non intelligit in curatione morbi, quo corpus affici
+          <lb ed="#A" n="27"/>tur, solum esse Deum, qui virtute potestateque sua pulso
+          mor<lb ed="#A" n="28" break="no"/>bo sanitatem restituit? sanare tamen dicitur nihilominus
+          <lb ed="#A" n="29"/>medicina, quod subtracta materia quae peccabat, sanitatem
+          <lb ed="#A" n="30"/>efficit: samare dicitur dicta, quod hominem in sanitate
+          conse<lb ed="#A" n="31" break="no"/>uat: sanare dicitur vas, in quo medicina continetur, quod
+          <lb ed="#A" n="32"/>ex illo hauritur: postremo sanare dicitur medicus, tanquam
+          <lb ed="#A" n="33"/>minister &amp; instrumentum dei. Sic in curatione morbi
+          spiri<lb ed="#A" n="34" break="no"/>tualis, quae nihil est aliud quam sanctificatio, sanctificat
+          so<lb ed="#A" n="35" break="no"/>sus Deus autoritate sua: sanctificat gratia formaliter
+          expel<lb ed="#A" n="36" break="no"/>lendo morbum, hoc est peccatum: sanctificat impletio
+          man<lb ed="#A" n="37" break="no"/>datorum vt dieta: sanctificant sacramenta, tanquam vasa me
+          <lb ed="#A" n="38"/>dicinalia, in quibus confertur gratia: sanctificat sacerdos
+          <lb ed="#A" n="39"/>tanquam minister. Atque haec quidem de vi sacramentorum
+        </p>
+        <p xml:id="ho8ccf-a28fe3-d1e410">
+          <lb ed="#A" n="40"/>dicta sufficiant.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

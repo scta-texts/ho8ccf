@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 64</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 64</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="212-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a320pa"><!-- c64 -->
+        <head xml:id="ho8ccf-a320pa-Hd1e99">Caput 64</head>
+        <head xml:id="ho8ccf-a320pa-Hd1e101" type="question-title">Quod fidei ut prodesse queat Spem et Caritatem iungi necesse est</head>
+        <p xml:id="ho8ccf-a320pa-d1e104">
+          <lb ed="#A" n="14"/>CAPVT XIIII.
+          <lb ed="#A" n="15"/>Quod fidei vt prodesse queat Spem &amp;
+          <lb ed="#A" n="16"/>Charitatem iungi necesse est.
+        </p>
+        <p xml:id="ho8ccf-a320pa-d1e113">
+          <lb ed="#A" n="17"/><milestone ed="#A" unit="p" rend="initial"/> CAeterum quo prodesse queat, spes vt illi iungatur
+          <lb ed="#A" n="18"/>necesse, quam quidem eiusmodi esse oportet,
+          ni<lb ed="#A" n="19" break="no"/>hil vt nobis ipsi fidamus, verum spem omnem &amp;
+          <lb ed="#A" n="20"/>fiduciam nostram, in Deo positam habeamus,
+          <lb ed="#A" n="21"/>cuius vnigeniti filii passione &amp; morte acerbissima
+          pecca<lb ed="#A" n="22" break="no"/>torum nostrorum remissionem consequuti sumus. Ad hanc
+          <lb ed="#A" n="23"/>igitur Domini nostri Iesu Christi passionem &amp; mortem,
+          <lb ed="#A" n="24"/>quae prora quod aiunt, &amp; puppis est salutis nostrae,
+          confu<lb ed="#A" n="25" break="no"/>giamus: per hanc remitti nobis peccata nostra, cum Deo
+          <lb ed="#A" n="26"/>patre nos reconciliari: simul aeternae vitae concedi nobis
+          <lb ed="#A" n="27"/>haereditatem, accedentes ad thronum illius gratiae,
+          sup<lb ed="#A" n="28" break="no"/>plices precemur. Quae tamen &amp; ipsa spes, vana prorsus
+          <lb ed="#A" n="29"/>erit &amp; inutilis, si non ad eam opera charitatis accesserint:
+          <lb ed="#A" n="30"/>nam frustra crediderit aliquis, peccata sibi propter
+          Chri<lb ed="#A" n="31" break="no"/>stum esse remissa, nisi iustum de patratis illis dolorem
+          con<lb ed="#A" n="32" break="no"/>ceperit, nisi detestatus illa fuerit: nisi dignos fructus,
+          dig<lb ed="#A" n="33" break="no"/>na opera poenitentiae fecerit: quare coniuncta sint
+          opor<lb ed="#A" n="34" break="no"/>tet, sperare, &amp; bene agere, vel saltem studium aliquod
+          in<lb ed="#A" n="35" break="no"/>gens ad bene viuendum adhibere. Cuius rei non vno in
+          <lb ed="#A" n="36"/>loco nos admonet sanctus Dauid: Spera, inquit, in
+          domi<lb ed="#A" n="37" break="no"/>no, &amp; fac bonitatem. Ac rursus: Sacrificate sacrificium
+          <lb ed="#A" n="38"/>iustitiae &amp; sperate in domino: sic demum spes in domino
+          <lb ed="#A" n="39"/>nobis est profutura si fecerimus bonitatem, si
+          sacrificaue<lb ed="#A" n="40" break="no"/>rimus sacrificium iustitiae, si charitatem fides in nobis
+          fue<pb ed="#A" n="213-r"/><lb ed="#A" n="1" break="no"/>rit operata. Sin autem nihil aliud quam credere nos &amp;
+          <lb ed="#A" n="2"/>sperare professi, charitatis opera neglexerimus, &amp; a
+          iusti<lb ed="#A" n="3" break="no"/>tia longe remoti fuerimus: &amp; ad illam vitam nobis additus
+          <lb ed="#A" n="4"/>non patebit, ad quam si vellemus ingredi, mandata
+          ser<lb ed="#A" n="5" break="no"/>uare iussi sumus. Neque enim existimare quisquam
+          de<lb ed="#A" n="6" break="no"/>bet, datum nobis esse a Deo Christum, vt redemptorem
+          <lb ed="#A" n="7"/>tantum cui fidamus, &amp; non simul vt legislatorem cui
+          obe<lb ed="#A" n="8" break="no"/>diamus. Aperta sunt Esaiae verba, dicentis: Ex Sion
+          exi<lb ed="#A" n="9" break="no"/>bit lex &amp; sermo Domini ex Hierusalem. Quae in libro
+          <lb ed="#A" n="10"/>qui inscribitur de cognitione Dei, cuius author esse
+          fer<lb ed="#A" n="11" break="no"/>tur Gregorius Missae Pontifex sic explicata legimus.
+          Do<lb ed="#A" n="12" break="no"/>minus inquit noster Iesus Christus, nunc in monte Sion
+          <lb ed="#A" n="13"/>sedens &amp; docens, nunc in ciuitate Hierusalem versans,
+          le<lb ed="#A" n="14" break="no"/>gem &amp; doctrinam Euangelicam tradidit. Neque enim
+          <lb ed="#A" n="15"/>de Mosaica lege Propheta nunc loquitur. Quomodo
+          <lb ed="#A" n="16"/>enim id fieri queat, quum ea non in Sion nec in Hierusa
+          <lb ed="#A" n="17"/>lem, sed in monte Sinai fuerit data multo ante, quam
+          <lb ed="#A" n="18"/>natus esset Esaias; quemadmodum Euangelica multo post
+          <lb ed="#A" n="19"/>ipsum Esaiam tempore promulgata fuit quapropter
+          ap<lb ed="#A" n="20" break="no"/>posite dixit, Exibit, quoniam antiqua lex iam exierat.
+          <lb ed="#A" n="21"/>Apertius autem idem Propheta Esaias alio loco de
+          Chri<lb ed="#A" n="22" break="no"/>sto loquens. Dominus enim iudex noster, Dominus
+          le<lb ed="#A" n="23" break="no"/>gifer noster, Dominus rex noster, Dominus ipse saluabit
+          <lb ed="#A" n="24"/>nos. Et per alium Prophetam dicit dominus: Dabo
+          le<lb ed="#A" n="25" break="no"/>gem meam in visceribus eorum, &amp; in corde eorum
+          scri<lb ed="#A" n="26" break="no"/>bam eam, Quin &amp; Iacobus de Christo: Vnus est, inquit,
+          <lb ed="#A" n="27"/>legislator &amp; iudex, qui potest perdere &amp; laborare. Docet
+          <lb ed="#A" n="28"/>hoc pluribus verbis, vbi de Trinitate scribit Cyrillus, non
+          <lb ed="#A" n="29"/>redemptorem tantum, verum &amp; legislatorem esse
+          Chri<lb ed="#A" n="30" break="no"/>stum, Qui factus obediens patri vsque ad mortem,
+          mor<lb ed="#A" n="31" break="no"/>tem autem crucis, factus est omnibus obtemperantibus
+          <lb ed="#A" n="32"/>causa salutis aeternae. Nunquid autem omnibus
+          creden<lb ed="#A" n="33" break="no"/>tibus tantum in se? Non hoc dicit Paulus: verum
+          omni<lb ed="#A" n="34" break="no"/>bus, inquit, obtemperantibus sibi, omnibus legem suam
+          <lb ed="#A" n="35"/>custodientibus, omnibus mandata sua seruantibus. De iis
+          <lb ed="#A" n="36"/>vero qui non obediunt Euangelio Domini nostri Iesu
+          <lb ed="#A" n="37"/>Christi, tantum abest vt eis Christum factum esse dicat
+          <lb ed="#A" n="38"/>causam salutis aeternae, vt non dubitet etiam affirmare.
+          <lb ed="#A" n="39"/>quod poenas dabunt in interitu aeternas. Errat igitur si
+          <lb ed="#A" n="40"/>quis putat Euangelium esse nudam &amp; absolutam vitae
+          aeter<lb ed="#A" n="41" break="no"/>nae promissionem, sine conditione mandatorum
+          obserua<lb ed="#A" n="42" break="no"/>tionis. Omnis huic sententiae scriptura reclamat:
+          Com<pb ed="#A" n="213-v"/><lb ed="#A" n="1" break="no"/>pari nos oportere, si conglorificari: commori, si
+          conuiue<lb ed="#A" n="2" break="no"/>re: sustinere, si conregnare volumus, monet Paulus: verum
+          <lb ed="#A" n="3"/>apertius multo Christus ipse. Si vis ad vitam ingredi,
+          ser<lb ed="#A" n="4" break="no"/>ua mandata. Et alio loco: Si haec scitis, beati eritis, si
+          fece<lb ed="#A" n="5" break="no"/>ritis ea.
+        </p>
+        <p xml:id="ho8ccf-a320pa-d1e273">
+          Quod si oportuit pati Christum &amp; ita intrare in
+          <lb ed="#A" n="6"/>gloriam suam, multo magis oportet pati nos, vt intremus
+          <lb ed="#A" n="7"/>in alienam, supernaturalem videlicet, ac nobis indebitam
+          <lb ed="#A" n="8"/>&amp; longe meritis nostris imparem. Praeclare vir ille
+          singu<lb ed="#A" n="9" break="no"/>lari pietate praeditus nomine tantum idiora, regulas quas
+          <lb ed="#A" n="10"/>dam describens vitam Christianam complectentes,
+          po<lb ed="#A" n="11" break="no"/>steaquam non minus laboriosam vitam docuisset quae est
+          <lb ed="#A" n="12"/>secundum mundum quam sit via virtutis: stultum esse
+          di<lb ed="#A" n="13" break="no"/>cit credere ad coelum posse perueniri nisi per pugnam
+          ad<lb ed="#A" n="14" break="no"/>uersus carnem, diabolum &amp; mundum, quandoquidem &amp;
+          <lb ed="#A" n="15"/>caput nostrum Christus non ascendit in coelum nisi per
+          <lb ed="#A" n="16"/>crucem, nec debet serui conditio melior esse conditione
+          <lb ed="#A" n="17"/>Domini. Quem sequutus aliquot post seculis
+          Bernar<lb ed="#A" n="18" break="no"/>dus. Non recti plane sed peruersi est animi, ante quaerere
+          <lb ed="#A" n="19"/>gloriam, quam exercere virtutem, &amp; velle coronari qui
+          <lb ed="#A" n="20"/>legitime non certauerit. Vanum est vobis inquit, ante
+          lu<lb ed="#A" n="21" break="no"/>cem surgere. Ita &amp; frustra ad celsitudinem nititur
+          glo<lb ed="#A" n="22" break="no"/>riae, qui prius non daruit virtute: frustra fatuae virgines
+          <lb ed="#A" n="23"/>sponso obuiam surgunt, quarum lampades
+          extinguun<lb ed="#A" n="24" break="no"/>tur, &amp; ideo vacuae, quia vacuis gloriantur lampadibus.
+          <lb ed="#A" n="25"/>virtutis oleum non habentes. Absit mihi gloriari nisi
+          <lb ed="#A" n="26"/>in gloria illorum, quibus Propheta congratulans ait:
+          Do<lb ed="#A" n="27" break="no"/>mine in lumine vultus tui ambulabunt, &amp; in nomine
+          <lb ed="#A" n="28"/>tuo exultabunt tota die &amp; in iustitia tua exaltabuntur.
+          <lb ed="#A" n="29"/>Et infert. Quomodo virtutis eorum tu es: pulchre non
+          <lb ed="#A" n="30"/>eorum, sed virtutis eorum gloria commendatur. Qua
+          <lb ed="#A" n="31"/>enim sine virtute est gloria, profecto indebita venit,
+          prae<lb ed="#A" n="32" break="no"/>propere affectatur, periculos captatur: virtus gradus ad
+          <lb ed="#A" n="33"/>gloriam, virtus mater est gloriae, Fallax gloria, &amp; vana
+          <lb ed="#A" n="34"/>est pulchritudo, quam illa non parturiuit: sola virtus est
+          <lb ed="#A" n="35"/>cui iure gloria debetur, &amp; secure impenditur.
+        </p>
+        <p xml:id="ho8ccf-a320pa-d1e342">
+          Sed &amp;
+          Am<lb ed="#A" n="36" break="no"/>brosius, Tenera, inquit, corporis cura, luxuque &amp; lasciuia
+          <lb ed="#A" n="37"/>rum cupiditate mollitos, nequaquam coelestis aula
+          susci<lb ed="#A" n="38" break="no"/>pit, ad quam duris laboriosae virtutis gradibus
+          ascendi<lb ed="#A" n="39" break="no"/>tur. Hic vero quibus fluida delitiis membra soluuntur
+          <lb ed="#A" n="40"/>regni celestis extorres, intra mundi huius habitacula con
+          <lb ed="#A" n="41"/>senescunt. Neque minus eleganter Hieronymus, ad
+          Iu<lb ed="#A" n="42" break="no"/>lianum scribens: Difficile, imo impossibile est, inquit, vt
+          <pb ed="#A" n="214-r"/>
+          <lb ed="#A" n="1"/>&amp; praesentibus quis &amp; futuris fruatur bonis, &amp; hic
+          ven<lb ed="#A" n="2" break="no"/>trem, &amp; ibi mentem impleat, vt de deliciis transeat ad
+          de<lb ed="#A" n="3" break="no"/>licias. Ad eundem modum Basilius quoque, Quomodo
+          <lb ed="#A" n="4"/>cum vitae secundum mandatum Domini instituendae.
+          <lb ed="#A" n="5"/>eam, quae voluptarum est perferamus, aeternae vitae
+          facul<lb ed="#A" n="6" break="no"/>tatem &amp; conuersationem ei quae sanctorum est
+          confor<lb ed="#A" n="7" break="no"/>mem, &amp; angelica gaudia in facie Christi nobis
+          pollice<lb ed="#A" n="8" break="no"/>mur: Stolidi certe animi sunt talia phantasmata,
+          Quo<lb ed="#A" n="9" break="no"/>modo ergo cum Iob, qui nec vulgarem quidem
+          afflictio<lb ed="#A" n="10" break="no"/>nem, cum gratiarum actione complector? Quomodo
+          <lb ed="#A" n="11"/>cum Dauide, qui erga inimicum nullo sum, lenitatis
+          af<lb ed="#A" n="12" break="no"/>fectu praeditus? quomodo cum Daniele, qui non assidua
+          <lb ed="#A" n="13"/>continentia &amp; deprecatione sedula Deum quaesiui?
+          quo<lb ed="#A" n="14" break="no"/>modo cum singulis sanctis, qui vestigia illorum non sum
+          <lb ed="#A" n="15"/>secutus? Quis Athleta ita iudicii expers est, vt iisdem
+          <lb ed="#A" n="16"/>velit dignari coronis, &amp; victorem &amp; cum qui nihil
+          certa<lb ed="#A" n="17" break="no"/>uit? Quis dux ad parem vnquam spoliorum partem,
+          <lb ed="#A" n="18"/>cum iis, qui vicerunt, eos vocauit, qui in pugna ne
+          compa<lb ed="#A" n="19" break="no"/>ruissent quidem Bonus est Deus: verum &amp; iustus. Iusti
+          <lb ed="#A" n="20"/>vero est retribuere pro dignitate factorum, sicut scriptum
+          <lb ed="#A" n="21"/>est, Bene fac Domine bonis, Declinantes autem in
+          obli<lb ed="#A" n="22" break="no"/>gationes, adducet Dominus cum operantibus
+          iniquita<lb ed="#A" n="23" break="no"/>tem. Misericors est, at &amp; iudex, Diligit enim
+          misericor<lb ed="#A" n="24" break="no"/>diam, inquit, &amp; iudicium Dominus, quapropter dicit,
+          Mi<lb ed="#A" n="25" break="no"/>sericordiam &amp; iudicium cantabo tibi Domine.
+          Simili<lb ed="#A" n="26" break="no"/>ter &amp; Augustinus. Manducant homines fungum malum
+          <lb ed="#A" n="27"/>&amp; moriuntur. Ecce in qua fragilitate est vita humana.
+          <lb ed="#A" n="28"/>quam quandoque relicturus es? Noli pro illa sic
+          pugna<lb ed="#A" n="29" break="no"/>re, vt tu relinquaris, vita nostra Christus est. Christus
+          <lb ed="#A" n="30"/>attende, pati venit, sed &amp; glorificari: contemni, sed etiam
+          <lb ed="#A" n="31"/>exaltari: mori. sed etiam resurgere. Opus te terret,
+          mer<lb ed="#A" n="32" break="no"/>cedem vide. Quare vis peruenire delicatus ad eam rem,
+          <lb ed="#A" n="33"/>ad quam non perducit nisi labor? Sed times ne perdas
+          ar<lb ed="#A" n="34" break="no"/>gentum tuum, quia ad argentum tuum cum labore magno
+          <lb ed="#A" n="35"/>peruenisti. Si ad argentum tuum, quod quandoque vel
+          <lb ed="#A" n="36"/>moriens amissurus es, non peruenisti sine labore, ad vitam
+          <lb ed="#A" n="37"/>aeternam sine labore vis peruenire.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

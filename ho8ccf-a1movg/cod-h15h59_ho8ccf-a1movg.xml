@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 13</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 13</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="14-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1movg"><!-- c13 -->
+        <head xml:id="ho8ccf-a1movg-Hd1e99">Caput 13</head>
+        <head xml:id="ho8ccf-a1movg-Hd1e101" type="question-title">Quod falso quidam hoc aevo nostro calumniantur Ecclesiam de obscuratis Christi beneficiis, cum per ipsos potius obscurentur et omnis eorum memoria extinguatur</head>
+        <p xml:id="ho8ccf-a1movg-d1e104">
+          <lb ed="#A" n="26"/>CAPVT XIII.
+          <lb ed="#A" n="27"/>Quod falso quidam hoc aeuo nostro calumniantur
+          <lb ed="#A" n="28"/>Ecclesiam de obscuratis Christi beneficiis, cum per
+          <lb ed="#A" n="29"/>ipsos potius obscurentur, &amp; omnis eorum
+          memo<lb ed="#A" n="30" break="no"/>ria extinguatur.
+        </p>
+        <p xml:id="ho8ccf-a1movg-d1e117">
+          <lb ed="#A" n="31"/><milestone ed="#A" unit="p" rend="initial"/> ET sunt interea filij desertores, qui ab omni pieta
+          <lb ed="#A" n="32"/>te alieni, ab omni veritate remoti, perfricta, quod
+          <lb ed="#A" n="33"/>aiunt, fronte, omni pudore prorsus absterso,
+          ma<lb ed="#A" n="34" break="no"/>rem suam audent insimulare, quod parum in iis
+          <lb ed="#A" n="35"/>quae ad salutem nostram pertinent, docendi, officio suo
+          <lb ed="#A" n="36"/>functa fuerit. Comminiscuntur homines audaces &amp;
+          im<lb ed="#A" n="37" break="no"/>pudentes, quod iam inde a quadringentis &amp; amplius
+          an<lb ed="#A" n="38" break="no"/>nis, ignotus orbi Christiano Dei &amp; hominum mediator
+          <lb ed="#A" n="39"/>Christus, quod eius beneficia obscurata, quod
+          Euangeli<lb ed="#A" n="40" break="no"/>absconsum, quod quiduis aliud potius, quam Christus
+          <pb ed="#A" n="14-v"/>
+          <lb ed="#A" n="1"/>in Ecclesia fuerit annunciatus:
+        </p>
+        <p xml:id="ho8ccf-a1movg-d1e147">
+          Verum iis tandem triginta
+          <lb ed="#A" n="2"/>annis per ipsos mentibus hominum Euangelij noua lux
+          <lb ed="#A" n="3"/>affulserit. Quae est, si non haec est summa impudentia, atque
+          <lb ed="#A" n="4"/>vna omnium grauissima minimeque ferenda calumnia
+          <lb ed="#A" n="5"/>Legantur Theologorum libri, qui sunt his quadringentis
+          <lb ed="#A" n="6"/>annis conscripti, reperire licebit, quod non aliam plerique
+          <lb ed="#A" n="7"/>Theologiae materiam esse voluerint, quam reparationem
+          <lb ed="#A" n="8"/>hominis lapsi per Christum seruatorem. Notum est autem
+          <lb ed="#A" n="9"/>illud, quod a Petro Lombardo diligenter tractatur
+          axio<lb ed="#A" n="10" break="no"/>ma, quod sine fide mediatoris Christi nullus mortalium
+          <lb ed="#A" n="11"/>vel ante legem, vel sub lege, vel sub tempore gratiae
+          sal<lb ed="#A" n="12" break="no"/>uus factus sit, aut saluus aliquando fieri possit. In quo
+          <lb ed="#A" n="13"/>explicando ita versantur sancti doctores omnes, vt non
+          <lb ed="#A" n="14"/>aliunde salutem nostram pendere doceant, quam ex
+          cru<lb ed="#A" n="15" break="no"/>ce &amp; morte Christi, quam nisi quis expresse crediderit,
+          <lb ed="#A" n="16"/>maxime post peractum iam in cruce redemptionis myste
+          <lb ed="#A" n="17"/>rium, nisi spem omnem in ea defixam habuerit, eum ad
+          <lb ed="#A" n="18"/>vitam aeternam peruenire non posse, quum tamen
+          impli<lb ed="#A" n="19" break="no"/>cita mediatoris huius fides ante Christum natum ad
+          sa<lb ed="#A" n="20" break="no"/>lutem suffecerit.
+        </p>
+        <p xml:id="ho8ccf-a1movg-d1e192">
+          Neque vero scripta magis doctorum aetatis
+          <lb ed="#A" n="21"/>illius, impudens hoc eorum commentum refellunt, quam
+          <lb ed="#A" n="22"/>ea, quae non semel iam commemorata, iterum atque iterum
+          <lb ed="#A" n="23"/>repetenda sunt, quo magis planum omnibus fieri possit,
+          <lb ed="#A" n="24"/>quam falso haec a filiis desertoribus Ecclesiae impingantur.
+          <lb ed="#A" n="25"/>Quid enim, ita sapienter annus ab ipso Spiritusancto
+          di<lb ed="#A" n="26" break="no"/>stributus, nullus vt sit propemodum articulus fidei, cui non
+          <lb ed="#A" n="27"/>summa cum celebritate recolendo dies aliquis sit dicatus?
+          <lb ed="#A" n="28"/>quid signa? quid simulachra? quid habitus? quid
+          ge<lb ed="#A" n="29" break="no"/>stus Sacerdotum, praecipue sacris operantium? quid
+          va<lb ed="#A" n="30" break="no"/>rij ritus &amp; ceremoniae? quid omnia illa, quae geri
+          cerni<lb ed="#A" n="31" break="no"/>mus in Ecclesia? quid sibi volunt? quid? nisi quod
+          mo<lb ed="#A" n="32" break="no"/>do non edita voce clamant, quod sicut scriptis &amp;
+          sermoni<lb ed="#A" n="33" break="no"/>bus, ita dierum obseruationibus, signis, &amp; omni
+          ceremo<lb ed="#A" n="34" break="no"/>niarum genere nihil aliud grandi cum fiducia
+          praedica<lb ed="#A" n="35" break="no"/>mus, nihil aliud scire nos iudicamus, quam Iesum
+          Chri<lb ed="#A" n="36" break="no"/>stum, &amp; hunc crucifixum: quod in hoc solo, in solo
+          passio<lb ed="#A" n="37" break="no"/>nis, crucis, &amp; mortis eius merito spem omnem &amp; fiduciam
+          <lb ed="#A" n="38"/>defigendam esse docemus. Hic est scopus, ad quem haec
+          <lb ed="#A" n="39"/>omnia referuntur: Ex quo liquido perspicueque cognosci
+          <lb ed="#A" n="40"/>potest, quod licet non omnes fortassis ex iis, qui per qua
+          <lb ed="#A" n="41"/>dringentos hos annos scripserunt, aurum, argentum, lapi
+          <lb ed="#A" n="42"/>des preciosos, verum alij lignum etiam &amp; supulam
+          aedifica<pb ed="#A" n="15-r"/><lb ed="#A" n="1" break="no"/>uerint, tamen fundamentum, super quod aedificauerunt,
+          <lb ed="#A" n="2"/>nemo posuerit aliud, praeter id quod positum est, quod est
+          <lb ed="#A" n="3"/>Christus Iesus, Dei &amp; hominum mediator, qui factus est
+          <lb ed="#A" n="4"/>propitiatio pro peccatis nostris, non pro nostris autem
+          tan<lb ed="#A" n="5" break="no"/>tum, sed etiam totius mundi. Quod si vnquam alias, hoc
+          <lb ed="#A" n="6"/>vel maxime tempore videtur mater Ecclesia verbis illis
+          <lb ed="#A" n="7"/>recte conqueri posse, quae leguntur in Canticis: Filii
+          ma<lb ed="#A" n="8" break="no"/>tris meae pugnauerunt contra me. Qui sunt enim illi, qui
+          <lb ed="#A" n="9"/>per grauem calumniam ab ea, quae Christi corpus est, quam
+          <lb ed="#A" n="10"/>plurimos auellere laborant? qui ignorati Christi, neque
+          <lb ed="#A" n="11"/>agniti Euangelii matrem Ecclesiam arguunt? qui non
+          ve<lb ed="#A" n="12" break="no"/>rentur etiam horrendum idololatriae crimen impingere?
+          <lb ed="#A" n="13"/>quinam alii? quam filii quondam eius, fratres non ita
+          pri<lb ed="#A" n="14" break="no"/>dem nostri, recte vt de illis dici possit, inimici hominis
+          <lb ed="#A" n="15"/>domestici eius: &amp; quod ab alio Propheta scriptum est:
+          Ho<lb ed="#A" n="16" break="no"/>mo pacis meae, qui edebat panes meos magnificauit
+          su<lb ed="#A" n="17" break="no"/>per me supplantationem: quodque apud eundem in alio
+          <lb ed="#A" n="18"/>Psalmo reperitur: Si inimicus meus maledixisset mihi, su
+          <lb ed="#A" n="19"/>stinuissem vtique, &amp; si is qui oderat me, super me maligna
+          <lb ed="#A" n="20"/>loquutus fuisset, abscondissem me forsitan ab eo, tu vero
+          <lb ed="#A" n="21"/>homo vnanimis, dux meus &amp; notus meus, qui simul
+          me<lb ed="#A" n="22" break="no"/>cum dulces capiebas cibos, in domo Dei ambulauimus
+          <lb ed="#A" n="23"/>cum consensu Ante triginta hos annos ambulauimus
+          <lb ed="#A" n="24"/>tum consensu in illa domo Dei, in qua non facit habitare
+          <lb ed="#A" n="25"/>Deus, nisi vnanimes. Fuit vna fides, vnum baptisma, terra
+          <lb ed="#A" n="26"/>fuit vnius labii, multitudinis credentium erat cor vnum
+          <lb ed="#A" n="27"/>&amp; anima vna Ad quod faciendum iterum atque iterum
+          re<lb ed="#A" n="28" break="no"/>petendo atque obsecrando nos Paulus admonet: Idipsum
+          <lb ed="#A" n="29"/>dicebamus, idipsum sentiebamus, idem sapiebamus, vno
+          <lb ed="#A" n="30"/>ore homorificabamus omnes Deum &amp; patrem Domini
+          <lb ed="#A" n="31"/>nostri Iesu Christi. Sed non potuit ferre Sathanas
+          con<lb ed="#A" n="32" break="no"/>sensum hunc piorum, qui quum sit mendax &amp;
+          mendaci<lb ed="#A" n="33" break="no"/>pater, haec tam aperte falsa de matre Ecclesia confinxit,
+          <lb ed="#A" n="34"/>quod alia ratione se gregem domini dispergere posse non
+          <lb ed="#A" n="35"/>videbat.
+        </p>
+        <p xml:id="ho8ccf-a1movg-d1e319">
+          Verum quid in eo ipso loco subiungit scriptura
+          de<lb ed="#A" n="36" break="no"/>iis, qui consensum hunc piorum &amp; vnanimitatem rum
+          <lb ed="#A" n="37"/>punt? Veniat, inquit, mors super illos, &amp; descendant in
+          <lb ed="#A" n="38"/>infernum viuentes. Legimus hoc euenisse Chore,
+          Da<lb ed="#A" n="39" break="no"/>than, &amp; Abiron, qui schismatis authores facti, quoniam
+          <lb ed="#A" n="40"/>seorsim a Moyse sacrificare volebant, viui descenderunt
+          <lb ed="#A" n="41"/>in infernum, operti humo.
+        </p>
+        <p xml:id="ho8ccf-a1movg-d1e335">
+          Verum &amp; iis, qui nostro
+          <lb ed="#A" n="42"/>hoc aeuo segregauerunt semetipsos, idem propemodum
+          <pb ed="#A" n="15-v"/>
+          <lb ed="#A" n="1"/>hoc accidere videmus. Etsi enim terra illis non dehiscit,
+          <lb ed="#A" n="2"/>tamen, quod est in prouerbio, viui videntesque pereunt.
+          <lb ed="#A" n="3"/>Neque enim illi non intelligunt vana esse, de quibus
+          Eccle<lb ed="#A" n="4" break="no"/>siam insimulant, sed studio contentionis eo
+          progrediun<lb ed="#A" n="5" break="no"/>tur, vt videntes non videant, audientes non audiant, neque
+          <lb ed="#A" n="6"/>intelligant. Quin quod nobis impingunt, id, in
+          repro<lb ed="#A" n="7" break="no"/>bum dati sensum, ipsi faciunt. Quaecunque enim Spiritus
+          <lb ed="#A" n="8"/>sancto per os Ecclesiae suae statuere visum est, ad
+          illustran<lb ed="#A" n="9" break="no"/>dam mediatoris Christi fidem, &amp; ad eius beneficia
+          omni<lb ed="#A" n="10" break="no"/>bus inculcanda, haec isti prorsus euertere sunt conati. Nam
+          <lb ed="#A" n="11"/>obseruationem dierum, quae non ex Iudaica superstitio
+          <lb ed="#A" n="12"/>ne inducta est, verum vt quorum mentes terrenis adhuc
+          <lb ed="#A" n="13"/>desideriis implicantur, &amp; seculi curis impediuntur, vel ex
+          <lb ed="#A" n="14"/>interuallo tamen ad diuinorum beneficiorum
+          contem<lb ed="#A" n="15" break="no"/>plationem respirent, ieiuniorumque tempora, praecipue
+          sex<lb ed="#A" n="16" break="no"/>tae feriae, quando Christi passionis admonemur, &amp; illi
+          <lb ed="#A" n="17"/>nos quasi compatii velle declaramus, risu &amp; cachinnis om
+          <lb ed="#A" n="18"/>nia prosequuntur.
+        </p>
+        <p xml:id="ho8ccf-a1movg-d1e381">
+          Porro simulachra crucifixi, quae
+          ter<lb ed="#A" n="19" break="no"/>rori sunt daemonibus, ne quid esset, quod eorum oculos
+          <lb ed="#A" n="20"/>offenderet, quibus quum non vnum se salis modium
+          co<lb ed="#A" n="21" break="no"/>medisse gloriantur, non e viis &amp; compitis modo, verum
+          <lb ed="#A" n="22"/>etiam e templis ipsis eiecerunt, vt ne qua tanti beneficij
+          <lb ed="#A" n="23"/>memoria superesset. Benedictionum vsum, quae per
+          sig<lb ed="#A" n="24" break="no"/>num crucis fiunt, quo nos per crucem a maledicto
+          libera<lb ed="#A" n="25" break="no"/>tos palam facimus, habent ludibrio, neque ferre possunt,
+          <lb ed="#A" n="26"/>vt per verbum Dei signo crucis vlla creatura
+          sanctifice<lb ed="#A" n="27" break="no"/>tur. Pensum quoque precum, quas horas canonicas
+          vo<lb ed="#A" n="28" break="no"/>cant, sustulerunt, &amp; quae res in terris est vna omnium
+          sa<lb ed="#A" n="29" break="no"/>cratissima, maxime venerandum illud sacrificium, quod
+          <lb ed="#A" n="30"/>missam vocamus, vbi summa cum pietate simul omnia
+          <lb ed="#A" n="31"/>Christi beneficia recoluntur, &amp; sub aspectum eorum, qui
+          <lb ed="#A" n="32"/>inter sunt, fidelium subiiciuntur, diabolo suggerente, quod
+          <lb ed="#A" n="33"/>ipsi aperte profitentur &amp; prae se ferunt, abrogarunt, neque
+          <lb ed="#A" n="34"/>metuunt idololatriam pronuntiare, si quis ei sacrificio,
+          <lb ed="#A" n="35"/>quod in ara crucis pro nobis Christus obtulit, cuius in
+          <lb ed="#A" n="36"/>Missa memona quaedam sit &amp; repraesentatio, remissionem
+          <lb ed="#A" n="37"/>peccatorum acceptam ferat, ac vt fructum illius ad se
+          re<lb ed="#A" n="38" break="no"/>dundare faciat, Deum patrem per ipsum, qui pro nobis
+          fa<lb ed="#A" n="39" break="no"/>ctus est sacrificium, filium deprecetur. Adeo quicquid ad
+          <lb ed="#A" n="40"/>crucem pertinet, id eorum oculi ferre non possunt. Neque
+          <lb ed="#A" n="41"/>mirum, quum non aliud sit scutum, in quo maligni sagit.
+          <lb ed="#A" n="42"/>tas extinguere liceat, praeter signum crucis a quo quum
+          <pb ed="#A" n="16-r"/>
+          <lb ed="#A" n="1"/>semel victi sint per eum, qui pro nobis in cruce pependit,
+          <lb ed="#A" n="2"/>horrent illud daemones, &amp; co viso statim in fugam
+          con<lb ed="#A" n="3" break="no"/>uertuntur, quorum instinctu fieri ab istis haec omnia, vt
+          <lb ed="#A" n="4"/>euacuetur crux Christi, manifestius est, quam vt
+          dubita<lb ed="#A" n="5" break="no"/>ri queat. Hic homo Christianus expendat ipse, atque
+          in<lb ed="#A" n="6" break="no"/>ter se tacitus conferat, quae tot saeculis ab Ecclesia facta
+          <lb ed="#A" n="7"/>sunt, vt non scriptis &amp; sermonibus modo, verum etiam
+          <lb ed="#A" n="8"/>dierum obseruationibus, signis, imaginibus, gestu,
+          habi<lb ed="#A" n="9" break="no"/>tu, varioque ritu &amp; caeremoniis, Christi beneficia
+          quamli<lb ed="#A" n="10" break="no"/>bet etiam rudium pectoribus imprimerentur, atque ea
+          <lb ed="#A" n="11"/>quae credere necesse est ad salutem, quasi praemansus ori
+          <lb ed="#A" n="12"/>cibus insererentur. Quae contra facta sint hoc infelici
+          <lb ed="#A" n="13"/>euo nostro ad illa omnia subuertenda, &amp; eorum
+          memo<lb ed="#A" n="14" break="no"/>riam ex animis hominum prorsus euellendam, non
+          mo<lb ed="#A" n="15" break="no"/>do falsa esse intelliget, quae tam impudenter in de
+          Eccle<lb ed="#A" n="16" break="no"/>sia commenti sunt, verum in eos ipsos multo verius
+          re<lb ed="#A" n="17" break="no"/>torqueri posse cognoscet. Sed nos querimoniam hanc
+          <lb ed="#A" n="18"/>missam faciamus, &amp; eo, vnde deflexit oratio, redeamus.
+          <lb ed="#A" n="19"/>Hoc igitur constitutum iam sit, quod a matre nostra
+          Ec<lb ed="#A" n="20" break="no"/>clesia docti sumus, vnum esse mediatorem Dei &amp;
+          homi<lb ed="#A" n="21" break="no"/>num, hominem Iesum Christum, extra cuius fidem, neque
+          <lb ed="#A" n="22"/>fuerit adhuc salutem quisquam consequutus, neque
+          con<lb ed="#A" n="23" break="no"/>sequetur deinceps vnquam. Nam sicut qui praecesserunt
+          <lb ed="#A" n="24"/>Christi passionem, non nisi per illius futurae, ita qui
+          se<lb ed="#A" n="25" break="no"/>quuti sunt, non nisi per illius praeteritae fidem salui
+          facti<lb ed="#A" n="26" break="no"/>unt, &amp; fient. Huc pertinent omnia illa, quae in symbolo
+          <lb ed="#A" n="27"/>continentur, breuibus per nos, iuxta dierum anni verten
+          <lb ed="#A" n="28"/>S obseruationem commemorata.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

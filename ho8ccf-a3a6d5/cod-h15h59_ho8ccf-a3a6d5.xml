@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 70</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 70</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="222-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3a6d5"><!-- c70 -->
+        <head xml:id="ho8ccf-a3a6d5-Hd1e99">Caput 70</head>
+        <head xml:id="ho8ccf-a3a6d5-Hd1e101" type="question-title">Quod per fidem, spem et caritatem, quae propemodum obsoleverat in nobis, imago Dei restauratur</head>
+        <p xml:id="ho8ccf-a3a6d5-d1e104">
+          <lb ed="#A" n="27"/>CAPVT XX.
+          <lb ed="#A" n="28"/>Quod per fidem, spem, &amp; charitatem, quae
+          prope<lb ed="#A" n="29" break="no"/>modum obsoleuerat in nobis, imago dei restauratur.
+        </p>
+        <p xml:id="ho8ccf-a3a6d5-d1e113">
+          <lb ed="#A" n="30"/><milestone ed="#A" unit="p" rend="initial"/> LEgimus hominem ad imaginem &amp; similitudinem
+          <lb ed="#A" n="31"/>Dei factum esse, quam quoad incontaminatam
+          re<lb ed="#A" n="32" break="no"/>tinuit, iustus erat: simul vt vero post admissum
+          pe<lb ed="#A" n="33" break="no"/>catum, haec in eo imago, non quidem prorsus abo
+          <lb ed="#A" n="34"/>lita, verum obsoleta tamen est, &amp; deformata, iustus esse
+          <lb ed="#A" n="35"/>desiit, atque suam hanc iniustitiam, ex inobedientia
+          con<lb ed="#A" n="36" break="no"/>tractam, in vniuersam posteritatem suam, primus parens
+          <lb ed="#A" n="37"/>noster propagauit, ac per eius vnius delictum diuinum iu
+          <lb ed="#A" n="38"/>dicium processit in omnes homines in condemnationem
+          <lb ed="#A" n="39"/>Est autem non secundum formam corporis ad imaginem
+          <lb ed="#A" n="40"/>Dei factus homo, sed secundum rationem mente
+          praedi<lb ed="#A" n="41" break="no"/>tam. Quod cum alii plerique omnes, tum longe
+          vetustissi<pb ed="#A" n="223-r"/><lb ed="#A" n="1" break="no"/>mus ille Philo in eo libro quem scripsit in opificio
+          mun<lb ed="#A" n="2" break="no"/>di pluribus demonstrat. Sed &amp; Clemens presbyter Alexan
+          <lb ed="#A" n="3"/>drinus his verbis indicat: Est enim Dei imago, eius verbum
+          <lb ed="#A" n="4"/>&amp; filius mentis germanum, diuinum illud verbum, lucis
+          <lb ed="#A" n="5"/>lux exemplaris &amp; archippo, verbi autem imago est homo,
+          <lb ed="#A" n="6"/>vera mens quae est in homine, qui ad Dei imaginem &amp;
+          si<lb ed="#A" n="7" break="no"/>militudinem propterea factus esse dicitur, prudentia quae
+          <lb ed="#A" n="8"/>est in corde diuino verbi assimulatus, ea ratione verbi
+          ra<lb ed="#A" n="9" break="no"/>tionisque particeps. In oratione adhortatoria ad gentes.
+        </p>
+        <p xml:id="ho8ccf-a3a6d5-d1e163">
+          <lb ed="#A" n="10"/>Verum indicat hoc etiam ipsa ratio: nam quum Deus
+          spi<lb ed="#A" n="11" break="no"/>ritus sit, non alibi consentaneum est imaginem eius esse,
+          <lb ed="#A" n="12"/>quam in spiritu hominis. Sed ipsius etiam Apostoli
+          decla<lb ed="#A" n="13" break="no"/>rat hoc authoritas, cum dicit: Renouamini spiritu mentis
+          <lb ed="#A" n="14"/>vestrae, &amp; induite nouum hominem, qui secundum Deum
+          <lb ed="#A" n="15"/>creatus est. Quod dixit, induite nouum hominem, illius
+          <lb ed="#A" n="16"/>videtur explicatio esse, quod ante dixerat, renouamini
+          <lb ed="#A" n="17"/>spiritu mentis vestrae: Quod mox addit: qui secundum
+          <lb ed="#A" n="18"/>Deum creatus est, id alio loco quasi declarans, dixit, ad
+          ima<lb ed="#A" n="19" break="no"/>ginem Dei: quum aliis verbis idipsum praecipiens.
+          Expo<lb ed="#A" n="20" break="no"/>liantes vos, inquit, veterem hominem cum actibus eius &amp;
+          <lb ed="#A" n="21"/>induentes nouum, cum qui renouatur in agnitionem Dei,
+          <lb ed="#A" n="22"/>secundum imaginem eius qui creauit eum. Ibi secundum
+          <lb ed="#A" n="23"/>Deum, hic vero secundum imaginem, inquit, eius qui
+          cre<lb ed="#A" n="24" break="no"/>auit eum: vt creatum esse secundum Deum, nihil aliud
+          <lb ed="#A" n="25"/>intelligi possit, quam esse creatum secundum imaginem
+          <lb ed="#A" n="26"/>Dei creatoris, quemadmodum etiam annotatum ab
+          Au<lb ed="#A" n="27" break="no"/>gustino videmus. Factus est igitur homo ad imaginem Der
+          <lb ed="#A" n="28"/>in spiritu, quae mens nostra est: factus est autem ad
+          imagi<lb ed="#A" n="29" break="no"/>nem totius Trinitatis, quod ex voce, nostram, colligit
+          Au<lb ed="#A" n="30" break="no"/>gustinus. Quae cum sit pluralis numeri, non recte dicere,
+          <lb ed="#A" n="31"/>tur, si homo ad vnius personae fieret imaginem: siue patris,
+          <lb ed="#A" n="32"/>siue filii, siue spiritus sancti. Habet itaque mens nostra,
+          si<lb ed="#A" n="33" break="no"/>cut ab eodem annotatum est, suam quoque trinitatem, est
+          <lb ed="#A" n="34"/>enim in ea memoria, est ratio siue intellectus, est &amp;
+          volun<lb ed="#A" n="35" break="no"/>tas. Haec ante peccatum ita fuerant in primo homine sana
+          <lb ed="#A" n="36"/>&amp; integra, vt neque memoriam quicquam impediret, quo mi
+          <lb ed="#A" n="37"/>nus in recolenda Dei potentia, sapientia, bonitateque
+          ver<lb ed="#A" n="38" break="no"/>sari semper posset, nec rationi deesset aliquid ad discernen
+          <lb ed="#A" n="39"/>dum inter bonum &amp; malum, verum &amp; falsum, commodum
+          <lb ed="#A" n="40"/>&amp; incommodum, nec esset quod obstaret voluntati, quo
+          <lb ed="#A" n="41"/>minus quae sola est Christiana iustitia per charitatem
+          ad<lb ed="#A" n="42" break="no"/>haerere Deo possit.
+        </p>
+        <p xml:id="ho8ccf-a3a6d5-d1e238">
+          Caeterum post infoelicem eius casum.
+          <pb ed="#A" n="223-v"/>
+          <lb ed="#A" n="1"/>in contrarium omnia reciderunt: nam non ipsius magis
+          <lb ed="#A" n="2"/>primi parentis nostri, quam vniuersae posteritatem eius,
+          <lb ed="#A" n="3"/>memoria sic est labefactata, vt in cuiusuis alius rei
+          cogita<lb ed="#A" n="4" break="no"/>tione consumeretur potius, quam eius gratia a Deo facta
+          <lb ed="#A" n="5"/>fuerat. Ratio vero tanta demersa est caligine, vt vmbras
+          <lb ed="#A" n="6"/>rerum pro rebus ipsis, noxia pro salubribus, falsa pro
+          ve<lb ed="#A" n="7" break="no"/>ins amplecteretur. Voluntas autem vsque eo a creatore suo
+          <lb ed="#A" n="8"/>auersa, &amp; ad omnem vanitatem fuit conuersa, vt non Deo,
+          <lb ed="#A" n="9"/>qui facit coelum &amp; terram, sed ipsi tantum terrae visa sit
+          ad<lb ed="#A" n="10" break="no"/>haerere, nihil vt aliud prope meus humana tota, quam ter
+          <lb ed="#A" n="11"/>ra, quam caro esse videretur. Hinc illae Dei voces: Terra
+          <lb ed="#A" n="12"/>es, &amp; in terram ibis: Non permanebit spiritus meus in
+          ho<lb ed="#A" n="13" break="no"/>minibus istis, quoniam caro est. Quid multis? eo redacta
+          <lb ed="#A" n="14"/>fuit humana mens, vt in qua fuerat imago Dei, quasi
+          pe<lb ed="#A" n="15" break="no"/>cudis imaginem in ea cernere liceret. Quod etiam
+          Pro<lb ed="#A" n="16" break="no"/>pheta deplorat dicens: Homo cum in honore esset non
+          <lb ed="#A" n="17"/>intellexit, comparatus est iumentis insipientibus, &amp;
+          simi<lb ed="#A" n="18" break="no"/>lis factus est illis. Tantam hanc suae creaturae
+          deformita<lb ed="#A" n="19" break="no"/>tem, quam pulchram &amp; decoram, nimirum ad imaginem
+          <lb ed="#A" n="20"/>sui fecerat, ferre non potuit pater ille misericordiarum Deus:
+          <lb ed="#A" n="21"/>qui memor misericordiae suae, immemor culpae nostrae,
+          ra<lb ed="#A" n="22" break="no"/>tionem inuenit, qua sic obsoleta imago Dei in homine
+          <lb ed="#A" n="23"/>renouari posset. Venit igitur a patre Dei filius, verbum
+          <lb ed="#A" n="24"/>caro factum, &amp; fidem dedit purificantem corda. Post filium
+          <lb ed="#A" n="25"/>spiritus quoque sanctus missus est, per quem in cordibus
+          <lb ed="#A" n="26"/>nostris charitas est diffusa, quam qui habet ci munda sunt
+          <lb ed="#A" n="27"/>omnia. Per haec duo fidem &amp; charitatem, ad patrem
+          re<lb ed="#A" n="28" break="no"/>deundi spes facta est: atque ita per haec tria, purgata sunt
+          <lb ed="#A" n="29"/>illa tria, quae fuerant in mente nostra deformata. Fides
+          il<lb ed="#A" n="30" break="no"/>luminauit rationem, siue intellectum: Credite namque &amp;
+          <lb ed="#A" n="31"/>intelligetis, dicit scriptura, Spes erexit memoriam:
+          chari<lb ed="#A" n="32" break="no"/>tas purgauit affectum, siue voluntatem. Sic imago illa
+          <lb ed="#A" n="33"/>Dei, quae tam fuerat in nobis obscurata, vix vt vllum iam
+          <lb ed="#A" n="34"/>illius vestigium appareret, renouari coepta est? quae
+          reno<lb ed="#A" n="35" break="no"/>uatio ad iustitiam quae nobis datur a Deo, pertinere
+          vi<lb ed="#A" n="36" break="no"/>detur. Tunc autem renouari dicimur, quando Dei
+          bene<lb ed="#A" n="37" break="no"/>ficio sit, vt qui prius portaueramus imaginem hominis
+          ter<lb ed="#A" n="38" break="no"/>reni, portemus deinceps imaginem coelestis. Nam
+          quem<lb ed="#A" n="39" break="no"/>admodum antea quoque dicere nos meminimus, errant qui
+          <lb ed="#A" n="40"/>iustitiam nostram non aliud esse putant, quam
+          peccato<lb ed="#A" n="41" break="no"/>rum remissionem: quandoquidem non solum remittum
+          <lb ed="#A" n="42"/>tur nobis peccata, quando iustificamur, sed renouamut
+          <pb ed="#A" n="224-r"/>
+          <lb ed="#A" n="1"/>praeterea spiritu mentis nostrae, induimur nouum
+          homi<lb ed="#A" n="2" break="no"/>nem, illum qui de coelo venit dominum nostrum Iesum
+          <lb ed="#A" n="3"/>Christum, in illius imaginem transformamur &amp; fit in
+          no<lb ed="#A" n="4" break="no"/>bis ea, de qua Paulus meminit noua creatura, quam alibi
+          <lb ed="#A" n="5"/>dicit esse fidem, quae per charitatem operatur. Nam quod
+          <lb ed="#A" n="6"/>dixerat, in Christo Iesu, neque circuncisio valet aliquid,
+          ne<lb ed="#A" n="7" break="no"/>que praeputium, sed noua creatura, id in proxime
+          praece<lb ed="#A" n="8" break="no"/>denti capite, totidem prope verbis dixit: In Christo Iesu,
+          <lb ed="#A" n="9"/>neque circuncisio valet aliquid, neque praeputium, sed fides
+          <lb ed="#A" n="10"/>quae per charitatem operatur, facile vt appareat, quod per
+          <lb ed="#A" n="11"/>nouam creaturam, non aliud intelligi voluerit, quam
+          fi<lb ed="#A" n="12" break="no"/>dem non otiosam, non solam vt nostri temporis
+          conten<lb ed="#A" n="13" break="no"/>dunt haeretici, sed quae per charitatem operatur, per quam
+          <lb ed="#A" n="14"/>quae sit obsoleta fuerat, vt nulla propemodum esse
+          vide<lb ed="#A" n="15" break="no"/>retur, imago Dei in nobis reparatur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

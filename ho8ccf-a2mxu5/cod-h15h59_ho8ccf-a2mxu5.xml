@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 46</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 46</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="119-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2mxu5"><!-- c46 -->
+        <head xml:id="ho8ccf-a2mxu5-Hd1e99">Caput 46</head>
+        <head xml:id="ho8ccf-a2mxu5-Hd1e101" type="question-title">De Contritione</head>
+        <p xml:id="ho8ccf-a2mxu5-d1e104">
+          <lb ed="#A" n="22"/>CAPVT XLVI
+          <lb ed="#A" n="23"/>De Contritione.
+        </p>
+        <p xml:id="ho8ccf-a2mxu5-d1e111">
+          <lb ed="#A" n="24"/><milestone ed="#A" unit="p" rend="initial"/> COntritionem recte dixerimus iustum esse
+          dolo<lb ed="#A" n="25" break="no"/>rem de peccatis conceptum, cum eorum
+          detesta<lb ed="#A" n="26" break="no"/>tione. Dolere autem de peccatis nemo potest,
+          <lb ed="#A" n="27"/>nisi prius ab illis cessauerit. Propterea monet
+          scri<lb ed="#A" n="28" break="no"/>tura, Peccasti, quiesce. Et in alia scriptura prius illud
+          <lb ed="#A" n="29"/>legitur, Derelinquat impius vias suas, &amp; vir iniquus
+          co<lb ed="#A" n="30" break="no"/>gitationes suas: postea adiicitur, &amp; reuertatur ad
+          Domi<lb ed="#A" n="31" break="no"/>num. Atque apud eundem Prophetam: Quiescite agere
+          <lb ed="#A" n="32"/>peruerse: deinde: Discite benefacere. Paulus etiam cum
+          <lb ed="#A" n="33"/>esset hortatus Romanos vt induerent arma lucis, prius
+          <lb ed="#A" n="34"/>admonuit, vt abiicerent opera tenebrarum. Et Ephesios
+          <lb ed="#A" n="35"/>prius deponere iussit secundum pristinam conuersationem
+          <lb ed="#A" n="36"/>veterem hominem: deinde dixit: Renouamini spiritu
+          <lb ed="#A" n="37"/>mentis vestrae, &amp; induite nouum hominem. Qui
+          reconci<lb ed="#A" n="38" break="no"/>liari vult amico, quibus eum antehac iniuriis afficiebat, ab
+          <lb ed="#A" n="39"/>iis deincepsiam abstinet, quo facilius redire possit in
+          gra<lb ed="#A" n="40" break="no"/>tiam. Quae autem est alia poenitentis ratio, quam vt recon
+          <lb ed="#A" n="41"/>ciliemur Deo, remissione peccatorum nostrorum impetrata
+        </p>
+        <p xml:id="ho8ccf-a2mxu5-d1e154">
+          <lb ed="#A" n="42"/><milestone ed="#A" unit="p" rend="indent"/> Cessemus itaque a peccatis necesse est, in quibus quandiu
+          per<pb ed="#A" n="120-r"/><lb ed="#A" n="1" break="no"/>stat aliquis, dolere de illis, eaque ex animo detestari non
+          po<lb ed="#A" n="2" break="no"/>test. Primum itaque cessandum est a peccatis: quod tamen
+          so<lb ed="#A" n="3" break="no"/>lum non sufficit. Doleamus insuper oportet, quod ea
+          pa<lb ed="#A" n="4" break="no"/>trauerimus aliquando: ac sicut ea placuerunt antea, sic
+          de<lb ed="#A" n="5" break="no"/>inceps detestemur &amp; odio habeamus. Est quidem ita, quod
+          <lb ed="#A" n="6"/>optima penitentia est, noua vita, verum &amp; illud verum est,
+          <lb ed="#A" n="7"/>quod ab Augustino dictum existimatur. Neminem nouam
+          <lb ed="#A" n="8"/>vitam inchoare, quem veteris non penituerit. Qui namque
+          <lb ed="#A" n="9"/>fieri potest, vt proponat deinceps aliquis, nihil se nisi
+          be<lb ed="#A" n="10" break="no"/>nefacere velle, cui quae praeterierunt malefacta non
+          displi<lb ed="#A" n="11" break="no"/>cuerint? Quam Latini poenitentiam, eam Graeci vocant
+          <lb ed="#A" n="12"/>Metaneam quae latine dici potest mentis mutatio siue
+          resi<lb ed="#A" n="13" break="no"/>piscentia: ipso etiam Tertulliano teste, qui scribit in
+          Gra<lb ed="#A" n="14" break="no"/>co sono penitentiae nomen non ex delicti confessione, sed
+          <lb ed="#A" n="15"/>ex animi deinutatione compositum esse. Quae autem esse
+          <lb ed="#A" n="16"/>potest animi demutatio, vbi quae prius placuerunt, ea
+          de<lb ed="#A" n="17" break="no"/>inceps non displicent? Quomodo mutasse priorem
+          affe<lb ed="#A" n="18" break="no"/>tionem anima dici poterit, cui placet aliena rapuisse?
+          ve<lb ed="#A" n="19" break="no"/>rum in posterum nihil eiusmodi patrare deliberatum
+          ha<lb ed="#A" n="20" break="no"/>bet.
+        </p>
+        <p xml:id="ho8ccf-a2mxu5-d1e205">
+          Quamobrem vel communis ipse sensus indicat, ad
+          no<lb ed="#A" n="21" break="no"/>uam vitam inchoandam opus esse detestatione vitae prioris &amp;
+          <lb ed="#A" n="22"/>displicentia. Etiam homini si quis reconciliari vult,
+          osten<lb ed="#A" n="23" break="no"/>dit sibi displicere quod eum aliquando offenderit. Quod
+          <lb ed="#A" n="24"/>si delectari se offensionibus istis indicauerit, atque eo nomi
+          <lb ed="#A" n="25"/>ne sibi placuerit, tantum abest, vt in gratiam redeundi
+          po<lb ed="#A" n="26" break="no"/>testas illi fiat, maiorem etiam vt iram sibi cumulet. Si ad
+          <lb ed="#A" n="27"/>hunc modum agi par est cum homine, aeque vt nos
+          mon<lb ed="#A" n="28" break="no"/>tali, quo ore ad Desi accedemus? qua fronte ei
+          reconcilia<lb ed="#A" n="29" break="no"/>ri postulabimus, nullum de eo quod offenderimus, quodque
+          <lb ed="#A" n="30"/>iustam illius contra nos irram prouocauerimus, dolorem
+          <lb ed="#A" n="31"/>prae nobis ferentes? Quamuis autem ineptum sit ad hunc
+          <lb ed="#A" n="32"/>modum colligere, non est scriptum, ergo approbandum
+          <lb ed="#A" n="33"/>non est: tamen &amp; res &amp; nomen ipsum contritionis e
+          scri<lb ed="#A" n="34" break="no"/>turis ostendi potest. Nam quod vnus ex Prophetis
+          <lb ed="#A" n="35"/>auersionis ab impietate meminit, quid aliud significare
+          <lb ed="#A" n="36"/>vult hoc nomine, quam odium eorum &amp; displicentiam,
+          <lb ed="#A" n="37"/>quae prius placuerunt? Nam quae odimus, ab eo
+          liben<lb ed="#A" n="38" break="no"/>ter nos auertimus.
+        </p>
+        <p xml:id="ho8ccf-a2mxu5-d1e247">
+          Iam vero ille locus: Postquam con
+          <lb ed="#A" n="39"/>uertisti me egi poenitentiam, &amp; postquam ostendisti
+          mi<lb ed="#A" n="40" break="no"/>hi, percussi cor meum: confusus sum, &amp; erubui,
+          quo<lb ed="#A" n="41" break="no"/>niam sustinui opprobrium adolescentiae meae: nonne
+          ape<lb ed="#A" n="42" break="no"/>te vim contritionis demonstrat: in quo conteritur &amp;
+          <pb ed="#A" n="120-v"/>
+          <lb ed="#A" n="1"/>percutitur cor, sitque vt confundamus &amp; rubescamus de
+          <lb ed="#A" n="2"/>his, quae patrata sunt per nos. De hoc genere confusionis
+          <lb ed="#A" n="3"/>dicit Augustinus. Est quaedam confusio temporalis, vtilis
+          <lb ed="#A" n="4"/>perturbatio animi respicientis peccata sua, respectione
+          per<lb ed="#A" n="5" break="no"/>horrentis, horrore erubescentis, crubescentia corrigentis:
+          <lb ed="#A" n="6"/>Vnde dicit Apostolus: Quam enim gloriam habuisus tunc
+          <lb ed="#A" n="7"/>in iis, quibus nunc erubescitis? Ergo erubescere eos dicit
+          <lb ed="#A" n="8"/>iam fideles, non de praesentibus donis, sed de praeteritis
+          pec<lb ed="#A" n="9" break="no"/>caris. Hanc confusionem non formidet Chnstianus, uno
+          <lb ed="#A" n="10"/>si hanc non habuerit, aeternam habebit. Neque minus
+          cla<lb ed="#A" n="11" break="no"/>rus &amp; manifestus est ille locus, quo Dominus non
+          conten<lb ed="#A" n="12" break="no"/>tus dixisse. Conuertimini, ad me in toto corde vestro: ad
+          <lb ed="#A" n="13"/>dit insuper, in ieiunio, in fletu, in planctum, &amp; scindite con
+          <lb ed="#A" n="14"/>da vestra, &amp; non vestimenta vestra Quando flere,
+          qua<lb ed="#A" n="15" break="no"/>do plangere, quando scindere cor iubet, quid aliud quam
+          <lb ed="#A" n="16"/>contritionem praecipit, sine qua in toto corde nostro tom
+          <lb ed="#A" n="17"/>uerti ad Deum non posse videmur? Sed non hoc modo
+          <lb ed="#A" n="18"/>quod significatur eo nomine, verum ipsum etiam contei
+          <lb ed="#A" n="19"/>tionis nomen in scripturis reperire licet. Quod aperte
+          il<lb ed="#A" n="20" break="no"/>la verba indicant: Sacrificium Deo spiritus contribulatus
+          <lb ed="#A" n="21"/>cor contritum &amp; humiliatum Deus non despicies. Et illa
+          <lb ed="#A" n="22"/>alterius Prophetae: Ad quem respiciam, nisi ad paupercu
+          <lb ed="#A" n="23"/>lum, &amp; contritum spiritu, &amp; trementem sermones ineos
+          <lb ed="#A" n="24"/>Et apud eundem alio loco Euangelicare pauperibus
+          hi<lb ed="#A" n="25" break="no"/>sit me, sanare contritos corde. Ex quo vel solo discere
+          pos<lb ed="#A" n="26" break="no"/>sumus, qui sanari vult per penitentiam, eum contrito
+          cor<lb ed="#A" n="27" break="no"/>de esse oportere. Sanctorum vero doctorum vix quisquam
+          <lb ed="#A" n="28"/>est, qui ad contritionem compunctionemque cordis non in
+          <lb ed="#A" n="29"/>uitet. Inter Augustini opuscula, etiam vnum illum
+          inscri<lb ed="#A" n="30" break="no"/>tum videre licet, de contritione cordis Certe
+          Cypria<lb ed="#A" n="31" break="no"/>nus grauiter eos obiurgat, qui poenitentiae partem hanc
+          <lb ed="#A" n="32"/>sublatam voluerunt Agite, inquit, poenitentiam plenam
+          <lb ed="#A" n="33"/>doloris, ac lamentantis animi probate mostitiam: Neque
+          <lb ed="#A" n="34"/>vos quorundam moueat aut error improuidus, aut stupor
+          <lb ed="#A" n="35"/>vanus, qui cum teneantur in tam grandi crinne, percussi
+          <lb ed="#A" n="36"/>sunt animi caecitate, vt neque intelligant delicta, noque
+          plan<lb ed="#A" n="37" break="no"/>gant. Ac aliquanto post. Qui poenitentiam criminis
+          tol<lb ed="#A" n="38" break="no"/>lunt, satisfactioni viam praecludunt: ita sit, vt dum
+          teme<lb ed="#A" n="39" break="no"/>ritate quorundam promittitur salus falsa vel creditur; spes
+        </p>
+        <p xml:id="ho8ccf-a2mxu5-d1e345">
+          <lb ed="#A" n="40"/>verae salutis adimatur. Sod &amp; vetustior Cypriano
+          Ter<lb ed="#A" n="41" break="no"/>tullianus, scripsit librum de poenitentia, in quo inter caete
+          <lb ed="#A" n="42"/>ra de exomologesi in hunc modum loquitur.
+          Exomolo<pb ed="#A" n="121-r"/><lb ed="#A" n="1" break="no"/>gesis prosternendi &amp; humilificandi hominis disciplina est,
+          <lb ed="#A" n="2"/>conuersationem iniungens misericordiae ilicem: de ipso
+          <lb ed="#A" n="3"/>quoque habitu atque victu mandat. Sacco &amp; cinere
+          in<lb ed="#A" n="4" break="no"/>cubare, corpus sordibus obscurare, animum mororibus
+          <lb ed="#A" n="5"/>deiicere, illa quae peccauit tristi tractatione mutare.
+        </p>
+        <p xml:id="ho8ccf-a2mxu5-d1e366">
+          Cae<lb ed="#A" n="6" break="no"/>terum pastum &amp; potum pura nosse, non ventris scilicet,
+          <lb ed="#A" n="7"/>sed animae causa. Plerunque vero ieiuniis preces alere,
+          in<lb ed="#A" n="8" break="no"/>gemmiscere, lachrymari, &amp; mugire dies noctesque ad
+          domi<lb ed="#A" n="9" break="no"/>num Deum tuum: presbyteris aduolui, &amp; aris Dei
+          adge<lb ed="#A" n="10" break="no"/>niculari: Scripsit Ambrosius quoque de Poenitentia
+          li<lb ed="#A" n="11" break="no"/>bros duos. Et inter Augustini libros recensentur, vnus
+          <lb ed="#A" n="12"/>de vtilitate poenitentiae, alius de medicina poenitentiae.
+          <lb ed="#A" n="13"/>Chrysostomi vero complures de ea sunt Homiliae: de com
+          <lb ed="#A" n="14"/>punctione vero cordis libri duo: ac itidem etiam eadem
+          <lb ed="#A" n="15"/>de re libri beati patris Ephem, quem ad tantam venisse
+          <lb ed="#A" n="16"/>daritudinem scribit Hieronymus; vt post lectionem
+          scri<lb ed="#A" n="17" break="no"/>pturarum, publice in quibusdam ecclesiis eius scripta
+          reci<lb ed="#A" n="18" break="no"/>tarentur: qui de poenitentia quoque libros duos, &amp;
+          ser<lb ed="#A" n="19" break="no"/>monem vnum conscripsit: neque alia in re magis
+          occupa<lb ed="#A" n="20" break="no"/>tur, quam in mentibus hominum ad compunctionem
+          ex<lb ed="#A" n="21" break="no"/>citandis. Cuius etiam haec verba sunt. Proiice abs te
+          one<lb ed="#A" n="22" break="no"/>ra peccatorum, offer munera obsecrationum, suppone
+          la<lb ed="#A" n="23" break="no"/>chrymas in putredine vulnerum. In tantum enim
+          coele<lb ed="#A" n="24" break="no"/>stis medicus bonus est, vt lachrymis &amp; gemitibus, donet
+          <lb ed="#A" n="25"/>vulneribus sanitatem. Accede peccator, &amp; procidens huic
+          <lb ed="#A" n="26"/>benignissimo medico offer lachrymas, quae ad huiusmodi
+          <lb ed="#A" n="27"/>medicamentum proficiunt. Sic enim vult coelestis
+          medi<lb ed="#A" n="28" break="no"/>cus, sanare vnumquemque, medicamentum diligens lachry
+          <lb ed="#A" n="29"/>marum. Nihil est enim quod non cedat &amp; sanetur
+          me<lb ed="#A" n="30" break="no"/>dicamento poenitentiae. Hoc enim medicamentum non
+          <lb ed="#A" n="31"/>vsquequaque detinet aegrotum, sed statim sanat.
+          Expecta<lb ed="#A" n="32" break="no"/>ergo medicus videre lachrymas tuas accede, noli timere,
+          <lb ed="#A" n="33"/>Ostende ei vulnus, &amp; offer medicamentum lachrymarum
+          <lb ed="#A" n="34"/>&amp; fletum. Ecce enim apertum est ostium poenitentiae.
+          Fe<lb ed="#A" n="35" break="no"/>stina peccator priusquam claudatur. Et alio loco:
+          Bea<lb ed="#A" n="36" break="no"/>stus homo qui habet compunctionem iugiter secundum
+          <lb ed="#A" n="37"/>Deum. Compunctio fratres sanitas animae est, illumi
+          <lb ed="#A" n="38"/>natio mentis est: compunctio fratres remissionem
+          deli<lb ed="#A" n="39" break="no"/>ctorum nobis conquit: compunctio fratres Iesum
+          vni<lb ed="#A" n="40" break="no"/>genitum facit in nobis habitare, cum eum desyderamus
+          <lb ed="#A" n="41"/>&amp; quaerimus. Volo vobis fratres enarrare potentiam
+          la<lb ed="#A" n="42" break="no"/>schrymarum. Anna per lachrymas a Deo Samuelem
+          pro<pb ed="#A" n="121-v"/><lb ed="#A" n="1" break="no"/>phetam accepit, sed sublimitatem &amp; gloriationem anima
+          <lb ed="#A" n="2"/>suae. Mulieris etiam peccatricis debita in domo Simonis
+          <lb ed="#A" n="3"/>a Christo domino dimissa sunt, quae lachrymis pedes eius
+          <lb ed="#A" n="4"/>rigabat, &amp; cine tergebat. Grandis virtus est
+          lachryma<lb ed="#A" n="5" break="no"/>rum, multumque praeualent lachrymae, quae secundum
+          <lb ed="#A" n="6"/>Deum sunt, fiduciam domini semper acquirunt
+          lachry<lb ed="#A" n="7" break="no"/>mae, sordidas cogitationes expellunt, nec proximare eas
+          <lb ed="#A" n="8"/>permittunt animae compunctionem cordis habenti. Gre
+          <lb ed="#A" n="9"/>gorius quoque Nazianzenus vocant poenitentiam
+          Baptisi<lb ed="#A" n="10" break="no"/>mum lachrymarum.
+        </p>
+        <p xml:id="ho8ccf-a2mxu5-d1e472">
+          Quamobrem &amp; e scriptus, &amp; ex
+          <lb ed="#A" n="11"/>consensu doctorum omnium ecclesiae, pars haec
+          poeniten<lb ed="#A" n="12" break="no"/>tiae probari potest. Quantum autem temporis ad eam
+          re<lb ed="#A" n="13" break="no"/>quiratur, non videtur hominis esse definire. Praeclare
+          <lb ed="#A" n="14"/>enim scripsit Leo Pontifex, quod misericordiae Dei nec
+          <lb ed="#A" n="15"/>mensuras possumus ponere, nec tempora definire, apud
+          <lb ed="#A" n="16"/>quem nullas patitur venire moras conuersio, dicente
+          spi<lb ed="#A" n="17" break="no"/>ritu Dei per Prophetam: Cum conuersus ingemueris
+          <lb ed="#A" n="18"/>tunc saluus eris. Et alibi: Dic tu iniquitates tuas vt
+          iusti<lb ed="#A" n="19" break="no"/>ficeris. Et iterum: Quia apud dominum misericordia est
+          <lb ed="#A" n="20"/>&amp; copiosa apud cum redemptio. Sed &amp; ante eum
+          Coele<lb ed="#A" n="21" break="no"/>stinus Papa. Salutem, inquit, homini adimit, quisquis
+          mor<lb ed="#A" n="22" break="no"/>tis tempore penitentiam denegauit, &amp; desperat de
+          clemen<lb ed="#A" n="23" break="no"/>ria Dei, qui eum ad subueniendum morienti sufficere vel
+          <lb ed="#A" n="24"/>in momento posse non credit. Perdidisset latro in cruce
+          <lb ed="#A" n="25"/>praemium ad Christi dexteram pendens, si illum vnius
+          <lb ed="#A" n="26"/>horae poenitentia non iuuisset. Cum esset in poena
+          pro<lb ed="#A" n="27" break="no"/>mitur, &amp; per vnius sermonis promissionem, habitaculum
+          <lb ed="#A" n="28"/>paradisi promeruit. Vera ergo ad Deum conuersio in
+          vl<lb ed="#A" n="29" break="no"/>timis positorum, mente potius est existimanda, quam
+          <lb ed="#A" n="30"/>tempore; Propheta hoc taliter asserente, Cum
+          conuer<lb ed="#A" n="31" break="no"/>lus ingemueris, tunc saluus eris. Et aequalis eius
+          Augu<lb ed="#A" n="32" break="no"/>stinus: Poenitentia quamus sit exigui temporis, si inti
+          <lb ed="#A" n="33"/>ma cordis amaritudine agitur, non despicitur apud
+          iudi<lb ed="#A" n="34" break="no"/>cem iustum Deum, qui cordis secreta consyderat. Non enim
+          <lb ed="#A" n="35"/>longitudinem temporis tantum requirit Deus, quantum
+          <lb ed="#A" n="36"/>affectum synceritatis poenitentis pensat. Et qui praecessit
+          <lb ed="#A" n="37"/>nos Ioannes Chrysostomus, cum esset hortatus populum
+        </p>
+        <p xml:id="ho8ccf-a2mxu5-d1e533">
+          <lb ed="#A" n="38"/>taberet peccata tum maxime, cum adhuc relicta esset
+          <lb ed="#A" n="39"/>quadragesimae pars, subdit. Hoc autem dixi, non quod
+          <lb ed="#A" n="40"/>solum tanto tempore opus habet, peccatorum
+          correctio<lb ed="#A" n="41" break="no"/>sed quia Dominum habemus misencordem &amp; benignum,
+          <lb ed="#A" n="42"/>&amp; non indigent, magno tempore, tantum magno
+          fe<pb ed="#A" n="122-r"/><lb ed="#A" n="1" break="no"/>uore &amp; sobrietate ad ipsum accedamus, reiectis
+          saeculari<lb ed="#A" n="2" break="no"/>bus curis omnibus, &amp; supernae gratiae innitamur. Nam
+          <lb ed="#A" n="3"/>&amp; Niniuitae tanta peccatorum multitudine aggrauati, quia
+          <lb ed="#A" n="4"/>magnam &amp; veram poenitentiam egerunt, non indigebant
+          <lb ed="#A" n="5"/>ampliori quam trium dierum tempore ad prouocandam
+          <lb ed="#A" n="6"/>Dei bonitatem, &amp; irritandam quae aduersus se lata erat
+          <lb ed="#A" n="7"/>sententiam. Et quid dico Niniuitas? Latro in cruce neque
+          <lb ed="#A" n="8"/>vno die opus habebat, &amp; quid dico die vno? neque breui
+          <lb ed="#A" n="9"/>hora, Tanta est ergo nos Dei misericordia. Nam vbi
+          vi<lb ed="#A" n="10" break="no"/>derit voluntatis nostrae firmum propositum, &amp; feruenti
+          <lb ed="#A" n="11"/>nos desiderio ad se accedere, non retardat, neque differt,
+          <lb ed="#A" n="12"/>sed accelerat, suamque solitam liberalitatem exhibens
+          di<lb ed="#A" n="13" break="no"/>cit: adhuc loquente te dicam, ecce adsum. Ac qui fuit
+          om<lb ed="#A" n="14" break="no"/>nibus iis vetustior Cyprianus: Sed &amp; in eodem articulo
+          <lb ed="#A" n="15"/>temporis cum iam anima festinet ad exitum, &amp; egrediens
+          <lb ed="#A" n="16"/>ad labia expirantis emerserit, poenitentiam clementissimi
+          <lb ed="#A" n="17"/>Dei benignitas non aspernatur, nec serum est quod
+          ve<lb ed="#A" n="18" break="no"/>rum, nec irremissibile quod voluntarium, &amp; quaecunque
+          <lb ed="#A" n="19"/>necessitas cogat ad penitudinem, nec quantitas criminis,
+          <lb ed="#A" n="20"/>nec breuitas temporis, nec horae extremitas, nec vitae enor
+          <lb ed="#A" n="21"/>mitas, si vera contritio, si pura fuerit voluptatum mutatio,
+          <lb ed="#A" n="22"/>excludit a venia, sed in amplitudine sinus sui, mater
+          cha<lb ed="#A" n="23" break="no"/>tas prodigos suscipit reuertentes, &amp; velit nolit Nouatus
+          <lb ed="#A" n="24"/>haereticus, omni tempore Dei gratia recipit penitentes. Ac
+          <lb ed="#A" n="25"/>latronis mentionem faciens: Latrocinium, inquit,
+          damna<lb ed="#A" n="26" break="no"/>tionem meruerat &amp; supplicium, sed cor contritum paenam
+          <lb ed="#A" n="27"/>mutauit in martyrium, &amp; sanguinem in baptismum. In
+          <lb ed="#A" n="28"/>momento impietas religionem, crudelitas induit
+          pieta<lb ed="#A" n="29" break="no"/>tem, &amp; statim consummatus ciuis sanctorum &amp; domesticus
+          <lb ed="#A" n="30"/>Dei permissus est in regnum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

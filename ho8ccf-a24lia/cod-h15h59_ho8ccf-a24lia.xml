@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 29</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 29</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="54-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a24lia"><!-- c29 -->
+        <head xml:id="ho8ccf-a24lia-Hd1e99">Caput 29</head>
+        <head xml:id="ho8ccf-a24lia-Hd1e101" type="question-title">Quod fides Ecclesiae propterea deserenda non sit, quod praesident illi quandoque, qui vitae non omnino sunt inculpatae</head>
+        <p xml:id="ho8ccf-a24lia-d1e104">
+          <lb ed="#A" n="27"/>CAPVT XXIX.
+          <lb ed="#A" n="28"/>Quod fides Ecclesiae propterea deserenda non sit,
+          <lb ed="#A" n="29"/>quod praesident illi quandoque, qui vitae non
+          <lb ed="#A" n="30"/>omnino sunt inculpatae
+        </p>
+        <p xml:id="ho8ccf-a24lia-d1e115">
+          <lb ed="#A" n="31"/><milestone ed="#A" unit="p" rend="initial"/> CAeterum verum esse illud comperimus, quod ab
+          <lb ed="#A" n="32"/>Augustino scriptum est, quod quum non habeant
+          <lb ed="#A" n="33"/>haeretici, quod in causa suae diuisionis defendant.
+          <lb ed="#A" n="34"/>non nisi hominum crimina colligere affectant, &amp;
+          <lb ed="#A" n="35"/>ca ipsa plura falsissime iactant, vt quia ipsam diuinae
+          scri<lb ed="#A" n="36" break="no"/>pturae veritatem, qua vbique diffusa Christi Ecclesia
+          commen<lb ed="#A" n="37" break="no"/>datur, criminari &amp; obscurare non possunt, homines per
+          <lb ed="#A" n="38"/>quos praedicatur, adducant in odium, de quibus fingere
+          <lb ed="#A" n="39"/>quicquid in mentem venerit, possint. Nunquam enim id
+          <lb ed="#A" n="40"/>ab vllis haereticis tam est impudenter factum, quam hoc
+          <lb ed="#A" n="41"/>infelici nostro seculo fieri videmus. Cum enim se malam
+          <pb ed="#A" n="55-r"/>
+          <lb ed="#A" n="1"/>habere cauisam intelligant, ad eas se artes conuertunt,
+          qui<lb ed="#A" n="2" break="no"/>bus vti consueuerunt ii, qui malas causas defendendas
+          sus<lb ed="#A" n="3" break="no"/>sceperunt. Cumque sint in Rhetorum praeceptis diligenter
+          <lb ed="#A" n="4"/>exercitati, non alia in re magis laborant, quam vt odio,
+          <lb ed="#A" n="5"/>inuidia, &amp; huiusmodi motibus animorum excitandis,
+          ho<lb ed="#A" n="6" break="no"/>minibus imperitis errorem obiicere queant.
+        </p>
+        <p xml:id="ho8ccf-a24lia-d1e158">
+          Quamobrem
+          <lb ed="#A" n="7"/>Ecclesiae praesides, praecipue vero Christi vicarium Petrique
+          <lb ed="#A" n="8"/>successorem falsis etiam criminationibus in odium &amp;
+          con<lb ed="#A" n="9" break="no"/>temptum omnium adducere conantur. Quae est autem
+          <lb ed="#A" n="10"/>ista tam insana maledicendi rabies? aut a quo alio quam
+          <lb ed="#A" n="11"/>a satana authore profecta? facile vt satanistam agnoscere
+          <lb ed="#A" n="12"/>liceat. Certe Dei Praeceptum est, Principi plebis tuae non
+          <lb ed="#A" n="13"/>maledices. Dei digito scriptum est, Maledici regnum Der
+          <lb ed="#A" n="14"/>non consequentur.
+        </p>
+        <p xml:id="ho8ccf-a24lia-d1e179">
+          Atqui ex istorum libris si quis
+          male<lb ed="#A" n="15" break="no"/>dicta &amp; conuicia, si falsas criminationes auferre velit,
+          char<lb ed="#A" n="16" break="no"/>las propemodum omnes vacuas reliquerit. Is demum Euan
+          <lb ed="#A" n="17"/>gelij propugnator habetur acerrimus, qui Pontificem
+          Ro<lb ed="#A" n="18" break="no"/>manum &amp; reliquos Episcopos omni conuitiorum genere
+          <lb ed="#A" n="19"/>quam acerbissime fuerit insectatus. Et quod suo quoque
+          <lb ed="#A" n="20"/>tempore quaeritur euenisse Basilius, vt quisque lingua est ad
+          <lb ed="#A" n="21"/>maledicendum &amp; blasphemandum procacissima, ita
+          prae<lb ed="#A" n="22" break="no"/>caeteris maxime iudicatur idoneus, qui verbi ministerio
+          <lb ed="#A" n="23"/>fungatur. Ac demus hoc illis, deflexisse aut deflectere
+          quan<lb ed="#A" n="24" break="no"/>doque de recto vitae curriculo Pontificem, nunquid ideo
+          fi<lb ed="#A" n="25" break="no"/>des in Christum, quam ille docet, abiicienda est? Praeclare
+          <lb ed="#A" n="26"/>dictum est a Tertulliano: ex personis probamus fidem, an
+          <lb ed="#A" n="27"/>ex fide pensonas? Dummodo ille recta doceat, quemad
+          <lb ed="#A" n="28"/>modum recta docere certum est, quid mea refert, qua sit
+          il<lb ed="#A" n="29" break="no"/>le vita?
+        </p>
+        <p xml:id="ho8ccf-a24lia-d1e214">
+          Deinde vero, quis ego sum, qui sedentem in
+          Petri<lb ed="#A" n="30" break="no"/>cathedra seruum iudicem alienum domino suo ille
+          sta<lb ed="#A" n="31" break="no"/>aut cadit, vni illi vitae suae commissique pontificatus
+          ratio<lb ed="#A" n="32" break="no"/>nem redditurus. Quum ventum erit ad Christi tribunal,
+          <lb ed="#A" n="33"/>ante quod omnes nos oportet manifestari, non quaeretur
+          <lb ed="#A" n="34"/>a nobis quid Pontifex fecerit, non illius sed nostrae a
+          no<lb ed="#A" n="35" break="no"/>bis vite ratio reposcetur, referet vnusquisque propria
+          cor<lb ed="#A" n="36" break="no"/>poris prout ipse gesserit, siue bonum siue malum: prout
+          <lb ed="#A" n="37"/>ipse, inquis, non prout Pontifex gesserit.
+        </p>
+        <p xml:id="ho8ccf-a24lia-d1e234">
+          Quamobrem non
+          <lb ed="#A" n="38"/>sibi sumat ouis, vt a quo venit ipsa iudicanda, pastorem
+          <lb ed="#A" n="39"/>suum iudicet, neque qua sit ille vita, quicquam ad salutem
+          <lb ed="#A" n="40"/>suam interesse putet. Securum te Christus in hac parte
+          fe<lb ed="#A" n="41" break="no"/>cit, dicens: Quae dicunt facite, quae autem faciunt, facere
+          <lb ed="#A" n="42"/>nolite: dicunt enim, &amp; non faciunt. Dicunt quae Dei sunt
+          <pb ed="#A" n="55-v"/>
+          <lb ed="#A" n="1"/>faciunt quae sua sunt: dicunt bona ex cathedra Moysi,
+          sae<lb ed="#A" n="2" break="no"/>ciunt mala ex pestilentia sua. Non est itaque deserenda
+          san<lb ed="#A" n="3" break="no"/>ctitas cathedrae, neque propter pastores malos, gregis est
+          <lb ed="#A" n="4"/>vnitas diuidenda. Monet Iacobus, ne Christi fidem in ac
+          <lb ed="#A" n="5"/>ceptione personarum habeamus, quandoquidem persona
+          <lb ed="#A" n="6"/>rum respectus, vt est apud Augustinum, erroris est mater,
+          <lb ed="#A" n="7"/>qui etiam a perfido fidem percipi posse docet. Per asinam
+          <lb ed="#A" n="8"/>loqui dominus dignatus est, qui minus loquatur per
+          ho<lb ed="#A" n="9" break="no"/>minem quamuis grauibus flagitiis coopertum? Spiritus
+          <lb ed="#A" n="10"/>vbi vult spirat, etiamsi voluntati eius is qui loquitur non
+          <lb ed="#A" n="11"/>conueniat. Balaam pretio conductus vt populo Dei maledi
+          <lb ed="#A" n="12"/>ceret, profectus fuerat, contra tamen atque animo
+          destina<lb ed="#A" n="13" break="no"/>uerat, simul ac in conspectum populi venit, ei benedixit.
+          <lb ed="#A" n="14"/>Saul rex ad occidendum Dauidem properauerat, cuius
+          po<lb ed="#A" n="15" break="no"/>steaquam potestas erat facta, contra quam proposuerat,
+          ve<lb ed="#A" n="16" break="no"/>niens ad cuneum Prophetarum in quo fuerat Dauid,
+          pro<lb ed="#A" n="17" break="no"/>phetauit &amp; ipse coram Samuele cum caeteris, cum factus
+          <lb ed="#A" n="18"/>esset super euin spiritus domini. Quis ignorat quales
+          fue<lb ed="#A" n="19" break="no"/>rint Sacerdotum Principes &amp; Scribae temporibus
+          Hero<lb ed="#A" n="20" break="no"/>dis? qui tamen vbi nasceretur Christus interrogati,
+          se<lb ed="#A" n="21" break="no"/>mota quauis cunctatione dixeruntis In Bethicem Iudae.
+          <lb ed="#A" n="22"/>Caipha quid esse potuit nequius? qui quem scelerate
+          na<lb ed="#A" n="23" break="no"/>ctus erat pontificatum pretio redemptum, gessit etiam
+          scele<lb ed="#A" n="24" break="no"/>ratius, &amp; tamen is cum diceret, expedit vobis, vt vnus
+          mo<lb ed="#A" n="25" break="no"/>riatur pro populo, &amp; non tota gens pereat, non a semeripso
+          <lb ed="#A" n="26"/>hoc dixit, quemadmodum Ioannes testatur, sed cum esset Pon
+          <lb ed="#A" n="27"/>tifex anni illius, prophetauit. Si non destituebatur
+          dono<lb ed="#A" n="28" break="no"/>prophetiae, quamlibet esset impius, qui sedebat in Moysi
+          ca<lb ed="#A" n="29" break="no"/>thedra, certe multominus eo destitui credendus est, qui
+          se<lb ed="#A" n="30" break="no"/>det in cathedra Petri, super quem Christus aedificauit
+          Ec<lb ed="#A" n="31" break="no"/>clesiam suam, cuius a domino cura suscipitur specialis,
+          pro<lb ed="#A" n="32" break="no"/>cuius fide proprie supplicatur, tanquam aliorum status
+          cer<lb ed="#A" n="33" break="no"/>tior sit futurus, si mens Principis victa non fuerit, aduersus
+          <lb ed="#A" n="34"/>quem nunquam esse portas inferi praeualituras promisit is,
+          <lb ed="#A" n="35"/>qui mentiri &amp; fallere nescit. Numerentur omnes
+          Pontifi<lb ed="#A" n="36" break="no"/>ces a Petro ad hunc vsque Iulium tertium, nullus in ista ca
+          <lb ed="#A" n="37"/>thedra sedit Arrianus, nullus Donatista, nullus
+          Pelagia<lb ed="#A" n="38" break="no"/>nus, nullus Lutheranus, nullus qui haeresim aliquam
+          pro<lb ed="#A" n="39" break="no"/>fessus esset. Non abs re autem fuerit, quae scripta sunt in
+          an<lb ed="#A" n="40" break="no"/>nalibus de Vigilio Papa, breuibus commemorare. Cum is
+          <lb ed="#A" n="41"/>per scelus ad pontificatum peruenisset, nam Siluerium
+          Pa<lb ed="#A" n="42" break="no"/>pam, cuius erat Diaconus, instigante Augusta de sede sua
+          <pb ed="#A" n="56-r"/>
+          <lb ed="#A" n="1"/>deturbandum atque in exilium deportandum curauerat,
+          <lb ed="#A" n="2"/>quod is omnia se prius &amp; facere &amp; pati paratum diceret,
+          <lb ed="#A" n="3"/>quam vt, quod Augusta tanto studio postulabat,
+          Anthe<lb ed="#A" n="4" break="no"/>mium, quii propter Eutichetis haeresim de sede
+          Constanti<lb ed="#A" n="5" break="no"/>nopolitana per Agapetum antecessorem suum deiectus
+          fue<lb ed="#A" n="6" break="no"/>rat, in sedem illam restitueret, posteaquam in locum
+          Sil<lb ed="#A" n="7" break="no"/>uerij opera Augustae suffectus, ac Pontifex Romanus
+          de<lb ed="#A" n="8" break="no"/>signatus est, ea lege, vt quod Siluerius constanter facere
+          <lb ed="#A" n="9"/>detrectabat, id ipse facturum se, atque Anthenium
+          restitu<lb ed="#A" n="10" break="no"/>turum ad Ecclesiam Constantinopolitanam promitteret,
+          <lb ed="#A" n="11"/>res est admiratione digna, statim vt Petri cathedram
+          ascen<lb ed="#A" n="12" break="no"/>dit, idem illli quod Saul euenit: Nam super eum quoque
+          fa<lb ed="#A" n="13" break="no"/>ctus est spuritus domini, cumque longe alio animo ad
+          Eccle<lb ed="#A" n="14" break="no"/>hae gubernacula accessisset, admonitus ab Augusta
+          pro<lb ed="#A" n="15" break="no"/>missi, prius extrema quaeque se passurum respondit, quam vt
+          <lb ed="#A" n="16"/>haereticum in sedem, ex qua merito suo deturbatus fuerat,
+          <lb ed="#A" n="17"/>restitueret: Cumque multa probra, multos etiam graues
+          cru<lb ed="#A" n="18" break="no"/>ciatus, famemque diuturnam in carcere pertulisset, tulit om
+          <lb ed="#A" n="19"/>nia forti animo, quod multo se grauiora supplicia
+          comme<lb ed="#A" n="20" break="no"/>ritum diceret, qui malis artibus pontificatum assequutus
+          <lb ed="#A" n="21"/>horrendum facinus contra sanctum Pontificem
+          Silueri<lb ed="#A" n="22" break="no"/>um designasset. Non fuit hic Pontifex in primo suo
+          in<lb ed="#A" n="23" break="no"/>gressu Camphae dissimilis, effecit tamen sedis huius
+          Priui<lb ed="#A" n="24" break="no"/>legium, vt a fide aberrare non potuerit, quodque impie
+          promi<lb ed="#A" n="25" break="no"/>serat, id piae postea negauit, ac eo quo decebat aio
+          Christi<lb ed="#A" n="26" break="no"/>anum Pontificem, tulit omnia potius aequo animo quamlibet
+          <lb ed="#A" n="27"/>acerba, quam vt aliquid indiguum Petri successore de
+          re<lb ed="#A" n="28" break="no"/>ligione statueret.
+        </p>
+        <p xml:id="ho8ccf-a24lia-d1e403">
+          Ex quo videre licet, quantum sit
+          Roma<lb ed="#A" n="29" break="no"/>nae sedis Priuilegium. Nam vt ab aliis peccatis non
+          sem<lb ed="#A" n="30" break="no"/>per immunes fuerint Romani Pontifices, obtinuit tamen
+          <lb ed="#A" n="31"/>hoc venerabilis &amp; efficax oratio Christi, quemadmodum
+          <lb ed="#A" n="32"/>scribit sanctus Leo, quod hactenus fides Petri non
+          defe<lb ed="#A" n="33" break="no"/>cit, nec defectura creditur in throno illius in seculum,
+          <lb ed="#A" n="34"/>Quae propriae sunt inferorum portae, nunquam aduersus
+          <lb ed="#A" n="35"/>hanc sedem haereses vllae praeualuerunt, nec deinceps etiam
+          <lb ed="#A" n="36"/>per Dei misericordiam praeualebunt. Quare merito
+          san<lb ed="#A" n="37" break="no"/>ctissimi vocantur, qui sedent in ista cathedra. Quamuis
+          <lb ed="#A" n="38"/>enim non omnes habeant vitae sanctitatem, quam habere
+          <lb ed="#A" n="39"/>sine innocentia nemo potest, est tamen, sicut ab Augustino
+          <lb ed="#A" n="40"/>memoriae proditum legimus, quaedam vnctionis est: quae
+          <lb ed="#A" n="41"/>dam Sacramenti quoque sanctitas, qua carere nunquam pos
+          <lb ed="#A" n="42"/>sunt:
+        </p>
+        <p xml:id="ho8ccf-a24lia-d1e436">
+          Quamobrem nihil pios mouere debet, si forte ii
+          prae<pb ed="#A" n="56-v"/><lb ed="#A" n="1" break="no"/>sunt aliquando in Ecclesia, qui non sunt sine crimine: Quin
+          <lb ed="#A" n="2"/>illud potius reputare secum debet homo Christianus, quod
+          <lb ed="#A" n="3"/>non sine iusto Dei iudicio dantur Ecclesiae praesides.
+          Non<lb ed="#A" n="4" break="no"/>ne duo passeres asse veneunt, dicit Christus, &amp; neuter
+          eo<lb ed="#A" n="5" break="no"/>rum cadit in terram sine patris vestri voluntate? Quum
+          <lb ed="#A" n="6"/>ille nec minima fieri sine voluntate Dei dicat, existimat
+          <lb ed="#A" n="7"/>aliquis summa &amp; magna aut non sciente, aut non permit
+          <lb ed="#A" n="8"/>tente Deo in Ecclesia fieri? &amp; Sacerdotes &amp; dispensatores
+          <lb ed="#A" n="9"/>eius non de eius sententia ordinari? Hoc est, dicit
+          Cypri<lb ed="#A" n="10" break="no"/>anus, fidem non habere qua viuimus, hoc est Deo honorem
+          <lb ed="#A" n="11"/>non dare, cuius nutu &amp; arbitrio regi omnia &amp; gubernari
+          <lb ed="#A" n="12"/>scimus &amp; credimus.
+        </p>
+        <p xml:id="ho8ccf-a24lia-d1e466">
+          Ex quibus Cypriani verbis illud disci
+          <lb ed="#A" n="13"/>mus, quod certo nobis persuasum esse debet, Dei iudicio
+          <lb ed="#A" n="14"/>fieri Sacerdotes, Episcopos, &amp; Ecclesiae praesides, &amp; eos aut
+          <lb ed="#A" n="15"/>sciente, aut permittente Deo ordinari. Scit autem Deus
+          <lb ed="#A" n="16"/>quos probat, nescit quos reprobat. Sic enim ait Paulus de
+          <lb ed="#A" n="17"/>is qui probati sunt: Nouit dominus qui sunt eius. Repro
+          <lb ed="#A" n="18"/>bis vero dicit ipse dominus in Euangelio: Nescio vos
+          vn<lb ed="#A" n="19" break="no"/>de sitis. Sic &amp; fatuis virginibus. Amen dico vobis nescio
+          <lb ed="#A" n="20"/>vos. Sciente ergo Deo fiunt probati Sacerdotes &amp;
+          Pon<lb ed="#A" n="21" break="no"/>tifices, permittente autem Deo fiunt ii, qui sunt minus
+          pro<lb ed="#A" n="22" break="no"/>bati: Nam facit quandoque Deus hypocritam regnare
+          <lb ed="#A" n="23"/>propter peccata populi, vt sit sicut populus ita &amp;
+          Sacer<lb ed="#A" n="24" break="no"/>dos: Qui si malus est, neque tibi quicquam eius
+          improbi<lb ed="#A" n="25" break="no"/>tas officit, si factis eius malis non communicas: Tibi man
+          <lb ed="#A" n="26"/>datum est, non vt in vitam illius inquiras, sed vt quae
+          di<lb ed="#A" n="27" break="no"/>xerit facias, quum praesertim ex ea dicat cathedra, cuius,
+          <lb ed="#A" n="28"/>quemadmodum antea dictum est, cura Deo est specialis.
+          <lb ed="#A" n="29"/>Explicans illa verba diuus Hieronymus, qui recipit
+          Pro<lb ed="#A" n="30" break="no"/>phetam in nomine Prophetae, mercedem Prophetae
+          acci<lb ed="#A" n="31" break="no"/>piet: Praemiserat, inquit, qui recipit vos, me recipit, &amp; qui
+          <lb ed="#A" n="32"/>me recipit, recipit eum qui me misit: ad susceptionem
+          ma<lb ed="#A" n="33" break="no"/>gistrorum discipulos prouocauerat. Poterat occulta esse
+          <lb ed="#A" n="34"/>credentium responsio, ergo &amp; Pseudoprophetas, &amp; Iudam
+          <lb ed="#A" n="35"/>proditorem debemus recipere, &amp; illis alimoniam
+          ministra<lb ed="#A" n="36" break="no"/>re? Hoc dominus ante procurans dicit, non personas
+          su<lb ed="#A" n="37" break="no"/>scipiendas esse, sed nomina, &amp; mercedem non perdere
+          su<lb ed="#A" n="38" break="no"/>scipientes, licet indignus fuerit qui susceptus sit. Non
+          per<lb ed="#A" n="39" break="no"/>sonas itaque Christus, sed nomina suscipi vult, hoc est, non
+          <lb ed="#A" n="40"/>vult attendi qualis persona sit, quoue vitae merito, cuius
+          <lb ed="#A" n="41"/>ministerio Deus vtitur, siue in Ecclesia sua gubernanda,
+          <lb ed="#A" n="42"/>siue in doctrina propaganda, siue in Sacramentis
+          admi<pb ed="#A" n="57-r"/><lb ed="#A" n="1" break="no"/>nistrandis, Iudas ne sit, an Petrus, an Paulus, attendi non
+          <lb ed="#A" n="2"/>vult, sed solum hoc quod sedet in cathedra Petri, quod
+          <lb ed="#A" n="3"/>Apostolus, quod Christi legatus, quod Sacerdos, quod
+          <lb ed="#A" n="4"/>Episcopus, quod Angelus est domini exercituum, de cuius
+          <lb ed="#A" n="5"/>pre legem Dei requirere iussus es, hoc solum spectari vult
+          <lb ed="#A" n="6"/>Si Iudas est, quandoquidem Apostolus est, &amp; pro Christo
+          <lb ed="#A" n="7"/>legatione fungitur, nihil te moueat quod fur est. Audi
+          <lb ed="#A" n="8"/>nihilominus reuerenter, audi diligenter, audi legationem
+          <lb ed="#A" n="9"/>eius obedienter: Quae dixerit facito, quae fecerit facere no
+          <lb ed="#A" n="10"/>ito. Nom ad ipsum refer animum, verum ad illum cuius
+          <lb ed="#A" n="11"/>nomen gerit. Euangelium, dicit Augustinus, fur quoque lu
+          <lb ed="#A" n="12"/>das sine detrimento fidelium praedicauit, ac quicunque non
+          <lb ed="#A" n="13"/>recepit illum, Christum ipsum non recepit, qui aeque ludo
+          <lb ed="#A" n="14"/>dixerat atque Petro vel Ioanni, qui vos reiicit, me reiicit.
+          <lb ed="#A" n="15"/>Si vero Petrus est, aut Ioannes, qui eadem legatione
+          fun<lb ed="#A" n="16" break="no"/>gitur, &amp; elictis pareto, &amp; facta imitare. Incerta erit salus
+          <lb ed="#A" n="17"/>nostra, si ex sanctitate pendebit docentium, aut
+          Sacramen<lb ed="#A" n="18" break="no"/>ta ministratium. Prauum est &amp; inscrutabile cor hominis.
+          <lb ed="#A" n="19"/>vt qui sanctus, quive minus sanctus sit, non possit nisi
+          so<lb ed="#A" n="20" break="no"/>lus ille scire, qui scrutatur corda &amp; renes.
+        </p>
+        <p xml:id="ho8ccf-a24lia-d1e579">
+          Itaque fit non
+          ra<lb ed="#A" n="21" break="no"/>ro, sanctus vt esse videatur qui non est, quique persequutor
+          <lb ed="#A" n="22"/>est aut publicanus hodie, cras fiat Apostolus. Quamobrem
+          <lb ed="#A" n="23"/>recte a Propheta dictum est: Maledictus homo qui
+          confi<lb ed="#A" n="24" break="no"/>dit in homine, &amp; ponit carnem brachium suum. Et iam si
+          <lb ed="#A" n="25"/>quis certo sciat, iustum aliquem &amp; innocentem esse, atque
+          <lb ed="#A" n="26"/>omni prorsus macula carere, tamen si in illius sanctitate
+          <lb ed="#A" n="27"/>spem suam collocat, si salutem ab illo expectat, maledictus
+          <lb ed="#A" n="28"/>est, nam domini est salus, &amp;: Vana salus hominis. Pridem
+          <lb ed="#A" n="29"/>haeretici sunt habiti, &amp; Augustini seculo Donatistae, &amp;
+          <lb ed="#A" n="30"/>Bernardi aeuo qui se vocabant Apostolicos, qui vtrique
+          no<lb ed="#A" n="31" break="no"/>luerunt ibi esse Ecclesiam Apostolicam, vbi non esset vita
+          <lb ed="#A" n="32"/>Apostolica, &amp; Sacramentorum dignitatem ex ministrorum
+          <lb ed="#A" n="33"/>virtute metiebantur.
+        </p>
+        <p xml:id="ho8ccf-a24lia-d1e610">
+          Quamobrem procul absit a
+          menti<lb ed="#A" n="34" break="no"/>bus piorum error hic, quin ii potius cum audiunt eos qui
+          <lb ed="#A" n="35"/>praesident aliquorum criminum insimulari, ac eos infamia
+          <lb ed="#A" n="36"/>nota aspersos per hominum ora traduci, meminerint
+          scri<lb ed="#A" n="37" break="no"/>ptum esse, Qui cito credit, leuis est corde ac Shem &amp;
+          la<lb ed="#A" n="38" break="no"/>phet imitentur laudatos Nos filios, qui tegere sunt &amp;
+          con<lb ed="#A" n="39" break="no"/>perire comati, quam impium illum Cham, cui merito
+          po<lb ed="#A" n="40" break="no"/>stea pater maledixit, qui verenda patris nudare ausus est.
+          <lb ed="#A" n="41"/>Certum est, multa contra eos crimina falso a Satanistis
+          con<lb ed="#A" n="42" break="no"/>fingi, qui sedent in Petri cathedra: &amp; euenire fere solet, iis
+          <pb ed="#A" n="57-v"/>
+          <lb ed="#A" n="1"/>qui summa cum potestate versantur, etiam si nulla in re ab
+          <lb ed="#A" n="2"/>erficii sui religione declinauerint, vt voculas tamen
+          ho<lb ed="#A" n="3" break="no"/>minum, eorumque reprehensionem quandoque non effugiant,
+          <lb ed="#A" n="4"/>vt non sine causa dictum illud celebretur, Regium est
+          ma<lb ed="#A" n="5" break="no"/>le audire cum bene feceris: Tunus fuerit in hanc partem
+          <lb ed="#A" n="6"/>peccare, vt conuitiis istorum &amp; impudentibus nonnunquam
+          <lb ed="#A" n="7"/>calumniis non modo fides non habeatur, verum ne aures
+          <lb ed="#A" n="8"/>quidem accommodentur: si modo peccatum dici potest
+          <lb ed="#A" n="9"/>quod in laude potius poni debet. Ingentem gloriam ex
+          <lb ed="#A" n="10"/>hac sua Christiana pietate &amp; modestia Christianissimus
+          <lb ed="#A" n="11"/>Imperator Constantinus consequutus est, cui cum essent
+          <lb ed="#A" n="12"/>oblati libelli, in quibus crimina quaedam Sacerdotum &amp;
+          <lb ed="#A" n="13"/>Episcoporum continebantur, non satis habuit, quod eos
+          <lb ed="#A" n="14"/>exuri fecerat, cum se ab illis, non illos a se iudicari
+          opor<lb ed="#A" n="15" break="no"/>tere diceret, verum &amp; hoc insuper adiecisse legitur, Si forte
+          <lb ed="#A" n="16"/>suis oculis turpe facinus aliquod Episcopum designantem
+          <lb ed="#A" n="17"/>conspexisset, obtenturus id fuerit paludamento suo, ne
+          <lb ed="#A" n="18"/>cuius oculi ea re offenderentur.
+        </p>
+        <p xml:id="ho8ccf-a24lia-d1e673">
+          Sed hic dicet aliquis, quid
+          <lb ed="#A" n="19"/>autem, si testatiora sunt non vnius alicuius, verumetiam
+          <lb ed="#A" n="20"/>multorum oculis quae ab iis, qui praesident, netaria
+          patran<lb ed="#A" n="21" break="no"/>tur: si non eam quam oporteret Ecclesiae curam gerere, ac
+          <lb ed="#A" n="22"/>quibusuis aliis in rebus potius, quam in iis, quae
+          propri<lb ed="#A" n="23" break="no"/>ad ipsorum officium pertinent, mentes occupatas habere
+          <lb ed="#A" n="24"/>videntur? Quid aliud quam illud faciendum est, quod
+          <lb ed="#A" n="25"/>fecisse discipulos legimus, cum dormiente Christo
+          naui<lb ed="#A" n="26" break="no"/>culam fluctibus operiri vidissent, excitarunt enim eum
+          do<lb ed="#A" n="27" break="no"/>mientem dicentes, Domine salua nos, perimus. Hoc
+          disci<lb ed="#A" n="28" break="no"/>pulorum exemplum, quicunque pii sunt, imitari debent: Vi
+          <lb ed="#A" n="29"/>dent nauiculam, in quam ascendit Christus, hoc est, vnam,
+          <lb ed="#A" n="30"/>sanctam, Catholicam, Apostolicam Ecclesiam, ita
+          procel<lb ed="#A" n="31" break="no"/>lis ac tempestatibus iactari atque agitari, vt mergenda iam,
+          <lb ed="#A" n="32"/>iam esse videatur, simul &amp; hoc intelligunt, tempestatis
+          <lb ed="#A" n="33"/>huius non postremam esse causam, quod in vicariis suis
+          <lb ed="#A" n="34"/>obdormiuit Christus, qui commodis huius mundi
+          deli<lb ed="#A" n="35" break="no"/>niti, profundo somno, ita vt sunt consopiti, vt quamlibet
+          <lb ed="#A" n="36"/>vellices, quamlibet inclames, non queant expergisci,
+          con<lb ed="#A" n="37" break="no"/>fugiant ad summum nauclerum Christum, accedant ad
+          <lb ed="#A" n="38"/>ipsum nihil in fide haesitantes, eum in vicariis suis dormien
+          <lb ed="#A" n="39"/>tem excitent, ac supplici voce precantes exclament,
+          Do<lb ed="#A" n="40" break="no"/>mine salua nos, perimus. Expergiscere in iis, quibus in gu
+          <lb ed="#A" n="41"/>bernanda Ecclesiae tuae naui vices tuas committere
+          di<lb ed="#A" n="42" break="no"/>gnatus es. Excitet eos e profundo somno spiritus
+          timo<pb ed="#A" n="58-r"/><lb ed="#A" n="1" break="no"/>ris tui, ac per eos iam experrectos impera ventis &amp;
+          mari<lb ed="#A" n="2" break="no"/>quo tandem aliquando sedatis tempestatibus, ab omnibus
+          <lb ed="#A" n="3"/>exoptata tranquillitas consequatur, vt videntes homines
+          <lb ed="#A" n="4"/>mirentur &amp; glorificent te, dicentes: Qualis est hic, quia
+          <lb ed="#A" n="5"/>etiam mimistris eius venti &amp; mare obediunt? Haec est
+          ra<lb ed="#A" n="6" break="no"/>tio, qua succurri possit malis praesentibus, vt vita nostra
+          <lb ed="#A" n="7"/>in melius commutata supplices Deum vno ore cuncti
+          pre<lb ed="#A" n="8" break="no"/>cemur, si fforte per eos siat qui praesunt, quominus
+          Eccle<lb ed="#A" n="9" break="no"/>siae periclitanti succurratur, quandoquidem in ipsius
+          ma<lb ed="#A" n="10" break="no"/>nu corda sunt Principum, vt ipse inclinetur ea ad illa
+          con<lb ed="#A" n="11" break="no"/>silia capienda, quibus diu desiderata pax &amp; tranquillitas
+          <lb ed="#A" n="12"/>Ecclesiae Dei restitui tandem possit. Quam enim
+          satani<lb ed="#A" n="13" break="no"/>stae rationem sequuntur, vt siue declament de loco
+          supe<lb ed="#A" n="14" break="no"/>riore, siue scribant aliquid, non alia in re plus temporis
+          <lb ed="#A" n="15"/>consumant, quum in Pontificibus maledictis incessendis,
+          <lb ed="#A" n="16"/>in fama eorum inultis etiam confictis criminibus
+          lace<lb ed="#A" n="17" break="no"/>randa: magis id adeo, ad maiorem etiam excitandam,
+          <lb ed="#A" n="18"/>quam ad excitatam tempestatem tranquillandam facere
+          <lb ed="#A" n="19"/>videtur. Sed haec tandem dicta sufficiant, quo ad
+          expli<lb ed="#A" n="20" break="no"/>rationem huius articuli, quo nos credere sanctam
+          Eccle<lb ed="#A" n="21" break="no"/>siam Catholicam profitemur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 76</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 76</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="264-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3fhwf"><!-- c76 -->
+        <head xml:id="ho8ccf-a3fhwf-Hd1e99">Caput 76</head>
+        <head xml:id="ho8ccf-a3fhwf-Hd1e101" type="question-title">De praeceptis Decalogi</head>
+        <p xml:id="ho8ccf-a3fhwf-d1e104">
+          <lb ed="#A" n="18"/>CAPVT LXXVI
+          <lb ed="#A" n="19"/>De praeceptis Decalogi
+        </p>
+        <p xml:id="ho8ccf-a3fhwf-d1e111">
+          <lb ed="#A" n="20"/>NVnc videamus quomodo lex in duobus iis man
+          <lb ed="#A" n="21"/>datis pendet vniuersa. Duas legis tabulas, digite
+          <lb ed="#A" n="22"/>Dei scriptas Mosi datas esse legimus. Ac
+          Iose<lb ed="#A" n="23" break="no"/>phus quidem, quinque praecepta in vna tabula,
+          <lb ed="#A" n="24"/>quinque in altera conscripta refert. Origenes autem, cuius
+          <lb ed="#A" n="25"/>hanc sectionem sequutus esse videtur Rupertus Abbas
+          Tu<lb ed="#A" n="26" break="no"/>ciensis, quatuor in priore (nam primum praeceptum in duo
+          <lb ed="#A" n="27"/>diuidit) sex in posteriore: (nam vltima duo vno
+          compre<lb ed="#A" n="28" break="no"/>hendit.) Augustinus vero, quem vt in aliis fere omnibus,
+          <lb ed="#A" n="29"/>ita in hoc quoque sequitur schola Theologorum, tria vult
+          <lb ed="#A" n="30"/>prioris, septem autem posterioris esse tabulae praecepta: quae
+          <lb ed="#A" n="31"/>tamen omnia ad duo, de quibus iam diximus, dilectionis
+          <lb ed="#A" n="32"/>mandata spectant. Nam tria quidem prioris, ad Dei, septem
+          <lb ed="#A" n="33"/>vero tabulae posterioris, ad proximi dilectionem
+          perti<lb ed="#A" n="34" break="no"/>nent: quemadmodum Augustinum sequutus Petrus quoque
+          <lb ed="#A" n="35"/>Lombardus annotauit, qui neque impleri, nisi per
+          charita<lb ed="#A" n="36" break="no"/>tem, neque ad alium finem praeterquam ad charitatem, ea
+          <lb ed="#A" n="37"/>recte referre docet.
+        </p>
+        <p xml:id="ho8ccf-a3fhwf-d1e153">
+          Quamobrem in vtriusque tabulae
+          prae<lb ed="#A" n="38" break="no"/>ceptis, non tam quid exterius geratur, quam quid intus
+          <lb ed="#A" n="39"/>fiat, &amp; ex qua radice, quod fit, proficiscatur, attenditur. Sunt
+          <lb ed="#A" n="40"/>Senim in cordibus hominum radices duae: charitatis vna,
+          <lb ed="#A" n="41"/>quam plantat agricola Christus, cupiditatis altera, quam
+          <lb ed="#A" n="42"/>plantat Diabolus: Nihil ex illa mali, nihil ex hac boni
+          <pb ed="#A" n="265-r"/>
+          <lb ed="#A" n="1"/>nascitur. Hoc docuit, hoc docet, hoc docebit semper
+          san<lb ed="#A" n="2" break="no"/>cta catholica Ecclesia. Quae malum igitur intemperiae istos
+          <lb ed="#A" n="3"/>agitant? qui eam insimulare audent, quod tot saeculis,
+          se<lb ed="#A" n="4" break="no"/>cundam tabulam tantum &amp; opera polytica sic intuita,
+          pri<lb ed="#A" n="5" break="no"/>nihil curauerit: quasi nihil pertineret ad rem, aut certe
+          tan<lb ed="#A" n="6" break="no"/>tum externos cultus requisiuerit: illam aeternam legem,
+          <lb ed="#A" n="7"/>Diliges dominum Deum tuum ex toto corde tuo,
+          pror<lb ed="#A" n="8" break="no"/>sus non consyderauerit? Cum non obscurae falsitatis hoc
+          <lb ed="#A" n="9"/>arguat Petri Lombardi, quam paulo ante
+          commemora<lb ed="#A" n="10" break="no"/>uimus, sententia, quem authorem sequuti videntur
+          Do<lb ed="#A" n="11" break="no"/>ctores omnes, quos vulgo vocant Scholasticos. Etiam
+          <lb ed="#A" n="12"/>pueri didicimus in Ecclesia, non quid, sed propter quid
+          fa<lb ed="#A" n="13" break="no"/>ciamus aliquid, Deum attendere, adeo, vt si quid ex
+          ra<lb ed="#A" n="14" break="no"/>dice charitatis profectum non sit, nihil sit nobis vtilitatis
+          <lb ed="#A" n="15"/>allaturum. Hanc enim excellentiorem viam esse docet
+          Apo<lb ed="#A" n="16" break="no"/>stolus, quae per se ambulantes ducit ad patriam. Et sicut
+          <lb ed="#A" n="17"/>sine via nullus peruenit eo quo tendit, ita sine charitate.
+          <lb ed="#A" n="18"/>non ambulare possunt homines, sed errare. Haec enim est
+          <lb ed="#A" n="19"/>sumina bonarum actionum, salus morum, finis coelestium
+          <lb ed="#A" n="20"/>praeceptorum, mors criminum, vita virtutum, virtus
+          pu<lb ed="#A" n="21" break="no"/>gnantium, palma victorum, causa meritorum bonorum,
+          <lb ed="#A" n="22"/>praemium perfectorum. Sine hac nemo Deo placuit, cum
+          <lb ed="#A" n="23"/>hac nec potuit aliquis peccare, nec poterit:
+          quemadmo<lb ed="#A" n="24" break="no"/>dum diligens Augustini sectator, Prosper Aquitanicus
+          <lb ed="#A" n="25"/>vbi de laude charitatis tractat, scriptum reliquit: Ad hanc
+          <lb ed="#A" n="26"/>ergo Dei charitatem siue dilectionem, referimus caetera
+          <lb ed="#A" n="27"/>praecepta omnia, adeo persuasum habeamus, proximos
+          <lb ed="#A" n="28"/>quoque diligendo, nisi propter Deum, &amp; in Deo, charos
+          <lb ed="#A" n="29"/>eos habeamus, non modo nos officio nostro functos non
+          <lb ed="#A" n="30"/>esse: verumetiam peccati grauis reos factos. Hoc est quod
+          <lb ed="#A" n="31"/>a Thoma quoque scriptum Aquinate legimus: Quod
+          om<lb ed="#A" n="32" break="no"/>nium actuum humanorum regula, lex est charitatis
+          diui<lb ed="#A" n="33" break="no"/>nae. Sicut enim videmus in artificialibus, quod
+          vnum<lb ed="#A" n="34" break="no"/>quodque opus, tunc bonum &amp; rectum dicitur, quando
+          re<lb ed="#A" n="35" break="no"/>gulae coaequatur. Sic etiam quodlibet opus humanum,
+          <lb ed="#A" n="36"/>tunc rectum est &amp; virtuosum, quando regulae diuinae
+          di<lb ed="#A" n="37" break="no"/>lectionis concordat, quando vero discordat ab hac
+          regu<lb ed="#A" n="38" break="no"/>la, non est bonum nec rectum
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

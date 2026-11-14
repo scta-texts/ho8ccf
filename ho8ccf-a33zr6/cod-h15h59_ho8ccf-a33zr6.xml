@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 65</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 65</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="214-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a33zr6"><!-- c65 -->
+        <head xml:id="ho8ccf-a33zr6-Hd1e99">Caput 65</head>
+        <head xml:id="ho8ccf-a33zr6-Hd1e101" type="question-title">Quod nihil impossibile Deus praeceperit</head>
+        <p xml:id="ho8ccf-a33zr6-d1e104">
+          <lb ed="#A" n="38"/>CAPVT XV.
+          <lb ed="#A" n="39"/>Quod nihil impossibile Deus praeceperit.
+        </p>
+        <p xml:id="ho8ccf-a33zr6-d1e111">
+          <pb ed="#A" n="214-v"/>
+          <lb ed="#A" n="1"/><milestone ed="#A" unit="p" rend="initial"/> VErum hic isti, si nos ad mandata remittis, aiunt,
+          <lb ed="#A" n="2"/>vt nisi ea obseruemus, esse iusti non possimus;
+          <lb ed="#A" n="3"/>actum est de nobis: Nam in hac vita, quae
+          prae<lb ed="#A" n="4" break="no"/>cepit Deus implere possibile non est, in qua legi
+          <lb ed="#A" n="5"/>satisfacere potest nemo. Scilicet, si fidem istis habemus, im
+          <lb ed="#A" n="6"/>possibilia praecepit Deus. Potest autem dici, quicquam aut
+          <lb ed="#A" n="7"/>cogitari magis blasphemum, quam hoc sit? Quis
+          praeci<lb ed="#A" n="8" break="no"/>piat his qui sibi subiecti sunt, quod ab eis nullo modo
+          prae<lb ed="#A" n="9" break="no"/>stari posse videatur, nisi aut prorsus insanae sit mentis, aut
+          <lb ed="#A" n="10"/>ridiculus, aut barbarus aliquis &amp; immanis tyrannus, qui
+          <lb ed="#A" n="11"/>sibi datam cupiat occasionem, per quam suam in illos
+          cru<lb ed="#A" n="12" break="no"/>delitatem, expromere queat.
+        </p>
+        <p xml:id="ho8ccf-a33zr6-d1e143">
+          Atqui talem isti nobis Deum
+          <lb ed="#A" n="13"/>fingunt, praeclari si diis placet, gloriae Dei vindices, quam
+          <lb ed="#A" n="14"/>tot saeculis obscuratam nunc demum asserere se, rudi
+          ple<lb ed="#A" n="15" break="no"/>beculae persuadere conantur. Quid autem? an non
+          recla<lb ed="#A" n="16" break="no"/>mat huic eorum blasphemiae scriptura? In Euangelio suo
+          <lb ed="#A" n="17"/>dicit Christus: Venite ad me omnes, qui laboratis &amp; one
+          <lb ed="#A" n="18"/>rati estis &amp; ego reficiam vos: tollite jugum meum super
+          <lb ed="#A" n="19"/>vos, &amp; discite a me quia mitis sum &amp; humilis corde, &amp;
+          in<lb ed="#A" n="20" break="no"/>uenietis requiem animabus vestris, iugum enim meum
+          sua<lb ed="#A" n="21" break="no"/>ue est, &amp; onus meum leue. In Cacangelio suo dicunt isti,
+          <lb ed="#A" n="22"/>iugum Christi durum &amp; acerbum, &amp; onus eius est
+          pror<lb ed="#A" n="23" break="no"/>sus importabile. Ad quod ferendum Christus inuitat, ab
+          <lb ed="#A" n="24"/>eo deterrent isti, ne venire quisquam ad Christum audeat,
+          <lb ed="#A" n="25"/>qui legem tulerit, cui satisfacere possit nemo. Dicit Dei spi
+          <lb ed="#A" n="26"/>ritus per Ioannem: Mandata Dei grauia non sunt: Dicit
+          <lb ed="#A" n="27"/>Sathanae spiritus per membra sua: Mandata Dei non
+          mo<lb ed="#A" n="28" break="no"/>do grauia, verumetiam prorsus ad implendum impossibi
+          <lb ed="#A" n="29"/>lia sunt. Nimirum hoc est illud purum Euangelium, quod
+          <lb ed="#A" n="30"/>a Zonariis, basulis, figulis, tantopere vidimus expetitum:
+          <lb ed="#A" n="31"/>cum ex diametro, quod aiunt, cum Euangelio Christi
+          pu<lb ed="#A" n="32" break="no"/>gnare videatur, quo virtutis omne studium eneruatur,
+          om<lb ed="#A" n="33" break="no"/>nis faciendi mandata Christi conatus impeditur. At non
+          <lb ed="#A" n="34"/>ita prisci patres illi sancti, qui, si quis impossibile aliquid
+          <lb ed="#A" n="35"/>homini a Deo praeceptum esse blasphemasset, eum Anathe
+          <lb ed="#A" n="36"/>ma pronuntiauerunt: quod impium esse dicerent affirma
+          <lb ed="#A" n="37"/>re, quae a spiritu Dei mandata profecta sunt, ea esse
+          creden<lb ed="#A" n="38" break="no"/>tibus impossibilia. Inter quos Ioannes ille, qui iure
+          meri<lb ed="#A" n="39" break="no"/>to Chrysostomus appellatur, adeo nihil impossibile man
+          <lb ed="#A" n="40"/>dasse Deum affirmat, multos vt fuisse dicat, qui plus etiam
+          <lb ed="#A" n="41"/>vltro praestiterunt, quam a Christo mandatum est, tantum
+          <lb ed="#A" n="42"/>abest, vt eius mandata non impleuerunt.
+        </p>
+        <p xml:id="ho8ccf-a33zr6-d1e212">
+          Nam cum neque
+          <pb ed="#A" n="215-r"/>
+          <lb ed="#A" n="1"/>virginitatem, neque paupertatem Deus vnquam
+          mandaue<lb ed="#A" n="2" break="no"/>rit, minime tamen defuerunt, qui iniussi, vltro vtrunque
+          <lb ed="#A" n="3"/>amplecterentur. Quin &amp; illud non vno in loco,
+          persuade<lb ed="#A" n="4" break="no"/>re populo conatur, multo grauius esse iugum saeculi, quam
+          <lb ed="#A" n="5"/>sit iugum Christi quod illud iugum est seruitutis, iugum
+          <lb ed="#A" n="6"/>carnis &amp; peccati: hoc vero iugum est libertatis, iugum
+          spe<lb ed="#A" n="7" break="no"/>ritus &amp; gratiae. Origenes, Qui dicit, implere non possum,
+          <lb ed="#A" n="8"/>quae mandantur a Deo, quid tibi videtur aliud quam inter
+          <lb ed="#A" n="9"/>mulieres, quae nihil virile possunt, esse numerandus?
+          Lo<lb ed="#A" n="10" break="no"/>cum illum enarrans Hylarius: Latum mandatum tuum
+          <lb ed="#A" n="11"/>nimis: Latum, inquit, mandatum Dei est, &amp; in omnia spei
+          <lb ed="#A" n="12"/>nostrae genera diffunditur, vt non difficile sit, si voluntas
+          <lb ed="#A" n="13"/>adsit, praecepto Domini obtemperare: cum &amp; latum &amp;
+          <lb ed="#A" n="14"/>diffusum sit ad placendum, officiosae religionis varietate:
+          <lb ed="#A" n="15"/>neque solum latum sed vehementer latum. Etiam Prophe
+          <lb ed="#A" n="16"/>tis longe grauissimum visum est onus iniquitatis: quam
+          <lb ed="#A" n="17"/>sedere quidam ait, super talentum plumbi: sub quo
+          geme<lb ed="#A" n="18" break="no"/>bat alius quoque dicens: Iniquitates meae, supergressae sunt
+          <lb ed="#A" n="19"/>caput meum, &amp; sicut onus graue grauatae sunt super me
+          <lb ed="#A" n="20"/>Quamobrem duriora multo sunt, quemadmodum etiam
+          <lb ed="#A" n="21"/>a Basilio scriptum legimus, quae vel insanus amor, vel
+          in<lb ed="#A" n="22" break="no"/>explebilis habendi cupiditas, mortalibus imperat, quam
+          <lb ed="#A" n="23"/>quae Christus praescribit: vt non inepte dictum sit a Ioan
+          <lb ed="#A" n="24"/>ne Gersone, quod plures videre licet, qui maiorem
+          poe<lb ed="#A" n="25" break="no"/>nam habent, ad infernum acquirendum, &amp; ad male
+          agen<lb ed="#A" n="26" break="no"/>dum, quam requiratur poena, ad regnum paradisi
+          lucran<lb ed="#A" n="27" break="no"/>dum, Siue quis obsceno sit amore captus, siue rei
+          facien<lb ed="#A" n="28" break="no"/>dae studio teneatur immodico, siue misera vexetur
+          ambi<lb ed="#A" n="29" break="no"/>tione, quas non perfert molestias? quae non addit
+          pericula<lb ed="#A" n="30" break="no"/>quos non tolerat corporis &amp; animi cruciatus? vt non
+          de<lb ed="#A" n="31" break="no"/>fuerunt, qui mortem etiam indubitanter oppeterent, dum
+          <lb ed="#A" n="32"/>eo, quod amant potiri student. At in Deo pie colendo
+          <lb ed="#A" n="33"/>atque illius contemplationi vacando, quid tandem est
+          <lb ed="#A" n="34"/>molestiae? quid periculi? quid laboris? aut quae non
+          volu<lb ed="#A" n="35" break="no"/>ptas potius, cum animi summa tranquillitate coniuncta
+          <lb ed="#A" n="36"/>qua fruuntur in coelis animae piorum vita beata, ea
+          degen<lb ed="#A" n="37" break="no"/>tibus adhuc in terris, atque in fragili corpusculo, repraesen
+          <lb ed="#A" n="38"/>tari videtur. Initia fortassis aliquid habent difficultatis &amp;
+          <lb ed="#A" n="39"/>molestiae, quo longius autem progressus fueris, hoc
+          facilio<lb ed="#A" n="40" break="no"/>ra, iucundiora, suauiora sunt omnia. Sic prisci populum
+          <lb ed="#A" n="41"/>instituebant, sic de superiore loco, mentes eorum, ad
+          vir<lb ed="#A" n="42" break="no"/>tutum studia, quae amplecti Christus voluit, oratione sua
+          <pb ed="#A" n="215-v"/>
+          <lb ed="#A" n="1"/>inflammabant, A quibus quid aliud isti, quam deterrere
+          <lb ed="#A" n="2"/>prorsus videntur? dum non difficilia modo, quod ferri
+          <lb ed="#A" n="3"/>tamen posset: verumetiam prorsus impossibilia Deum
+          <lb ed="#A" n="4"/>praecepisse blasphemant, Ex quorum hac impia doctrina,
+          <lb ed="#A" n="5"/>quam ipsi nihilominus verbum Dei vocari volunt, hoc
+          <lb ed="#A" n="6"/>esse consecutum cernimus, nullo vt vnquam tempore quam
+          <lb ed="#A" n="7"/>hoc magis refrixerit charitas, magis abundauerit
+          iniqui<lb ed="#A" n="8" break="no"/>tas, Quis enim adduci facile possit, vt aut eum deum
+          co<lb ed="#A" n="9" break="no"/>lat, quem impossibilia praecepisse persuasum habeat, aut ad
+          <lb ed="#A" n="10"/>ca praecepta animum adiiciat, quae impleri non posse
+          <lb ed="#A" n="11"/>credat:
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

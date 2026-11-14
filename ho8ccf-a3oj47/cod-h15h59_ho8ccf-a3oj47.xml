@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 86</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 86</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="286-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3oj47"><!-- c86 -->
+        <head xml:id="ho8ccf-a3oj47-Hd1e99">Caput 86</head>
+        <head xml:id="ho8ccf-a3oj47-Hd1e101" type="question-title">De externo cultu</head>
+        <p xml:id="ho8ccf-a3oj47-d1e104">
+          <lb ed="#A" n="21"/>CAPVT LXXXVI.
+          <lb ed="#A" n="22"/>De externo Cultu.
+        </p>
+        <p xml:id="ho8ccf-a3oj47-d1e111">
+          <lb ed="#A" n="23"/><milestone ed="#A" unit="p" rend="initial"/> QVod si nuda mens esset nostra, nec vllo
+          mem<lb ed="#A" n="24" break="no"/>brorum inuolucro irretita, satis iam de ratione
+          <lb ed="#A" n="25"/>colendi Dei dixisse videri poteramus, nec erat
+          <lb ed="#A" n="26"/>quod plura scribendi laborem caperemus.
+        </p>
+        <p xml:id="ho8ccf-a3oj47-d1e123">
+          Quo<lb ed="#A" n="27" break="no"/>niam vero iuncta est implicata cum corpore, ac illius
+          ad<lb ed="#A" n="28" break="no"/>miniculo persaepe mouetur, &amp; nititur ad summum Deum:
+          <lb ed="#A" n="29"/>de eo quoque culti paucis disserendum nobis restat, qui
+          <lb ed="#A" n="30"/>corpore, quique reb externis exhibetur. Sic enim a
+          Basi<lb ed="#A" n="31" break="no"/>lio quoque scriptum legimus: Si extra corpus constituti
+          es<lb ed="#A" n="32" break="no"/>semus, necessarium esset, ea tantum curare, quae animae soli
+          <lb ed="#A" n="33"/>optime conducerent.
+        </p>
+        <p xml:id="ho8ccf-a3oj47-d1e142">
+          Quoniam vero geminus est homo,
+          <lb ed="#A" n="34"/>conuenit geminum esse virtutum studium, quod ost
+          cor<lb ed="#A" n="35" break="no"/>poris laboribus, &amp; animae exercitiis absoluatur. Ac il
+          <lb ed="#A" n="36"/>lud quidem homini Christiano certum &amp; indubitatum
+          <lb ed="#A" n="37"/>esse debet, quod omnis Dei cultus, omnis verae pietatis &amp;
+          <lb ed="#A" n="38"/>religionis vis, per quam cum Deo revera coniungimur,
+          <lb ed="#A" n="39"/>ac illius numini maiestatique dediti sumus, in mente &amp;
+          spi<lb ed="#A" n="40" break="no"/>ritu, &amp; in ipsa intestina voluntate consistit. Quae voluntas
+          <lb ed="#A" n="41"/>cum bona &amp; magna est, charitas vocatur, per quam adha
+          <lb ed="#A" n="42"/>rentes Deo, vnus cum eo spiritus efficimur. Hac sola col
+          <pb ed="#A" n="287-r"/>
+          <lb ed="#A" n="1"/>peus maxime gaudet: qui cum sit spiritus, in spiritu &amp;
+          ve<lb ed="#A" n="2" break="no"/>sitate vult adorari. Nec est alia causa, quamobrem de
+          sub<lb ed="#A" n="3" break="no"/>imi coelo filium suum in hanc lachrymarum vallem
+          de<lb ed="#A" n="4" break="no"/>mittere, &amp; hoc mortis nostrae corpus indutum in terris
+          <lb ed="#A" n="5"/>tersari cum hominibus voluit, quam, vt sicut ipse nobiscum
+          <lb ed="#A" n="6"/>na caro, &amp; vnum corpus fieri dignatus est, sic nos vicis
+          <lb ed="#A" n="7"/>Im eius, qui prior dilexit nos, &amp; semet ipsum tradidit pro
+          <lb ed="#A" n="8"/>nobis, amore inflammati, ex illo toti pendentes, in illo
+          ac<lb ed="#A" n="9" break="no"/>quiescentes, in illius beneficiorum contemplatione omni
+          <lb ed="#A" n="10"/>nente cogitationeque nostra defixi, voluntates &amp; actiones
+          <lb ed="#A" n="11"/>nostras omnes ad illum, tanquam ad vltimum finem
+          refe<lb ed="#A" n="12" break="no"/>lentes, vnus cum eo spiritus efficeremur. Hic est cultus,
+          <lb ed="#A" n="13"/>quem praecipue Deus a nobis exigit, quem quantum
+          dili<lb ed="#A" n="14" break="no"/>gimus, tantum colimus. Nam, sicut ab Augustino quoque
+          <lb ed="#A" n="15"/>scriptum legimus, pictas Dei cultus est, nec colitur ille nisi
+          <lb ed="#A" n="16"/>mando.
+        </p>
+        <p xml:id="ho8ccf-a3oj47-d1e201">
+          Caeterum vbi verus est amor, nequaquam sic in
+          <lb ed="#A" n="17"/>ipsa reconditus, &amp; abstrusus esse potest, vt non per signa
+          <lb ed="#A" n="18"/>quaedam &amp; indicia se foras proferat, ac ad spectantium
+          ocu<lb ed="#A" n="19" break="no"/>os traducat. Hinc ille sublationes &amp; deiectiones
+          oculo<lb ed="#A" n="20" break="no"/>um, pectorum percussiones, capitum inclinationes,
+          ge<lb ed="#A" n="21" break="no"/>nuum inflexiones, &amp; hoc genus externae gestiones aliae,
+          <lb ed="#A" n="22"/>quae ceremoniae vocantur, quae, sicut alia externa omnia,
+          <lb ed="#A" n="23"/>ita demum ad promerendam gratiam, &amp; misericordiam
+          <lb ed="#A" n="24"/>Dei, momenti aliquid adferre videntur, si ex ea, de qua iam
+          <lb ed="#A" n="25"/>diximus, intima erga Deum voluntate proficiscuntur,
+          imi<lb ed="#A" n="26" break="no"/>rationes vt sint, &amp; simulachra animi varios in se affectus
+          <lb ed="#A" n="27"/>erga Deum suscipientis. Sin autem falso per simulationem
+          <lb ed="#A" n="28"/>vsurpata fictaque fuerint &amp; ementita, non esse potest vlla
+          ma<lb ed="#A" n="29" break="no"/>gis nefaria consceleratae mentis improbitas, cum in rebus
+          <lb ed="#A" n="30"/>huiusmodi, cut summum bonum veritas, ita summum sit
+          <lb ed="#A" n="31"/>flagitium simulatio. Recte enim ab illo dictum est: Simu
+          <lb ed="#A" n="32"/>lata aequitas, duplex est iniquitas.
+        </p>
+        <p xml:id="ho8ccf-a3oj47-d1e238">
+          Quamobrem talia
+          cen<lb ed="#A" n="33" break="no"/>sentur apud deum, qui scrutatur corda &amp; renes, cuius ocu
+          <lb ed="#A" n="34"/>llis nuda &amp; aperta sunt omnia, ista, quae foris aguntur,
+          qua<lb ed="#A" n="35" break="no"/>lis est intus voluntas hominis. Hanc inspicit iustus ille
+          re<lb ed="#A" n="36" break="no"/>rum aestimator, non ea quae fiunt externe: quae si spiritu
+          <lb ed="#A" n="37"/>sint &amp; veritate dilectionis destituta, plus adeo ad
+          prouo<lb ed="#A" n="38" break="no"/>candam, quam ad placandam iram Dei facere videbuntur.
+          <lb ed="#A" n="39"/>Verum est enim quod a Propheta scriptum est: Omnis
+          glo<lb ed="#A" n="40" break="no"/>ria filiae regis ab intus. Intus videt Christus, intus amat,
+          <lb ed="#A" n="41"/>intus alloquitur, nec vel punit, vel coronat, nisi quae fiunt
+          <lb ed="#A" n="42"/>intus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

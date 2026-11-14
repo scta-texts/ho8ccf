@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 39</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 39</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="75-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2faxu"><!-- c39 -->
+        <head xml:id="ho8ccf-a2faxu-Hd1e99">Caput 39</head>
+        <head xml:id="ho8ccf-a2faxu-Hd1e101" type="question-title">De Sacramento Eucharistiae</head>
+        <p xml:id="ho8ccf-a2faxu-d1e104">
+          <lb ed="#A" n="22"/>CAPVT XXXIX.
+          <lb ed="#A" n="23"/>De Sacramento Eucharistiae.
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e111">
+          <lb ed="#A" n="24"/><milestone ed="#A" unit="p" rend="indent"/> PEr baptisinum exuto veteri homine, nouam
+          quan<lb ed="#A" n="25" break="no"/>dam vitam ingredimur, &amp; Christi militiae adscribi
+          <lb ed="#A" n="26"/>mur. Quo fortius autem ac virilius hostium
+          impe<lb ed="#A" n="27" break="no"/>tum propulsare queamus, in sacramento confirma
+          <lb ed="#A" n="28"/>tionis chrismate vngimur, in quo nobis datur spiritus
+          <lb ed="#A" n="29"/>lanctus, qui &amp; fiduciam ad pugnandum, &amp; robur
+          prae<lb ed="#A" n="30" break="no"/>stet ad hostes superandos.
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e130">
+          Caeterum cui non modo
+          vi<lb ed="#A" n="31" break="no"/>uendum, verumetiam pugnandum est, is alimonia si
+          de<lb ed="#A" n="32" break="no"/>stituatur, neque viuere diu, neque vires ad resistendum ha
+          <lb ed="#A" n="33"/>bere potest. Quare cum &amp; vita, quam ingressi sumus
+          ba<lb ed="#A" n="34" break="no"/>ptizati, &amp; pugna, quam gerimus chrismatis vnctione con
+          <lb ed="#A" n="35"/>firmati, vtraque sit spiritualis, pater ille misericordiarum,
+          <lb ed="#A" n="36"/>&amp; Deus totius consolationis, vt ne vires nostrae defice
+          <lb ed="#A" n="37"/>rent, de spirituali nobis alimonia prouidendum esse
+          pu<lb ed="#A" n="38" break="no"/>tauit: Qua in re singularem suam erga nos charitatem
+          <lb ed="#A" n="39"/>maioremque quam vt vlla vis orationis eam satis explicare
+          <lb ed="#A" n="40"/>queat, nobis declarauit. Neque enim vulgari aliquo &amp; vsi
+          <lb ed="#A" n="41"/>tato cibi genere, sed sui sanctissimi corporis, sui
+          pretio<lb ed="#A" n="42" break="no"/>sissimi sanguinis alimento nos reficiendos esse putauit:
+          <pb ed="#A" n="76-r"/>
+          <lb ed="#A" n="1"/>quod angeli videntes tremunt, nec absque pauore propter
+          <lb ed="#A" n="2"/>tulgorem, qui inde resilit, aspicere possunt, eo vt aleremus
+          <lb ed="#A" n="3"/>nos dignos iudicauit: quo sic in vnam cum illo massam
+          re<lb ed="#A" n="4" break="no"/>duceremur, vnum Christi corpus omnes, vna Christi
+          ca<lb ed="#A" n="5" break="no"/>ro effecti. Quis loquetur potentias Domini auditas
+          fa<lb ed="#A" n="6" break="no"/>ciet omnes laudes eius? Quis pastor vnquam suis
+          mem<lb ed="#A" n="7" break="no"/>bris oues suas nutriuit? Quam multas matres videmus,
+          <lb ed="#A" n="8"/>quae non suis vberibus quos pepererunt infantes
+          lactaue<lb ed="#A" n="9" break="no"/>runt, sed eos nutricibus alendos dederunt. At non ita
+          do<lb ed="#A" n="10" break="no"/>minus noster Iesus Christus: Nulla dilectio non dicam
+          <lb ed="#A" n="11"/>verbis explicari, sed neque cogitatione concipi tanta
+          po<lb ed="#A" n="12" break="no"/>test, quae sit cum hac illius dilectione conferenda. Proprio
+          <lb ed="#A" n="13"/>ille corpore suo, proprio sanguine suo nos alere, sibique
+          con<lb ed="#A" n="14" break="no"/>iungere &amp; conglutinare dignatus est: illud ipsum corpus
+          <lb ed="#A" n="15"/>quod pro nobis in cruce pependit, illum ipsum sanguinem,
+          <lb ed="#A" n="16"/>qui fusus est in remissionem peccatorum nostrorum, nobis
+          <lb ed="#A" n="17"/>in cibum &amp; potum dedit. Ipsum quidem, sed non eo ipso
+          <lb ed="#A" n="18"/>modo quo fuit in cruce: Nam neque sub illa specie visibili
+          <lb ed="#A" n="19"/>qua pependit in cruce, sed ipsum quidem inuisibile sub
+          vi<lb ed="#A" n="20" break="no"/>sibilibus panis &amp; vini speciebus: neque quale fuit tum, quum
+          <lb ed="#A" n="21"/>esset cruci affixum, corruptioni &amp; morte obnoxium, sed
+          <lb ed="#A" n="22"/>prorsus incorruptibile iam, &amp; immortale. Christus enim
+          <lb ed="#A" n="23"/>resurgens a mortuis, iam non moritur, mors illi amplius
+          <lb ed="#A" n="24"/>non dominabitur. Illud corpus nobis manducandum
+          de<lb ed="#A" n="25" break="no"/>dit, quod clauso tumulo resurrexit, quod per clausas ianu
+          <lb ed="#A" n="26"/>as in eum locum vbi erant Apostoli, ingressum est, corpus
+          <lb ed="#A" n="27"/>spirituale, corpus incorruptibile, corpus glorificatum. Aliud
+          <lb ed="#A" n="28"/>est igitur in hoc sacramento, quod oculis cernitur, alius
+          <lb ed="#A" n="29"/>quod sola fide, conchenditur. Et propterea vocatur
+          sa<lb ed="#A" n="30" break="no"/>cramentum, sacrae rei signum, &amp; quidem efficax. Sacra res
+          <lb ed="#A" n="31"/>cuius est signum hoc sacramentum, est vidi &amp;
+          verun<lb ed="#A" n="32" break="no"/>corpus, est viuus &amp; verus sanguis Domini nostri Iesu
+          <lb ed="#A" n="33"/>Christi, quod ita per species istas visibiles panis &amp; vini
+          <lb ed="#A" n="34"/>significatur, vt simul sub illis re ipsa quamuis
+          inuisibili<lb ed="#A" n="35" break="no"/>ter contineatur. Est praeterea signum inuisibilis
+          gra<lb ed="#A" n="36" break="no"/>tiae, quae confertur digne accedentibus sub istis panis &amp;
+          <lb ed="#A" n="37"/>vini visibilibus speciebus: qua de re postea disseremus.
+          <lb ed="#A" n="38"/>Nam illud admonendum prius duximus, esse quoddam
+          <lb ed="#A" n="39"/>discrimen inter hoc sacramentum, &amp; alia, quae &amp; ipsam
+          <lb ed="#A" n="40"/>materiam habent sensibilem. Nam Eucharistia
+          conti<lb ed="#A" n="41" break="no"/>net in se rem sacram absolute, nimirum Christum ipsum
+          <lb ed="#A" n="42"/>quo nihil magis est sacrosanctum: aqua vero
+          bap<pb ed="#A" n="76-v"/><lb ed="#A" n="1" break="no"/>tismi continet rem sacram, quatenus ad alium illa refertur
+          <lb ed="#A" n="2"/>&amp; alii communicatur: continet enim virtutem ad
+          abluen<lb ed="#A" n="3" break="no"/>dum, ad sanctificandum, ad iustificandum. Eadem est &amp;
+          <lb ed="#A" n="4"/>chrismatis &amp; similium ratio.
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e263">
+          Quamobrem sacramentum
+          <lb ed="#A" n="5"/>Eucharistiae perficitur in ipsa materiae consecratione, alia
+          <lb ed="#A" n="6"/>vero non perficiuntur nisi in applicatione materiae ad
+          ho<lb ed="#A" n="7" break="no"/>minem sauctificandum. Exempli gratia: Si benedicatur
+          <lb ed="#A" n="8"/>aqua baptismi, manet nihilominus aqua: Neque enim fit
+          <lb ed="#A" n="9"/>vlla ipsius transmutatio, neque sacramentum dicitur, nisi cum
+          <lb ed="#A" n="10"/>nomo abluitur. At in hoc sacramento simul vt ad clemen
+          <lb ed="#A" n="11"/>tum panis &amp; vini verbum accesserit, fit sacramentum, fit,
+          <lb ed="#A" n="12"/>et Chrysostomus dicit, transmutatio, vel vt
+          Theophyla<lb ed="#A" n="13" break="no"/>ctus, transelementatio, vel vt in magno illo concilio
+          La<lb ed="#A" n="14" break="no"/>teranensi, in quo &amp; Constantinopolitanus &amp;
+          Hierosoly<lb ed="#A" n="15" break="no"/>mitanus patriarchae praesentes adfuerunt, definitum est,
+          <lb ed="#A" n="16"/>fit transubstantiatio panis &amp; vini in corpus &amp; sanguinem
+          <lb ed="#A" n="17"/>domini nostri Iesu Christi.
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e294">
+          Quamobrem audiendi non
+          <lb ed="#A" n="18"/>sunt, qui negant esse Christi corpus nisi cum sumitur. Fuit
+          <lb ed="#A" n="19"/>hic error etiam Cyrilli temporibus (cuius etiam Thomas
+          <lb ed="#A" n="20"/>meminit) qui scribens ad Calosirium episcopum Arsenor
+          <lb ed="#A" n="21"/>ten, his verbis vtitur: Audio, inquit, quod dicant, mysticam
+          <lb ed="#A" n="22"/>benedictionem si ex ea remanserint in sequentem diem
+          <lb ed="#A" n="23"/>eliquiae, ad sanctificationem inutilem esse: sed insaniunt
+          <lb ed="#A" n="24"/>haec dicentes. Non enim alius est Christus, neque sanctum
+          <lb ed="#A" n="25"/>eius corpus immutabitur, sed benedictionis virtus &amp; viui
+          <lb ed="#A" n="26"/>sica gratia perpetuo manet in illa. Haec ille ante mille
+          du<lb ed="#A" n="27" break="no"/>centos annos. Quae autem per Deum immortalem haec
+          <lb ed="#A" n="28"/>est audacia atque amentia, Christi praesentiam in
+          sacramen<lb ed="#A" n="29" break="no"/>to temporibus &amp; momentis circumscribere velle? denique
+          <lb ed="#A" n="30"/>tanquam finium regundorum sis arbiter constitutus, inter
+          <lb ed="#A" n="31"/>sacramentum &amp; non sacramentum fines &amp; terminos
+          distin<lb ed="#A" n="32" break="no"/>guere? Verbi gratia: Si sumpserit communicaturus, sit ita
+          <lb ed="#A" n="33"/>demum sacramentum, ne sit autem si non sumpserit. Quid
+          <lb ed="#A" n="34"/>si eo animo communicaturus accedat, vt statim summat: quo
+          <lb ed="#A" n="35"/>niam vero non temere dictum est illud, Multa cadunt
+          in<lb ed="#A" n="36" break="no"/>ter calicem supremaque labra, subito ac repentino casu
+          ali<lb ed="#A" n="37" break="no"/>quo ne sumat impediatur, aut animi passus deliquium, aut
+          <lb ed="#A" n="38"/>comitiali morbo correptus, aut quicquam tandem
+          eiusmo<lb ed="#A" n="39" break="no"/>di eueniret, quod impedimento sit, quominus sumere que
+          <lb ed="#A" n="40"/>at, quid dicent isti finium regundorum arbitri a Satana
+          <lb ed="#A" n="41"/>constituti? continuove Christum a sacramento
+          discede<lb ed="#A" n="42" break="no"/>re, an expectare paulisper dum ad se redeat
+          communica<pb ed="#A" n="77-r"/><lb ed="#A" n="1" break="no"/>turus, dum respiret, dum vires colligat ad sumendum?
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e354">
+          <lb ed="#A" n="2"/>Quod si pro sua benignitate Christus expectet
+          aliquan<lb ed="#A" n="3" break="no"/>tisper, scilicet isti praescribent morae terminum? vt vnam
+          <lb ed="#A" n="4"/>horam, mediam, aut quartam communicaturum impeditum expectet,
+          <lb ed="#A" n="5"/>duas ne expectet. Quis est qui statuere possit, absurdane
+          <lb ed="#A" n="6"/>magis an impia sint haec satanistarum commenta, quae non
+          <lb ed="#A" n="7"/>modo cum verbo dei, verumetiam cum ipso communi
+          sen<lb ed="#A" n="8" break="no"/>su pugnare videntur? Et quam scripturam proferunt isti
+          <lb ed="#A" n="9"/>qui scripturas erroribus suis libenter praetendunt, ex
+          qua<lb ed="#A" n="10" break="no"/>possint ostendere non esse sub speciebus istis corpus
+          Chri<lb ed="#A" n="11" break="no"/>sti, nisi cum sumitur sacramentum? Dixit Christus, hoc
+          <lb ed="#A" n="12"/>est corpus meum: Nunquid addidit quando sumitur? quod
+          <lb ed="#A" n="13"/>certe addidisset ille qui tantopere fuit salutis nostrae sitiens,
+          <lb ed="#A" n="14"/>nec nos reos idololatriae fieri passus esset, si extra sumptio
+          <lb ed="#A" n="15"/>nem Christum in hoc sacramento adoraremus. Posset his
+          <lb ed="#A" n="16"/>ecte dici, quod illi populo dictum est quondam ab Elia
+          <lb ed="#A" n="17"/>Vsquequo claudicatis in duas partes, Si dominus est Deus
+          <lb ed="#A" n="18"/>sequimini eum, si autem Baal sequimini illum. Si Christum
+          <lb ed="#A" n="19"/>Deum agnoscitis, sequimini illum, credite illi dicenti, Hoc
+          <lb ed="#A" n="20"/>est corpus meum, non solum cum sumitur, sed statim etiam
+          <lb ed="#A" n="21"/>vt verbo dei consecratur, cuius verbi dei, non sumptionis
+          <lb ed="#A" n="22"/>meae aut alterius virtute, quod erat ante consecrationem
+          <lb ed="#A" n="23"/>panis, fit corpus Christi. Neque enim manducatio mea,
+          <lb ed="#A" n="24"/>sed sermo Christi panis &amp; vini substantiam conuertit in
+          <lb ed="#A" n="25"/>substantiam corporis &amp; sanguinis Christi. Sin autem non
+          <lb ed="#A" n="26"/>creditis Christo dicenti, hoc est corpus meum, quod
+          reve<lb ed="#A" n="27" break="no"/>ra facitis, cur non aperte confitemini vos Baal sequi, &amp;
+          il<lb ed="#A" n="28" break="no"/>lius Prophetis credere, qui dicunt, hoc non est corpus
+          me<lb ed="#A" n="29" break="no"/>um? non est verum quod dixit Christus: non est corpus,
+          <lb ed="#A" n="30"/>sed significat corpus: non est corpus, sed est figura
+          corpo<lb ed="#A" n="31" break="no"/>ris Christi. Si sic detecta persona rem ageretis, quis non
+          <lb ed="#A" n="32"/>statim agnosceret angelos Satanae? quis non quo summo
+          <lb ed="#A" n="33"/>posset studio ab illis sibi caueret? Sed verum est quod
+          di<lb ed="#A" n="34" break="no"/>cit scriptura: Erat serpens callidior cunctis
+          animanti<lb ed="#A" n="35" break="no"/>bus. Nulla est asturia, quae cum illius astutia possit
+          com<lb ed="#A" n="36" break="no"/>parari. Intelligit ille, qui non aliunde constat, nisi ex
+          do<lb ed="#A" n="37" break="no"/>se &amp; fallaciis, si se subito talem exhiberet qualis revera
+          <lb ed="#A" n="38"/>est, nihil se profecturum: Nam si statim prorumperet per
+          <lb ed="#A" n="39"/>membra sua &amp; diceret: Non est corpus Christi, sicut ipse
+          <lb ed="#A" n="40"/>dixit, sed significat modo corpus: est figura corporis:
+          qui<lb ed="#A" n="41" break="no"/>esset qui quos tam impiam vocem proferre audiuisset, eos
+          <lb ed="#A" n="42"/>ferendos, ac non auferendos potius atque extremis
+          sup<pb ed="#A" n="77-v"/><lb ed="#A" n="1" break="no"/>pliciis afficiendos censeret?
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e449">
+          Quamobrem pedetentim
+          <lb ed="#A" n="2"/>callidissima bestia in mentes hominum illabendum, ac
+          <lb ed="#A" n="3"/>per gradus quosdam ad extremam hanc impietatem eos
+          <lb ed="#A" n="4"/>adducendos esse putauit. Principio verbi dei speciem
+          prae<lb ed="#A" n="5" break="no"/>texens (neque enim ad homines decipiendos alia magis
+          <lb ed="#A" n="6"/>apta &amp; expedita via est) de speciebus huius sacramenti dif
+          <lb ed="#A" n="7"/>ceptationem induxit, vt sic, cuius rei symbolum est hoc sa
+          <lb ed="#A" n="8"/>cramentum, charitatem ex animis hominum tolleret,
+          vna<lb ed="#A" n="9" break="no"/>nimitatemque scinderet. Deinde corpus exangue dari
+          no<lb ed="#A" n="10" break="no"/>bis ad manducandum, neque verum sanguinem, sed cruo
+          <lb ed="#A" n="11"/>rem dari bibendum persuadere conatus est, affirmando
+          <lb ed="#A" n="12"/>sub specie panis &amp; corpus tantum sine sanguine, sub
+          spe<lb ed="#A" n="13" break="no"/>cie vini sanguis tantum sit sine corpore. Hac ille arte cum
+          <lb ed="#A" n="14"/>effecisset, minus vt iam reuerenter ad hoc sacramentum
+          <lb ed="#A" n="15"/>homines accederent, quod frustra ab eo vita expectetur,
+          <lb ed="#A" n="16"/>in quo vita non est, progressus est vlterius: neque tamen sta
+          <lb ed="#A" n="17"/>tim negauit esse corpus Christi, sed panem in sacramente
+          <lb ed="#A" n="18"/>simul esse cum corpore Christi docuit, iampridem sopitam
+          <lb ed="#A" n="19"/>Ioan. Viclessi, &amp; Ioan. Hussi haeresim renouans: cum
+          ta<lb ed="#A" n="20" break="no"/>men Christus non dixerit, hic panis est corpus meum, sed
+          <lb ed="#A" n="21"/>hoc est corpus meum. Explicans August. illam
+          inscriptio<lb ed="#A" n="22" break="no"/>nem palmi, palmus Dauid, cum mutaret vultum coram
+          <lb ed="#A" n="23"/>Abimelech, &amp; dimisit eum &amp; abiit: ac locum illum ex
+          li<lb ed="#A" n="24" break="no"/>bris Regum, secundum editionem septuaginta, pertractans,
+          <lb ed="#A" n="25"/>Ferebatur in manibus suis: Hoc vero fratres, inquit,
+          quo<lb ed="#A" n="26" break="no"/>modo possit fieri in homine quis intelligat? quis enim
+          <lb ed="#A" n="27"/>portatur in manibus suis? Manibus aliorum portari
+          po<lb ed="#A" n="28" break="no"/>test homo, suis manibus nemo portatur. Quomodo
+          in<lb ed="#A" n="29" break="no"/>telligatur in ipso Dauid secundum literam non
+          inueni<lb ed="#A" n="30" break="no"/>mus, in Christo autem inuenimus: Ferebatur enim
+          Chri<lb ed="#A" n="31" break="no"/>stus in manibus suis, quando commendans ipsum corpus
+          <lb ed="#A" n="32"/>suum ait: Hoc est corpus meum, Ferebat enim illud
+          cor<lb ed="#A" n="33" break="no"/>pus in manibus suis. Seipsum itaque ferebat Christus in
+          <lb ed="#A" n="34"/>manibus suis, quando dixit, hoc est corpus meum,
+          <lb ed="#A" n="35"/>non panem cum corpore, quod nunc per membra sua
+          fal<lb ed="#A" n="36" break="no"/>so docet satanas? Qui posteaquam id persuasit hominibus
+          <lb ed="#A" n="37"/>manere panem cum Christi corpore, neque parum veneri
+          <lb ed="#A" n="38"/>tionis huic venerabili sacramento falsa hac doctrina sua
+          <lb ed="#A" n="39"/>detraxit, serpit bestia longius: Neque tamen adhuc audes
+          <lb ed="#A" n="40"/>profiteri quod sentit, verum concedit esse ibi corpus
+          Chri<lb ed="#A" n="41" break="no"/>sti, sed non alio tamen tempore, quam quo sumitur: qui
+          ve<lb ed="#A" n="42" break="no"/>ro extra sumptionem adorauerit, eum idololatriae reum
+          pro<pb ed="#A" n="78-r"/><lb ed="#A" n="1" break="no"/>nuntiat. Hoc posito &amp; concesso, tollit sacerdotium, tollit
+          <lb ed="#A" n="2"/>sacrificium, omnem Christi beneficiorum memoriam
+          <lb ed="#A" n="3"/>prorsus obliterare conatur, atque omni ratione
+          diligen<lb ed="#A" n="4" break="no"/>ter cauet, ne qua in ecclesia Dei summi illius &amp;
+          immensi<lb ed="#A" n="5" break="no"/>beneficii, quo semeripsum Christus dedit redemptionem
+          <lb ed="#A" n="6"/>pro nobis, fiat repraesentatio. His ex animi sui sententia
+          <lb ed="#A" n="7"/>confectis, tum demum eo peruenit quo tendebat initio,
+          <lb ed="#A" n="8"/>vt dicat impius, dicat insipiens in corde suo, non est Deus
+          <lb ed="#A" n="9"/>Non est Deus in hoc sacramento, non est in eo corpus
+          <lb ed="#A" n="10"/>Christi, merus est panis pistorius, cui diuinos honores
+          tri<lb ed="#A" n="11" break="no"/>buere, est idololatram esse. Hoc si callida &amp; truculenta illa
+          <lb ed="#A" n="12"/>bestia statim initio per membra sua dixisset, nullo
+          nego<lb ed="#A" n="13" break="no"/>tio, semota quauis cunctatione fuisset obstructum os
+          lo<lb ed="#A" n="14" break="no"/>quentium iniqua, neque facile quenquam in nassam suam
+          <lb ed="#A" n="15"/>pertraxisset, vt tam impiae voci auscultaret, eique fidem
+          ha<lb ed="#A" n="16" break="no"/>beret: verum, vt dictum est, paulatim irrependum in
+          ani<lb ed="#A" n="17" break="no"/>mos hominum, atque iis gradibus, qui iam enumerati sunt
+          <lb ed="#A" n="18"/>incedendum esse putauit, quod sciret extreme impiam
+          do<lb ed="#A" n="19" break="no"/>ctrinam non ita subito Christiano homini persuaderi
+          pos<lb ed="#A" n="20" break="no"/>se.
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e585">
+          Quamobrem quicunque catholicam &amp; orthodoxam
+          fi<lb ed="#A" n="21" break="no"/>dem amplectitur, diligenter sibi caueat ab his serpentis
+          <lb ed="#A" n="22"/>insidiis, qui nunquam calcaneo nostro insidiari cessat.
+          Ca<lb ed="#A" n="23" break="no"/>uendi autem haec est ratio, si omnem disputationem
+          fuge<lb ed="#A" n="24" break="no"/>rit de hoc sacramento, in quo stultam Deus fecit
+          sapien<lb ed="#A" n="25" break="no"/>tiam huius mundi. Nusquam enim Dei maior est tentatio,
+          <lb ed="#A" n="26"/>quam in hoc sacramento, in quo tentat nos Deus, vtrum
+          <lb ed="#A" n="27"/>credamus illi. Noluit Adam credere Deo dicenti: In
+          qua<lb ed="#A" n="28" break="no"/>cunq; die comederitis ex hoc ligno, morte monemini: cre
+          <lb ed="#A" n="29"/>didit serpenti decipienti cum diceret: Aperientur oculi
+          ve<lb ed="#A" n="30" break="no"/>stri, &amp; eritis sicut Dii. Credidit quod non videbat: nam in
+          <lb ed="#A" n="31"/>illo fructu ligni virtutem tantae rei effectiuam, quam serpens
+          <lb ed="#A" n="32"/>promisit, oculis non cernebat. Credidit serpenti diabolo
+          <lb ed="#A" n="33"/>non credidit creatori suo Deo, quo illius peccato facti
+          su<lb ed="#A" n="34" break="no"/>mus omnes rei mortis aeternae. Sacrilegium illud per istud
+          <lb ed="#A" n="35"/>eucharistis sacramentum emendari Deus voluit, vt fine vlla
+          <lb ed="#A" n="36"/>dubitatione crederemus filio dicenti: Accipite &amp; comedite,
+          <lb ed="#A" n="37"/>hoc est corpus meum: non autem crederemus serpenti
+          dicen<lb ed="#A" n="38" break="no"/>ti, hoc non est corpus Christi, sed figura eius. Sicut cibum
+          <lb ed="#A" n="39"/>a Deo vetitum Addam gustando e vita beata excidit, sic nos qui
+          <lb ed="#A" n="40"/>Christus praecepit cibum manducantes, &amp; verbo eius credentes,
+          <lb ed="#A" n="41"/>ad vitam per illum amissam redire oportet.
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e633">
+          Quamobrem non quaerat
+          <lb ed="#A" n="42"/>nomo christianus cum Capharnatis, quomodo hic potest
+          no<pb ed="#A" n="78-v"/><lb ed="#A" n="1" break="no"/>bis carnem suam dare ad manducandum? sed captiuet
+          in<lb ed="#A" n="2" break="no"/>tellectum suum in obsequium Christi. Dicat quicquid
+          ve<lb ed="#A" n="3" break="no"/>lit: omnis homo mendax, nos credamus ei qui solus est
+          ve<lb ed="#A" n="4" break="no"/>rax, Deo. Ipse dixit &amp; facta sunt. Ipse dixit, hoc est corpus
+          <lb ed="#A" n="5"/>meum: ipse dixit, Panis quem ego dabo, caro mea est pro
+          <lb ed="#A" n="6"/>mundi vita. Credamus veritati de veritate sui corporis nos
+          <lb ed="#A" n="7"/>admonenti, nec deinceps quaeramus quomodo. Non est im
+          <lb ed="#A" n="8"/>possibile apud Deum omne verbum. Etiamsi angelus de
+          <lb ed="#A" n="9"/>aelo nobis aliud annuntiaret, quam quod Christum Dei fili
+          <lb ed="#A" n="10"/>dicentem audimus, anathema sit: non ei credamus. Non po
+          <lb ed="#A" n="11"/>test mentiri veritas. Verbum domini manet in aeternum.
+          <lb ed="#A" n="12"/>Sensus nostri falli possunt, Christus qui est veritas neque
+          <lb ed="#A" n="13"/>falli potest, neque fallere. Viderat Petrus Christum in mon
+          <lb ed="#A" n="14"/>te transfiguratum, audiuerat vocem de caelo allatam, Hic est
+          fi<lb ed="#A" n="15" break="no"/>lius meus dilectus in quo mihi bene complacui, ipsum au
+          <lb ed="#A" n="16"/>dite, &amp; tamen habemus, inquit, firmiorem propheticum
+          se<lb ed="#A" n="17" break="no"/>monem. Certius illi visum est &amp; firmius, quod a Propheta scri
+          <lb ed="#A" n="18"/>ptum legerat, quam vox de coelo allata, quam auribus audierat.
+          <lb ed="#A" n="19"/>Si propheticus sermo tam illi certus visus est, quanto
+          no<lb ed="#A" n="20" break="no"/>bis certior videri debet Christi sermo, qui Prophetas
+          in<lb ed="#A" n="21" break="no"/>spirauit? Qua de re sic aliquando scripsit Ambros. Sermo
+          <lb ed="#A" n="22"/>Christi conficit hoc sacramentum. Quis sermo Chrisu
+          <lb ed="#A" n="23"/>Nempe iis, quo facta sunt omnia. Iussit damus, &amp; factum est caelum:
+          <lb ed="#A" n="24"/>iussit dominus, &amp; facta est terra: iussit dominus, &amp; facta
+          <lb ed="#A" n="25"/>sunt maria: iussit dominus, omnis creatura generata est.
+          <lb ed="#A" n="26"/>Vides ergo quam operatorius sit sermo Christi? Si ergo
+          <lb ed="#A" n="27"/>tanta vis est in sermone damni Iesu, vt inciperent esse quae non
+          <lb ed="#A" n="28"/>erant, quanto magis operatorius est vt sint quae erant, &amp; in
+          <lb ed="#A" n="29"/>aliud commutentur? Coelum non erat, mare non erat, ter
+          <lb ed="#A" n="30"/>ra non erat: sed audi dicentem: Ipse dixit &amp; facta sunt,
+          ip<lb ed="#A" n="31" break="no"/>se mandauit &amp; creata sunt. Ergo tibi vt respondeam: Non
+          <lb ed="#A" n="32"/>erat corpus Christi ante consecrationem, sed post
+          conse<lb ed="#A" n="33" break="no"/>crationem dico tibi quod iam corpus est Christi. Ipse
+          di<lb ed="#A" n="34" break="no"/>xit &amp; factum est, ipse mandauit &amp; creatum est. Et alio
+          lo<lb ed="#A" n="35" break="no"/>to. Forte dicas: aliud video, quam tu mihi asseris quod Christi
+          <lb ed="#A" n="36"/>corpus accipiam? Et hoc nobis iam superest vt probemus.
+          <lb ed="#A" n="37"/>Quantis igitur vtimur exemplis vt probemus non hoc
+          ci<lb ed="#A" n="38" break="no"/>se quod natura formauit, sed quod benedictio consecrauit,
+          <lb ed="#A" n="39"/>maioremque vim esse benedictionis quam naturae? quia
+          bene<lb ed="#A" n="40" break="no"/>dictione etiam natura ipsa mutatur. Virgam tenebat Moses
+          <lb ed="#A" n="41"/>proiecit eam &amp; facta est serpens. Rursus apprehendit caudam
+          <lb ed="#A" n="42"/>serpentis, &amp; in virge naturam reuertitur. Vides igitur prophae
+          <pb ed="#A" n="79-r"/>
+          <lb ed="#A" n="1"/>ita gratia bis mutatam esse naturam, &amp; serpentis &amp;
+          vir<lb ed="#A" n="2" break="no"/>gae Ac post multa alia exempla eius generis ex veteri
+          <lb ed="#A" n="3"/>Testamento producta, subiungit: Quod si tantum valuit
+          <lb ed="#A" n="4"/>humana benedictio vt naturam conuerteret, quid dicemus
+          <lb ed="#A" n="5"/>de ipsa consecratione diuina, vbi verba ipsa domini salua
+          <lb ed="#A" n="6"/>toris operantur? Nam sacramentum istud quod accipis,
+          <lb ed="#A" n="7"/>Christi sermone conficitur. Quod si tantum valuit serme
+          <lb ed="#A" n="8"/>Heliae, vt ignem de coelo deponeret, non valebit Christi ser
+          <lb ed="#A" n="9"/>mo vt species mutet elementorum? De totius mundi
+          ope<lb ed="#A" n="10" break="no"/>ribus legisti: quia ipse dixit &amp; facta sunt, ipse mandauit &amp;
+          <lb ed="#A" n="11"/>creata sumt. Sermo ergo Christi qui potuit ex nihilo face
+          <lb ed="#A" n="12"/>re quod non erat, non potest ea quae sunt in id mutare quod
+          <lb ed="#A" n="13"/>non erant. Non enim minus est nouas rebus dare,
+          quan<lb ed="#A" n="14" break="no"/>mutare naturas.
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e763">
+          Sed quid argumentis vtimur? suis vtamur
+          <lb ed="#A" n="15"/>exemplis, incarnationisque astruamus mysterii veritatem,
+          <lb ed="#A" n="16"/>Nunquid naturae vsus praecessit, cum Iesus dominus ex
+          Ma<lb ed="#A" n="17" break="no"/>ria nasceretur? Si ordine quaerimus viro mixta foemina
+          <lb ed="#A" n="18"/>generare consueuerat. Liquet igitur, quod praeter naturae
+          <lb ed="#A" n="19"/>ordinem virgo generauit: &amp; hoc quod conficimus corpus
+          <lb ed="#A" n="20"/>ex virgine est. Quid hic quaeris naturae ordinem in
+          Chri<lb ed="#A" n="21" break="no"/>sti corpore, cum praeter naturam sit ipse dominus Iesus
+          fa<lb ed="#A" n="22" break="no"/>ctus ex virgine? Neque dissimilia iis apud Ioannem
+          Damas<lb ed="#A" n="23" break="no"/>cenum in quarto libro de fide orthodoxa reperire licet.
+          <lb ed="#A" n="24"/>Sed &amp; August. in sermone quoddam: Hoc accipietis, inquit,
+          <lb ed="#A" n="25"/>in pane, quod pependit in cruce: &amp; hoc accipietis in calice
+          <lb ed="#A" n="26"/>quod effussum est de Christi latere. Erit enim illi mors &amp;
+          <lb ed="#A" n="27"/>non vita, qui mendacem putauerit vitam. Neque multo
+          secu<lb ed="#A" n="28" break="no"/>loannes Chrysostomus, qui fuit Augustini aequalis Num
+          <lb ed="#A" n="29"/>vides, inquit, panem Num vinum? Num sicut reliqui
+          ci<lb ed="#A" n="30" break="no"/>in secessum vadunt? Absit ne sic cogites. Quemadmodi
+          <lb ed="#A" n="31"/>enim, si caera igni adhibita illi assimilatur, nihil substantia
+          <lb ed="#A" n="32"/>remanet nihil superfluit: sic &amp; hic puta mysteria consumi,
+          <lb ed="#A" n="33"/>corporis substantiae. Atque Ioannes Damascenus cum
+          ple<lb ed="#A" n="34" break="no"/>raque scripsisset in eandem sententiam, sicut ex Ambrosio
+          ci<lb ed="#A" n="35" break="no"/>tauimus, subiungit postea. Non est figura panis &amp; vini
+          cor<lb ed="#A" n="36" break="no"/>poris ac sanguinis Christi, absit enim hoc, sed est ipsum
+          <lb ed="#A" n="37"/>corpus domini deificatum, ipso domino dicente: hoc est
+          <lb ed="#A" n="38"/>meum, non figura corporis, sed corpus: &amp; non figura
+          san<lb ed="#A" n="39" break="no"/>guinis, sed sanguis: Et ante hoc, ipsis Iudaeis, quoniam
+          ni<lb ed="#A" n="40" break="no"/>manducaueritis carnem filii hominis, &amp; biberitis eius
+          san<lb ed="#A" n="41" break="no"/>guinem non habebitis vitam aeternam. Caro mea vere est
+          <lb ed="#A" n="42"/>cibus, &amp; sanguis meus vere est potus. Et rursus. Qui
+          man<pb ed="#A" n="79-v"/><lb ed="#A" n="1" break="no"/>ducat me, viuet. Ac Damasceno posterior Theophilactus.
+          <lb ed="#A" n="2"/>Attende, inquit, quod panis qui a nobis in mysteriis man
+          <lb ed="#A" n="3"/>ducatur, non est tantum figuratio quaedam carnis domini, sed
+          <lb ed="#A" n="4"/>ipsa caro domini. Non enim dixit, panis quem ego dabo,
+          fi<lb ed="#A" n="5" break="no"/>gura est carnis: sed caro mea est. Transformatur enim
+          ar<lb ed="#A" n="6" break="no"/>canis verbis panis ille per mysticam benedictionem &amp;
+          accessi<lb ed="#A" n="7" break="no"/>onem sancti spiritus, in carnem domini. Et hoc aliquot
+          <lb ed="#A" n="8"/>seculis posterior vir doctissimus Rupertus abbas
+          Tuitien<lb ed="#A" n="9" break="no"/>sis, qui vixit ante annos quadringentos. Nonne hic idem
+          <lb ed="#A" n="10"/>uangelista Ioan. dicit in Apocalypsi?
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e849">
+          Si quis apposuerit
+          <lb ed="#A" n="11"/>ad haec, apponat super illum Deus plagas scriptas in libro
+          <lb ed="#A" n="12"/>isto. Et si quis diminuerit de verbis prophetiae libri huius,
+          <lb ed="#A" n="13"/>auferat Deus partem eius de libro vitae. Nunquid vero
+          mi<lb ed="#A" n="14" break="no"/>nus timenda est hic illa maledictio, vt non detrahamus vel
+          <lb ed="#A" n="15"/>apponamus quicquam verbis dicentis, hoc est corpus meum
+          <lb ed="#A" n="16"/>quod pro vobis tradetur? Hic est sanguis meus? Cum enim
+          <lb ed="#A" n="17"/>illo dicente, hoc est corpus meum nos subauditionem
+          appo<lb ed="#A" n="18" break="no"/>suerimus, dicentes figuranuum, vel per similitudinem dictum,
+          <lb ed="#A" n="19"/>cum inquam illo dicente hoc est corpus, nos dixerimus hoc
+          <lb ed="#A" n="20"/>significat corpus, nonne multum est quod apponimus, vel
+          <lb ed="#A" n="21"/>parua demutatione detrahimus, &amp; sensum generamus que
+          <lb ed="#A" n="22"/>tantus author Deus &amp; homo nunquam est loquutus, nec
+          <lb ed="#A" n="23"/>ascendit vnquam in cor eius? Nempe cum obiicit quis suisque
+          <lb ed="#A" n="24"/>scriptitat in schedulis, quod itidem dixerit eadem veritas,
+          <lb ed="#A" n="25"/>Ego sum viris, tam audacter quam imperite in argumentum
+          <lb ed="#A" n="26"/>mendosum illud attrahit: cum statim subsequentia verba
+          di<lb ed="#A" n="27" break="no"/>centis, sicut palines non potest fructum ferre a semeripso,
+          <lb ed="#A" n="28"/>nisi manserit in vite, sic nec vos nisi in me manseritis,
+          mani<lb ed="#A" n="29" break="no"/>feste per similitudinem dictum compellant intelligi,
+          praesen<lb ed="#A" n="30" break="no"/>tim cum non signanter dixerit, ego sum haec vitis, sicut
+          <lb ed="#A" n="31"/>signanter dixit, hoc est corpus meum, hic est sanguis meus,
+          <lb ed="#A" n="32"/>apposita proxime descriptione verae proprietatis de
+          co<lb ed="#A" n="33" break="no"/>pore inquiens quod pro vobis tradetur, de sanguine
+          au<lb ed="#A" n="34" break="no"/>tem, qui pro multis effundetur. Igitur ne veniant super
+          <lb ed="#A" n="35"/>nos plagae nouissimae, neque apponimus, neque diminuimus
+          <lb ed="#A" n="36"/>quicquam diuine definitioni vel descriptioni, quae
+          incarna<lb ed="#A" n="37" break="no"/>tum verbum ore proprio deprompsit. In quia perfecta
+          <lb ed="#A" n="38"/>charitas foras mittit timorem, non tam plagarum timore,
+          <lb ed="#A" n="39"/>quam veritatis amore confitemur, quod panis iste
+          corpo<lb ed="#A" n="40" break="no"/>reus postquam signauerit eum pater, &amp; vinam hoc expressum
+          <lb ed="#A" n="41"/>acinis praesentibus, mox vt eodem signo signatum est per
+          <lb ed="#A" n="42"/>manus Ecclesiae dicentis, vt nobis corpus &amp; sanguis satid.
+          <pb ed="#A" n="80-r"/>
+          <lb ed="#A" n="1"/>lectissimi filij tui domini nostri Iesu Christi vsque, in mei
+          <lb ed="#A" n="2"/>memoriam facietis, corpus &amp; sanguis eius, qui huius
+          tracta<lb ed="#A" n="3" break="no"/>tionis author est, &amp; hoc sacrificium ipse Christus est, cuius
+          <lb ed="#A" n="4"/>passione &amp; sacrificium fieret a Deo patre in veritate signatum
+          <lb ed="#A" n="5"/>est. Docet idem, tres modos esse essentiae, quibus Christi
+          <lb ed="#A" n="6"/>corpus est in eucharistia, quarto autem differre. Est enim
+          <lb ed="#A" n="7"/>nomine, re, atque effectu. Est nomine, quia summus coelorum
+          <lb ed="#A" n="8"/>pontifex, qui cum sit ipsa veritas, nomina non vana rebus
+          <lb ed="#A" n="9"/>imponere solet, adeo fortiter hoc nomen impressit, vt non
+          <lb ed="#A" n="10"/>solum diceret hoc vocetur corpus meum, hic vocetur san
+          <lb ed="#A" n="11"/>guis meus, sed hoc est, inquit, corpus meum: hic est sanguis
+          <lb ed="#A" n="12"/>meus. Est etiam re, quia nimirum sanctum sanctorum est
+          <lb ed="#A" n="13"/>quam vera in illa specie qua traditus &amp; lanceatus est, ipse
+          <lb ed="#A" n="14"/>sanctus sanctorum est. Est nihilominus effectu, quia qua
+          <lb ed="#A" n="15"/>vere in illa specie qua pependit in cruce, remissionem
+          pe<lb ed="#A" n="16" break="no"/>catorum operatus est omnibus, qui illam expectabant ab
+          <lb ed="#A" n="17"/>origine mundi cum fide, sine legalibus fidei sacramentis
+          <lb ed="#A" n="18"/>a iusto Abel vsque ad latronem, quem in cruce confitentem
+          <lb ed="#A" n="19"/>suscepit: tam vere in iisdem speciebus panis &amp; vini eandem
+          <lb ed="#A" n="20"/>remissionem operatur omnibus qui sunt ingressi vel ingre
+          <lb ed="#A" n="21"/>diuntur ad eam fidem, posiquam illa species hinc transiuit,
+          <lb ed="#A" n="22"/>&amp; in coelum sese recepit. Quarto idem specie differt, quod
+          <lb ed="#A" n="23"/>&amp; plurimum prodest: non modo ne color &amp; sapor
+          huma<lb ed="#A" n="24" break="no"/>ni sanguinis horrorem sumentibus illum faciat, sed vt con
+          <lb ed="#A" n="25"/>petenti antidoto nimia parentum nostrorum curatur
+          cre<lb ed="#A" n="26" break="no"/>dulitas. Crediderunt enim deceptori diabolo in eo quod
+          <lb ed="#A" n="27"/>non videbant, videlicet quod illi signo consequendae
+          diui<lb ed="#A" n="28" break="no"/>nitatis effectiua virtus inesset, &amp; comedentes mortui sunt,
+          <lb ed="#A" n="29"/>Credamus econtra fideli saluatori Deo, in eo quod non
+          <lb ed="#A" n="30"/>videmus, scilicet panem &amp; vinum in veram corporis &amp;
+          san<lb ed="#A" n="31" break="no"/>guinis transiuisse substantiam: vt comedentes atque
+          biben<lb ed="#A" n="32" break="no"/>tes viuamus in aeternum. Ac reperiuntur quidem veteres,
+          <lb ed="#A" n="33"/>figuram, signum, similitudinem, exemplar, sacramentum
+          <lb ed="#A" n="34"/>hoc appellasse: verum non ita vt ideo veritatem in eo cor
+          <lb ed="#A" n="35"/>poris &amp; sanguinis Christi negarent. Nam &amp; Faulus quod
+          <lb ed="#A" n="36"/>Christus a morte ad vitam resurrexit, nostri a morte
+          pec<lb ed="#A" n="37" break="no"/>cati ad vitam gratiae resuscitationis similitudinem esse
+          <lb ed="#A" n="38"/>vult. Nunquid ideo veram fuisse mortem, veram
+          Christi<lb ed="#A" n="39" break="no"/>resurrectionem negauit. Dicit idem Paulus de Christo,
+          <lb ed="#A" n="40"/>quod sit in similitudinem hominum factus, num ideo
+          <lb ed="#A" n="41"/>non eum verum hominem esse dicimus? Vocat idem
+          Chri<lb ed="#A" n="42" break="no"/>sium imaginem inuisibilem Dei, &amp; figuram substantia
+          <pb ed="#A" n="80-v"/>
+          <lb ed="#A" n="1"/>patris, erit autem quisquam tam excors, vt proptera
+          Chri<lb ed="#A" n="2" break="no"/>stum Deum inuisibilem, &amp; eiusdem esse cum
+          patrubstan<lb ed="#A" n="3" break="no"/>tiae negare audeat?
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e1023">
+          Itaque nihil impedit quo minis idem
+          <lb ed="#A" n="4"/>mysterium &amp; sit veritas, vt figura dicatur. Quemdmodum
+          <lb ed="#A" n="5"/>pluribus id verbis Rabanus in suo libro quemle
+          sacra<lb ed="#A" n="6" break="no"/>mento Eucharistiae inscripsit, ostendere conatui
+          Profe<lb ed="#A" n="7" break="no"/>runt Augustini verba Petrus Lombardus, &amp; fater eius
+          <lb ed="#A" n="8"/>Gratianus &amp; Algerus, Corpus Christi &amp; verita &amp;
+          figu<lb ed="#A" n="9" break="no"/>ra est. Veritas dum corpus Christi &amp; sanguis vitur
+          spi<lb ed="#A" n="10" break="no"/>ritus in verbo ipsius ex panis vinique substantiaefficitur.
+          <lb ed="#A" n="11"/>Figura vero quod exterius sentitur. Ex quibus Augustini
+          <lb ed="#A" n="12"/>verbis aperte videre licet id quod ipsi quoque fusus
+          no<lb ed="#A" n="13" break="no"/>bis renuntiant, aliud esse quod videtur, aliud qud
+          intel<lb ed="#A" n="14" break="no"/>ligitur. Neque enim quae videtur species panis &amp; ini, sunt
+          <lb ed="#A" n="15"/>ipsum Christi corpus quod sub illis realiter continetur, sed
+          <lb ed="#A" n="16"/>recte dici possunt figurae quaedam siue exemplara Christi
+          <lb ed="#A" n="17"/>corporis. Repraesentant enim nobis illud Chriti corpus
+          <lb ed="#A" n="18"/>exangue, quod in cruce pro nobis pependit: sinus &amp;
+          san<lb ed="#A" n="19" break="no"/>guinem qui fusus est ibidem in remissionem pecatorum
+          <lb ed="#A" n="20"/>nostrorum, quod exangue corpus, &amp; cruor ab ilo
+          separa<lb ed="#A" n="21" break="no"/>tus, nequaquam sub istis speciebus continetur, ed est ibi
+          <lb ed="#A" n="22"/>verus &amp; integer Christus, cum carne, sanguine, mima, &amp;
+          <lb ed="#A" n="23"/>diuinitate sua. Repraesentant praeterea istae speces
+          mysti<lb ed="#A" n="24" break="no"/>cum Christi corpus quae est colligatio Christiaiorum ad
+          <lb ed="#A" n="25"/>inuicem, velut membrorum sub vno capite. Vocauit etiam
+          <lb ed="#A" n="26"/>Damascenus haec mysteria exemplaria futurorum, verum
+          <lb ed="#A" n="27"/>quo sensu ipse interpretatur, dicens: non quod non vere
+          <lb ed="#A" n="28"/>existant corpus &amp; sanguis Christi, sed quod nuic quidem
+          <lb ed="#A" n="29"/>per ipsa participes reddimur Christi diuinitati, tunc
+          au<lb ed="#A" n="30" break="no"/>tem videbimus eum sicuti est, facie ad faciem. Hoc &amp;
+          Cy<lb ed="#A" n="31" break="no"/>prianus indicat dicens: Panem angelorum sub acramen
+          <lb ed="#A" n="32"/>to manducamus in terris, eundem sine sacramento
+          mani<lb ed="#A" n="33" break="no"/>festius edemus in coelis, non ministerio corpoli, saepe
+          re<lb ed="#A" n="34" break="no"/>petitis actionibus ad eundem reuertentes, sed consumma
+          <lb ed="#A" n="35"/>tio sacerdoti nostro, erit &amp; permanebit perpetia &amp;
+          stabi<lb ed="#A" n="36" break="no"/>lis, implens &amp; reficiens nos sufficientia, qua praeret se pa
+          <lb ed="#A" n="37"/>Iam absque vllis integumentis, omnibus conspicibilis, suum
+          <lb ed="#A" n="38"/>mi praesentia sacerdotis.
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e1101">
+          Itaque ante quadringitos etiam
+          <lb ed="#A" n="39"/>annos illa fuerunt Augustini verba Catholica obiecta,
+          <lb ed="#A" n="40"/>quae ex libro sententiarum Prosperi citant idem illi
+          quo<lb ed="#A" n="41" break="no"/>rum supra meminimus. Sicut ergo coelestis paris qui vere
+          <lb ed="#A" n="42"/>Christi caro est suo modo vocatur corpus Christi, cum
+          <pb ed="#A" n="81-r"/>
+          <lb ed="#A" n="1"/>tae vera sit Sacramentum corporis Christi, illius videlicet
+          <lb ed="#A" n="2"/>uod visibile, palpabile, mortale in cruce positum est,
+          vo<lb ed="#A" n="3" break="no"/>raturque ipsa carnis immolatio quae Sacerdotis manibus
+          <lb ed="#A" n="4"/>fit, Christi passio, mors, crucifixio, non in rei veritate, sed
+          <lb ed="#A" n="5"/>ignificante mysterio, sic Sacramentum fidei quo baptisma
+          <lb ed="#A" n="6"/>Intelligitur, fides est. Vnde idem beatus Augustinus ac
+          <lb ed="#A" n="7"/>Bonifacium, Nonne semel immolatus est Christus in
+          seip<lb ed="#A" n="8" break="no"/>so, &amp; tamen in Sacramento, non solum per omnes pasche
+          <lb ed="#A" n="9"/>olennitates, sed omni etiam die, pro populo immolatur,
+          <lb ed="#A" n="10"/>nec vtique mentitur qui interrogatus, cum responderit
+          im<lb ed="#A" n="11" break="no"/>nolari. Si enim Sacramenta quandam similitudinem
+          ea<lb ed="#A" n="12" break="no"/>rum rerum quarum sunt Sacramenta non haberent,
+          om<lb ed="#A" n="13" break="no"/>hino Sacramenta non essent. Ex hac autem similitudine,
+          <lb ed="#A" n="14"/>pleraque etiam ipsarum rerum nomina accipiunt. Sicut
+          <lb ed="#A" n="15"/>enim secundum quendam modum Sacramentum
+          corpo<lb ed="#A" n="16" break="no"/>ris Christi, corpus Christi est, Sacramentum sanguinis
+          <lb ed="#A" n="17"/>Christi, sanguis Christi est, ita Sacramentum fidei fides
+          <lb ed="#A" n="18"/>est. Quibus vt in hanc sententiam respondet Algerus
+          <lb ed="#A" n="19"/>Notandum inquit est, immolationem quam non rei
+          veri<lb ed="#A" n="20" break="no"/>tate dixit fieri, sola similitudine Sacramenti veram
+          immo<lb ed="#A" n="21" break="no"/>lationem Christi repraesentantis mortem, pascionem, cru
+          <lb ed="#A" n="22"/>cifixionem ipso mysterio significante debere
+          intelligi<lb ed="#A" n="23" break="no"/>sicque baptisma quod est Sacramentum fidei, non in rei
+          ve<lb ed="#A" n="24" break="no"/>ritate, sed sola similitudine fidem dici:
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e1166">
+          Quod vero veram
+          <lb ed="#A" n="25"/>carnem Christi suo modo corpus Christi dixit vocari.
+          <lb ed="#A" n="26"/>cum re vera sui ipsius Sacramentum sit, non ita
+          intelligen<lb ed="#A" n="27" break="no"/>dum, quasi non vere dicatur corpus Christi, sed suo modo,
+          <lb ed="#A" n="28"/>id est, sibi singulariter proprio, quia quum omne corpus
+          <lb ed="#A" n="29"/>sit visibile atque palpabile, solum corpus Christi post
+          re<lb ed="#A" n="30" break="no"/>surrectionem mutata natura non substantia, non est
+          cor<lb ed="#A" n="31" break="no"/>porale, sed spiritale, inuisibile, vt dictum est superius,
+          <lb ed="#A" n="32"/>Quod vero dixit ad Bonifacium, sicut Sacramentum
+          cor<lb ed="#A" n="33" break="no"/>sporis Chrisi: secundum quendam modum corpus
+          Chri<lb ed="#A" n="34" break="no"/>sti est, ita Sacramentum fidei fides est, intelligendum est
+          <lb ed="#A" n="35"/>de forma panis &amp; vini, quae non vere sed figurare &amp;
+          nun<lb ed="#A" n="36" break="no"/>scupatiue dicitur corpus Christi. Quia igitur
+          Augusti<lb ed="#A" n="37" break="no"/>nus ad comprobandum quod Sacramentum fidei, fides
+          <lb ed="#A" n="38"/>diceretur duas similitudines dedit, vna actualis Sacra
+          <lb ed="#A" n="39"/>menti immolationis scilicet imaginariae: altera vero
+          rea<lb ed="#A" n="40" break="no"/>lis, formae scilicet panis &amp; vini: vt sicut immolatio
+          ima<lb ed="#A" n="41" break="no"/>ginaria figurate vocatur, mors, crucifixio Christi, &amp; sicut
+          <lb ed="#A" n="42"/>forma panis &amp; vini figurate vocatur corpus Christi, sic
+          <pb ed="#A" n="81-v"/>
+          <lb ed="#A" n="1"/>Sacramentum fidei scilicet baptisina figurate vocatur
+          fi<lb ed="#A" n="2" break="no"/>des. Notandum, quod in altera harum similitudinum
+          coe<lb ed="#A" n="3" break="no"/>lestem panem qui vere Christi caro est, non communi sed
+          <lb ed="#A" n="4"/>suo &amp; quasi proprio modo corpus Christi vocari dixit:
+          <lb ed="#A" n="5"/>Quia significat corpus illud non corporale sed spiritale
+          <lb ed="#A" n="6"/>&amp; diuinum prae omnibus corporibus singulanter vidit.
+          <lb ed="#A" n="7"/>In altera autem Sacramentum corporis Christi id est for
+          <lb ed="#A" n="8"/>mam panis, absolute secundum quendam modum
+          cor<lb ed="#A" n="9" break="no"/>pus Christi dixit, quia communi figura non existentium
+          <lb ed="#A" n="10"/>quod dicuntur, illud dici corpus Christi notauit. Quod
+          <lb ed="#A" n="11"/>autem inuisibile corpus Christi Sacramentum visibilis
+          <lb ed="#A" n="12"/>corporis Christi dixit, intelligibiliter tantum per
+          exte<lb ed="#A" n="13" break="no"/>riorem aliquam actionem, &amp; non sensualiter accipiendum
+          <lb ed="#A" n="14"/>est. Quomodo enim more caeterorum Sacramentorum
+          <lb ed="#A" n="15"/>visibilium, id quod videri non potest rei visibilis esse po
+          <lb ed="#A" n="16"/>terit signum, nisi exterioris alicuius actionis circa se
+          ima<lb ed="#A" n="17" break="no"/>ginem habuerit. Haec Algerus. Quimundus vero eadem
+          <lb ed="#A" n="18"/>Augustini verba adferens: Hoc inquit libera facultate
+          in<lb ed="#A" n="19" break="no"/>telligere possumus dictum esse de manna vel de pane vel
+          <lb ed="#A" n="20"/>vino Melchisedech, vel de aliquo veterum sacrificiorum,
+          <lb ed="#A" n="21"/>quae sacramenta corporis &amp; sanguinis Christi fuerunt.
+          <lb ed="#A" n="22"/>Possunt enim quodammodo per figuram corporis &amp;
+          sa<lb ed="#A" n="23" break="no"/>guinis Christi appellari, sicut petra vocatur Christus, E
+          <lb ed="#A" n="24"/>ideo non satis attendit homo quid apponat, Nam si ex
+          abun<lb ed="#A" n="25" break="no"/>dantia de Sacramentis quoque altariis nostri id velimus
+          ac<lb ed="#A" n="26" break="no"/>cipere, fidelis &amp; facilis intelligentia patet. Cum enim
+          Sa<lb ed="#A" n="27" break="no"/>cramenta nostra sint substantiue corpus illud quod est
+          fi<lb ed="#A" n="28" break="no"/>lii Dei proprium, sunt quodammodo per figuram ipsum
+          <lb ed="#A" n="29"/>corpus Christi, cuius Sacramenta sunt, id est Ecclesia
+          <lb ed="#A" n="30"/>Quod in expositione super Ioannem confirmat
+          Augu<lb ed="#A" n="31" break="no"/>stinus iis verbis: Hunc itaque cibum &amp; potum societatem
+          <lb ed="#A" n="32"/>vult intelligi corporis &amp; membrorum suorum, quod est
+          <lb ed="#A" n="33"/>Ecclesia. Huius rei Sacramentum id est vnitatis
+          corpori<lb ed="#A" n="34" break="no"/>&amp; sanguinis Christi alicubi quotidie, alicubi certis inter
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e1283">
+          <lb ed="#A" n="35"/>uallis dierum in dominica mensa praeparatur, &amp; de
+          domi<lb ed="#A" n="36" break="no"/>nica mensa sumitur. Idem in quodam sermone de
+          Sacra<lb ed="#A" n="37" break="no"/>mentis. Quia passus est inquit pro nobis commendauit
+          <lb ed="#A" n="38"/>nobis in isto Sacramento, sanguinem suum &amp; corpus, quod
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e1295">
+          <lb ed="#A" n="39"/>etiam fecit &amp; nos ipsos, nam &amp; nos ipsius corpus facti su
+          <lb ed="#A" n="40"/>mus per misericordiam ipsius, &amp; quod accepimus nos su
+          <lb ed="#A" n="41"/>mus. Ecce quomodo cibum &amp; potum altans, dixit esse
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e1304">
+          <lb ed="#A" n="42"/>quodammodo societatem corporis quod est Ecclesia
+          <pb ed="#A" n="82-r"/>
+          <lb ed="#A" n="1"/>Non quod ipse cibus &amp; potus sit ipsa societas, sed ipsius
+          <lb ed="#A" n="2"/>societatis Sacramentum, Et hoc quod accepimus dixit.
+          <lb ed="#A" n="3"/>quodammodo esse nos, quia nostri Sacramentum. Ita
+          er<lb ed="#A" n="4" break="no"/>to corpus Christi proprium est quodammodo per
+          figu<lb ed="#A" n="5" break="no"/>am illud corpus Christi, cuius est Sacramentum, quod
+          <lb ed="#A" n="6"/>est Ecclesia. Nec mirum, cum ipse dominus per
+          Prophe<lb ed="#A" n="7" break="no"/>tam dicit: Indumento iustitiae circundedit me, quasi spon
+          <lb ed="#A" n="8"/>sum decoratum corona, &amp; quasi sponsam ornatam moni
+          <lb ed="#A" n="9"/>ibus suis. Se dicit sponsum, quia ipse sponsus est, se dicit
+          <lb ed="#A" n="10"/>ponsam, quia ipse est quodammodo illud corpus suum
+          <lb ed="#A" n="11"/>quod est Ecclesia cuius ipse est Sacramentum. Hanc
+          intelli<lb ed="#A" n="12" break="no"/>gentiam nobis aptissime similitudo sequuta commendat
+          <lb ed="#A" n="13"/>sicut enim dicimus proprium corpus domini, alterius sui
+          <lb ed="#A" n="14"/>corporis quod est Ecclesia, Sacramentum, sic baptismum
+          <lb ed="#A" n="15"/>visibilem, alterius inuisibilis scilicet baptismi cognoscemus.
+          <lb ed="#A" n="16"/>Sacramentum. Est namque baptismus interior, fides
+          inuisi<lb ed="#A" n="17" break="no"/>bilis animam simili modo purificans teste beato
+          Apostolo<lb ed="#A" n="18" break="no"/>qui ait: Fide mundans corda eorum. Et iterum, sic &amp; nos
+          <lb ed="#A" n="19"/>saluos facit baptisma, non carnis depositio sordium, sed
+          <lb ed="#A" n="20"/>conscientiae bonae interrogatio in Deum. Proinde satis
+          <lb ed="#A" n="21"/>conuenienti &amp; sana fide intelligere possumus dixisse
+          Au<lb ed="#A" n="22" break="no"/>gustinum, sicut Sacramentum corporis Christi, id est, sicut
+          <lb ed="#A" n="23"/>illud proprium filii Dei corpus, quod est Sacramentum
+          <lb ed="#A" n="24"/>corporis Christi quae est Ecclesia, secundum quendam mo
+          <lb ed="#A" n="25"/>dum corpus, Christi est, illud significat cuius est
+          Sacra<lb ed="#A" n="26" break="no"/>mentum, id est Ecclesia ipse enim sponsus, ipse secundum
+          <lb ed="#A" n="27"/>quendam modum &amp; sponsa: ita Sacramentum fidei, id
+          <lb ed="#A" n="28"/>est exterior baptisinus pro eo quod fidei signum est,
+          secun<lb ed="#A" n="29" break="no"/>dum quendam modum fides est. Ex iis patrum sententiis
+          <lb ed="#A" n="30"/>cuiuis perspicuum esse potest, quae fuerit Ecclesiae catholi:
+          <lb ed="#A" n="31"/>scae per vniuersum orbem diffusae iam inde ab
+          Apostolo<lb ed="#A" n="32" break="no"/>rum temporibus ad haec vsque nostra tempora constans
+          fi<lb ed="#A" n="33" break="no"/>des de veritate corporis &amp; sanguinis Christi: contra quam
+          <lb ed="#A" n="34"/>ante Beren garium qui vixit ante annos quingentos, nemo
+          <lb ed="#A" n="35"/>venire ausus est. Primus ille fuisse perhibetur, qui
+          Chri<lb ed="#A" n="36" break="no"/>sto aduersarii non dubitaret dicenti, hoc est corpus meum.
+          <lb ed="#A" n="37"/>ac figuram significationemque corporis esse affirmaret.
+          <lb ed="#A" n="38"/>Cuius hic error in concilio Vercellensi primum fuit
+          con<lb ed="#A" n="39" break="no"/>demnatus: in quo cum ipse persisteret nihilominus, quod
+          <lb ed="#A" n="40"/>in eo concilio praesens non adfuerat, Turonis iterum
+          ge<lb ed="#A" n="41" break="no"/>nerale concilium congregatum est, in quo praesidente tunc
+          <lb ed="#A" n="42"/>venerabili Papa Gregorio Romano tunc Archidiacono,
+          <pb ed="#A" n="82-v"/>
+          <lb ed="#A" n="1"/>mnem &amp; vinum in sacrificio domini non vmbratice, sed
+          <lb ed="#A" n="2"/>vere Christi carnem &amp; sanguinem fieri, dato propria
+          ma<lb ed="#A" n="3" break="no"/>nu Sacramento, confirmauit. Sed accidit illi quod est in
+          <lb ed="#A" n="4"/>prouerbio: canis ad suum vomitum reuersus est, &amp; sus
+          lo<lb ed="#A" n="5" break="no"/>ta in volutabro luti.
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e1415">
+          Itaque denuo Romae concilio
+          con<lb ed="#A" n="6" break="no"/>gregato, cum esset apertissimis rationibus conuictus,
+          li<lb ed="#A" n="7" break="no"/>bellos suos propria manu sub praesentia Papae Nicolai
+          co<lb ed="#A" n="8" break="no"/>ram omni Synodo cremauit, errorem anathematizauit.
+          <lb ed="#A" n="9"/>&amp; confessionem bonam, quam Turonis fecerat, praebito
+          <lb ed="#A" n="10"/>identidem propriae manus Sacramento renouauit, illis
+          <lb ed="#A" n="11"/>verbis quae in decretorum libro videre licet: ac moriturus
+          <lb ed="#A" n="12"/>ingentem dolorem prae se tulit, quod multos mortalium
+          <lb ed="#A" n="13"/>in hunc tam impium errorem adduxisset. Contra hunc
+          <lb ed="#A" n="14"/>extat libellus Lantfranci Episcopi Canthuariensis, &amp;
+          pie<lb ed="#A" n="15" break="no"/>&amp; docte scriptus: Guimundi Episcopi Auersani libri
+          <lb ed="#A" n="16"/>tres: Petri Abbatis Cluniacensis liber vnus: Sed &amp; ante
+          <lb ed="#A" n="17"/>septingentos annos scripserunt de veritate huius
+          Sacra<lb ed="#A" n="18" break="no"/>menti non pauca Rabanus, Bertramus, &amp; Paschasius. Sed
+          <lb ed="#A" n="19"/>neque sequutus postea quisquam est errorem hunc, donec
+          <lb ed="#A" n="20"/>ad hoc nostrum infoelix seculum ventum est, in quo nihil
+          <lb ed="#A" n="21"/>non audent homines, licereque sibi quisque vult quamlibet
+          <lb ed="#A" n="22"/>occulta fidei mysteria pertractare, ac ore in coelum posite
+          <lb ed="#A" n="23"/>secreta coelestia rimari. Qua vna re nihil esse potest
+          ma<lb ed="#A" n="24" break="no"/>gis perniciosum: Siquidem homini Christiano
+          creden<lb ed="#A" n="25" break="no"/>dum est, non disputandum, non discutiendum, non quae
+          <lb ed="#A" n="26"/>rendum, quomodo. Iustus ex fide viuit, dicit scriptura
+          <lb ed="#A" n="27"/>non ex argumentis aut rationibus. Coelestibus mysteriis
+          <lb ed="#A" n="28"/>fidem adhibendo, fit vt ad fidei praemia perueniamus,
+          si<lb ed="#A" n="29" break="no"/>cut scriptum est: Credite &amp; intelliges. Fide autem
+          omis<lb ed="#A" n="30" break="no"/>sa in ratione comprehendendis iis, quae sensum omnem
+          <lb ed="#A" n="31"/>&amp; intellectum humanum superant, frustra laboramus.
+          <lb ed="#A" n="32"/>Hoc est quod Sapiens nos admonet. Altiora te ne
+          quaesi<lb ed="#A" n="33" break="no"/>ueris, &amp; fortiora te ne scrutatus fueris, sed quae tibi
+          praece<lb ed="#A" n="34" break="no"/>pit Deus ea cogita semper, &amp; in pluribus operibus eius
+          <lb ed="#A" n="35"/>ne fueris curiosus: Non est enim tibi necessarium ea quae
+          <lb ed="#A" n="36"/>sunt abscondita videre oculis tuis. Scrutator maiestatis
+        </p>
+        <p xml:id="ho8ccf-a2faxu-d1e1485">
+          <lb ed="#A" n="37"/>opprimetur a gloria. Haec de veritate corporis &amp;
+          sangui<lb ed="#A" n="38" break="no"/>nis Christi in Sacramento Eucharistiae dicta sufficiant.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

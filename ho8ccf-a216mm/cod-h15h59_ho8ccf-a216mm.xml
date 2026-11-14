@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 26</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 26</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="47-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a216mm"><!-- c26 -->
+        <head xml:id="ho8ccf-a216mm-Hd1e99">Caput 26</head>
+        <head xml:id="ho8ccf-a216mm-Hd1e101" type="question-title">Quod aliter unitas retineri non potest, quam si unus aliquis praesit Ecclesiae, cui pareant omnes</head>
+        <p xml:id="ho8ccf-a216mm-d1e104">
+          <lb ed="#A" n="19"/>CAPVT XXVI
+          <lb ed="#A" n="20"/>Quod aliter vnitas retineri non potest, quam si
+          <lb ed="#A" n="21"/>vnus aliquis praesit Ecclesiae, cui pareant omnes.
+        </p>
+        <p xml:id="ho8ccf-a216mm-d1e113">
+          <lb ed="#A" n="22"/><milestone ed="#A" unit="p" rend="indent"/> QVam autem causam esse dicemus, quod cum perpe
+          <lb ed="#A" n="23"/>tuo sibi constet Ecclesia, sitque admirabilis
+          quae<lb ed="#A" n="24" break="no"/>dam in ea fidei dogmatum consensio: qui semel
+          <lb ed="#A" n="25"/>ab ea desciuerunt, tanta est eorum inter se
+          di<lb ed="#A" n="26" break="no"/>stractio, &amp; opinionum varietas? Quam aliam? nisi quod
+          <lb ed="#A" n="27"/>qui permanent in ecclesia, fas eis non est, vt ambulent
+          in<lb ed="#A" n="28" break="no"/>flati senisu carnis suae, vt suos aliquos intellectus adferant
+          <lb ed="#A" n="29"/>singulares, quos mordicus postea tueantur &amp; defendant,
+          <lb ed="#A" n="30"/>sed quum sint vnius corporis membra, cuius caput
+          Chri<lb ed="#A" n="31" break="no"/>stus est, necesse est, vt caput suum teneant, atque in illius
+          <lb ed="#A" n="32"/>obsequium intellectum suum captiuent.
+        </p>
+        <p xml:id="ho8ccf-a216mm-d1e140">
+          Porro qui caput
+          <lb ed="#A" n="33"/>est Ecclesiae Christus, ad patrem sui coelestem ex hoc
+          mun<lb ed="#A" n="34" break="no"/>do migraturus, atque ita facturus, vt genus humanum
+          con<lb ed="#A" n="35" break="no"/>porali sua praesentia destitueret, cum sub suae tempus
+          pas<lb ed="#A" n="36" break="no"/>sionis orasset patrem, vt eos, quos dederat sibi, seruaret, vt
+          <lb ed="#A" n="37"/>essent vnum, sicut ipse cum patre vnum est, quo facilius
+          <lb ed="#A" n="38"/>vnitas haec sempiternis temporibus retineri posset,
+          ascen<lb ed="#A" n="39" break="no"/>surus ad patrem, vni curam Ecclesiae suae mandauit, vni
+          <lb ed="#A" n="40"/>Petro pascendas oues suas commisit, vnum illum
+          princi<lb ed="#A" n="41" break="no"/>pem designauit multis argumentis: vt ipse quidem in
+          eo<pb ed="#A" n="47-v"/><lb ed="#A" n="1" break="no"/>lis author esset vnitatis perpetuae, Petrus autem, &amp;
+          quis<lb ed="#A" n="2" break="no"/>quis es successisset, eiusdem retinendae dux &amp; princeps in
+          <lb ed="#A" n="3"/>terris haberetur. Vnitatis itaque constituendae principium
+          <lb ed="#A" n="4"/>Christus, &amp; retinendae per eundem Christum Petrus &amp;
+          <lb ed="#A" n="5"/>eijs successor statuitur. Hoc vniuersa credidit antiquitas,
+          <lb ed="#A" n="6"/>Hoc sacrosanctum Nicaenum concilium confessum esse
+          le<lb ed="#A" n="7" break="no"/>gimus: Hoc modo non aedita voce clamat ipsa natura,
+          <lb ed="#A" n="8"/>quod non potest aliter ordo consistere, non potest aliter
+          <lb ed="#A" n="9"/>vnitas in Ecclesia retineri, quam si praesit vnus. Hoc in
+          api<lb ed="#A" n="10" break="no"/>bus, hoc in gruibus, hoc in aliis etiam plerisque brutis
+          ani<lb ed="#A" n="11" break="no"/>mantibus videre licet: Habent caput vnum, ducem vnum,
+          <lb ed="#A" n="12"/>quem sequuntur. Sic in arboribus videmus multos
+          ra<lb ed="#A" n="13" break="no"/>musculos ad virgam, multas virgas ad ramum, multos
+          ra<lb ed="#A" n="14" break="no"/>mos ad stipitem, multos stipites ad radicem vnam
+          infigi<lb ed="#A" n="15" break="no"/>vt omnia socia fiant, &amp; succum, qui est in radice, partici
+          <lb ed="#A" n="16"/>pent: sicut am Paulo dicitur: Socius radicis &amp; pinguedinis
+          <lb ed="#A" n="17"/>factus est. Quod si in naturis rerum, multo magis idem
+          <lb ed="#A" n="18"/>fieri necesse est in humana societate, quae nisi ab vno
+          ali<lb ed="#A" n="19" break="no"/>quo gubernetur, stare non potest. Propterea dicit
+          Domi<lb ed="#A" n="20" break="no"/>nus per prophetam: Suscitabo super eos pastorem vnum,
+          <lb ed="#A" n="21"/>Et rursus: Pastor erit vnus omnium eorum. Et in Euan
+          <lb ed="#A" n="22"/>gelio: Erit vnus pastor, &amp; vnum ouile: Quem vnum &amp;
+          <lb ed="#A" n="23"/>solum bonum pastorem libenter Christum agnoscimus.
+          <lb ed="#A" n="24"/>libenter eum esse caput &amp; fundamentum Ecclesiae
+          profite<lb ed="#A" n="25" break="no"/>mur. Quin &amp; illud non obscure ferimus, nos credere,
+          <lb ed="#A" n="26"/>quod solus ille sufficiat ad Ecclesiam suam regendam,
+          gu<lb ed="#A" n="27" break="no"/>bernandam, &amp; in vnitate conseruandam.
+        </p>
+        <p xml:id="ho8ccf-a216mm-d1e223">
+          Caeterum sicut
+          <lb ed="#A" n="28"/>ipse est, qui Sacramenta perficit omnia, ipse est qui
+          bapti<lb ed="#A" n="29" break="no"/>zat, ipse est qui peccata dimittit, ipse est verus Sacerdos
+          <lb ed="#A" n="30"/>qui cum semet ipsum semel obtulerit in ara crucis, sua
+          vir<lb ed="#A" n="31" break="no"/>tute corpus suum &amp; sanguinem ex eo quod panis erat &amp;
+          <lb ed="#A" n="32"/>vinum conficit, vt iterium offeratur non in mortem, sed
+          <lb ed="#A" n="33"/>in mortis recordationem: &amp; tamen quia cum suis
+          fideli<lb ed="#A" n="34" break="no"/>bus non erat in corpore permansurus, ministros elegit,
+          <lb ed="#A" n="35"/>quibus in sacramentis administrandis vteretur: Sic ipse ca
+          <lb ed="#A" n="36"/>put, ipse gubernator est Ecclesiae suae, ipse ordinem in ea
+          <lb ed="#A" n="37"/>simul &amp; vnitatem conseruat.
+        </p>
+        <p xml:id="ho8ccf-a216mm-d1e247">
+          Quoniam vero praesentiam
+          <lb ed="#A" n="38"/>sui corporalem &amp; visibilem Ecclesiae subtracturus erat,
+          <lb ed="#A" n="39"/>vnius vti ministerio voluit, per quem vnitas haec
+          retine<lb ed="#A" n="40" break="no"/>retur, cui prae caeteris oues loco sui pascendas commisit, ad
+          <lb ed="#A" n="41"/>a seipso petitum cognomen tribuit. Nam cum petram esse
+          <lb ed="#A" n="42"/>Christum dicat Apostolus, cum Petro in consortium
+          in<pb ed="#A" n="48-r"/><lb ed="#A" n="1" break="no"/>diuiduae vnitatis assumpto nomen hoc communicare
+          di<lb ed="#A" n="2" break="no"/>gnatus est: Tu es, inquit, Petrus, &amp; super hanc petram
+          aedi<lb ed="#A" n="3" break="no"/>ficabo Ecclesiam meam. Quibus verbis cum vno ore a
+          san<lb ed="#A" n="4" break="no"/>ctis Patribus tam Graecis quam Latinis Ecclesia super
+          Pe<lb ed="#A" n="5" break="no"/>trum aedificata dicitur, tantum abest, vt quicquam ea re
+          <lb ed="#A" n="6"/>Chrisii gloriae detractum existimari possit, magis vt etiam
+          <lb ed="#A" n="7"/>illustrata videatur. Neque enim quisquam est, qui cat
+          infi<lb ed="#A" n="8" break="no"/>cias, quin illud vniuersa praedicat Ecclesia, Christum esse
+          <lb ed="#A" n="9"/>petram illam inuiolabilem, esse lapidem illum angularem,
+          <lb ed="#A" n="10"/>qui fecit vtraque vnum, esse fundamentum, praeter quod
+          <lb ed="#A" n="11"/>nemo potest aliud ponere. Sed cum verum sit illud, quod
+          <lb ed="#A" n="12"/>a diuo Dionysio scriptum est: Bonum esse sui ipsius
+          ma<lb ed="#A" n="13" break="no"/>xime diffusiuum &amp; communicatiuum, quid magis facere
+          <lb ed="#A" n="14"/>potuit ad gloriam illustrandam, ad incredibilem sui
+          bo<lb ed="#A" n="15" break="no"/>nitatem toti mundo manifestandam, quam si quod ipsi
+          <lb ed="#A" n="16"/>potestate proprium est, id participatione quadam esse sibi
+          <lb ed="#A" n="17"/>cum homine commune voluisse diceretur? Nunquid non
+          <lb ed="#A" n="18"/>solus ipse est lux inaccessibilis, quae illuminat omnem
+          <lb ed="#A" n="19"/>hominem venientem in hunc mundum? &amp; tamen
+          Apo<lb ed="#A" n="20" break="no"/>stolis dixisse legitur: Vos estis lux mundi. Nunquid non
+          <lb ed="#A" n="21"/>ipse solus bonus est? nam nemo bonus nisi Deus: sunt
+          <lb ed="#A" n="22"/>&amp; haec tamen illius verba. Bonus homo de thesauro
+          cor<lb ed="#A" n="23" break="no"/>dis sui profert bona. Nunquid non solus ipse peccata
+          re<lb ed="#A" n="24" break="no"/>mittit: nam hoc non est nisi Dei proprium, eandem
+          ta<lb ed="#A" n="25" break="no"/>men potestatem Sacerdotibus quoque concessit, dicens:
+          <lb ed="#A" n="26"/>Quorum remiseritis peccata, remittentur eis.
+        </p>
+        <p xml:id="ho8ccf-a216mm-d1e318">
+          Sed quid
+          <lb ed="#A" n="27"/>opus est haec enumerando recensere? Potestate quicquam
+          <lb ed="#A" n="28"/>esse gloriosius, quam &amp; dici, &amp; esse Dei filium? Hanc
+          <lb ed="#A" n="29"/>quoque gloriam adeo non inuidit mortalium generi
+          sum<lb ed="#A" n="30" break="no"/>ma illa bonitas, vt quod solus ipse natura est, nos quoque
+          <lb ed="#A" n="31"/>per adoptionis gratiam Derpatris filios &amp; haeredes,
+          fra<lb ed="#A" n="32" break="no"/>tres autem suos &amp; cohaeredes esse vellet. Et non
+          intelli<lb ed="#A" n="33" break="no"/>gunt spiritus isti fanatici, iusto Dei iudicio in reprobum
+          <lb ed="#A" n="34"/>sensum dati se esse potius, qui Christi gloriam obscurent,
+          <lb ed="#A" n="35"/>dum de illius bonitate detrahunt, qua ille tanta est, vt
+          <lb ed="#A" n="36"/>cum semetipsum tradiderit, cum sanguinem suum pro no
+          <lb ed="#A" n="37"/>bis fuderit, verisimile non sit, esse quicquam, quod
+          communica<lb ed="#A" n="38" break="no"/>re nobiscum paratus non sit: cum praesertim ista causa fuerit,
+          <lb ed="#A" n="39"/>quamobrem Dei filius fieri dignatus est, vt hominum filiis
+          <lb ed="#A" n="40"/>Dei filiis esse licere. Adducens hunc Euangelii locum
+          Basi<lb ed="#A" n="41" break="no"/>lius de penitentia: Etiamsi petra est, inquit, non vt
+          Chri<lb ed="#A" n="42" break="no"/>stus petra est, sed vt Petrus petra. Christus enim re vera
+          <pb ed="#A" n="48-v"/>
+          <lb ed="#A" n="1"/>petra est immobilis &amp; inconcussa, Petrus vero propter hanc
+          <lb ed="#A" n="2"/>petram. Largitur enim Deus suas dignitates, non euacuans
+          <lb ed="#A" n="3"/>se, sed habens dat. Lux est, vos estis, inquit, lux mundi.
+          Sa<lb ed="#A" n="4" break="no"/>cerdos est, Sacerdotes facit. Quis est, ecce, inquit, mitto vos
+          <lb ed="#A" n="5"/>tanquam oues in medio luporum. Petra est, petram facit,
+          <lb ed="#A" n="6"/>&amp; quae propria sunt illius largitur seruis. Hoc signum est
+          <lb ed="#A" n="7"/>aliquem esse diuitem, habere &amp; largiri. At nostri diuites
+          <lb ed="#A" n="8"/>quando largiuntur, imminuunt aliquid ex iis quae habent,
+          <lb ed="#A" n="9"/>non enim vere sunt diuites. Aliena sunt quae possidemus.
+          <lb ed="#A" n="10"/>hic vero sic diues est, vt quantumcunque largiatur,
+          nihilo<lb ed="#A" n="11" break="no"/>minus aeque diues maneat, tanquam fons quidam
+          peren<lb ed="#A" n="12" break="no"/>nis, quantumcunque ex eo hauseris, fluxus non imminuitur.
+          <lb ed="#A" n="13"/>Cui non dissimilia scribit, qui libenter cum imitatur,
+          Am<lb ed="#A" n="14" break="no"/>prosius. Continet itaque virtute sua molem Ecclesiae
+          Chri<lb ed="#A" n="15" break="no"/>stus, ac inuisibiliter eam gubernat: Sed quemadmodum
+          <lb ed="#A" n="16"/>in Sacramentis cum ipse solus inuisibiliter operetur
+          om<lb ed="#A" n="17" break="no"/>nia, ministerio tamen vtitur visibilium Sacerdotum: sic
+          <lb ed="#A" n="18"/>visibilem in terris elegit ministrum, per quem Ecclesiae
+          mo<lb ed="#A" n="19" break="no"/>lem hanc sustineret, per quem gregem suum visibilem
+          in<lb ed="#A" n="20" break="no"/>uisibilis ipse gubernaret. Est igitur petra Christus, est
+          pe<lb ed="#A" n="21" break="no"/>tra fides de Christo, quam confessus est Petrus: est petra
+          <lb ed="#A" n="22"/>Petrus ipse confitens Christum. Haec adeo sibi non
+          aduer<lb ed="#A" n="23" break="no"/>santur, vt nisi credas Ecclesiam super Petrum confitentem
+          <lb ed="#A" n="24"/>Christum aedificatam esse, nihil credas, nec vbi sit Ecclesia
+          <lb ed="#A" n="25"/>scire queas. Nam si petram nolis nisi Christum ipsum
+          in<lb ed="#A" n="26" break="no"/>telligere, quod futurum Christus praedixit, dicet Lutherus,
+          <lb ed="#A" n="27"/>Ecce hic est Christus: dicet Zuinglius, siue Caluinus, ecce
+          <lb ed="#A" n="28"/>hic est: Anabaptistae contra apud neutrum esse dicent, sed
+          <lb ed="#A" n="29"/>sibi solis eum vendicabunt: idem Adamitae facient: idem
+          <lb ed="#A" n="30"/>Iconomachi:
+        </p>
+        <p xml:id="ho8ccf-a216mm-d1e422">
+          Quid ergo aliud, quam commentitia erit
+          <lb ed="#A" n="31"/>Ecclesia, cuius nec fundamentum, nec aedificium agnosci
+          <lb ed="#A" n="32"/>poterit? Si vero petram interpreteris fidem, quam
+          con<lb ed="#A" n="33" break="no"/>fessus est Petrus, idem illud eueniet. Nam &amp; hanc isti
+          cer<lb ed="#A" n="34" break="no"/>tatim ad se rapient, sibique singuli certatim vsurpabunt
+          <lb ed="#A" n="35"/>Quamobrem si talem esse volumus Ecclesiam, quae
+          vide<lb ed="#A" n="36" break="no"/>ri &amp; agnosci possit, necesse est, vt visibilem esse petram
+          sta<lb ed="#A" n="37" break="no"/>tuamus, super quam illa sit visibilis aedificata, vt petrae
+          no<lb ed="#A" n="38" break="no"/>mine Petrum Petrique successorem confitentem Christum
+          intelli<lb ed="#A" n="39" break="no"/>gi velimus. Hoc est quod dicit Hieronymus: Super Petrum
+          <lb ed="#A" n="40"/>tundatur Ecclesia, licet idipsum in alio loco super omnes
+          <lb ed="#A" n="41"/>Apostolos fiat, &amp; cuncti claues regni coelorum accipiant,
+          <lb ed="#A" n="42"/>vt ex aequo super eos Ecclesiae fortitudo solidetur, tamen
+          <pb ed="#A" n="49-r"/>
+          <lb ed="#A" n="1"/>propterea inter duodecim vnus eligitur, vt capite
+          consti<lb ed="#A" n="2" break="no"/>tuto schismatis tollatur occasio. Quod ante illum scriptum
+          <lb ed="#A" n="3"/>erat etiam a Cypriano: Hoc erant vtique caeteri, inquit,
+          Apo<lb ed="#A" n="4" break="no"/>stoli, quod fuit Petrus, pari consortio praediti honoris &amp;
+          <lb ed="#A" n="5"/>potestatis, sed exordium ab vnitate proficiscitur, vt
+          Eccle<lb ed="#A" n="6" break="no"/>sia vna monstretur. Sed &amp; ante hunc Anacletus, qui vixit
+          <lb ed="#A" n="7"/>Apostolorum temporibus: Licet omnes, inquit, pares es
+          <lb ed="#A" n="8"/>lent Apostoli, Petro tamen a Domino est concessum, &amp;
+          <lb ed="#A" n="9"/>ipsi inter se adipsum voluerunt, vt reliquis omnibus
+          prae<lb ed="#A" n="10" break="no"/>esset Apostolis, &amp; Cephas, id est caput &amp; principium
+          tene<lb ed="#A" n="11" break="no"/>ret Apostolorum. Quoniam itaque vna est Ecclesia,
+          su<lb ed="#A" n="12" break="no"/>per vnum, qui claues eius accepit voce domini fundata
+          <lb ed="#A" n="13"/>est, per quem sit, vt Episcopatus etiam vnus sit multorum
+          <lb ed="#A" n="14"/>Episcoporum concordi numerositate diffusus: sicut ad
+          Iu<lb ed="#A" n="15" break="no"/>baianum, &amp; ad Antonianum scribens testatur Cyprianus,
+          <lb ed="#A" n="16"/>Hieronymus quoque salutem Ecclesiae dicit a summi
+          Sa<lb ed="#A" n="17" break="no"/>cerdotis dignitate pendere, cui si non exors quaedam, &amp;
+          <lb ed="#A" n="18"/>ab omnibus eminens detur potestas, tot in Ecclesiis
+          effi<lb ed="#A" n="19" break="no"/>cientur schismata, quot Sacerdotes. Neque enim
+          aliund<lb ed="#A" n="20" break="no"/>schismata &amp; haereses obortae sunt, quam inde, quod Sacer
+          <lb ed="#A" n="21"/>doti Dei non obtemperatur, dum Episcopus, qui vnus est
+          <lb ed="#A" n="22"/>&amp; Ecclesiae praeest, superba quorundam praesumptione
+          con<lb ed="#A" n="23" break="no"/>tenitur, &amp; homo dignatione Dei honoratus, ab indignis
+          <lb ed="#A" n="24"/>hominibus iudicatur: quemadmodum ad Florentium Pu
+          <lb ed="#A" n="25"/>planum, &amp; ad Cornelium scribens testatur sanctus ille
+          <lb ed="#A" n="26"/>martyr Cyprianus. Vnum itaque toti praeesse Ecclesiae vsque
+          <lb ed="#A" n="27"/>eo necessarium est, vt absque hoc Ecclesia vna esse non
+          pos<lb ed="#A" n="28" break="no"/>sit. Vnus autem hic Petri Apostoli successor sit oportet.
+          <lb ed="#A" n="29"/>atque inde est, quod Ecclesia nostra, quemadmodum vna,
+          <lb ed="#A" n="30"/>ita etiam Apostolica dicitur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

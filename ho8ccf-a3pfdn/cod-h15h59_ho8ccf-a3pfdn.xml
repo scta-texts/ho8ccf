@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 87</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 87</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="287-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3pfdn"><!-- c87 -->
+        <head xml:id="ho8ccf-a3pfdn-Hd1e99">Caput 87</head>
+        <head xml:id="ho8ccf-a3pfdn-Hd1e101" type="question-title">Caeremoniarum divisio</head>
+        <p xml:id="ho8ccf-a3pfdn-d1e104">
+          <pb ed="#A" n="287-v"/>
+          <lb ed="#A" n="1"/>CAPVT LXXXVII.
+          <lb ed="#A" n="2"/>Caeremoniarum diuisiori
+        </p>
+        <p xml:id="ho8ccf-a3pfdn-d1e113">
+          <lb ed="#A" n="3"/><milestone ed="#A" unit="p" rend="initial"/> ESt autem duplex ordo ceremoniarum. Quaedam
+          <lb ed="#A" n="4"/>enim a veritate mentis profecta, in ipso
+          corpo<lb ed="#A" n="5" break="no"/>statim &amp; in iis quae vnita sunt corpori, suscipium
+          <lb ed="#A" n="6"/>tur, cuius generis sunt preces, Deique inuocationes
+          <lb ed="#A" n="7"/>&amp; ea quae paulo ante recensuimus: quaedam non magis
+          <lb ed="#A" n="8"/>veritate proficisci, quam ad illam aspirare videntur, quae
+          <lb ed="#A" n="9"/>les illae sunt, quae in templis, ornatibusque templorum, in
+          <lb ed="#A" n="10"/>varietate ordinum, in ritu quorundam facrorum, in
+          can<lb ed="#A" n="11" break="no"/>tibus, in vestibus, in festorum dierum celebratione sitae sunt:
+          <lb ed="#A" n="12"/>quas qui sumptu suo instituerunt, si non alia re quam
+          fi<lb ed="#A" n="13" break="no"/>granti Dei amore adducti fecerunt, nec alium, quam
+          lau<lb ed="#A" n="14" break="no"/>dem illius &amp; gloriam, finem sibi propositum habuerunt,
+          <lb ed="#A" n="15"/>fieri non potest, quin haec eorum praeclarae voluntas, cum
+          <lb ed="#A" n="16"/>primis Deo grata sit &amp; accepta, ac suam apud illum mero
+          <lb ed="#A" n="17"/>dem habitura: Sin autem alio respexerunt, quadrabit
+          in<lb ed="#A" n="18" break="no"/>illos quod de hypocritiis dicit Christus. Acceperunt me
+          <lb ed="#A" n="19"/>cedem suam. Omnis autem tractatio ceremoniarum hi
+          <lb ed="#A" n="20"/>rum, ad instructionem populi sumpta praecipue videtur
+          <lb ed="#A" n="21"/>Est enim eorum pars multo maxima, qui cum sensibus ma
+          <lb ed="#A" n="22"/>gis, quam intelligentia, menteque moueantur, suis ipsi cog
+          <lb ed="#A" n="23"/>tationibus ad pie Deum colendum &amp; eius, eximiam beni
+          <lb ed="#A" n="24"/>gnitatem contemplandam, ac gratae quadam recordatio
+          <lb ed="#A" n="25"/>ne prosequendam, non facile queunt excitari. Quamos
+          <lb ed="#A" n="26"/>rem fit non raro, rebus vt iis externis, quae in oculos in
+          <lb ed="#A" n="27"/>currunt, quaeque sensibus offeruntur, pulsati saepius, &amp;
+          ad<lb ed="#A" n="28" break="no"/>moniti, turam tandem aliquam &amp; meditationem
+          homi<lb ed="#A" n="29" break="no"/>ne Christiano dignam suscipiant. Horum igitur vtilitati,
+          <lb ed="#A" n="30"/>ceremoniarum hoc genus institutione, prospectum est
+          <lb ed="#A" n="31"/>maxime. Sumuntur autem ceremoniae a persona, re, loco,
+          <lb ed="#A" n="32"/>&amp; tempore. Et sunt quae recta ad Deum ipsum
+          referuntur<lb ed="#A" n="33" break="no"/>cui cultus exhibetur, vt ritus sacrificii sunt quae ad
+          homi<lb ed="#A" n="34" break="no"/>nes Deum colentes, vt ieiunia, elecmosynae, orationes, &amp;
+          <lb ed="#A" n="35"/>eiusdem generis exercitationes aliae, quibus animus ho
+          <lb ed="#A" n="36"/>minis ad colendum Deum praeparatur: sunt rursus alia
+          <lb ed="#A" n="37"/>quasi quaedam instrumenta diuini cultus, vt sacrae vasa,
+          sa<lb ed="#A" n="38" break="no"/>crae vestes, Chrisma, cereus, luminaria, &amp; id genus alia
+          <lb ed="#A" n="39"/>Nobis de singulis dicere, rationemue singulorum exple
+          <lb ed="#A" n="40"/>care propositum non est, verum quae temporum istorum
+          <lb ed="#A" n="41"/>ratio postulare videbitur, paucis de quibusdam disseremus
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

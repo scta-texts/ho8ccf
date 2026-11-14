@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 61</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 61</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="209-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2ykfk"><!-- c61 -->
+        <head xml:id="ho8ccf-a2ykfk-Hd1e99">Caput 61</head>
+        <head xml:id="ho8ccf-a2ykfk-Hd1e101" type="question-title">Quod iustitia nostra non sit sola fides</head>
+        <p xml:id="ho8ccf-a2ykfk-d1e104">
+          <pb ed="#A" n="209-r"/>
+          <lb ed="#A" n="1"/>Tomus secundus
+          <lb ed="#A" n="2"/>CONFESSIONIS
+          CATHO<lb ed="#A" n="3" break="no"/>licae Ecclesiasticorum procerum
+          <lb ed="#A" n="4"/>Regni Poloniae.
+        </p>
+        <p xml:id="ho8ccf-a2ykfk-d1e117">
+          <lb ed="#A" n="5"/>Quod iustitia nostra non sit sola fides.
+          <lb ed="#A" n="6"/>CAPVT XI.
+        </p>
+        <p xml:id="ho8ccf-a2ykfk-d1e124">
+          <lb ed="#A" n="7"/><milestone ed="#A" unit="p" rend="initial"/> IVstitiam qua sola recte colitur, qui factus
+          <lb ed="#A" n="8"/>est nobis iustitia, Dominus noster Iesus
+          <lb ed="#A" n="9"/>Christus, qui solam esse fidem arbitrati
+          <lb ed="#A" n="10"/>sunt, eorum ab vna, sancta, Catholica, &amp;
+          <lb ed="#A" n="11"/>Apostolica Ecclesia, iampridem est
+          explo<lb ed="#A" n="12" break="no"/>sa sententia. Si quidem ante mille
+          ducen<lb ed="#A" n="13" break="no"/>tos plus minusamos, fuisse scribuntur. Anomaei quidam
+          <lb ed="#A" n="14"/>haeretici, quorum principes commemorantur Aetius &amp;
+          Eu<lb ed="#A" n="15" break="no"/>nomius, qui nihil aliud a nobis requirere Deum
+          docue<lb ed="#A" n="16" break="no"/>runt, quam vt ipsam solum cognosceremus: cuius etiam
+          <lb ed="#A" n="17"/>adeo sibi notitiam arrogarunt, vt non sibi se magis esse
+          no<lb ed="#A" n="18" break="no"/>tos dicerent, quan ipsi dei naturam perspectam, &amp;
+          explo<lb ed="#A" n="19" break="no"/>ratam haberent: ae tantum illi, cuius authores ipsi fuerunt,
+          <lb ed="#A" n="20"/>fidei, tribui volebint, vt si quis eam esset amplexus, etiam
+          <lb ed="#A" n="21"/>si grauissima quaepe scelera patrasset, ac non modo patrare
+          <lb ed="#A" n="22"/>no intermitteret, verum subinde grauiora patratis
+          adiun<lb ed="#A" n="23" break="no"/>geret, nihil ex eo setrimenti foret accepturus:
+          quemadmo<lb ed="#A" n="24" break="no"/>dum ab Epiphano &amp; Augustino, memoriae proditum
+          le<lb ed="#A" n="25" break="no"/>gimus. Quin muto etiam ante quum adhuc essent
+          Apo<lb ed="#A" n="26" break="no"/>stoli superstites fuisse refert Augustinus, qui non
+          intelli<lb ed="#A" n="27" break="no"/>gentes, quod ait Apostolus: Arbitramur iustificari
+          homi<lb ed="#A" n="28" break="no"/>nem per fidem sue operibus legis: putauerunt eum
+          dice<lb ed="#A" n="29" break="no"/>re, sufficere homini fidem, etiamsi male viuat &amp; bona ope
+          <lb ed="#A" n="30"/>ra non habeat. Cim vt haec sentiret, ei qui vas fuit electio
+          <lb ed="#A" n="31"/>nis, ne in mentem quidem venerit vnquam: qui non aliud
+          <lb ed="#A" n="32"/>his verbis intelligi voluit, quam vt se per fidem iustificari
+          <lb ed="#A" n="33"/>quisque sciret, etsi legis opera nulla praecessissent. Hoc
+          <lb ed="#A" n="34"/>est quod alio loco dicit, quod magno cum applausu audi
+          <lb ed="#A" n="35"/>ri a nonnullis videmus: Gratia saluari estis per fidem, &amp;
+          <pb ed="#A" n="209-v"/>
+          <lb ed="#A" n="1"/>hoc non ex vobis, Dei enim donum est, non ex operibus,
+          <lb ed="#A" n="2"/>vt ne quis glorietur. De quibus nos recte dicere possumus
+          <lb ed="#A" n="3"/>quod a Cypriano scriptum legimus, corruptores Euange
+          <lb ed="#A" n="4"/>lii, atque interpretes falsi, extrema ponunt, &amp; superiora
+          prae<lb ed="#A" n="5" break="no"/>tereunt, partim memores &amp; partim subdole
+          corrumpen<lb ed="#A" n="6" break="no"/>tes: vt ipsi ab Ecclesia scissi sunt, ita capituli vnius
+          senten<lb ed="#A" n="7" break="no"/>tiam scindunt. Nisi quod ipsi superiora ponunt, &amp; quae pro
+          <lb ed="#A" n="8"/>xime insequuntur praetereunt. Nam quemadmodum
+          Au<lb ed="#A" n="9" break="no"/>gustinus quoque monuit, vidit Apostolus, putare posse
+          ho<lb ed="#A" n="10" break="no"/>mines hoc ita dictum, quasi necessaria non sint opera
+          bo<lb ed="#A" n="11" break="no"/>na credentibus, sed eis fides sola sufficiat, quod istis tam
+          per<lb ed="#A" n="12" break="no"/>suasum est, quam quod maxime: quam etiam ob causam,
+          <lb ed="#A" n="13"/>cantando toties illud ingeminant: Non ex nobis, non ex
+          <lb ed="#A" n="14"/>operibus: vt in eam opinionem homines adducant, nullum
+          <lb ed="#A" n="15"/>esse bonorum operum fructum. Vidit hoc spiritu sancto
+          <lb ed="#A" n="16"/>plenus Apostolus: vidit simul &amp; hoc, posse homines de bo
+          <lb ed="#A" n="17"/>nis operibus extolli, velut ad ea facienda sibi sufficiant.
+        </p>
+        <p xml:id="ho8ccf-a2ykfk-d1e230">
+          <lb ed="#A" n="18"/>Itaque mox addit, quod isti silentio praetereunt, ipsius enim
+          <lb ed="#A" n="19"/>sumus figmentum, creari in operibus bonis, quae
+          praepara<lb ed="#A" n="20" break="no"/>uit Deus vt in illis ambulemus. Quid est hoc, inquit
+          Au<lb ed="#A" n="21" break="no"/>gustinus, quod, cum dei gratiam commendans dixisset,
+          <lb ed="#A" n="22"/>Non ex operibus: ne forte quis extollatur: cur hoc dixerit,
+          <lb ed="#A" n="23"/>rationem reddens: Ipsius enim sumus, inquit, figmentum,
+          <lb ed="#A" n="24"/>creati in Christo Iesu, in operibus bonis. Quomodo ergo
+          <lb ed="#A" n="25"/>non ex operibus, ne forte quis extollatur? Sed audi,
+          in<lb ed="#A" n="26" break="no"/>quit, &amp; intellige: Non ex operibus dictum, tanquam tuis
+          <lb ed="#A" n="27"/>ex te ipso tibi existentibus, sed tanquam iis, in quibus te
+          <lb ed="#A" n="28"/>Deus finxit, id est formauit &amp; creauit. Hoc enim ait: ipsius
+          <lb ed="#A" n="29"/>enim sumus figmentum, creati in Christo Iesu, in
+          operi<lb ed="#A" n="30" break="no"/>bus bonis, non illa creatione, qua homines facti sumus,
+          <lb ed="#A" n="31"/>sed ea de qua ille dicebat, qui vtique iam homo erat: Cor
+          <lb ed="#A" n="32"/>mundum crea in me Deus: Et de qua dicit Apostolus: Si
+          <lb ed="#A" n="33"/>qua ergo in Christo noua creatura, vetera transierunt, &amp;
+          <lb ed="#A" n="34"/>ecce facta sunt omnia noua, Fingimur ergo id est,
+          forma<lb ed="#A" n="35" break="no"/>mur, &amp; creamur in operibus bonis, quae non
+          praeparaui<lb ed="#A" n="36" break="no"/>mus nos, sed praeparauit Deus, vt in illis ambulemus.
+        </p>
+        <p xml:id="ho8ccf-a2ykfk-d1e274">
+          Ita<lb ed="#A" n="37" break="no"/>que charissimi vita nostra bona, nihil aliud est, quam
+          de<lb ed="#A" n="38" break="no"/>gratia: sine dubio, &amp; vita aeterna, quae bone vitae redditur:
+          <lb ed="#A" n="39"/>Dei gratia est: &amp; ipsa enim gratis datur, quia gratis data
+          <lb ed="#A" n="40"/>est illa cui datur. Sed illa cui datur, tantummodo gratia
+          <lb ed="#A" n="41"/>est. haec autem quae illi datur, quoniam praemium eius est,
+          <lb ed="#A" n="42"/>gratia est pro gratia, tanquam merces pro iustitia, vt
+          ve<pb ed="#A" n="210-r"/><lb ed="#A" n="1" break="no"/>rum sit, (quoniam verum est) Quoniam reddet vnicuique
+          <lb ed="#A" n="2"/>Deus secundum opera eius. Ex lis Augustini verbis,
+          faci<lb ed="#A" n="3" break="no"/>le perspicimus, quae sint opera, quae Paulus a iustificatione
+          <lb ed="#A" n="4"/>voluerit exclusa: nimirum ea quae fiunt extra fidem: quae
+          <lb ed="#A" n="5"/>etsi disponere nonnihil ad iustificationis gratiam
+          viden<lb ed="#A" n="6" break="no"/>tur: quoniam tamen sine fide impossibile est placere Deo, me
+          <lb ed="#A" n="7"/>reri primam gratiam non possunt, quae propterea gratia
+          <lb ed="#A" n="8"/>vocatur, quia gratis datur, nullis praecedentibus meritis,
+          <lb ed="#A" n="9"/>Si enim gratia, dicit Paulus, iam non ex operibus, alioqui
+          <lb ed="#A" n="10"/>gratia iam non est gratia Nulla igitur merita nostra
+          prae<lb ed="#A" n="11" break="no"/>cesserunt, sed sola dei beneficia iustificationem nostram
+          prae<lb ed="#A" n="12" break="no"/>uenerunt. Hoc est quod a Fausto scriptum legimus, cum
+          <lb ed="#A" n="13"/>eundem ex Pauli ad Ephesios epistola locum produxisset.
+          <lb ed="#A" n="14"/>prima, inquit, vocatio compendium fidei a nobis,
+          sequen<lb ed="#A" n="15" break="no"/>tis vero gratia redemptis, ablutis, innouatis, sedulitatis
+          <lb ed="#A" n="16"/>operis &amp; curam laboriosae seruitutis indicit, vt quod sine
+          <lb ed="#A" n="17"/>labore accepimus, opitulante adiutorio, cum labore serue
+          <lb ed="#A" n="18"/>mus, Apostolo commonente. Videte ne in vacuum gratiam
+          <lb ed="#A" n="19"/>dei recipiatis. Agnosce distinctos esse gradus vocationis
+          <lb ed="#A" n="20"/>&amp; consummationis. Fidem expectat a paruulis, opera
+          au<lb ed="#A" n="21" break="no"/>tem cum fide a confirmatis requirit. Ita tamen vt sedulita
+          <lb ed="#A" n="22"/>tis affectum proficientibus augeat, &amp; laborantibus
+          addiu<lb ed="#A" n="23" break="no"/>tor quotidianus existat.
+        </p>
+        <p xml:id="ho8ccf-a2ykfk-d1e341">
+          Quamobrem non ad ea opera,
+          <lb ed="#A" n="24"/>quae praeparauit Deus, vt ambularemus in illis, postquam
+          <lb ed="#A" n="25"/>cor mundum creauit in nobis, postquam nouae creaturae
+          <lb ed="#A" n="26"/>facti sumus: verum ad ea quae nondum exuto veteri
+          ho<lb ed="#A" n="27" break="no"/>mine fecimus excludenda, haec a Paulo dicta
+          interpreta<lb ed="#A" n="28" break="no"/>tus est Augustinus, qui etiam ad refellendam eorum
+          opi<lb ed="#A" n="29" break="no"/>nionem, qui bona opera omnia, in quibus creati sumus
+          <lb ed="#A" n="30"/>in Christo Iesu, reiicere voluisse Paulum existimabant,
+          <lb ed="#A" n="31"/>alios Apostolos, Petrum, Ioannem, Iacobum, Iudam,
+          Epi<lb ed="#A" n="32" break="no"/>stolas suas scripsisse putat. quodque meminit Petrus, esse quae
+          <lb ed="#A" n="33"/>dam in Epistolis Pauli difficilia intellectu, quae indocti &amp;
+          <lb ed="#A" n="34"/>instabiles deprauant, sicut &amp; caeteras scripturas, ad suam ip
+          <lb ed="#A" n="35"/>sorum perditionem, id ad hunc Pauli locum, in quo de
+          fi<lb ed="#A" n="36" break="no"/>dei iustitia tractat, referendum esse putat, quod nunquam
+          <lb ed="#A" n="37"/>ea Pauli mens fuerit, quam isti corruptores Euangelii
+          fu<lb ed="#A" n="38" break="no"/>isse volunt, nihil ad iustitiam, nihil ad salutem
+          consequen<lb ed="#A" n="39" break="no"/>dam opera bona facere. Sunt enim vel ipsa luce clariora,
+          <lb ed="#A" n="40"/>quae huic errori aduersantur Pauli verba. Quod
+          compa<lb ed="#A" n="41" break="no"/>ti oportet, si conglorificari, commori, si conuiuere,
+          susti<lb ed="#A" n="42" break="no"/>nere, si conregnare volumus, quodque non coronabitur,
+          <pb ed="#A" n="210-v"/>
+          <lb ed="#A" n="1"/>nisi legitime certauerit. Declarat autem ipse Paulus alio
+          <lb ed="#A" n="2"/>loco, quam fidem intelligi velit, qua vel iustificamur, vel
+          <lb ed="#A" n="3"/>coronam illam immarcessibilem assequimur. Nam ad
+          Ga<lb ed="#A" n="4" break="no"/>latas scribens, disertis verbis illud planum facit, quod non
+          <lb ed="#A" n="5"/>de qualicunque fide loquatur, qua creditur, peccata nobis
+          <lb ed="#A" n="6"/>propter Christum esse remissa, sed de ea quae per
+          dilectio<lb ed="#A" n="7" break="no"/>nem operatur. Illam vero solam fidem, quam plerique cum
+          <lb ed="#A" n="8"/>ad iustitiam, tum ad salutem sufficere volunt, adeo nihil
+          <lb ed="#A" n="9"/>prodesse asseuerat, vt non dubitanter dixerit: Si habuero
+          <lb ed="#A" n="10"/>omnem fidem, ita vt montes transferam, charitatem
+          au<lb ed="#A" n="11" break="no"/>tem non habuero, nihil sum. In quam sententiam a
+          Iaco<lb ed="#A" n="12" break="no"/>bo quoque dictum est: Quid proderit fratres mei, si fidem
+          di<lb ed="#A" n="13" break="no"/>cat quis se habere, opera autem non habeat, nunquid
+          po<lb ed="#A" n="14" break="no"/>terit fides saluare eum?
+        </p>
+        <p xml:id="ho8ccf-a2ykfk-d1e417">
+          Quamobrem quam volent isti
+          si<lb ed="#A" n="15" break="no"/>bi placeant, deque sola fide glonentur, quod ea iustitiam,
+          <lb ed="#A" n="16"/>quod salutem adferat, nobis illud certum &amp; indubitarum
+          <lb ed="#A" n="17"/>esse debet, quod per organum suum spiritus sanctus loquitur.
+          <lb ed="#A" n="18"/>Nolite errare, neque fornicatores, neque idolis seruientes, neque
+          <lb ed="#A" n="19"/>adulteri, neque molles, neque masculorum concubitores, neque
+          <lb ed="#A" n="20"/>fures, neque auari, neque ebriosi, neque maledici, neque raptores,
+          <lb ed="#A" n="21"/>regnum dei possidebunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

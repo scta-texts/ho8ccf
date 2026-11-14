@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 22</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 22</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="27-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1wi6v"><!-- c22 -->
+        <head xml:id="ho8ccf-a1wi6v-Hd1e99">Caput 22</head>
+        <head xml:id="ho8ccf-a1wi6v-Hd1e101" type="question-title">Secunda nota Ecclesiae, quod sit Catholica</head>
+        <p xml:id="ho8ccf-a1wi6v-d1e104">
+          <lb ed="#A" n="29"/>CAPVT XXII.
+          <lb ed="#A" n="30"/>Secunda nota Ecclesiae, quod sit Catholica
+        </p>
+        <p xml:id="ho8ccf-a1wi6v-d1e111">
+          <lb ed="#A" n="31"/><milestone ed="#A" unit="p" rend="initial"/> ALtera nota est in eodem symbolo Apostolico
+          ex<lb ed="#A" n="32" break="no"/>pressa, quod vocatur Catholica: quod nomen
+          ex<lb ed="#A" n="33" break="no"/>plicans Augustinus: Catholicam, inquit, dicit
+          to<lb ed="#A" n="34" break="no"/>to orbe diffusam, quia diuersorum haereticorum
+          <lb ed="#A" n="35"/>Ecclesiae ideo Catholicae non dicuntur, quia per loca atque
+          <lb ed="#A" n="36"/>per suas quasque prouincias continentur: Haec vero a solis
+          <lb ed="#A" n="37"/>ortu vsque ad occasum vnius fidei splendore diffundetur.
+          <lb ed="#A" n="38"/>Quam Graeci vocant Catholicam, eam latine licet dicere
+          <lb ed="#A" n="39"/>vniuersalem, pertinet enim ad vniuersa loca, pertinet ad
+          <lb ed="#A" n="40"/>vniuersa tempora, pertinet ad vniuersa hominum
+          gene<lb ed="#A" n="41" break="no"/>ra, pertinet ad nationes vniuersas. Quod ad omnia loca
+          <pb ed="#A" n="27-v"/>
+          <lb ed="#A" n="1"/>pertineat, docet scriptura, quae dicit: In omnem terram
+          <lb ed="#A" n="2"/>exiuit sonus eorum, &amp; in fines orbis terrae verba eorum
+          <lb ed="#A" n="3"/>Apostoli enim in mundum vniuersum ire iussi sunt, &amp;
+          <lb ed="#A" n="4"/>praedicare Euangelium omni creaturae; quod etiam ita
+          <lb ed="#A" n="5"/>fecerunt.
+        </p>
+        <p xml:id="ho8ccf-a1wi6v-d1e151">
+          Hinc est, quod commendans Romanos Paulus.
+          <lb ed="#A" n="6"/>fides, inquit, vestra annuntiatur in vniuerso mundo
+          <lb ed="#A" n="7"/>Quod pertineat ad vniuersa tempora, ex iis, quae superius
+          <lb ed="#A" n="8"/>dicta sunt, facile perspici potest, cum demonstratum est
+          <lb ed="#A" n="9"/>ab Adam coepisse Ecclesiam, atque ad nos vsque peruenisse
+          <lb ed="#A" n="10"/>ita vt cum ortu, tum diuturnitate par ipsi mundo sit &amp;
+          <lb ed="#A" n="11"/>aequalis, neque vt reliqui conuentus hominum, murorum
+          <lb ed="#A" n="12"/>ambitu quodam circumscribatur, ac ne regionis quidem
+          <lb ed="#A" n="13"/>alicuius finibus terminetur, sed ab ortu solis vsque ad oc
+          <lb ed="#A" n="14"/>casum sit laudabile nomen Domini. Sumpsit igitur initii
+          <lb ed="#A" n="15"/>simul cum orbe condito, duratura vsque ad finem orbis
+          <lb ed="#A" n="16"/>eiusdem, Eundauit, cum cam Deus in termum, qui dixit,
+          <lb ed="#A" n="17"/>Ego vobiscum sum vsque ad consummationem seculi. Et
+          <lb ed="#A" n="18"/>alio loco: Amen dico vobis, non praeteribit generatio
+          <lb ed="#A" n="19"/>haec, donec omnia fiant. Quod pertineat ad omnium
+          <lb ed="#A" n="20"/>genera, cuiuscunque status, conditionis, aetatis, sexus, ger
+          <lb ed="#A" n="21"/>tis etiam, fuerint, testis est Paulus dicens: Non est in ea
+          di<lb ed="#A" n="22" break="no"/>stinctio Iudaei &amp; Graeci non est in ea circuncisio &amp;
+          praepu<lb ed="#A" n="23" break="no"/>tium: non barbarus &amp; Scytha: non seruus &amp; liber, non
+          <lb ed="#A" n="24"/>masculus neque foemina, sed omnia in omnibus Christus
+          <lb ed="#A" n="25"/>idem dominus omnium, diues in omnes, qui inuocant
+          <lb ed="#A" n="26"/>cum. Omnis enim qui inuocauerit nomen Domini saluus
+          <lb ed="#A" n="27"/>erit. Quod pertineat ad vniuersas nationes, indicat ille lo
+          <lb ed="#A" n="28"/>cus ex Apocalypsi: Redemisti nos in sanguine tuo ex
+          om<lb ed="#A" n="29" break="no"/>ni tribuu, lingua, populo, ac natione, &amp; fecisti nos Deo
+          no<lb ed="#A" n="30" break="no"/>stro regnum. Quodque dicit Petrus: In veritate comperi,
+          <lb ed="#A" n="31"/>quia non est personarum acceptor Deus, sed in omni ger
+          <lb ed="#A" n="32"/>te qui timet eum, &amp; qui operatur iustitiam acceptus est
+          il<lb ed="#A" n="33" break="no"/>li. Si ergo per omnia loca, per omnia tempora, per omnes
+          <lb ed="#A" n="34"/>hominum status, &amp; conditiones, per omnes gentes &amp;
+          na<lb ed="#A" n="35" break="no"/>tiones dispersa est &amp; diffusa Ecclesia, vbi sunt, qui triginta
+          <lb ed="#A" n="36"/>his annis nati, cum Donaristis de sua paucitate gloriantur;
+          <lb ed="#A" n="37"/>Christi regis nostri dignitati, sicut Augustinus alicubi
+          <lb ed="#A" n="38"/>quaeritur, ea re detrahentes, quum scriptum sit. In multitu
+          <lb ed="#A" n="39"/>dine populi dignitas regis, &amp; in paucitate plebis
+          ignomi<lb ed="#A" n="40" break="no"/>nia principis. Habet, &amp; semper habebit integram
+          Chri<lb ed="#A" n="41" break="no"/>stus haereditatem suam, &amp; possessionem suam terminos
+          <lb ed="#A" n="42"/>terra: se potius subtrahunt huic magnae haereditati, qui
+          <pb ed="#A" n="28-r"/>
+          <lb ed="#A" n="1"/>Christo illam conantur subtrahere. Non relinquet
+          do<lb ed="#A" n="2" break="no"/>minus plebem suam, quae est sicut arena maris, nec
+          conten<lb ed="#A" n="3" break="no"/>tus erit paucitate haereticorum, qui omnes redemit. Neque
+          <lb ed="#A" n="4"/>enim parua, sed plane copiosa apud eum redemptio
+          <lb ed="#A" n="5"/>Quantus vero numerus istorum ad magnitudinem
+          pre<lb ed="#A" n="6" break="no"/>tij. Etiam Eunomium hoc aliquando postulasse legimus.
+          <lb ed="#A" n="7"/>vt ne maiori parti, neue antiquioribus plus tribuerent,
+          <lb ed="#A" n="8"/>sed eum Basilius audiendum non esse putauit: Cui
+          vi<lb ed="#A" n="9" break="no"/>sum est indignum non plus aliquid antiquitati dare, non
+          <lb ed="#A" n="10"/>reuereri multitudinem Christianorum, tam eorum qui
+          <lb ed="#A" n="11"/>sunt, quam eorum qui fuerunt ex eo tempore, quo
+          praedi<lb ed="#A" n="12" break="no"/>cari coeptum est Euangelium. Vbi sunt qui tenebras
+          im<lb ed="#A" n="13" break="no"/>peritis offundere conantur? dum talem ecclesiam
+          depin<lb ed="#A" n="14" break="no"/>gunt, quae ignoretur, atque aspectum ac sensum omnem
+          <lb ed="#A" n="15"/>effugiat. Cum tamen Ecclesiam audiri, atque ad illam
+          fra<lb ed="#A" n="16" break="no"/>tris delinquentis nomen deferri Christus iusserit, cum
+          Ec<lb ed="#A" n="17" break="no"/>clesiae Dei, quae est Corinthi, ecclesiae Thessalonicensium
+          <lb ed="#A" n="18"/>scribat Paulus, quas vtique sub aspectum hominum cedere
+          <lb ed="#A" n="19"/>oportuit, si denuntiari frater, si reddi literae debuerunt.
+          <lb ed="#A" n="20"/>Christus vero tabernaculum suum, hoc est Ecclesiam suam,
+          <lb ed="#A" n="21"/>in sole posuisse legitur, vt eam claram, manifestam, &amp;
+          il<lb ed="#A" n="22" break="no"/>lustrem omnibus faceret. Qua etiam de causa vocat eam
+          <lb ed="#A" n="23"/>ciuitatem in monte positam, quae non potest abscondi
+          <lb ed="#A" n="24"/>Posita est autem supra eum montem, de quo &amp; Esaias &amp;
+          <lb ed="#A" n="25"/>Michaeas praedixerunt. Erit in nouissimis diebus
+          praepa<lb ed="#A" n="26" break="no"/>ratus mons domus domini in vertice montium, &amp;
+          supe<lb ed="#A" n="27" break="no"/>colles eleuabitur, &amp; fluent ad omnes gentes &amp; ibunt
+          po<lb ed="#A" n="28" break="no"/>puli multi. Hic est ille mons, quem vidit rex Nabuchodo
+          <lb ed="#A" n="29"/>nosor ex lapide sine manibus exciso creuisse in montem
+          <lb ed="#A" n="30"/>magnum, &amp; orbem vniuersum impleuisse, in quo
+          commi<lb ed="#A" n="31" break="no"/>nutis regnis aliis vniuersis, iuxta Danielis
+          interpretatio<lb ed="#A" n="32" break="no"/>nem, Deus coeli suscitauit regnum, quod in aeternum non
+          <lb ed="#A" n="33"/>dissipabitur, &amp; alteri populo non tradetur. Hunc
+          Danie<lb ed="#A" n="34" break="no"/>lis locum adducens Bernardus contra sui temporis
+          haere<lb ed="#A" n="35" break="no"/>ticos, Itane, inquit, lapidem de monte abscissum sine
+          ma<lb ed="#A" n="36" break="no"/>nibus, montem factum &amp; implentem mundum, vestris
+          cre<lb ed="#A" n="37" break="no"/>ditis, intrusum antris? De hoc monte nemo se
+          Christia<lb ed="#A" n="38" break="no"/>nus deturbari patiatur.
+        </p>
+        <p xml:id="ho8ccf-a1wi6v-d1e319">
+          Quod si quis dixerit homini
+          Chri<lb ed="#A" n="39" break="no"/>stiano, sicut Sathanas olim dixit Christo, Si filius Dei es
+          <lb ed="#A" n="40"/>mitte te deorsum, quamlibet multa diuinae legis oracula
+          <lb ed="#A" n="41"/>produxerit, non committat vnquam, vt ei parere animum indu
+          <lb ed="#A" n="42"/>cat. Si quis dixerit: Ecce hic est Christus, ecce illic monet
+          <pb ed="#A" n="28-v"/>
+          <lb ed="#A" n="1"/>nos ipse Christus, nolite credere. Si dixerint vobis, ecce
+          <lb ed="#A" n="2"/>in deserto est, nolite exire: ecce in penetralibus, nolite
+          <lb ed="#A" n="3"/>credere: non est caput nisi in corpore suo: non est
+          Chri<lb ed="#A" n="4" break="no"/>stus, nisi in sua sancta catholica Ecclesia, Ecclesia porro
+          <lb ed="#A" n="5"/>catholica ibi est, vbi est fides catholica Fides autem catho
+          <lb ed="#A" n="6"/>lica ea est, quae per orbem vniuersum iuxta Christi
+          prae<lb ed="#A" n="7" break="no"/>ceptum eadem semper annuntiatur, nec vel tempore,
+          ve<lb ed="#A" n="8" break="no"/>locis vnquam variatur: a qua si quis dissentiat, is
+          catho<lb ed="#A" n="9" break="no"/>licus non est, quod singularem quandam opinionem, non
+          <lb ed="#A" n="10"/>vnam communem omnium fidem complecti videtur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

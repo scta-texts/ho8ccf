@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 18</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 18</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="21-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1s587"><!-- c18 -->
+        <head xml:id="ho8ccf-a1s587-Hd1e99">Caput 18</head>
+        <head xml:id="ho8ccf-a1s587-Hd1e101" type="question-title">Quod non liceat ad suam cuique mentem scripturam accommodare</head>
+        <p xml:id="ho8ccf-a1s587-d1e104">
+          <lb ed="#A" n="26"/>CAPVT XVIII.
+          <lb ed="#A" n="27"/>Quod non liceat ad suam cuique mentem
+          <lb ed="#A" n="28"/>scripturam accommodare.
+        </p>
+        <p xml:id="ho8ccf-a1s587-d1e113">
+          <lb ed="#A" n="29"/><milestone ed="#A" unit="p" rend="initial"/> VErum hic iterum quiritabunt Martini, verbum
+          <lb ed="#A" n="30"/>nos ad ecclesiam accommodare velle, cum
+          eccle<lb ed="#A" n="31" break="no"/>siam ad verbum accommodari potius oporteat,
+          <lb ed="#A" n="32"/>Nos vero non hoc volumus, quin rem indignam
+          <lb ed="#A" n="33"/>esse iudicamus, ad Martinorum sensum accommodari
+          ver<lb ed="#A" n="34" break="no"/>bum, &amp; secundum eorum dogmata scripturas torque
+          <lb ed="#A" n="35"/>tantumque tribui suo iudicio velle Martinos, vt id ecclesia
+          <lb ed="#A" n="36"/>totius iudicio anteponant. Vetus est haec Basilii quoque
+          <lb ed="#A" n="37"/>querela, quod veritatis deprauatores non suam scriptura
+          <lb ed="#A" n="38"/>mentem accommodant, sed ad suam voluntatem mentem
+          <lb ed="#A" n="39"/>scripturarum trahunt. Hoc nos minime ferendum
+          existi<lb ed="#A" n="40" break="no"/>memus, neque fas esse cuiquam putamus, secundum
+          spiri<lb ed="#A" n="41" break="no"/>tum suum, aut secundum sensum humanum scripturas
+          <pb ed="#A" n="21-v"/>
+          <lb ed="#A" n="1"/>intelligere, cum quo spiritu factae sunt, eo legi desiderent,
+          <lb ed="#A" n="2"/>eo &amp; intelligi velint. Quare cum humanum esse conster
+          <lb ed="#A" n="3"/>Martinorum spiritum, fas non esse putamus, vt ad eorum
+          <lb ed="#A" n="4"/>sensum scripturae torqueantur, verum illum sensum
+          reti<lb ed="#A" n="5" break="no"/>nendum esse censemus potius, quem tot seculis Ecclesiam
+          <lb ed="#A" n="6"/>tenuisse videmus. Glorientur Martini quantum volent
+          <lb ed="#A" n="7"/>de spiritu, quod certo sciant se eum habere, glorientur ad
+          <lb ed="#A" n="8"/>eundem modum &amp; Anabaptistae, &amp; Sacramentarii, &amp;
+          Suer<lb ed="#A" n="9" break="no"/>meri: quin &amp; nobis dubium non est, quod sicut illi, sic &amp;
+          <lb ed="#A" n="10"/>Martini spiritum habent, sed eum, de quo alter eorum
+          <lb ed="#A" n="11"/>non obscure fert, quod non vnum salis modium cum illo
+          <lb ed="#A" n="12"/>comederit: Hunc spiritum, dolenter quidem, sed
+          conce<lb ed="#A" n="13" break="no"/>dimus illis tamen, verum absit, quod secundum illum
+          in<lb ed="#A" n="14" break="no"/>terpretari scripturas velimus. Ecclesiae sanctum spiritum
+          <lb ed="#A" n="15"/>esse promissum &amp; missum certo scimus, quo nunquam
+          <lb ed="#A" n="16"/>destituitur, sed eo afflatur, fouetur, vegetatur. Quare cum
+          <lb ed="#A" n="17"/>illius mentem sequimur, non hominis, sed Dei mentem
+          <lb ed="#A" n="18"/>sequimur, neque iuxta hominis, sed iuxta Dei sensum, per
+          <lb ed="#A" n="19"/>os Ecclesiae loquentis, Dei verbum interpretamur.
+          Ela<lb ed="#A" n="20" break="no"/>borandum est omnibus, vt scripturas eodem spiritu, quo
+          <lb ed="#A" n="21"/>scriptae sunt, intelligere queant: sed non ideo spretis
+          pa<lb ed="#A" n="22" break="no"/>trum interpretationibus, aut conciliorum definitionibus,
+          <lb ed="#A" n="23"/>quod ab haereticis factitatum semper legimus, &amp; nunc
+          <lb ed="#A" n="24"/>etiam fieri videmus, suae quisque debet inniti prudentiae
+          <lb ed="#A" n="25"/>cum scriptum fit: Ne innitariis prudentiae tuae ne sis sapiens
+          <lb ed="#A" n="26"/>apud temet ipsum. Spiritus veritatis olim Ecclesiae datus,
+          <lb ed="#A" n="27"/>manens cum eadem vsque ad consummationem saeculi, cum sit
+          <lb ed="#A" n="28"/>spiritus humilitatis, charitatis, vnionis, &amp; pacis, non sug
+          <lb ed="#A" n="29"/>gerit, vt reiectis patrum interpretationibus, innitamur
+          pru<lb ed="#A" n="30" break="no"/>dentiae nostrae, neque vt sepositis sacris literis, solis
+          homi<lb ed="#A" n="31" break="no"/>num commentariis inhaereamus, sed suggerit, vt
+          intelle<lb ed="#A" n="32" break="no"/>ctum scripturarum &amp; e scripturis apertioribus, &amp; a sacris
+          <lb ed="#A" n="33"/>interpretibus, &amp; ex antiquis Ecclesiae traditionibus
+          addis<lb ed="#A" n="34" break="no"/>cere studeamus. Quare qui verum e scripturis elicere
+          sen<lb ed="#A" n="35" break="no"/>sum conatur, ei cauendum est in primis, ne velit esse
+          pru<lb ed="#A" n="36" break="no"/>dens apud semetipsum. Non alta sapientes, dicit Paulus
+          <lb ed="#A" n="37"/>verum humilibus consentientes. Noli altum sapere, sed
+          <lb ed="#A" n="38"/>time. Grauiter enim talibus per Prophetam comminatur
+          <lb ed="#A" n="39"/>Deus, dicens: Vae qui sapientes estis in oculis vestris, &amp; co
+          <lb ed="#A" n="40"/>ram vobismet ipsis prudentes. Abhorret ab huiusmodi
+          sar<lb ed="#A" n="41" break="no"/>ctus spiritus, qui non requiescit nisi super humilem, &amp;
+          quie<lb ed="#A" n="42" break="no"/>rum, &amp; trementem sermones suos.
+        </p>
+        <p xml:id="ho8ccf-a1s587-d1e238">
+          Quamobrem illud
+          fer<pb ed="#A" n="22-r"/><lb ed="#A" n="1" break="no"/>uari oportet, quod beatus Clemens Petri successor
+          admo<lb ed="#A" n="2" break="no"/>net; vt cum lex dei legitur, non secundum ingenii proprii
+          <lb ed="#A" n="3"/>intelligentiam legatur seu doceatur: sunt enim multa in
+          <lb ed="#A" n="4"/>scripturis diuinis, quae possunt ad eum sensum trahi, quem
+          <lb ed="#A" n="5"/>vnusquisque sibi praesumit: Et ideo scripturarum
+          intelligen<lb ed="#A" n="6" break="no"/>tiam oportet ab eo discere, qui eam a maioribus
+          secun<lb ed="#A" n="7" break="no"/>dum veritatem sibi traditam seruat. Hoc ipsum factum
+          le<lb ed="#A" n="8" break="no"/>gimus a Gregorio Naxianzeno, &amp; Basilio Magno
+          prae<lb ed="#A" n="9" break="no"/>cipuis Graecorum Theologis, de quibus in Ecclesiastica
+          <lb ed="#A" n="10"/>Historia scribit Ruffinus, quod cum omnibus
+          Graeco<lb ed="#A" n="11" break="no"/>rum secularium libris remotis, solis diuinae scripturae
+          vo<lb ed="#A" n="12" break="no"/>luminibus operam dedissent, eorum intelligentiam non
+          <lb ed="#A" n="13"/>ex propria praesumptione, sed ex maiorum scriptis &amp;
+          au<lb ed="#A" n="14" break="no"/>toritate sequebantur, quos &amp; ipsos ex Apostolica
+          succes<lb ed="#A" n="15" break="no"/>sione regulam intelligendi suscepisse constabat. Hoc a
+          re<lb ed="#A" n="16" break="no"/>liquis quoque sanctis patribus obseruatum fuisse videmus,
+          <lb ed="#A" n="17"/>quoties illis cum haereticis congrediendum esset: qui cum
+          <lb ed="#A" n="18"/>sub vnius vmbra scripturae versarentur, &amp; in hac sola
+          tan<lb ed="#A" n="19" break="no"/>quam in cardine quodam, omnem suae disputationis vim
+          <lb ed="#A" n="20"/>constituerent, non ad confirmationem veritatis, verum
+          <lb ed="#A" n="21"/>ad perfugium erroris, cui non potuit honestius magisque
+          <lb ed="#A" n="22"/>populare patrocinium inueniri: scripturas Patres
+          reue<lb ed="#A" n="23" break="no"/>renter accipiebant, sed qui sensus ab haereticis allatus esset,
+          <lb ed="#A" n="24"/>cum productis maiorum interpretationibus refellebant, si
+          <lb ed="#A" n="25"/>mul ecclesiasticam saepe traditionem opponebant. Non iatis
+          <lb ed="#A" n="26"/>esse putabant, si verae, si salutares, si diuinae scripturae esse cre
+          <lb ed="#A" n="27"/>derentur, &amp; dicerentur, (credunt enim hoc &amp; Iudaei, totius
+          <lb ed="#A" n="28"/>legis &amp; Prophetarum scripturas esse verissimas esse
+          salu<lb ed="#A" n="29" break="no"/>tares, esse diuinas) sed sicut illi nos falso, sic nos vere
+          vicis<lb ed="#A" n="30" break="no"/>sim illos male intelligere scripturas, &amp; secus interpreta
+          <lb ed="#A" n="31"/>arguimus. Credunt &amp; haeretici magna ex parte,
+          verissi<lb ed="#A" n="32" break="no"/>ma &amp; certissima esse omnia, quae in scripturis
+          continen<lb ed="#A" n="33" break="no"/>tur, nihil non salutare, nihil non plane diuinum in illis
+          <lb ed="#A" n="34"/>haberi, qui subinde etiam contra Catholicos &amp; Orthodo
+          <lb ed="#A" n="35"/>xos illud proferebant: Scrutamini scripturas: quaerite, &amp;
+          <lb ed="#A" n="36"/>inuenieris: quemadmodum ex Tertulliani libro contra ha
+          <lb ed="#A" n="37"/>reticos scripto videre licet:
+        </p>
+        <p xml:id="ho8ccf-a1s587-d1e323">
+          Verum id nunquam sufficere
+          <lb ed="#A" n="38"/>visum est Catholicis &amp; Orthodoxis. Illud praeterea neces
+          <lb ed="#A" n="39"/>sarium esse iudicauerunt, vt quis in captiuitatem red
+          ge<lb ed="#A" n="40" break="no"/>ret intellectum suum in obsequium fidei, scripturasque
+          ve<lb ed="#A" n="41" break="no"/>ras esse crederet, non secundum suum sensum, quem sibi
+          <lb ed="#A" n="42"/>praesumpsisset, multo minus autem secundum
+          adulteri<pb ed="#A" n="22-v"/><lb ed="#A" n="1" break="no"/>nas interpretationes eorum, qui segregauerunt semet ipsos,
+          <lb ed="#A" n="2"/>sed secundum antiquam Ecclesiae traditionem expositas,
+          <lb ed="#A" n="3"/>quam sancti Patres tanti fecerunt, vt non alia machina
+          cor<lb ed="#A" n="4" break="no"/>tra suorum temporum haereticos vsi magis fuerint. Hac vsus
+          <lb ed="#A" n="5"/>est antiquissimus Irenaeus contra Valentinum haereticum.
+          <lb ed="#A" n="6"/>hac Tertullianus contra Martionem; hac Origenes
+          con<lb ed="#A" n="7" break="no"/>tra Celsum: hac Nicaenum concilium contra Arrium: hac
+          <lb ed="#A" n="8"/>Basilius contra Eunomium &amp; Amphilochium: hac Hiero
+          <lb ed="#A" n="9"/>nymus contra Vigilantium, Iouimanum, &amp; Luciferianum:
+          <lb ed="#A" n="10"/>hac Cyrillus Alexandrinus contra Nestorium: &amp; ad Arme
+          <lb ed="#A" n="11"/>nios scribens Proclus Constantinopolitanus episcopus
+          <lb ed="#A" n="12"/>hac Theodoritus in Polymorpho contra sui temporis hae
+          <lb ed="#A" n="13"/>reticos hac Augustinus contra Donaristas &amp; Iulianum:
+          <lb ed="#A" n="14"/>hac Leo, Gelasius, &amp; Ioannes Romani Pontifices contra
+          <lb ed="#A" n="15"/>Eurychen &amp; Nestorium: hac sexta Synodus contra Mono
+          <lb ed="#A" n="16"/>telitas: hac septima contra Iconomachos: hac Beda
+          vene<lb ed="#A" n="17" break="no"/>rabilis, vbi de diuersitate lunaris discursus agit: hac
+          Pe<lb ed="#A" n="18" break="no"/>trus Cluniacensis contra Henricianos &amp; Petrobrussianos:
+          <lb ed="#A" n="19"/>hac aequalis eius Bernardus contra Petrum Haballardum.
+          <lb ed="#A" n="20"/>hac Euthymius contra varios multorum temporum haere
+          <lb ed="#A" n="21"/>ricos: hac reliqui sancti Patres ad haec vsque nostra tempora
+          <lb ed="#A" n="22"/>contra diuersi generis haereticos vsi sunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 68</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 68</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="218-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a37i50"><!-- c68 -->
+        <head xml:id="ho8ccf-a37i50-Hd1e99">Caput 68</head>
+        <head xml:id="ho8ccf-a37i50-Hd1e101" type="question-title">Quod semel iustificatum gratia sua Deus non deserat, si non ab ipso deseratur: quodque caritati non modo non impossibile, verum ne difficile quicquam est</head>
+        <p xml:id="ho8ccf-a37i50-d1e104">
+          <lb ed="#A" n="31"/>CAPVT LXVIII.
+          <lb ed="#A" n="32"/>Quod semel iucificatum gratia sua Deus non
+          dese<lb ed="#A" n="33" break="no"/>rat, si non b ipso deseratur: quodque
+          chari<lb ed="#A" n="34" break="no"/>tati non nodo non impossibile, verum
+          <lb ed="#A" n="35"/>ne difficile quicquam est.
+        </p>
+        <p xml:id="ho8ccf-a37i50-d1e117">
+          <lb ed="#A" n="36"/><milestone ed="#A" unit="p" rend="initial"/> ESt autem, quod ab Augustino quoque legimus
+          anno<lb ed="#A" n="37" break="no"/>tatum, Deitanta bonitas, vt quem semel iustificauit
+          <lb ed="#A" n="38"/>impium, gatia sua nunquam deserat, si non ab ipso
+          <lb ed="#A" n="39"/>deseratur, nihil vt ei desit, quo minus pie semper
+          <lb ed="#A" n="40"/>iusteque viuere quea. Quod etiam ab Ambrosio, aut quisquis
+          <lb ed="#A" n="41"/>ille fuit author libri, qui inscribitur de vocatione gentium,
+          <pb ed="#A" n="218-v"/>
+          <lb ed="#A" n="1"/>animaduersum legimus. Qui certissimum esse vult,
+          nul<lb ed="#A" n="2" break="no"/>lum fidelium a Deo discedentem relinqui, neque cuiusquam
+          <lb ed="#A" n="3"/>ruinam ex diuina esse dispositione dispositam, sed multis
+          <lb ed="#A" n="4"/>qui iam iudicio rationis vtuntur, ideo liberum esse
+          discede<lb ed="#A" n="5" break="no"/>re, vt non discessisse sit praemium &amp; vt quod non potest nisi
+          <lb ed="#A" n="6"/>cooperante spiritu Dei fieri eorum meritis deputetur,
+          quo<lb ed="#A" n="7" break="no"/>rum id potuit voluntate non fieri.
+        </p>
+        <p xml:id="ho8ccf-a37i50-d1e151">
+          Verum testatur hoc etiam
+          <lb ed="#A" n="8"/>Propheta, dicens: Dominus vobiscum, quia fuistis cum
+          <lb ed="#A" n="9"/>eo: si quaesiueritis eum, inuenietis, si autem dereliqueritis,
+          <lb ed="#A" n="10"/>derelinquet vos. Sic ille fons totius bonitatis &amp;
+          miseri<lb ed="#A" n="11" break="no"/>cordis, nunquam nos deserit, nisi prius a nobis deseratur.
+        </p>
+        <p xml:id="ho8ccf-a37i50-d1e163">
+          <lb ed="#A" n="12"/>Caeterum si nobiscum &amp; pro nobis Deus, quis contra nos?
+          <lb ed="#A" n="13"/>quid erit quod praestare non possimus, illo per fidem in
+          <lb ed="#A" n="14"/>cordibus nostris habitante, illo viuente in nobis, illo
+          ope<lb ed="#A" n="15" break="no"/>rante in nobis, vt velimus, &amp; cooperante, vt quod recte
+          vo<lb ed="#A" n="16" break="no"/>lumus, faciamus. Etenim a Domino praeparatur voluntas
+          <lb ed="#A" n="17"/>nostra, quae si magna est, charitas vocatur: nulla namque
+          vo<lb ed="#A" n="18" break="no"/>luntas maior esse potest, quam sit voluntas charitatis, quae
+          <lb ed="#A" n="19"/>tanta est, nihil vt sit, quod ei resistere queat:
+          quandoqui<lb ed="#A" n="20" break="no"/>dem non solum fortis est, vt mors, dilectio,
+          quemadmo<lb ed="#A" n="21" break="no"/>dum a Sapiente scriptum est: verum etiam fortior ipsa
+          mo<lb ed="#A" n="22" break="no"/>te: non ea re tantum, quia quos diuidit mors, non diuidit
+          <lb ed="#A" n="23"/>charitas, Verumetiam quod cum ea corpore per mortem
+          <lb ed="#A" n="24"/>anima separatur, tum vero quae fuit in corpore mortis
+          hu<lb ed="#A" n="25" break="no"/>ius tantum inchoata charitas, fit perfecta. Sensit vim
+          hu<lb ed="#A" n="26" break="no"/>ius magnae voluntatis ille qui dixit: Quis nos separabit a
+          <lb ed="#A" n="27"/>charitate Christi, tribulatio an angustia? an fames? an nu
+          <lb ed="#A" n="28"/>ditas? an periculum? an persecutio? an gladius? Sicut
+          scri<lb ed="#A" n="29" break="no"/>ptum est: Quia propter te mortificamur tota die
+          aestima<lb ed="#A" n="30" break="no"/>ti sumus, sicut oues occisionis. Sed in his omnibus
+          supera<lb ed="#A" n="31" break="no"/>mus propter eum qui dilexit nos. Certus sum enim, quod
+          <lb ed="#A" n="32"/>neque mors neque vita, neque angeli, neque principatus, neque
+          vi<lb ed="#A" n="33" break="no"/>tutes, neque instantia, neque futura, neque fortitudo, neque
+          alti<lb ed="#A" n="34" break="no"/>tudo, neque profundum, neque creatura vlla, poterit nos
+          se<lb ed="#A" n="35" break="no"/>parare a charitate Dei, quae est in Christo Iesu domino
+          <lb ed="#A" n="36"/>nostro. Haec igitur magna voluntas, quae charitas dicitur
+          <lb ed="#A" n="37"/>in cuius corde diffusa est per spiritum sanctum, huic iugum
+          <lb ed="#A" n="38"/>Domini vere suaue: huic onus eius vere leue est.
+          Quam<lb ed="#A" n="39" break="no"/>libet enim asperum aliquid &amp; durum esse videatur, si
+          ta<lb ed="#A" n="40" break="no"/>men haec magna voluntas accesserit, non modo non
+          im<lb ed="#A" n="41" break="no"/>possibile: verum ne difficile quidem, quin potius
+          iucun<lb ed="#A" n="42" break="no"/>dum erit &amp; suaue.
+        </p>
+        <p xml:id="ho8ccf-a37i50-d1e233">
+          Verum enim est, quod ab Augustino
+          <pb ed="#A" n="219-r"/>
+          <lb ed="#A" n="1"/>scriptum est, sarcina illa quae grauis est infirmitati, leuis
+          <lb ed="#A" n="2"/>est charitati. Documento sunt, tot tam saeui terribilesque
+          <lb ed="#A" n="3"/>cruciatus, quos tot millia sanctorum martyrum, etiam ex
+          <lb ed="#A" n="4"/>fragili foemineo sexu: deinde tenuioris etiam aetatis amo
+          <lb ed="#A" n="5"/>re sponsi sui, domini nostri Iesu Christi inflammati, non
+          <lb ed="#A" n="6"/>maiore constantia, quam animorum alacritate pertulerunt.
+          <lb ed="#A" n="7"/>Qua in re se tales praestiterunt, minus vt alacres ad epulas
+          <lb ed="#A" n="8"/>plerique, quam isti ad vitam suam pro Christi nomine, cum
+          <lb ed="#A" n="9"/>sanguine profundendam festinarent. Vt nullam nunc
+          Ori<lb ed="#A" n="10" break="no"/>genis mentionem faciamus, quem tanto martyrii studio
+          <lb ed="#A" n="11"/>flagrasse, puerulum adhuc, Ecclesiastica narrat historia,
+          mul<lb ed="#A" n="12" break="no"/>tum vt negotii mater habuerit in eo domi detinendo, ne
+          <lb ed="#A" n="13"/>vitam suam in apertum discrimen offerret: Vt multos etiam
+          <lb ed="#A" n="14"/>alios silentio praetereamus, vnum in praesentia recensuisse
+          <lb ed="#A" n="15"/>contenti erimus, quod in eadem historia legitur
+          Aedisse<lb ed="#A" n="16" break="no"/>nae mulieris exemplum, quae cum esset facta certior, ciuita
+          <lb ed="#A" n="17"/>tis Aedissenae praefectum, ad campum in quem Christiani
+          <lb ed="#A" n="18"/>conuenerant proficisci, posteaquam vidit, frequentiorem so
+          <lb ed="#A" n="19"/>lito Christianorum populum eo tendere, currere
+          praecipi<lb ed="#A" n="20" break="no"/>tes, ac festinare, tanquam vererentur ne quis deesset ad
+          mo<lb ed="#A" n="21" break="no"/>tem: &amp; ipsa suis ex aedibus propere prorupit, quum nec
+          osti<lb ed="#A" n="22" break="no"/>um clausisset, nec vt mulierum habitum decet, se
+          diligen<lb ed="#A" n="23" break="no"/>tius operuisset, infantem quoque paruulum secum
+          attra<lb ed="#A" n="24" break="no"/>hens, ac rapido cursu, irrupto etiam officii agmine festina
+          <lb ed="#A" n="25"/>uit, quam cum ita festinantem praefectus vidisset,
+          apprehen<lb ed="#A" n="26" break="no"/>di, &amp; ad se deduci iussit, simul percunctatus est: quonam
+          <lb ed="#A" n="27"/>infelix muliertam festina properaret. Illa vero, Ad
+          cam<lb ed="#A" n="28" break="no"/>pum, inquit, quo catholicorum populus conuenit. Tum
+          <lb ed="#A" n="29"/>ille, non audisti quod praefectus eo pergit, vt omnes
+          inter<lb ed="#A" n="30" break="no"/>ficiat quos inuenerit? Audiui, inquit mulier, &amp; ideo
+          festi<lb ed="#A" n="31" break="no"/>no, vt ibi inueniar. Et quo inquit praefectus, paruulum
+          <lb ed="#A" n="32"/>istum trahis? Vt &amp; ipse, ait illa, martyrium consequi
+          me<lb ed="#A" n="33" break="no"/>reatur. Tantum potuit amor Iesu Christi, non solum apud
+          <lb ed="#A" n="34"/>viros, verumetiam apud foeminas, vt non modo non cede
+          <lb ed="#A" n="35"/>rent periculis, nec infringerentur doloribus, nec formida
+          <lb ed="#A" n="36"/>rent res asperas, nec vllos mortis terrores extimescerent:
+          <lb ed="#A" n="37"/>verumetiam quam natura mortales omnes mortem
+          refu<lb ed="#A" n="38" break="no"/>giunt, ea sit illis adeo non fugienda, adeo non horrenda
+          <lb ed="#A" n="39"/>visa, vt experendam etiam vitro ducerent, nec magis
+          dul<lb ed="#A" n="40" break="no"/>ce quicquam &amp; iucundum eis accidere posset, quam si cuius morte, se
+          <lb ed="#A" n="41"/>salutem assecutos, &amp; ab aeterna morte liberatos esse
+          memi<lb ed="#A" n="42" break="no"/>nissent, pro eius nomine mortem vicissim oppetendi facultas &amp;
+          <pb ed="#A" n="219-v"/>
+          <lb ed="#A" n="1"/>occasio daretur, cuius amore sic inflammati plerique fuerunt,
+          <lb ed="#A" n="2"/>vt sensum etiam doloris omnem amitterent, &amp; cum
+          carboni<lb ed="#A" n="3" break="no"/>bus incensis, nudis pedibus insistere cogerentur, nihil
+          affi<lb ed="#A" n="4" break="no"/>marent interesse, vtrum per carbones illos, an per humi
+          spa<lb ed="#A" n="5" break="no"/>sas rosas sibi esset ambulandum: Cumque flagris &amp; nerus
+          <lb ed="#A" n="6"/>cederentur: vt triticum nisi bene exculcarum &amp; purgatum in
+          <lb ed="#A" n="7"/>horreo: sic animam in coelo, nisi sic excussam &amp; perpurgatam,
+          <lb ed="#A" n="8"/>digne stare non posse dictitarent. Scilicet iis durum fuit ali
+          <lb ed="#A" n="9"/>quid ex iis, quae multitudinis iudicio sunt multo
+          durissi<lb ed="#A" n="10" break="no"/>ma, quos ex summis corporis sui cruciatibus voluptatem
+          <lb ed="#A" n="11"/>quandam animi non mediocrem percepisse legimus? iis fuit
+          <lb ed="#A" n="12"/>aliquid impossibile, qui plus etiam vltro praestiterunt, quam
+          <lb ed="#A" n="13"/>Deo mandatum fuerat: Nam vt exigat hoc a nobis lex
+          cha<lb ed="#A" n="14" break="no"/>ritatis, qua Deum ex toto corde, ex tota anima, &amp; ex tota
+          <lb ed="#A" n="15"/>mente nostra diligere iubemur, vt cum deprehensi fueri
+          <lb ed="#A" n="16"/>mus, mortem prius in eius nominis confessione simus
+          oc<lb ed="#A" n="17" break="no"/>cumbere parati, quam vt eum negemus, hoc certe quod al
+          <lb ed="#A" n="18"/>istis factum est non exigit, vt vltro se discrimini quisquam
+          <lb ed="#A" n="19"/>offerat, quemadmodum a Gregorio Nazianzeno
+          diligen<lb ed="#A" n="20" break="no"/>ter legimus animaduersum. Quid autem est quod
+          praeci<lb ed="#A" n="21" break="no"/>pit nobis Deus? Quid aliud quam id quod ipse est. Deus
+          <lb ed="#A" n="22"/>charitas est, dicit Ioannes. Charitas igitur charitatem nobis
+          <lb ed="#A" n="23"/>praecipit: &amp; quod iubet, ipse nobis praestat Deus charitas
+          <lb ed="#A" n="24"/>Prior ipse diligit nos, ac ad se diligendum accendit nos,
+          se<lb ed="#A" n="25" break="no"/>ipsum impertit nobis, mansionem facit apud nos, ita vt nos
+          <lb ed="#A" n="26"/>in ipso maneamus, &amp; ipse in nobis. Quamuis autem prior
+          <lb ed="#A" n="27"/>diligit, nunquam tamen prior deserit nos, nisi prius
+          desera<lb ed="#A" n="28" break="no"/>tur a nobis. Quod nos deserit nostra culpa: quod
+          mansio<lb ed="#A" n="29" break="no"/>nem in nobis facit, ipsius fit gratia, qui paratior est ad es
+          <lb ed="#A" n="30"/>nobis impartiendam, quam simus nos ad recipiendam: tam est
+          <lb ed="#A" n="31"/>illius obuia bonitas, tam est nostra supina negligentia
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 83</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 83</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="280-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3lgga"><!-- c83 -->
+        <head xml:id="ho8ccf-a3lgga-Hd1e99">Caput 83</head>
+        <head xml:id="ho8ccf-a3lgga-Hd1e101" type="question-title">De septimo praecepto</head>
+        <p xml:id="ho8ccf-a3lgga-d1e104">
+          <lb ed="#A" n="3"/>CAPVT LXXXIII.
+          <lb ed="#A" n="4"/>De septimo praecepto.
+        </p>
+        <p xml:id="ho8ccf-a3lgga-d1e111">
+          <lb ed="#A" n="5"/><milestone ed="#A" unit="p" rend="initial"/> QVod septimo loco ponitur, Non furtum facies,
+          <lb ed="#A" n="6"/>vel hoc nomine non debet aliis leuius videri,
+          <lb ed="#A" n="7"/>quod cum absque satisfactione &amp; poenitentia
+          pec<lb ed="#A" n="8" break="no"/>catum non remittatur, de furto difficilior est,
+          <lb ed="#A" n="9"/>quam de aliis quibuscunque satisfactio. Nam si quis caedem
+          <lb ed="#A" n="10"/>patrauerit, si thorum alienum inuaserit, modo iustum ani
+          <lb ed="#A" n="11"/>mo dolorem accipiat, ieiunio, oratione, eleemosyna
+          pla<lb ed="#A" n="12" break="no"/>carum sibi deum reddere, peccarique sui veniam impetrare
+          <lb ed="#A" n="13"/>potest.
+        </p>
+        <p xml:id="ho8ccf-a3lgga-d1e134">
+          Caeterum si rem alienam contrectauerit, nihil ei
+          ie<lb ed="#A" n="14" break="no"/>iunium, nihil orationes, &amp; lachrymae, nihil profuerint
+          elec<lb ed="#A" n="15" break="no"/>mosynae: si non vult quadruplum cum Zachaeo restituere,
+          <lb ed="#A" n="16"/>saltem id quod furatus est restituat oportet, ei cui fuiatus
+          <lb ed="#A" n="17"/>est, ac posteaquam restituerit, tum demum de suo det
+          pau<lb ed="#A" n="18" break="no"/>peribus. Neque enim gratae deo sunt eleemosynae, quae
+          fi<lb ed="#A" n="19" break="no"/>unt de alieno. Si vero fiant ex iis, quae pauperibus erepta
+          <lb ed="#A" n="20"/>sunt, nihil est quod magis abominetur Deus. Nam qui
+          of<lb ed="#A" n="21" break="no"/>fert sacrificium ex substantia pauperis, quasi qui victimat
+          <lb ed="#A" n="22"/>filium in conspectu patris sui. Hinc est quod propheta qui
+          <lb ed="#A" n="23"/>dam, ea, quae furto siue rapina congregata sunt, vocat den
+          <lb ed="#A" n="24"/>sum lutum, dicens: Vae ei, qui multiplicat non sua, vsque
+          <lb ed="#A" n="25"/>quo aggrauat contra se densum lutum? Nam &amp; grauant
+          <lb ed="#A" n="26"/>&amp; polluunt vt lutum, &amp; haud aliter morantur ac
+          retan<lb ed="#A" n="27" break="no"/>dant hominem, quominus euadere possit, quam ad pro
+          <lb ed="#A" n="28"/>fundum lutum eum, qui in ipso haesit. Non est autem existi
+          <lb ed="#A" n="29"/>mandum solum illud furti genus hic prohiberi, quod
+          oc<lb ed="#A" n="30" break="no"/>culte sit, quin illud multo grauius est, si quis alicui per
+          <lb ed="#A" n="31"/>vim aliquid eripiat.
+        </p>
+        <p xml:id="ho8ccf-a3lgga-d1e177">
+          Quamobrem furti nomine, quamuis
+          <lb ed="#A" n="32"/>alienae rei illicitam vsurpationem intelligi vult
+          Augusti<lb ed="#A" n="33" break="no"/>nus. Neque putandus est, inquit, rapinam permisisse, qui fui
+          <lb ed="#A" n="34"/>tum prohibuit, quin a patre potius totum id significare
+          vo<lb ed="#A" n="35" break="no"/>luisse videtur, quod illicite de proximi rebus aufertur.
+          <lb ed="#A" n="36"/>Sed etsi quid inuenisti, inquit, &amp; non reddidisti, rapuisti
+          <lb ed="#A" n="37"/>quantum potuisti, fecisti: quia plus non potuisti, ideo non
+          <lb ed="#A" n="38"/>plus fecisti. Qui alienum negat, si posset &amp; tolleret: deus con
+          <lb ed="#A" n="39"/>non manum interrogat. Vsuram etiam si quis accipiat; fu
+          <lb ed="#A" n="40"/>ti vel rapinae potius reus est: quod etiam apud Ethnico
+          <lb ed="#A" n="41"/>tam graue facinus existimatum est, quam hominem
+          occi<pb ed="#A" n="281-r"/><lb ed="#A" n="1" break="no"/>dere. Nec is a furto immunis est, qui rerum imperitum ali
+          <lb ed="#A" n="2"/>quem in negoriis &amp; contractibus circumscribit, aut pluris
+          <lb ed="#A" n="3"/>vendendo, aut iusto vilius emendo, ab iis qui pretia
+          re<lb ed="#A" n="4" break="no"/>rum ignorant. Quacunque quis arte fuerit vsus in
+          fallen<lb ed="#A" n="5" break="no"/>dis hominibus contrahendo, furtum commisit. Qui
+          no<lb ed="#A" n="6" break="no"/>uis &amp; insuetis vectigalibus praeter necessitatem vllam
+          su<lb ed="#A" n="7" break="no"/>os grauant, in eadem causa esse videntur, de quibus dicit
+          <lb ed="#A" n="8"/>Propheta. Principes tui inobedientes, socii furum: qui cum
+          <lb ed="#A" n="9"/>per rapinas, miserorumque lachrymas diuitias congregent.
+          <lb ed="#A" n="10"/>si minus fures, certe socii furum recte vocantur. Sunt enim
+          <lb ed="#A" n="11"/>ex eorum numero, de quibus scribitur: Videbas furem &amp;
+          <lb ed="#A" n="12"/>currebas cum eo, &amp; cum adulteris portionem tuam pone
+          <lb ed="#A" n="13"/>bas.
+        </p>
+        <p xml:id="ho8ccf-a3lgga-d1e231">
+          Neque vero si ipsi non rapiant, crimine vaccant, sed
+          si<lb ed="#A" n="14" break="no"/>non prohibent eiusmodi facinora, eiusdem criminis
+          affi<lb ed="#A" n="15" break="no"/>nes iudicantur. Qui enim prohiberi potest eum, qui
+          in<lb ed="#A" n="16" break="no"/>iuriam facit, &amp; non prohibet, is non minore, scribit
+          Chr<lb ed="#A" n="17" break="no"/>sostomus, luet poenam, quam qui iniuriam fecit. Contra
+          <lb ed="#A" n="18"/>vero qui dominos suos debitis fraudant vectigalibus, &amp;
+          <lb ed="#A" n="19"/>ipsi fures merito dicuntur. Vix vllum autem crimen est,
+          <lb ed="#A" n="20"/>quod latius quam hoc pateat. Nam &amp; qui mercedem non
+          <lb ed="#A" n="21"/>soluit operario, non est alienus ab hoc crimine. Deinde
+          ve<lb ed="#A" n="22" break="no"/>ro qui non intrant per ostium in ouile ouium, hoc est
+          ma<lb ed="#A" n="23" break="no"/>gistratus &amp; honores. Ecclesiasticos praesertim, pecunia
+          con<lb ed="#A" n="24" break="no"/>parant, eos fures &amp; latrones ipse dominus appellat. Nume
+          <lb ed="#A" n="25"/>rant quidam &amp; haec inter furti genera, Si quis Ecclesiae prae
+          <lb ed="#A" n="26"/>sertim bonis per luxum abutatur, si maiores quam pro
+          cen<lb ed="#A" n="27" break="no"/>su sumptus faciat: consequitur enim necessario, vt omnes
+          <lb ed="#A" n="28"/>corradendae pecuniae rationes excogitet, non sine magno
+          <lb ed="#A" n="29"/>eorum quibus praeest, grauamine.
+        </p>
+        <p xml:id="ho8ccf-a3lgga-d1e268">
+          Caeterum inter omnia
+          <lb ed="#A" n="30"/>furti genera, multo perniciosissimum illud est, cuius
+          Pro<lb ed="#A" n="31" break="no"/>phetas quosdam arguit dominus, qui furabantur verba sua,
+          <lb ed="#A" n="32"/>Quem locum enarrans Hieronymus. Semper, inquit,
+          imi<lb ed="#A" n="33" break="no"/>tatur mendacium veritatem, &amp; nisi habuerit aliquam simi
+          <lb ed="#A" n="34"/>litudinem recti, decipere non potest innocentem.
+          Quomo<lb ed="#A" n="35" break="no"/>do igitur in priori populo mentiebantur Prophetae atque
+          <lb ed="#A" n="36"/>dicebant, Haec dicit Dominus. Et, Vidi dominum. Et,
+          Ver<lb ed="#A" n="37" break="no"/>bum domini, quod factum est ad illum, siue illum: sic
+          hae<lb ed="#A" n="38" break="no"/>retici assumunt testimonia scripturarum, de vetere &amp;
+          no<lb ed="#A" n="39" break="no"/>uo Testamento, &amp; furantur verba Saluatoris, vnusquisque
+          <lb ed="#A" n="40"/>a proximo suo, Prophetis &amp; Apostolis &amp; Euangelistis, &amp;
+          <lb ed="#A" n="41"/>assumunt linguas suas vt cordis venena ore pronuntient,
+          <lb ed="#A" n="42"/>Neque enim competit haereticis scripturarum possessio,
+          <pb ed="#A" n="281-v"/>
+          <lb ed="#A" n="1"/>quam quoties inuadunt, syluam alienam caedunt, fontes
+          <lb ed="#A" n="2"/>alienos transuertunt, limites alienos commouent, in
+          alie<lb ed="#A" n="3" break="no"/>no seminant, &amp; pascunt: quemadmodum pluribus ea de
+          <lb ed="#A" n="4"/>re verbis, Tertullianus disserit. Et propterea recte dicuntur
+          <lb ed="#A" n="5"/>furari verba dei, quorum possessio non pertinet nisi ad
+          Ca<lb ed="#A" n="6" break="no"/>tholicos. Hinc etiam est, quod scriptura doctrinam haeretico
+          <lb ed="#A" n="7"/>rum aquas furtiuas vocat, &amp; panem absconditum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

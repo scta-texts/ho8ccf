@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 10</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 10</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="10-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1k0gg"><!-- c10 -->
+        <head xml:id="ho8ccf-a1k0gg-Hd1e99">Caput 10</head>
+        <head xml:id="ho8ccf-a1k0gg-Hd1e101" type="question-title">Quomodo praecipue Christi passionis beneficia variis modis Ecclesia rudibus inculcare conata est, ac pronum de signo Crucis</head>
+        <p xml:id="ho8ccf-a1k0gg-d1e104">
+          <lb ed="#A" n="14"/>CAPVT DECIMVM.
+          <lb ed="#A" n="15"/>Quomodo praecipue Christi passionis beneficia
+          va<lb ed="#A" n="16" break="no"/>riis modis Ecclesia rudibus inculcare conata est,
+          <lb ed="#A" n="17"/>ac pronum de signo Crucis
+        </p>
+        <p xml:id="ho8ccf-a1k0gg-d1e115">
+          <lb ed="#A" n="18"/><milestone ed="#A" unit="p" rend="initial"/> NEque vero finibus iis circumscripta fuit anxie
+          <lb ed="#A" n="19"/>de salute nostra matris ecclesiae cura &amp;
+          sollicitu<lb ed="#A" n="20" break="no"/>do: non contenta fuit scriptis consignasse,
+          ver<lb ed="#A" n="21" break="no"/>bis praedicasse, certis diebus instituendis inculcas
+          <lb ed="#A" n="22"/>se, quae de Christo credenda sunt, maxime vero, quae
+          sum<lb ed="#A" n="23" break="no"/>ma credendorum est omnium, ineffabile Christi passionis
+          <lb ed="#A" n="24"/>mysterium: etiam signis id repraesentare voluit oculis fide
+          <lb ed="#A" n="25"/>lium, vt nemo tam esset rudis, quin illud cognoscere
+          pos<lb ed="#A" n="26" break="no"/>set. Hinc est ille cruce signandi mos, qui ab ipsis etiam
+          Apo<lb ed="#A" n="27" break="no"/>stolorum temporibus initium sumpsisse videtur, quibus
+          <lb ed="#A" n="28"/>qui fuit magis vicinus Tertullianus: Ad omnem, inquit,
+          <lb ed="#A" n="29"/>progressum atque promotum, ad omnem aditum &amp;
+          exi<lb ed="#A" n="30" break="no"/>tum, ad vestitum &amp; calceatum, ad lauacra, ad mensas, ad
+          <lb ed="#A" n="31"/>lumina, ad cubilia, ad sedilia, quaecunque nos conuersatio
+          <lb ed="#A" n="32"/>exercet, frontem crucis signacula terimus. Quoties terror
+          <lb ed="#A" n="33"/>aliquis aut periculum imminet, toties hoc signo vtimur.
+          <lb ed="#A" n="34"/>neque nobis alio confugiendum esse putamus, quam ad cru
+          <lb ed="#A" n="35"/>cem, domini nostri Iesu Christi, per quam ille cum deuico
+          <lb ed="#A" n="36"/>rit huius mundi principem ac tenebrarum harum, in ea cer
+          <lb ed="#A" n="37"/>tissimum esse nobis praesidium constitutum miter
+          credi<lb ed="#A" n="38" break="no"/>mus. Ipsa enim, vt est apud Chrysostomum, Diaboli
+          pla<lb ed="#A" n="39" break="no"/>ga, daemonum frenum, &amp; chamus est contrariarum
+          virtu<lb ed="#A" n="40" break="no"/>um.
+        </p>
+        <p xml:id="ho8ccf-a1k0gg-d1e168">
+          Itaque fugiunt hoc signum daemones timentes
+          bacu<lb ed="#A" n="41" break="no"/>lum, quo plagam acceperunt. Quod suo quoque periculo
+          di<pb ed="#A" n="11-r"/><lb ed="#A" n="1" break="no"/>dicit aliquando, quamuis a Christiana fide iam
+          defe<lb ed="#A" n="2" break="no"/>cisset, Iulianus imperator, posteaquam specum quandam
+          <lb ed="#A" n="3"/>ingressus ad hoc signum confugerat. Per hoc signum per
+          <lb ed="#A" n="4"/>ficiuntur omnia, quae pertinent ad salutem nostram. Cum
+          <lb ed="#A" n="5"/>regeneramur, Christi crux adest, cum sacratissimo cibo
+          refi<lb ed="#A" n="6" break="no"/>cimur, cum sacros ordines suscipimus, in omnibus deniqui
+          <lb ed="#A" n="7"/>sacramentis maximus est crucis vsus. Hoc signo
+          benedici<lb ed="#A" n="8" break="no"/>tur &amp; sanctificatur omnis creatura, indicium vt sit, quod non
+          <lb ed="#A" n="9"/>aliunde, quam a cruce domini nostri Iesu Christi sacrificatio
+          <lb ed="#A" n="10"/>sit: qui per eam factus ipse pro nobis maledictum, nos a
+          le<lb ed="#A" n="11" break="no"/>gis maledicto redemit. Compendium autem fidei nostra
+          <lb ed="#A" n="12"/>totius, in ipsa nos cruce signandi ratione videre licet.
+          Si<lb ed="#A" n="13" break="no"/>gnum crucis tribus digitis exprimendum esse docet Inno
+          <lb ed="#A" n="14"/>centius, ad significandum trinitatis mysterium. Quod
+          <lb ed="#A" n="15"/>etiam non tacuisse videtur Propheta, cum dixit: Quis
+          ap<lb ed="#A" n="16" break="no"/>pendit tribus digitis molem terrae? Ducitur autem primum
+          <lb ed="#A" n="17"/>a vertice capitis sue frontis vsque ad vmbilicum, vt indice
+          <lb ed="#A" n="18"/>tur, de summo coelo egressum in viscera matris
+          descendis<lb ed="#A" n="19" break="no"/>se dei filium, atque ex purissimis illius sanguinibus carnem
+          <lb ed="#A" n="20"/>nostram suscepisse: Deinde a sinistro brachio ad dextrum.
+          <lb ed="#A" n="21"/>vbi causa simul incarnationis exprimitur. Nam propterea
+          <lb ed="#A" n="22"/>descendit de coelo in terram, propterea reliquit domum
+          <lb ed="#A" n="23"/>suam, dimisit haereditatem suam, dedit dilectam animam
+          <lb ed="#A" n="24"/>suam in manus inimicorum suorum, vt nos qui eramus a
+          <lb ed="#A" n="25"/>sinistris inter hoedos collocandi, transferret ad dextram
+          <lb ed="#A" n="26"/>inter oues suas, vbi vocem illam desideratam audire
+          nobi<lb ed="#A" n="27" break="no"/>liceret: Venite benedicti patris mei, possidere paratum
+          vo<lb ed="#A" n="28" break="no"/>bis regnum a constitutione mundi. Ecce quanta fidei
+          no<lb ed="#A" n="29" break="no"/>strae mysteria, vnica signandi nos cruce forma, nos mater
+          <lb ed="#A" n="30"/>ecclesia docuit, vt si nihil praeterea sciret rudis homo, qui
+          <lb ed="#A" n="31"/>satis assequi caetera non posset, vel hoc propemodum ad
+          sa<lb ed="#A" n="32" break="no"/>lutem illi sufficere queat. Hic incarnatio, hic passio
+          Christi<lb ed="#A" n="33" break="no"/>hic causa passionis, hic simul extremum illud iudicium
+          vni<lb ed="#A" n="34" break="no"/>ca significatione crucis exprimitur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

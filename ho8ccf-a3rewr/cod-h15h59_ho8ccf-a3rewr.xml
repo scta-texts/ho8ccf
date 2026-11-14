@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 88</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 88</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="288-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3rewr"><!-- c88 -->
+        <head xml:id="ho8ccf-a3rewr-Hd1e99">Caput 88</head>
+        <head xml:id="ho8ccf-a3rewr-Hd1e101" type="question-title">De Caeremoniis quae sumuntur a personis</head>
+        <p xml:id="ho8ccf-a3rewr-d1e104">
+          <pb ed="#A" n="288-r"/>
+          <lb ed="#A" n="1"/>CAPVT LXXXVIII.
+          <lb ed="#A" n="2"/>De Ceremoniis quae sionuntur a personis.
+        </p>
+        <p xml:id="ho8ccf-a3rewr-d1e113">
+          <lb ed="#A" n="3"/><milestone ed="#A" unit="p" rend="initial"/> QVae sumuntur a personis, ceremoniae, de iis, quo
+          lo<lb ed="#A" n="4" break="no"/>co de Sacramento ordinis sermo nobis fuit, cum
+          <lb ed="#A" n="5"/>pleraque dixerimus, tanto nunc futuri sumus
+          bre<lb ed="#A" n="6" break="no"/>uiores. Neque enim omnibus in Ecclesia visa
+          sun<lb ed="#A" n="7" break="no"/>mnia conuenire: neque fas esse putatum est, vt sibi quisque,
+          <lb ed="#A" n="8"/>nae vellet, sumeret, vtque legitime non vocatus, munus
+          ali<lb ed="#A" n="9" break="no"/>nod Ecclesiasticum vsurparet.
+        </p>
+        <p xml:id="ho8ccf-a3rewr-d1e132">
+          Verum, quod Paulus
+          dili<lb ed="#A" n="10" break="no"/>enter monuit, omni semper studio laboratum est, vt non
+          <lb ed="#A" n="11"/>lum ordo, verumetiam ordinis ordinandi cura
+          retine<lb ed="#A" n="12" break="no"/>tur in Ecclesia, vt quid personas, quid loca, quid
+          tem<lb ed="#A" n="13" break="no"/>pra deceret, etiam atque etiam circunspiceretur: Non
+          <lb ed="#A" n="14"/>mnes voluit Paulus Apostolos, non omnes Prophetas,
+          <lb ed="#A" n="15"/>on omnes esse Doctores, non omnes Sacerdotes, non
+          <lb ed="#A" n="16"/>mnes Episcopos, non vt sibi quisquam honorem
+          summe<lb ed="#A" n="17" break="no"/>t, sed vt vocaretur tanquam Aaron. Neque sufficere
+          <lb ed="#A" n="18"/>cistimauit, si quis vocatus esset; manuum impositionem
+          <lb ed="#A" n="19"/>ecessariam praeterea iudicauit, de qua &amp; ipsa nihil
+          festi<lb ed="#A" n="20" break="no"/>antius, minusque consyderate statui praecepit. Cui vero
+          <lb ed="#A" n="21"/>anus essent impositae, signum id erat, quod non iam
+          <lb ed="#A" n="22"/>surpauerit, verum approbatione Ecclesiae, &amp; Spiritu
+          san<lb ed="#A" n="23" break="no"/>to authore delatum sibi publicum in Ecclesia
+          ministran<lb ed="#A" n="24" break="no"/>munus acceperit. Praecedebant autem impositionem
+          <lb ed="#A" n="25"/>manuum, ieiunia &amp; orationes, quibus placatus Deus,
+          gra<lb ed="#A" n="26" break="no"/>am per ea suam ordinandis largiretur: quem etiam nunc
+          <lb ed="#A" n="27"/>bseruari morem videmus. Neque enim ordines, quos
+          <lb ed="#A" n="28"/>maiores vocant, conferuntur, nisi post triduanum
+          ieiu<lb ed="#A" n="29" break="no"/>ium, in quorum collatione solennes etiam ritus
+          praeca<lb ed="#A" n="30" break="no"/>sonum, chrismatum, praelectionum, examinum,
+          testifi<lb ed="#A" n="31" break="no"/>ationum &amp; dumentorum adhibentur. Quae si minus
+          <lb ed="#A" n="32"/>dem omnia modo factitata sunt ab Apostolis, magna
+          ta<lb ed="#A" n="33" break="no"/>hen ex parte per manus ab illis tradita retinemus. Quod
+          <lb ed="#A" n="34"/>successu temporis adiectum est aliquid ad ea, quae tempo
+          <lb ed="#A" n="35"/>bus Apostolorum in vsu fuerunt, factum id est, quo
+          reli<lb ed="#A" n="36" break="no"/>iosiores &amp; augustiores Ecclesiasticae functiones
+          redde<lb ed="#A" n="37" break="no"/>antur, atque vt ordini publico majestas quaedam diuini
+          <lb ed="#A" n="38"/>piritus adderetur, ne vel ii, qui manus imponunt, parum
+          <lb ed="#A" n="39"/>ssent in legendis ministris circunspecti, vel ii quibus
+          im<lb ed="#A" n="40" break="no"/>onuntur, cum se tanta vident obseruatione receptos
+          do<lb ed="#A" n="41" break="no"/>um suum contemnerent, &amp; parui facerent.
+        </p>
+        <p xml:id="ho8ccf-a3rewr-d1e205">
+          Quod vero non
+          <lb ed="#A" n="42"/>dunttuntur ad ministernum Ecclesiae nisi coelibes, non
+          <pb ed="#A" n="288-v"/>
+          <lb ed="#A" n="1"/>ideo fit, quod caelibatus pro cultu Dei habeatur, sicut quot
+          <lb ed="#A" n="2"/>dam hoc tempore somniare videmus: nam &amp; caelibes repe
+          <lb ed="#A" n="3"/>rire licet cuiuis potius quam Deo seruientes, sed quod qui
+          <lb ed="#A" n="4"/>se propter Dei regnum castrauerunt, multo sunt ad
+          colen<lb ed="#A" n="5" break="no"/>dum Deum expeditiores, quam qui matrimonio sunt irre
+          <lb ed="#A" n="6"/>titi. Quamuis enim non eat quisquam inficias, quin
+          ho<lb ed="#A" n="7" break="no"/>nesta sit res matrimonium: tamen saeculi curis quamlibet
+          <lb ed="#A" n="8"/>nolentem inuoluit hominem, quibus quantum additur
+          <lb ed="#A" n="9"/>studii, tantum sacris rebus deciditur. Testatur hoc
+          Apo<lb ed="#A" n="10" break="no"/>stolus quoque, cum orationes impediri dicat vsu coniugij
+          <lb ed="#A" n="11"/>Quamobrem vult omnes esse sine sollicitudine. Qui sine
+          <lb ed="#A" n="12"/>vxore est, inquit, sollicitus est, quae domini sunt, quomodo
+          <lb ed="#A" n="13"/>placeat Deo: qui autem cum vxore est, sollicitus est quae
+          <lb ed="#A" n="14"/>sunt mundi, quomodo placeat vxori &amp; diuisus est. Et
+          mu<lb ed="#A" n="15" break="no"/>lier innupta, &amp; virgo, cogitat quae domini sunt, vt sit
+          san<lb ed="#A" n="16" break="no"/>cta &amp; corpore &amp; spiritu: quae autem nupta est, cogitat quo
+          <lb ed="#A" n="17"/>sunt mundi, quomodo placeat viro. Quoniam igitur qui
+          <lb ed="#A" n="18"/>sunt matrimonio irretiri, partem eorum occupat mundus,
+          <lb ed="#A" n="19"/>partem Christus, dum sic placere Christo satagunt, vt
+          con<lb ed="#A" n="20" break="no"/>iugi quisquam suae, cui debet obsequium, non displiceat,
+          <lb ed="#A" n="21"/>cuius causa mundi curis, implicari necesse habet: ideo
+          fa<lb ed="#A" n="22" break="no"/>ctum est, vt coelibes tantum ad sacerdotium
+          admitteren<lb ed="#A" n="23" break="no"/>tur, quos nihil impedit, quominus omni studio in eam co
+          <lb ed="#A" n="24"/>gitationem incumbant, quomodo sponso suo Christo
+          pla<lb ed="#A" n="25" break="no"/>cere queant, nec est quicquam quod eos ab ipsius iugi
+          cul<lb ed="#A" n="26" break="no"/>tu remoretur. Qua de re pluribus etiam verbis in
+          Asceti<lb ed="#A" n="27" break="no"/>cis disserit Basilius, vbi qui Christi militiae nomen
+          datu<lb ed="#A" n="28" break="no"/>rus est, eum a matrimonio modis omnibus deterret, ac ad
+          <lb ed="#A" n="29"/>coelibem vitam amplectendam inuitat. Quo quidem in
+          <lb ed="#A" n="30"/>loco; non modo coniugio interdicit ei, qui Christo stipen
+          <lb ed="#A" n="31"/>dia facere decreuerit, verum &amp; priuatarum facultatum
+          pos<lb ed="#A" n="32" break="no"/>sessionem eum a se relegare, quin &amp; voluntati suae proprie
+          <lb ed="#A" n="33"/>renuntiare, seque in potestatem alterius tradere vult, vt sic
+          <lb ed="#A" n="34"/>nudus nudum Christum sequatur, ac non modo nullas
+          <lb ed="#A" n="35"/>facultates, sed ne voluntatem quidem propriam habeat,
+          <lb ed="#A" n="36"/>quo sic ab omnibus mundi curis liber totus Christo spon
+          <lb ed="#A" n="37"/>so suo vacare queat, illiusque potestati se quantus quantus
+          <lb ed="#A" n="38"/>est, suaque omnia subiiciat. Non est itaque cultus Dei
+          caeliba<lb ed="#A" n="39" break="no"/>tus aut monachatus, sed est ad colendum Deum via
+          quae<lb ed="#A" n="40" break="no"/>dam expeditior.
+        </p>
+        <p xml:id="ho8ccf-a3rewr-d1e299">
+          Quamobrem impudens eorum
+          commen<lb ed="#A" n="41" break="no"/>tum est, qui monacharum, caelibatum, votaque castitatis,
+          <lb ed="#A" n="42"/>paupertatis, &amp; obedientiae, ad idololatriam pertinere
+          di<pb ed="#A" n="289-r"/><lb ed="#A" n="1" break="no"/>tunt: cum non aliam sequantur colendi Dei rationem
+          mo<lb ed="#A" n="2" break="no"/>nachi, coelibes, &amp; votis quae iam recensuimus obstricti,
+          <lb ed="#A" n="3"/>quam reliqui Christiani omnes. Vna cunctorum est
+          reli<lb ed="#A" n="4" break="no"/>gio, vna fides, eadem fidei Sacramenta, eadem spes, eadem
+          <lb ed="#A" n="5"/>beatitudinis expectatio, eadem charitas, eadem orandi
+          re<lb ed="#A" n="6" break="no"/>gula, idem ministerium, non alius vt sit monachi, &amp;
+          coeli<lb ed="#A" n="7" break="no"/>bis cultus quam coniugati, nisi quod magis ille continuus
+          <lb ed="#A" n="8"/>est, &amp; minus habet interpellationis. Nam quacunque tan
+          <lb ed="#A" n="9"/>Hem in re verum Dei cultum constitueris, non alius
+          mo<lb ed="#A" n="10" break="no"/>nachi quam laici, non alius erit cultus coelibis, quam con
+          <lb ed="#A" n="11"/>iugati. Quod si fide, spe, charitate, recte coli Deum
+          existi<lb ed="#A" n="12" break="no"/>naueris, non est alia monachi fides, alia coniugati, eundem
+          <lb ed="#A" n="13"/>Deum colunt, in eundem credunt, ab eodem sperant,
+          eun<lb ed="#A" n="14" break="no"/>dem diligunt. Sin autem in contemplando Deo, Psalmis
+          <lb ed="#A" n="15"/>&amp; Canticis, Hymnis &amp; laudibus prosequendo, si in
+          pecca<lb ed="#A" n="16" break="no"/>torum agnitione, in corporis &amp; sanguinis Christi
+          partici<lb ed="#A" n="17" break="no"/>patione, in eius seruitutis, quae latria dicitur, exhibitione
+          <lb ed="#A" n="18"/>cultum Dei situm esse iudicaueris: quicquid tandem illud
+          <lb ed="#A" n="19"/>fuerit, quo vere Deum coli dixeris, commune est
+          mona<lb ed="#A" n="20" break="no"/>cho &amp; laico, coelibi &amp; coniugato. Quod vero hic vxoris
+          <lb ed="#A" n="21"/>vsu sibi ipse interdixit, ille vero praeter hanc coelibatus,
+          <lb ed="#A" n="22"/>alias quoque sibi nouas leges adsciuit, in quas voluntaria
+          <lb ed="#A" n="23"/>primum animi indictione cum iurasset, earum postea
+          ser<lb ed="#A" n="24" break="no"/>uandarum necessitate constringeretur: non alia de causa
+          <lb ed="#A" n="25"/>factum est, quam vt iis, tanquam arctioribus vinculis, in
+          <lb ed="#A" n="26"/>studiis pietatis teneretur, atque curis aliis omnibus vacuus,
+          <lb ed="#A" n="27"/>tanto liberior &amp; expeditior debitum Deo cultum
+          praesta<lb ed="#A" n="28" break="no"/>ret, reiectis omnibus iis, quibus a Deo retardari possit.
+          <lb ed="#A" n="29"/>Non est igitur alienus aliquis cultus coelibatus, aut mona
+          <lb ed="#A" n="30"/>chatus, neque peccat contra primum praeceptum, quo deos
+          <lb ed="#A" n="31"/>alienos habere prohibemur, si quis aut coelibatum, aut
+          <lb ed="#A" n="32"/>monasticae vitae genus aliquod sit amplexus. Nam hoc
+          as<lb ed="#A" n="33" break="no"/>seueranter dicere, quid aliud fuerit, quam vniuersam
+          Ec<lb ed="#A" n="34" break="no"/>clesiam iam inde ab Apostolorum temporibus adhaec vsque
+          <lb ed="#A" n="35"/>nostra, idololatriae condemnare? Quis enim fuit ex
+          pri<lb ed="#A" n="36" break="no"/>mis illis Ecclesiae luminibus, qui non aut monachus ipse fue
+          <lb ed="#A" n="37"/>rit, aut in summa veneratione monachos habuerit? Sunt
+          <lb ed="#A" n="38"/>qui ipsos etiam Apostolos cenobiorum primos authores
+          <lb ed="#A" n="39"/>fuisse dicant. Certe Cassianus a Marco Euangelista
+          mo<lb ed="#A" n="40" break="no"/>nachos normam suscepisse viuendi scribit.
+        </p>
+        <p xml:id="ho8ccf-a3rewr-d1e394">
+          Verum vt nihil
+          <lb ed="#A" n="41"/>dicamus de Apostolis, nihil de iis, qui in Aegypto,
+          Thebai<lb ed="#A" n="42" break="no"/>de, Syria, Scythia, ingenti numero fuere monasticam
+          <pb ed="#A" n="289-v"/>
+          <lb ed="#A" n="1"/>professi, nihil de Antoniis, Paulis, Hylarionibus, &amp;
+          mul<lb ed="#A" n="2" break="no"/>tis aliis eorum sectatoribus: certe beatum Ephem,
+          Basi<lb ed="#A" n="3" break="no"/>lium, Hieronymum, Augustinum, Gregorium, &amp;
+          quam<lb ed="#A" n="4" break="no"/>plurimos alios, qui non doctrinae magis, quam sanctitatis
+          <lb ed="#A" n="5"/>nomine cumprimis in Ecclesia celebres habentur, mona
+          <lb ed="#A" n="6"/>chos fuisse dubium est nemini: qui vero alii monachi non
+          <lb ed="#A" n="7"/>fuerunt, monachos nihilominus recepisse, laudasse,
+          suspe<lb ed="#A" n="8" break="no"/>xisse. Ex quorum numero Athanasius, quemadmodum a
+          <lb ed="#A" n="9"/>Gregorio Nazianzeno memoriae proditum legimus,
+          ope<lb ed="#A" n="10" break="no"/>repretium se facturum esse putauit, si vitam Anthonii mo
+          <lb ed="#A" n="11"/>nachi conscriberet. Ioannes vero Chrysostomus,
+          praeter<lb ed="#A" n="12" break="no"/>quam quod in quibusdam locis monachorum insuturum
+          <lb ed="#A" n="13"/>in coelum vsque laudibus vexit, ac e superiore templi
+          lo<lb ed="#A" n="14" break="no"/>co suos, vt eorum insequerentur vestigia, diligenter est
+          <lb ed="#A" n="15"/>hortatus, etiam tres libros aduersus vitae monasticae vitu
+          <lb ed="#A" n="16"/>peratores aedidit.
+        </p>
+        <p xml:id="ho8ccf-a3rewr-d1e438">
+          Quid igitur dicemus? Nunquid
+          om<lb ed="#A" n="17" break="no"/>nes hos idololatras pronuntiabimus, vt monachos aliquot
+          <lb ed="#A" n="18"/>apostatas nostri temporis, a periurii crimine, cuius rei sunt
+          <lb ed="#A" n="19"/>propter vorum, quo Deo se obstrinxerunt, violatum,
+          li<lb ed="#A" n="20" break="no"/>beremus? Nos vero potius haereticos esse censebimus,
+          <lb ed="#A" n="21"/>quos a tam sanctis patribus, inflatos sensu carnis suae,
+          tan<lb ed="#A" n="22" break="no"/>topere dissentire videmus, qui suo ipsorum iudicio
+          con<lb ed="#A" n="23" break="no"/>demnati, quod ab Ecclesia factum oportuit, vt eos e caetu
+          <lb ed="#A" n="24"/>piorum euceret, id priores ipsi fecerunt, seque vltro a
+          Chri<lb ed="#A" n="25" break="no"/>sti corpore, a sancta catholica Ecclesia praeciderunt. Qui
+          <lb ed="#A" n="26"/>vero peruersas istorum hominum opiniones, tanquam Dei
+          <lb ed="#A" n="27"/>verbum suscipiunt &amp; adorant, atque eorum potius, qui ipsi
+          <lb ed="#A" n="28"/>inter se dissident, prauum sensum, quam pium totius
+          Ec<lb ed="#A" n="29" break="no"/>clesiae, tot saeculorum consensum sequuntur,
+          quemadmo<lb ed="#A" n="30" break="no"/>dum ab idololatriae crimine defendi possint, non
+          vide<lb ed="#A" n="31" break="no"/>mus. Verum nos hic monasticae vitae propugnationem non
+          <lb ed="#A" n="32"/>suscepimus. Cum igitur quantum praesens postulat
+          insti<lb ed="#A" n="33" break="no"/>tutum, de caeremoniis quae sumuntur a personis, satis mul
+          <lb ed="#A" n="34"/>ta dixisse videamur, ad alia properabit oratio
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

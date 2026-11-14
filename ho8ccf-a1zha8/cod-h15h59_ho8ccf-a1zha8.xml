@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 25</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 25</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="45-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1zha8"><!-- c25 -->
+        <head xml:id="ho8ccf-a1zha8-Hd1e99">Caput 25</head>
+        <head xml:id="ho8ccf-a1zha8-Hd1e101" type="question-title">Tertia nota Ecclesiae, quod sit una</head>
+        <p xml:id="ho8ccf-a1zha8-d1e104">
+          <lb ed="#A" n="5"/>CAPVT XXV
+          <lb ed="#A" n="6"/>Tertia nota Ecclesiae, quod sit vna
+        </p>
+        <p xml:id="ho8ccf-a1zha8-d1e111">
+          <lb ed="#A" n="7"/>ATque haec tertia est Ecclesiae nota, qua dinosci
+          <lb ed="#A" n="8"/>possit ab iis, qui vel praecisi sunt ab ea, cuius
+          ge<lb ed="#A" n="9" break="no"/>neris sunt, quibus interdictum est piorum coetu,
+          <lb ed="#A" n="10"/>quos vocamus excommunicatos, vel qui ipsi
+          se<lb ed="#A" n="11" break="no"/>vltro praeciderunt, quales sunt haeretici &amp; schismatici,
+          <lb ed="#A" n="12"/>Quos cum in tot sectas misere dissectos videamus, manet
+          <lb ed="#A" n="13"/>nihilominus Ecclesia nostra catholica vna: de qua
+          spon<lb ed="#A" n="14" break="no"/>sus in Canticis clamat: Vna est columba mea, perfecta
+          <lb ed="#A" n="15"/>mea, via est matri suae. Hanc illius vnitatem significauit.
+          <lb ed="#A" n="16"/>inconsutilas illa Christi tunica, quam qui Christum
+          cruci<lb ed="#A" n="17" break="no"/>fixerunt milites, non scindendam, sed iuxta id, quod
+          prae<lb ed="#A" n="18" break="no"/>dixerat Propheta, sortem super eam mittendam esse
+          cen<lb ed="#A" n="19" break="no"/>suerunt. Hanc significauit vna illa domus, in qua
+          comme<lb ed="#A" n="20" break="no"/>debatur agnus, qui figura fuit agni illius incontaminati
+          <lb ed="#A" n="21"/>Christi, ab origine mundi occisi. Hanc expressit
+          Aposto<lb ed="#A" n="22" break="no"/>lus quum dixit: Vnum corpus, vnus spiritus, sicut vocat,
+          <lb ed="#A" n="23"/>estis in vna spe vocationis vestrae. Visibilibus illa rebus
+          <lb ed="#A" n="24"/>nimirum sacramentis, fidei confessione, bonis operibus
+          <lb ed="#A" n="25"/>publicis orationibus, in locum etiam saepe visibilem, quae
+          <lb ed="#A" n="26"/>domus orationis dicitur, congregatur. Et propterea vocat
+          <lb ed="#A" n="27"/>eam Apostolus vnum corpus, quod ex multis visibilibus
+          <lb ed="#A" n="28"/>membris constet, ne quis commentitiam aliquam esse
+          di<lb ed="#A" n="29" break="no"/>cat, quae sub hominis aspectum non cadat.
+        </p>
+        <p xml:id="ho8ccf-a1zha8-d1e163">
+          Porro qui con
+          <lb ed="#A" n="30"/>gregat eam, qui vitam huic praestat corpori, spiritus
+          san<lb ed="#A" n="31" break="no"/>ctus est: Propterea spiritum etiam vnum appellat, quod
+          <lb ed="#A" n="32"/>per cam in cordibus hominum diffusa charitate
+          retine<lb ed="#A" n="33" break="no"/>tur vitas in vinculo pacis, vt idipsum dicant, id
+          ip<lb ed="#A" n="34" break="no"/>sum sentiant, idem sapiant omnes, atque vnanimo
+          <lb ed="#A" n="35"/>vno ore honorificent Deum &amp; patrem Domini nostri
+          <lb ed="#A" n="36"/>Iesu Christi. Sola ergo sancta catholica Ecclesia vna
+          <lb ed="#A" n="37"/>est, terra est vnius labij, vnus in ea Christus adoratur, vna
+          <lb ed="#A" n="38"/>regula veritatis obseruatur, denique multitudinis
+          creden<lb ed="#A" n="39" break="no"/>tium est cor vnum, &amp; anima vna. Quod etiam Beda te
+          <lb ed="#A" n="40"/>statur his verbis: Reuera omnes per orbem catholici vnam
+          <lb ed="#A" n="41"/>veritatis regulam sequuntur, non autem omnes haeretio
+          <pb ed="#A" n="45-v"/>
+          <lb ed="#A" n="1"/>&amp; infideles vnanimo errori consentiunt, verum non
+          mi<lb ed="#A" n="2" break="no"/>nus semet alterutrum, quam ipsam veritatis viam
+          impug<lb ed="#A" n="3" break="no"/>nant. Videre autem licet admirabilem curam illius &amp;
+          sol<lb ed="#A" n="4" break="no"/>licitudinem in vnanimitate spiritus retinenda. Cum enim
+          <lb ed="#A" n="5"/>ex multis constet ecclesiis, quae tamen omnes vna sunt
+          <lb ed="#A" n="6"/>Ecclesia, quum per orbem vniuersum longe lateque diffusa,
+          <lb ed="#A" n="7"/>linguarumque &amp; morum in ea sit magna diuersitas, eosdem
+          <lb ed="#A" n="8"/>tamen ritus, easdem vbique seruat ceremonias, quin &amp;
+          lin<lb ed="#A" n="9" break="no"/>gua non nisi vna &amp; eadem nimirum Latina sacrificia
+          <lb ed="#A" n="10"/>peragit, laudesque Deo decantat, vt si quis etiam ab
+          extre<lb ed="#A" n="11" break="no"/>mo orbe veniat homo Christianus, esse ibi cor vnum, ani
+          <lb ed="#A" n="12"/>mam vnam, spiritum vnum intelligat. Nunc tu mihi
+          <lb ed="#A" n="13"/>eos circumspice, qui nomen Euangelii praetendentes, vt
+          <lb ed="#A" n="14"/>erroris in eo sui latebras constituant, se ab vna hac
+          san<lb ed="#A" n="15" break="no"/>cta catholica Ecclesia segregauerunt, quot homines,
+          to<lb ed="#A" n="16" break="no"/>esse prope de dogmatibus fidei sententias, neque
+          nobis<lb ed="#A" n="17" break="no"/>tum magis, quam ipsos inter se digladiari &amp; dissidere
+          <lb ed="#A" n="18"/>videbis, vt nullum adferri certius erroris eorum
+          argu<lb ed="#A" n="19" break="no"/>mentum possit. In vna domo duos aliquando reperire
+          <lb ed="#A" n="20"/>vix licet, qui sibi inuicem ex omni parte consentiant,
+          <lb ed="#A" n="21"/>quodque maiore etiam dignum est admiratione, aliud eos
+          <lb ed="#A" n="22"/>iisdem de rebus hodie, cras aliud sentire videas.
+        </p>
+        <p xml:id="ho8ccf-a1zha8-d1e242">
+          Hinc
+          il<lb ed="#A" n="23" break="no"/>lud praeclare dictum a Christiano &amp; catholico principe
+          <lb ed="#A" n="24"/>Georgio quondam Saxoniae duce commemoratur: Nam
+          <lb ed="#A" n="25"/>scire se quidem dicebat, quid hoc anno crederent vicini
+          <lb ed="#A" n="26"/>sui Vuittembergenses: quid vero proxime insequenti an
+          <lb ed="#A" n="27"/>no credituri essent, se nescire, quod subinde dogmata sua
+          <lb ed="#A" n="28"/>variarent. Indicant hoc non modo libelli eorum, verum
+          <lb ed="#A" n="29"/>&amp; ritus toties correcti &amp; mutati. Conati sunt illi alta
+          sa<lb ed="#A" n="30" break="no"/>piendo, &amp; humilibus non consentiendo. turrim Babel ex
+          <lb ed="#A" n="31"/>truere, Ecce autem, quomodo depressit Deus eorum arro
+          <lb ed="#A" n="32"/>gantiam? Quae fuit aliquando terra vnius labii, tantam
+          <lb ed="#A" n="33"/>in ea nunc linguarum confusionem factam esse cernimus,
+          <lb ed="#A" n="34"/>vt non modo mutuo se, verum etiam ipsi se non
+          intelli<lb ed="#A" n="35" break="no"/>gant. Sic vbi fuit non ita pridem sancta ciuitas
+          Hieru<lb ed="#A" n="36" break="no"/>talem, cuius participatio in idipsum, ibi nunc facta est
+          Ba<lb ed="#A" n="37" break="no"/>bylon mater formicationum, &amp; abominationum, terra
+          fa<lb ed="#A" n="38" break="no"/>cta est habitatio daemoniorum, &amp; custodia omnis
+          spiri<lb ed="#A" n="39" break="no"/>tus immundi. De vtraque ciuitate sic scribit venerabilis
+          <lb ed="#A" n="40"/>Beda. Bene in Babylonis constructione linguarum
+          vni<lb ed="#A" n="41" break="no"/>tas per spiritum superbiae scissa, in Hierosolyma est per
+          <lb ed="#A" n="42"/>gratiam sancti spiritus linguarum varietas adunata: &amp;
+          <pb ed="#A" n="46-r"/>
+          <lb ed="#A" n="1"/>in illa confusio, haec visio pacis interpretatur, quia
+          vide<lb ed="#A" n="2" break="no"/>licet electos in pluribus linguis &amp; gentibus, vna fides ac
+          <lb ed="#A" n="3"/>pietas toto orbe pacificandos confirmat, reprobos
+          au<lb ed="#A" n="4" break="no"/>tem plures sectae quam linguae dissociando confundunt.
+          <lb ed="#A" n="5"/>Quis autem alius exitus est expectandus, nisi quem
+          prae<lb ed="#A" n="6" break="no"/>dixit propheta? Diuisum est, inquit, cor eorum, nunc
+          in<lb ed="#A" n="7" break="no"/>teribunt, cum praesertim a Christo quoque dictum sit,
+          <lb ed="#A" n="8"/>quod omne regnum in seipsum diuisum desolabitur.
+          Bel<lb ed="#A" n="9" break="no"/>lum haereticorum pax est Ecclesiae: Fidem illi nostram,
+          <lb ed="#A" n="10"/>sicut ab Hilario scriptum est, dum sibi aduersantur,
+          con<lb ed="#A" n="11" break="no"/>firmant.
+        </p>
+        <p xml:id="ho8ccf-a1zha8-d1e314">
+          Neque vero nostro tantum hoc aeuo sic
+          accidis<lb ed="#A" n="12" break="no"/>se putandum est: Iampridem hoc ita futurum propheta
+          <lb ed="#A" n="13"/>praedixit. Et concurrere, inquit, faciam Aegyptios
+          aduer<lb ed="#A" n="14" break="no"/>sus Aegyptios. Scripsit etiam antiquissimus Tertullianus
+          <lb ed="#A" n="15"/>de sui temporis haereticis, quod etiam a regulis ipsi fuis
+          <lb ed="#A" n="16"/>variant inter se, dum suo proinde modulatur vnusquisque
+          <lb ed="#A" n="17"/>arbitrio quae accipit, quemadmodum de arbitrio suo
+          e<lb ed="#A" n="18" break="no"/>composuit ille, qui tradidit. Suo quoque de saeculo
+          scri<lb ed="#A" n="19" break="no"/>bit Hilarius: Periculosum nobis admodum atque etiam
+          <lb ed="#A" n="20"/>miserabile est, tot nunc fides existere, quot voluntates: &amp;
+          <lb ed="#A" n="21"/>tot nobis doctrinas, quot mores: &amp; tot causas
+          blasphe<lb ed="#A" n="22" break="no"/>miarum pullulare, quot vitia sunt, dum aut ita fides scribun
+          <lb ed="#A" n="23"/>tur vt volumus, aut ita vt volumus intelliguntur. Et cum
+          <lb ed="#A" n="24"/>secundum vnum Deum &amp; vnum dominum, &amp; vnum
+          bap<lb ed="#A" n="25" break="no"/>tisma, etiam fides vna sit, excedimus ab ea fide quae sola est,
+          <lb ed="#A" n="26"/>&amp; dum plures fiunt, ad id ceperunt esse ne vlla sit. Et in con
+          <lb ed="#A" n="27"/>futatione synodi, quae salso septima dicta est, Epiphanius:
+          <lb ed="#A" n="28"/>Hunc morem habent haeretici, quoties vno verbo
+          pieta<lb ed="#A" n="29" break="no"/>tem contempserint, &amp; a via ventatis aberrauerint, in
+          mul<lb ed="#A" n="30" break="no"/>tos &amp; varios errores labi, vniformis enim res veritas,
+          <lb ed="#A" n="31"/>mendacium autem in varia distrahitur. Et Nicephorus
+          <lb ed="#A" n="32"/>in sua Ecclesiastica historia sic scribit.
+        </p>
+        <p xml:id="ho8ccf-a1zha8-d1e362">
+          Sed non diu
+          haere<lb ed="#A" n="33" break="no"/>ticos tulit, qui salutis nostrae curam gerit Deus, nam
+          adul<lb ed="#A" n="34" break="no"/>terina Ecclesiae dogmata quae paulatim emicuerant,
+          bre<lb ed="#A" n="35" break="no"/>ui sunt extincta: ita seipsis inter se abolita, cum alii
+          su<lb ed="#A" n="36" break="no"/>per alios nouis rebus studerent, atque inter se
+          conflictaren<lb ed="#A" n="37" break="no"/>tur, non aliter quam fluctuum commotiones insui
+          gen<lb ed="#A" n="38" break="no"/>tes subinde atque decidentes in varias multiplicesque
+          ab<lb ed="#A" n="39" break="no"/>eunt formas, &amp; postremo vt nihil eorum appareat
+          ena<lb ed="#A" n="40" break="no"/>nescunt. Contra veritatis ipsius causa tum incrementa sua
+          <lb ed="#A" n="41"/>capiebat, magisque indies augebatur, accessionem quandam
+          <pb ed="#A" n="46-v"/>
+          <lb ed="#A" n="1"/>&amp; robur certum ex haereticorum insultu sumens. Semper
+          <lb ed="#A" n="2"/>enim sibi constabat ecclesiae catholicae splendor &amp; status,
+          <lb ed="#A" n="3"/>&amp; grauitas eius, modestia, libertas, diuinus vitae morumque
+          <lb ed="#A" n="4"/>diuersorum ordo, doctrinaeque synceritas apud Graecos
+          si<lb ed="#A" n="5" break="no"/>mul &amp; barbaros mirifice relucere cernebatur. Quoties
+          <lb ed="#A" n="6"/>haeresis exorta est in ecclesia, non fere sola exorta est. Nolo
+          <lb ed="#A" n="7"/>nic commemorare Arrios, Eunomios, Macedonios,
+          Mar<lb ed="#A" n="8" break="no"/>tiones, quorum sectae iam sunt obsoletae: quos in partes alii
+          <lb ed="#A" n="9"/>quot fuisse diuisos Ambrosius, Epiphanius, Ruffinus,
+          So<lb ed="#A" n="10" break="no"/>crates, Theodoritus, Sozomenus, Nicephorus, ac qui
+          prae<lb ed="#A" n="11" break="no"/>cessit hos omnes Eusebius memoriae prodiderunt, ita vt
+          <lb ed="#A" n="12"/>cum eorum essent plura nomina, vna tamen esset perfidia,
+          <lb ed="#A" n="13"/>impietate non dissonans, communione discordans, non
+          <lb ed="#A" n="14"/>dissimili fraude, sed cogitatione discreta. Neque dicam de
+          <lb ed="#A" n="15"/>iis, quibus aeuo suo ante quadringentos annos idem
+          acci<lb ed="#A" n="16" break="no"/>disse scribit Bernardus. Patrum aut certe auorum nostro
+          <lb ed="#A" n="17"/>rum memoria secta quaedam in Boemia &amp; Morauia
+          na<lb ed="#A" n="18" break="no"/>ta est eorum, qui vtramque speciem eucharistiae necessario
+          <lb ed="#A" n="19"/>summi a Christianis omnibus debere contenderent:
+          Nun<lb ed="#A" n="20" break="no"/>quid ea sola fuit? minime gentium, simul vt ab ecclesiae
+          <lb ed="#A" n="21"/>consensu semel discessum est, ita variae sunt &amp; multae ex
+          <lb ed="#A" n="22"/>vna hac haereses propagatae, vt, quod omnibus in confesso
+          <lb ed="#A" n="23"/>est, qui per eas prouincias iter faciunt, intra vnius oppidi
+          <lb ed="#A" n="24"/>moenia sex aut septem etiam sectas reperire liceat, raraque
+          <lb ed="#A" n="25"/>domus est, in qua non aliud maritus, aliud vxor, aliud
+          li<lb ed="#A" n="26" break="no"/>beri, aliud credat familia. Sic sit, vbi ab vno, vbi a vero
+          <lb ed="#A" n="27"/>bi ab vnius sanctae catholicae ecclesiae consensu
+          discedi<lb ed="#A" n="28" break="no"/>tur: Veritas enim haudquaquam esse multiplex potest: sed
+          <lb ed="#A" n="29"/>vt spiritus diuinus vnicus est, ita verum, quod illo docente
+          <lb ed="#A" n="30"/>cognoscitur, non nisi vnum est. Atque ea demum vera
+          do<lb ed="#A" n="31" break="no"/>ctrina est, &amp; hoc veros doctores arguit, quemadmodum
+          <lb ed="#A" n="32"/>a maioribus traditum esse refert Athanasius, vt eadem in
+          <lb ed="#A" n="33"/>ter sese profiteantur, neque diuersa sentiant, vel inter ipsos
+          <lb ed="#A" n="34"/>vel a suis maioribus dissidentes. Etenim qui in hunc
+          mun<lb ed="#A" n="35" break="no"/>dum affecti non sunt, improbi potius quam veri doctores
+          <lb ed="#A" n="36"/>dicendi sunt.
+        </p>
+        <p xml:id="ho8ccf-a1zha8-d1e464">
+          Quamobrem euenit eiusmodi, quod
+          viato<lb ed="#A" n="37" break="no"/>ribus vsu venire solet, si quando a recto innere
+          aberra<lb ed="#A" n="38" break="no"/>runt: vt enim illi alias ex aliis semitas ingredientes
+          vagan<lb ed="#A" n="39" break="no"/>tur &amp; errant, nullum peritum regionum ducem sequuti,
+          <lb ed="#A" n="40"/>sic isti duce carentes Ecclesia, quam reliquerunt, quum de
+          <lb ed="#A" n="41"/>rectae fidei religionisque curriculo deflexerint, alia ex aliis
+          <lb ed="#A" n="42"/>impietatis diuerticula sunt ingressi, capitibusque
+          dissecti<pb ed="#A" n="47-r"/><lb ed="#A" n="1" break="no"/>cauda vero colligari, in sola vnius sanctae catholicae
+          Eccle<lb ed="#A" n="2" break="no"/>siae sentientia oppugnanda sunt concordes, haud aliter, quam
+          <lb ed="#A" n="3"/>olim Herodes &amp; Pilatus inter se paulo ante dissidentes
+          <lb ed="#A" n="4"/>in Dornimi passione fuerunt amicitia foederati. Huius rei
+          <lb ed="#A" n="5"/>figuram fuisse putat Augustinus, quod Samson vulpium
+          <lb ed="#A" n="6"/>taudas colligasse legitur: Vulpes enim insidiosos maximo
+          <lb ed="#A" n="7"/>haereticos significant, dolosos, fraudulentos, cauernosis an
+          <lb ed="#A" n="8"/>fractibus latentes, &amp; decipientes, de quibus etiam in
+          Can<lb ed="#A" n="9" break="no"/>ticis dicitur: Capite nobis vulpeculas exterminantes vi
+          <lb ed="#A" n="10"/>neas. Die iis intelligi vult Rupertus, quod in Apocalypsi
+          <lb ed="#A" n="11"/>scriptum est: Commanducauerunt linguas suas.
+          Quo<lb ed="#A" n="12" break="no"/>modo, inquit, commanducauerunt? mirum contra
+          se<lb ed="#A" n="13" break="no"/>metipsos sentiendo. Nam contra catholicam quidem Ec
+          <lb ed="#A" n="14"/>clesiam pari &amp; quasi concordi malignitatis spiritu
+          depu<lb ed="#A" n="15" break="no"/>gnant, sed contra semet ipsos discorditer confligendo, hae
+          <lb ed="#A" n="16"/>reses multifidas fecerunt, &amp; ita suas quisque partes
+          defen<lb ed="#A" n="17" break="no"/>dendo, contendendo, atque rixando, linguas suas
+          com<lb ed="#A" n="18" break="no"/>manducant.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

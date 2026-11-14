@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 36</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 36</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="69-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2bys5"><!-- c36 -->
+        <head xml:id="ho8ccf-a2bys5-Hd1e99">Caput 36</head>
+        <head xml:id="ho8ccf-a2bys5-Hd1e101" type="question-title">De Ministro huius Sacramenti</head>
+        <p xml:id="ho8ccf-a2bys5-d1e104">
+          <lb ed="#A" n="6"/>CAPVT XXXVI.
+          <lb ed="#A" n="7"/>De Ministro huius Sacramenti.
+        </p>
+        <p xml:id="ho8ccf-a2bys5-d1e111">
+          <lb ed="#A" n="8"/><milestone ed="#A" unit="p" rend="initial"/> QVod autem ad ministrum attinet, proprius est
+          <lb ed="#A" n="9"/>huius Sacramenti minister Sacerdos, nisi
+          neces<lb ed="#A" n="10" break="no"/>p sitas aliud postulauerit, quo tempore cuiuis
+          ba<lb ed="#A" n="11" break="no"/>ptizare licet. Hinc est quod de Eunucho scribit
+          <lb ed="#A" n="12"/>Hilarius, quod Sacramentum baptismi adeo impatientis
+          <lb ed="#A" n="13"/>cupiditate desiderii praeuenerit, vt a Diacono ministerium
+          <lb ed="#A" n="14"/>Apostolici officicii salutis suae cupidus exigeret. Baptismum
+          <lb ed="#A" n="15"/>Apostolici, hoc est Sacerdotalis officii ministerium vocat.
+        </p>
+        <p xml:id="ho8ccf-a2bys5-d1e132">
+          <lb ed="#A" n="16"/>Neque vero ad integritatem baptisini quicquam refert, qua
+          <lb ed="#A" n="17"/>vita sit praeditus qui baptizat: Nam neque qui plantat est
+          <lb ed="#A" n="18"/>aliquid, neque qui rigat, sed qui incrementum dat Deus: Hic
+          <lb ed="#A" n="19"/>est qui baptizat: huius instrumentum est Sacerdos.
+          Caete<lb ed="#A" n="20" break="no"/>rum qui sanctificat, qui lauacro aquae in verbo, vbi
+          mini<lb ed="#A" n="21" break="no"/>ster videtur corporaliter operari, ipse abluit, ipse mundat,
+          <lb ed="#A" n="22"/>non nisi Christus est. Praeclara sunt Ambrosii verba. Non
+          <lb ed="#A" n="23"/>mundauit Petrus, non mundauit Ambrosius, non
+          mun<lb ed="#A" n="24" break="no"/>dauit Gregorius, nostra enim seruitia, sed tua sunt
+          sacra<lb ed="#A" n="25" break="no"/>menta. Neque enim humani operis est diuina conferre, tui
+          <lb ed="#A" n="26"/>domine munus &amp; patris est, qui loquutus est per Prophe
+          <lb ed="#A" n="27"/>tas dicens: Effundam de spiritu meo super omnem carnem,
+          <lb ed="#A" n="28"/>Et qui fuit aequalis Ambrosiii Gregorius Nazianzenus.
+          <lb ed="#A" n="29"/>Ita consydera, inquit: sint annuli duo: aureus hic, ferreus
+          <lb ed="#A" n="30"/>alius, vterque eadem regia imagine sculptus, cerae ambo
+          im<lb ed="#A" n="31" break="no"/>primantur, quid inter signum hoc &amp; illud intererit? nihil.
+          <lb ed="#A" n="32"/>Discerne materiam in cera, etiamsi sapientissimus existas, dio
+          <lb ed="#A" n="33"/>quodnam ferri, quodve sit auri signaculum? Sed quo pacto
+          <lb ed="#A" n="34"/>num est, quia inter materiam non characterum est
+          diuer<lb ed="#A" n="35" break="no"/>sitas: ita &amp; tibi sit omnis baptizator, qui tametsi conditione
+          <lb ed="#A" n="36"/>excellat, aequalis tamen baptismatis vis est, ac vnusquisque
+          <lb ed="#A" n="37"/>tibi aequalis sit expurgator, qui fide eadem est formatus. Et
+          <lb ed="#A" n="38"/>ad Anastasium Augustum scribens Anastasius Papa:
+          Bap<lb ed="#A" n="39" break="no"/>tismum quod procul fit ab Ecclesia, siue ab adultero, siue
+          <lb ed="#A" n="40"/>a fure fuerit datum, ad percipientem munus peruenit illi
+          <lb ed="#A" n="41"/>barum, qua vox illa, quae per Columbam sonuit, omnem
+          <lb ed="#A" n="42"/>maculam humanae pollutionis excludit, qua declaratur &amp;
+          <pb ed="#A" n="70-r"/>
+          <lb ed="#A" n="1"/>dicitur: hic est qui baptizat. Nam si visibilis Solis istius
+          ra<lb ed="#A" n="2" break="no"/>dii cum per loca foendissima transeunt, nulla contactus
+          <lb ed="#A" n="3"/>inquinatione maculantur, multo magis illius, qui istum
+          <lb ed="#A" n="4"/>visibilem fecit, virtus ministri indignatione constringitur
+          <lb ed="#A" n="5"/>Quamobrem siue a fideli, siue a perfido dispensatore
+          ba<lb ed="#A" n="6" break="no"/>ptisimi Sacramentum aliquis perceperit, spes connis in
+          <lb ed="#A" n="7"/>Christo esse debet, cuius baptismum percipit, non in
+          ho<lb ed="#A" n="8" break="no"/>mine a quo percipit. Nam maledictus homo qui spe suam
+          <lb ed="#A" n="9"/>ponit in homine, &amp; ponit carnem brachium suum.
+          Bene<lb ed="#A" n="10" break="no"/>dictus vir qui confidit in domino, &amp; erit dominus fiducia
+          <lb ed="#A" n="11"/>eius. Quid Ioanne Baptista fuit sanctius, cui propter
+          sin<lb ed="#A" n="12" break="no"/>gularem virtutem &amp; sanctimoniam hoc a Christo
+          tribu<lb ed="#A" n="13" break="no"/>tum clogium legimus: quod inter natos mulierum non
+          sur<lb ed="#A" n="14" break="no"/>rexit maior Ioanne Baptista? Quid contra Iuda proditore
+          <lb ed="#A" n="15"/>sceleratius? Et tamen post Ioannis baptismum baptizasse
+          <lb ed="#A" n="16"/>Paulum scribitur: post Iudae baptisinum baptizasse
+          quen<lb ed="#A" n="17" break="no"/>quam non comperimus. Quid ita? Quoniam ille baptis
+          <lb ed="#A" n="18"/>mus hominis erat Ioannis, per hominem autem gratia
+          re<lb ed="#A" n="19" break="no"/>missionis peccatorum &amp; renouationis, quod Christi
+          mu<lb ed="#A" n="20" break="no"/>nus est proprium, conferri non potuit. Quo vero baptiza
+          <lb ed="#A" n="21"/>uit Iudas, fuit baptismus Christi, agni illius immaculati,
+          <lb ed="#A" n="22"/>qui tollit peccata mundi.
+        </p>
+        <p xml:id="ho8ccf-a2bys5-d1e244">
+          Porro Christi baptismum cuius
+          <lb ed="#A" n="23"/>cunque tandem ministerio semel datum iterari fas non fuit,
+          <lb ed="#A" n="24"/>adeo vt etiam si ab haeretico datus esset, eum repeti non
+          <lb ed="#A" n="25"/>liceret: quodque majus est, etiamsi non baptizatus baptizasset,
+          <lb ed="#A" n="26"/>modo formam debitam obseruasset, valere baptismum, nec
+          <lb ed="#A" n="27"/>cum iterandum esse visum est.
+        </p>
+        <p xml:id="ho8ccf-a2bys5-d1e257">
+          Verum illud interea scire
+          opor<lb ed="#A" n="28" break="no"/>tet, baprisimum esse quidem extra Ecclesiam posse, prodesse
+          <lb ed="#A" n="29"/>non posse. Ecclesia enim paradiso comparata, sicut ab
+          Au<lb ed="#A" n="30" break="no"/>gustino scriptum est, indicat nobis, posse quidem eius
+          bap<lb ed="#A" n="31" break="no"/>tismum homines etiam foris accipere, sed salutem beatitu
+          <lb ed="#A" n="32"/>dinis extra eam neminem vel percipere, vel tenere. Nam
+          <lb ed="#A" n="33"/>&amp; flumina de fonte Paradisi, sicut scriptura testatur etiam
+          <lb ed="#A" n="34"/>foras largiter manauerunt: nominatim quippe
+          commemo<lb ed="#A" n="35" break="no"/>rantur per quas terras fluant, &amp; quia extra Paradisum
+          con<lb ed="#A" n="36" break="no"/>stituta sunt, omnibus notum est. Nec tamen in
+          Mesopo<lb ed="#A" n="37" break="no"/>tamia, vel in Aegypto, quo illo flumina peruenerunt, est se
+        </p>
+        <p xml:id="ho8ccf-a2bys5-d1e281">
+          <lb ed="#A" n="38"/>licitas vitae, quae in Paradiso commemoratur: ita sit, vt cum
+          <lb ed="#A" n="39"/>Paradisi aqua sit extra Paradisum, beatitudo tamen non
+          <lb ed="#A" n="40"/>sit nisi intra Paradisum. Sic ergo baptismus Ecclesiae
+          po<lb ed="#A" n="41" break="no"/>test esse extra Ecclesiam, munus autem beatae vitae non
+          ni<lb ed="#A" n="42" break="no"/>si intra Ecclesiam. Et sicut in arca Noe, quae &amp; ipsa
+          <pb ed="#A" n="70-v"/>
+          <lb ed="#A" n="1"/>figura est Ecclesiae, non alia sed eadem aqua in arca
+          posi<lb ed="#A" n="2" break="no"/>tos saluos fecit, &amp; extra arcam positos interemit: sic non
+          <lb ed="#A" n="3"/>alio, sed eodem baptismo &amp; boni Catholici salui fiunt, &amp;
+          <lb ed="#A" n="4"/>mali Catholici vel haeretici pereunt. Communis itaque no
+          <lb ed="#A" n="5"/>bis est cum haereticis baptismus, sicut &amp; Euangelium cum
+          <lb ed="#A" n="6"/>illis est commune, verum illis extra arcam positis, &amp; Euan
+          <lb ed="#A" n="7"/>gelium, &amp; baptismus in damnationem, nobis vero vtrunque
+          <lb ed="#A" n="8"/>est in salutem. Quamobrem redeuntes ad Ecclesiam haere
+          <lb ed="#A" n="9"/>tici rebaptizandi non sunt, verum post abiuratam
+          haere<lb ed="#A" n="10" break="no"/>sim per manuum impositionem suscipiendi, vt quod acce
+          <lb ed="#A" n="11"/>perant ad perniciem, habere iam incipiant ad salutem, si
+          <lb ed="#A" n="12"/>cut copiose de eo contra Donatistas scribens multis in
+          lo<lb ed="#A" n="13" break="no"/>cis disserit Augustinus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

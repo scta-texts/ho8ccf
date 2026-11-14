@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 35</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 35</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="67-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2b6us"><!-- c35 -->
+        <head xml:id="ho8ccf-a2b6us-Hd1e99">Caput 35</head>
+        <head xml:id="ho8ccf-a2b6us-Hd1e101" type="question-title">De suscipientibus Baptismum</head>
+        <p xml:id="ho8ccf-a2b6us-d1e104">
+          <lb ed="#A" n="30"/>CAPVT XXXV.
+          <lb ed="#A" n="31"/>De suscipientibus Baptismum.
+        </p>
+        <p xml:id="ho8ccf-a2b6us-d1e111">
+          <lb ed="#A" n="32"/><milestone ed="#A" unit="p" rend="initial"/> EX omnibus Ecclesiae sacramentis nullum est aeque
+          <lb ed="#A" n="33"/>cunctis necessarium atque baptismus, sine quo aut
+          <lb ed="#A" n="34"/>eius voto nihil est quod quisquam salutem se con
+          <lb ed="#A" n="35"/>sequi posse speret. Clara enim sunt &amp; aperta verba
+          <lb ed="#A" n="36"/>dicentis? Nisi quis renatus fuerit ex aqua &amp; spiritu sancto,
+          <lb ed="#A" n="37"/>non potest introire in regnum dei. Cuius haereditatem qui
+          <lb ed="#A" n="38"/>quis adire cupit, necesse est vt ab eo statu, in quo natus est
+          <lb ed="#A" n="39"/>filius primi Adae, transferatur in statum gratiae &amp;
+          adopti<lb ed="#A" n="40" break="no"/>onis filiorum dei, per secundum Addam Iesum Christum
+          sal<lb ed="#A" n="41" break="no"/>uatorem nostrum. Quae translatio quoniam, vt diximus
+          <pb ed="#A" n="68-r"/>
+          <lb ed="#A" n="1"/>In baptisimo fit, ad assequendam illam aeternam gloriam
+          <lb ed="#A" n="2"/>apprime cinctis est necessaria.
+        </p>
+        <p xml:id="ho8ccf-a2b6us-d1e143">
+          Quamobrem ferendus non
+          <lb ed="#A" n="3"/>est error hic nostri seculi Pelagianorum, qui contra clarum
+          <lb ed="#A" n="4"/>&amp; apertum Dei verbum, contra communem totius
+          Eccle<lb ed="#A" n="5" break="no"/>siae sensuum &amp; consensum asseuerare non dubitant,
+          parua<lb ed="#A" n="6" break="no"/>los fidelium hoc solo quod filii sunt fidelium, regnum co
+          <lb ed="#A" n="7"/>lorum consequi: Contra quorum errorem sic iam inde a
+          <lb ed="#A" n="8"/>multis seculis ab Augustino scriptum est. Quisquis dixerit
+          <lb ed="#A" n="9"/>quod in Christo viuificabuntur etiam paruuli, qui sine
+          <lb ed="#A" n="10"/>Sacramenti eius participatione de vita excunt, hic profecto
+          <lb ed="#A" n="11"/>&amp; contra Apostolicam praedicationem venit, &amp; totam
+          <lb ed="#A" n="12"/>condemnat Ecclesiam, vbi propterea cum baptizandis
+          <lb ed="#A" n="13"/>paruulis festinatur &amp; curritur, quia sine dubio creditur,
+          <lb ed="#A" n="14"/>aliter eos in Christo viuisicam omnino non posse.
+        </p>
+        <p xml:id="ho8ccf-a2b6us-d1e173">
+          Verum
+          <lb ed="#A" n="15"/>idem illi contra sanctorum Patrum omnium &amp; Ecclesia
+          <lb ed="#A" n="16"/>totius receptum sensum, non verentur illa Christi verba
+          <lb ed="#A" n="17"/>Nisi quis penatus fuerit ex aqua, non de aquae elemento,
+          <lb ed="#A" n="18"/>verum de mortificatione accipi debere affirmare. Huc
+          au<lb ed="#A" n="19" break="no"/>daciae atque amentiae progressi sunt homines inflati sensu
+          <lb ed="#A" n="20"/>carnis suae, &amp; non tenentes caput, dum sibi licere volunt
+          <lb ed="#A" n="21"/>iuxta priuatum spirituum suum scripturas interpretari. Sed
+          <lb ed="#A" n="22"/>nos repudiatis horum tam crassis erroribus, cum Christo
+          <lb ed="#A" n="23"/>capite nostro, &amp; cum eius corpore ecclesia dicamus &amp; sen
+          <lb ed="#A" n="24"/>tiamus, quod nisi quis renatus fuerit ex aqua visibili &amp;
+          spi<lb ed="#A" n="25" break="no"/>ritu inuisibili, non potest introire in regnum dei. Qua
+          ta<lb ed="#A" n="26" break="no"/>men de re sentiendum est &amp; illud, quod ab Augustino
+          scri<lb ed="#A" n="27" break="no"/>tum est: Baptisini vicem, inquit, aliquando implere
+          pas<lb ed="#A" n="28" break="no"/>sionem, de latrone illo, cui non baptizato dictum est:
+          Ho<lb ed="#A" n="29" break="no"/>die mecum cris in paradiso, non leue documentum beatur
+          <lb ed="#A" n="30"/>Cyprianus assumit: Quod etiam atque etiam consyderam
+          <lb ed="#A" n="31"/>inuenio, non tantum passionem pro nomine Christi id
+          <lb ed="#A" n="32"/>quod ex baptisino deerat posse supplere, sed etiam fidem
+          <lb ed="#A" n="33"/>conuersionemque cordis, si forte ad celebrandum mysterium
+          <lb ed="#A" n="34"/>baptismi in angustiis temporum succurri non potest.
+          Ne<lb ed="#A" n="35" break="no"/>que enim latro ille pro Christi nomine crucifixus est, sed
+          <lb ed="#A" n="36"/>pro meritis facinorum suorum: nec quia credidit passus
+          <lb ed="#A" n="37"/>est, sed dum patitur credidit. Quantum itaque valeat
+          <lb ed="#A" n="38"/>etiam sine visibili sacramento baptismi, quod ait
+          Aposto<lb ed="#A" n="39" break="no"/>lus: Corde creditur ad iustitiam, ore autem confessio fit
+          <lb ed="#A" n="40"/>ad salutem, in illo latrone declaratum est.
+        </p>
+        <p xml:id="ho8ccf-a2b6us-d1e232">
+          Sed tunc
+          <lb ed="#A" n="41"/>impletur inuisibiliter, cum mysterium baptismi non
+          con<lb ed="#A" n="42" break="no"/>temptus religionis, sed articulus necessitatis excludit.
+          <pb ed="#A" n="68-v"/>
+          <lb ed="#A" n="1"/>Ex quibus Augustini verbis triplicem esse baptismum
+          pa<lb ed="#A" n="2" break="no"/>tres nostri collegerunt, flaminis, fluminis, &amp; sanguinis
+          <lb ed="#A" n="3"/>quem vltimum eminentiorem esse docet Origenes eo, qui
+          <lb ed="#A" n="4"/>per aquam traditur. Ac paruulos quidem non saluari per
+          <lb ed="#A" n="5"/>suasum habuerunt, nisi aut aqua, aut quod de
+          innocenti<lb ed="#A" n="6" break="no"/>bus illis Herodis iussu trucidatis factum legimus,
+          sangui<lb ed="#A" n="7" break="no"/>ne suo fuissent baptizati. Quae etiam res in causa est, quod
+          <lb ed="#A" n="8"/>foeminis baptizandi quoque potestas conceditur, si
+          pericu<lb ed="#A" n="9" break="no"/>lum sit, ne prius infans moriatur, quam copia Sacerdotis
+          <lb ed="#A" n="10"/>haberi queat. Ceterum si quis ex adultis, nec opinata morte
+          <lb ed="#A" n="11"/>praeuentus cum cuperet maxime, Sacerdotis tamen
+          bapti<lb ed="#A" n="12" break="no"/>zantis potestatem habere non potuit, fit illud, quod ab
+          Au<lb ed="#A" n="13" break="no"/>gustino scriptum est: Coronat Deus intus voluntatem,
+          <lb ed="#A" n="14"/>quum non inuenit facultatem: Sic enim voluntas prompta
+          <lb ed="#A" n="15"/>est, secundum id quod habet accepta est, non secundum id
+          <lb ed="#A" n="16"/>quod non habet. Affectum Deus pensat non effectum:
+          Vo<lb ed="#A" n="17" break="no"/>luntas pro facto reputatur, vbi factum necessitas excludit,
+          <lb ed="#A" n="18"/>Quod etiam exemplo Valentiniani comprobatur, qui
+          <lb ed="#A" n="19"/>quamuis ex aqua &amp; Spiritu renatus non esset, qui tamen
+          <lb ed="#A" n="20"/>poposcit, eo ipso quod poposcit, quam desiderauit gratiam,
+          <lb ed="#A" n="21"/>eum accepisse scribit Ambrosius. Fuit Bernardi
+          tempori<lb ed="#A" n="22" break="no"/>bus, qui diceret absque actuali Baptismo saluari posse nemi
+          <lb ed="#A" n="23"/>nem. Cuius errorem ad Hugonem scribens grauiter
+          con<lb ed="#A" n="24" break="no"/>futauit. Est itaque baptismus omnibus ad salutem necessa
+          <lb ed="#A" n="25"/>rius, quem nisi re paruuli receperint, ab ingressu regni
+          coe<lb ed="#A" n="26" break="no"/>lorum arcentur. In adultis tamen (modo contemptus
+          ab<lb ed="#A" n="27" break="no"/>sit) si baptizantis potestas non datur, voluntas prompta
+          <lb ed="#A" n="28"/>sufficit. Indulgentius autem agitur in eo cum paruulis,
+          <lb ed="#A" n="29"/>quam cum adultis, quod illis hoc regenerationis
+          benefi<lb ed="#A" n="30" break="no"/>cium non solum non libentibus, verum etiam
+          reluctanti<lb ed="#A" n="31" break="no"/>bus quandoque datur, nec fides in eis propria requiritur,
+          <lb ed="#A" n="32"/>sed satis ad salutem esse fides Ecclesiae creditur.
+        </p>
+        <p xml:id="ho8ccf-a2b6us-d1e310">
+          Nam quod
+          <lb ed="#A" n="33"/>asserunt quidam, propria fide, quam ex auditu verborum
+          <lb ed="#A" n="34"/>formae baptismatis concipiunt, iustificari paruulos,
+          com<lb ed="#A" n="35" break="no"/>mentum id absurdius est, quam vt refelli oporteat:
+          quan<lb ed="#A" n="36" break="no"/>doquidem sensus etiam ipse communis satis refellere
+          vi<lb ed="#A" n="37" break="no"/>detur: ac verissimum illud esse constat, quod ab
+          Augusti<lb ed="#A" n="38" break="no"/>no scriptum est: Eius muneris merito iustificari paruulos
+          <lb ed="#A" n="39"/>quod eis cum profuit nescierunt. Vsque adeo autem
+          nescie<lb ed="#A" n="40" break="no"/>runt, vt vocibus etiam quibus possent &amp; motibus reluctari
+          <lb ed="#A" n="41"/>visi fuerint. Quam etiam causam esse scribit Augustinus
+          <lb ed="#A" n="42"/>quod eis non imputatur, atque omnis hic eorum renisu,
+          <pb ed="#A" n="69-r"/>
+          <lb ed="#A" n="1"/>nihili penditur, donec in eis Sacramenta peragantur,
+          qui<lb ed="#A" n="2" break="no"/>bus id, quod de originali damnatione tractum est,
+          expie<lb ed="#A" n="3" break="no"/>tur. In tantum enim nesciunt quid faciunt, vt nec facere
+          <lb ed="#A" n="4"/>iudicentur.
+        </p>
+        <p xml:id="ho8ccf-a2b6us-d1e345">
+          Quamobrem cum fides in voluntate sit,
+          par<lb ed="#A" n="5" break="no"/>uuli autem rationis &amp; voluntatis arbitrio non vtantur,
+          <lb ed="#A" n="6"/>portentosum quiddam esse videtur, fidem illis, quae ex au
+          <lb ed="#A" n="7"/>ditu est, tribuere, cum quaecunque fiunt in paruulis, in
+          Eccle<lb ed="#A" n="8" break="no"/>siae non in eorum propria fide fiant. Mater enim Ecclesia,
+          <lb ed="#A" n="9"/>cuius brachiis ad baptismum feruntur infantes, cor
+          ma<lb ed="#A" n="10" break="no"/>ternum, vt est apud Augustinum, eis praestat, vt sacris
+          my<lb ed="#A" n="11" break="no"/>steriis imbuantur: quia nondum possunt corde suo pro
+          <lb ed="#A" n="12"/>prio credere ad iustitiam, nec ore proprio consiteri ad
+          sa<lb ed="#A" n="13" break="no"/>lutem. Sicuit autem cor ad credendum, ita aures ad
+          audien<lb ed="#A" n="14" break="no"/>dum, intellectum ad capiendum, linguam accommodat ac
+          <lb ed="#A" n="15"/>confitendum.
+        </p>
+        <p xml:id="ho8ccf-a2b6us-d1e371">
+          Neque vero id rationi &amp; aequitati
+          consenta<lb ed="#A" n="16" break="no"/>neum non est. Nam cum aliena praeuaricatione peccatum
+          <lb ed="#A" n="17"/>paruuli contraxerint, vt irae filii nascerentur, non iniquum
+          <lb ed="#A" n="18"/>visum est, vt aliena quoque fide intercedente mundarentur.
+          <lb ed="#A" n="19"/>quo filiae gratiae regenerarentur. Credit infans in altero,
+          <lb ed="#A" n="20"/>dicit Augustinus, quia peccant in altero. Enarrans illum
+          <lb ed="#A" n="21"/>locum Euangelistae, Beda venerabilis, vbi dixit Christus
+          <lb ed="#A" n="22"/>mulieri Cananitidi: Propter hunc sermonem vade, exiii
+          <lb ed="#A" n="23"/>daemonium a filia tua. Propter humilem, inquit, matris
+          <lb ed="#A" n="24"/>fidelemque sermonem, filiam deseruit demonium, vbi
+          da<lb ed="#A" n="25" break="no"/>tur exemplum catechizandi &amp; baptizandi infantes, quia
+          <lb ed="#A" n="26"/>videlicet per fidem &amp; confessionem parentum in
+          baptis<lb ed="#A" n="27" break="no"/>mo liberantur a diabolo paruuli, qui necdum per se
+          sape<lb ed="#A" n="28" break="no"/>re aut aliquid agere possunt boni aut mali. At in adultis,
+          <lb ed="#A" n="29"/>&amp; propria fides requiritur, &amp; ea poenitentiae pars, cuius
+          <lb ed="#A" n="30"/>causa fides est, quam contritionem vocamus. Nam per
+          ba<lb ed="#A" n="31" break="no"/>ptisinum veteri vitae peccati moritur homo, &amp; nouam
+          vi<lb ed="#A" n="32" break="no"/>tam inchoat: Consepulti enim sumus Christo per
+          baptis<lb ed="#A" n="33" break="no"/>mum in mortem, vt quomodo Christus resurrexit a mor
+          <lb ed="#A" n="34"/>tuis per gloriam patus, ita &amp; nos in nouitate vitae
+          ambu<lb ed="#A" n="35" break="no"/>lemus. Is autem veteri vitae peccati mori dicitur, quem
+          il<lb ed="#A" n="36" break="no"/>lius poenitet, quique deinceps a peccatis abstinere
+          delibera<lb ed="#A" n="37" break="no"/>tum habet, neque ad nouam vitam cuius principium est ipsa
+          <lb ed="#A" n="38"/>baptisini susceptio, nisi per veteris vitae poenitentiam
+          cui<lb ed="#A" n="39" break="no"/>quam ingressus patet. Hoc est quod ab Augustino dictum
+          <lb ed="#A" n="40"/>est. Nullus voluntatis suae arbiter constitutus potest
+          no<lb ed="#A" n="41" break="no"/>uam vitam inchoare, nisi eum veteris vitae poeniteat.
+          Pro<lb ed="#A" n="42" break="no"/>pterea Petrum admonuisse baptizandos legimus, prius
+          <pb ed="#A" n="69-v"/>
+          <lb ed="#A" n="1"/>vt penitentiam agerent. Quod etiam ab Augustino in ca
+          <lb ed="#A" n="2"/>techizando factum esse diligenter videmus. Haec autem
+          po<lb ed="#A" n="3" break="no"/>nitentia quae requiritur in adulto baptizando, nihil eit
+          <lb ed="#A" n="4"/>aliud, quam odium &amp; detestatio vitae prioris. Atque haec
+          qui<lb ed="#A" n="5" break="no"/>dem de suscipientibus baptismi Sacramentum
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

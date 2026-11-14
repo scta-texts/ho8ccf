@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 21</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 21</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="25-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1vdsg"><!-- c21 -->
+        <head xml:id="ho8ccf-a1vdsg-Hd1e99">Caput 21</head>
+        <head xml:id="ho8ccf-a1vdsg-Hd1e101" type="question-title">Quod quatuor sunt Ecclesiae notae. Prima est quod sit sancta</head>
+        <p xml:id="ho8ccf-a1vdsg-d1e104">
+          <pb ed="#A" n="25-v"/>
+          <lb ed="#A" n="1"/>CAPVT XXI.
+          <lb ed="#A" n="2"/>Quot quatuor sunt Ecclesiae notae. Prima est
+          <lb ed="#A" n="3"/>quod sit sancta.
+        </p>
+        <p xml:id="ho8ccf-a1vdsg-d1e115">
+          <lb ed="#A" n="4"/><milestone ed="#A" unit="p" rend="initial"/> QVatuor autem habet notas, quibus agnosci pos
+          <lb ed="#A" n="5"/>sit, &amp; ab ecclesia malignantium discerni. Est enim
+          <lb ed="#A" n="6"/>sancta, est Catholica, est vna, est Apostolica.
+          Pri<lb ed="#A" n="7" break="no"/>mo dicitur Ecclesia sancta, non quod in ea
+          soli<lb ed="#A" n="8" break="no"/>iusti sint &amp; sancti: Cum enim a vocatione nomen ducat,
+          <lb ed="#A" n="9"/>multique sint vocati, pauci vero electi, certum est plures in
+          <lb ed="#A" n="10"/>ea peccatores, quam iustos, plures esse malos, quam bonos
+          <lb ed="#A" n="11"/>Quamobrem designatur in scripturis nomine areae, in qua
+          <lb ed="#A" n="12"/>sicut est triticum, ita sunt &amp; paleae: vocatur ager, in quo cum
+          <lb ed="#A" n="13"/>tritico crescunt &amp; zizania vocatur sagena, in qua
+          congre<lb ed="#A" n="14" break="no"/>gantur boni pisces &amp; mali vocatur vinea, in qua sunt
+          pal<lb ed="#A" n="15" break="no"/>mites proferentes vuas, sunt etiam qui labruscas producant,
+          <lb ed="#A" n="16"/>sunt qui aliquem tamen, sit qui nullum fructum ferunt,
+          <lb ed="#A" n="17"/>confertur gregi, in quo sunt &amp; hoedi, &amp; ues, sunt &amp;
+          arie<lb ed="#A" n="18" break="no"/>tes &amp; hirci: confertur domi, in qua sunt vasa aurea &amp;
+          ar<lb ed="#A" n="19" break="no"/>gentea, sunt etiam lignea &amp; fictilia, quaedam in honorem,
+          <lb ed="#A" n="20"/>quaedam vero in contumeliam: comparatur decem
+          virgi<lb ed="#A" n="21" break="no"/>nibus, quarum quinque sunt fatue, &amp; quinque prudentes
+          <lb ed="#A" n="22"/>Quamobrem permixti sunt mali bonis in hac
+          Ecclesia<lb ed="#A" n="23" break="no"/>quae militans dicitur. Nam soli sunt boni in caelo, quae est
+          <lb ed="#A" n="24"/>ecclesia triumphantium, idem nobiscum corpus: soli
+          mali<lb ed="#A" n="25" break="no"/>sunt in inferno, qui ad corpus hoc nostrum, quod idem
+          <lb ed="#A" n="26"/>Christi corpus est, non pertinent. Haec autem nostra eccle
+          <lb ed="#A" n="27"/>sia, quae est super terram, in qua perpetua quaedam est
+          mili<lb ed="#A" n="28" break="no"/>tia, habet per dei gratiam electos, quos caelo Deus
+          digna<lb ed="#A" n="29" break="no"/>tur: habet alios etiam, vocatos quidem des misericordia,
+          <lb ed="#A" n="30"/>sed sua postea culpa reiectos, quos iure suo sibi
+          vendica<lb ed="#A" n="31" break="no"/>infernus.
+        </p>
+        <p xml:id="ho8ccf-a1vdsg-d1e179">
+          Quare non ideo sancta dicitur ecclesia, quod non
+          <lb ed="#A" n="32"/>sint in ea reiecti quoque &amp; reprobi, putrida quaedam hu
+          <lb ed="#A" n="33"/>ius corporis membra: sed quod quicunque sancti sunt, no
+          <lb ed="#A" n="34"/>nisi in hac ecclesia sancti sunt: extra quam species
+          sanctita<lb ed="#A" n="35" break="no"/>tis esse potest, vera sanctitas esse non potest. A meliore ita
+          <lb ed="#A" n="36"/>que sui parte sancta dicitur, sicut regnum quoque coelo
+          <lb ed="#A" n="37"/>rum saepe vocatur a Christo, quod non nisi intra ipsius
+          <lb ed="#A" n="38"/>septa continentur, quibus pori datum est regno caelorum
+          <lb ed="#A" n="39"/>Dicitur etiam sancta, quasi Christi sanguine tincta:
+          Chi<lb ed="#A" n="40" break="no"/>stus enim eam lauit a peccatis suis in sanguine suo, qui sic
+          <pb ed="#A" n="26-r"/>
+          <lb ed="#A" n="1"/>eam dilexit, vt seipsum traderet pro illa, vt eam
+          sanctifi<lb ed="#A" n="2" break="no"/>caret, atque ab operibus mortuis emundaret sanguine suo
+          <lb ed="#A" n="3"/>Hac ratione, sicut etiam Augustinus tesius est, fideles
+          om<lb ed="#A" n="4" break="no"/>nes olim sancti vocabantur. Sunt &amp; aliae causae
+          quamob<lb ed="#A" n="5" break="no"/>rem sancta dicitur, sed iis praetermissis, ad eam
+          significa<lb ed="#A" n="6" break="no"/>tionem veniamus, quae propriam &amp; peculiarem Ecclesia
+          <lb ed="#A" n="7"/>catholicae notam adfert. Apud eos, qui latine scripserunt,
+          <lb ed="#A" n="8"/>sanctum dici legimus, quod firmum est &amp; munirum vt
+          vio<lb ed="#A" n="9" break="no"/>lari facile non possit, neque debeat. Sic muros leges vocant
+          <lb ed="#A" n="10"/>sanctos, sic tribunos sanctos, sic aerarium quoque sanctius
+          <lb ed="#A" n="11"/>appellatum legimus. Hac ratione proprie vocatur Ecclesia
+          <lb ed="#A" n="12"/>sancta, qua nihil firmius, nihil est fortius, vel quia Christo
+          <lb ed="#A" n="13"/>dicata est, cui quod dedit Pater nemo potest eripere,
+          ve<lb ed="#A" n="14" break="no"/>quia super petram aedificata est, ita vt neque pluuiae, neque
+          <lb ed="#A" n="15"/>flumina, neque venti irruentes eam subuertere possint,
+          at<lb ed="#A" n="16" break="no"/>que adeo ne portas quidem inferorum aduersus eam
+          prae<lb ed="#A" n="17" break="no"/>ualituras dixit Christus. Habet enim firmum &amp; stabile
+          fun<lb ed="#A" n="18" break="no"/>damentum, de quo dicit Apostolus: Fundamentum aliud
+          <lb ed="#A" n="19"/>nemo potest ponere, praeter id quod positum est, quod est
+          <lb ed="#A" n="20"/>Christus Iesus. Huic fundamento cum innitatur, nulla est,
+          <lb ed="#A" n="21"/>neque fuit, neque erit vis vnquam tanta, qua superari
+          pos<lb ed="#A" n="22" break="no"/>sit. Ideo Chrysostomus fortiorem eam terra, imo
+          fortio<lb ed="#A" n="23" break="no"/>rem esse dicit ipso caelo, vbi radices eam fixas habere
+          affir<lb ed="#A" n="24" break="no"/>mat, non in terra, solem vt extingui sit facilius, quam
+          eccle<lb ed="#A" n="25" break="no"/>siam obscurari. Haec est illa terra, quam fundauit Deus in
+          <lb ed="#A" n="26"/>secula, de qua dicit idem Propheta Fundasti eam super stu
+          <lb ed="#A" n="27"/>bilitatem suam, non inclinabitur in seculum seculi. Hoc
+          <lb ed="#A" n="28"/>est illud regnum, de quo scriptum est: Regnum ipsius om
+          <lb ed="#A" n="29"/>nibus dominabitur. de quo &amp; toties Propheta dixit:
+          <lb ed="#A" n="30"/>Gens &amp; regnum quod non seruierit tibi, peribit: quod ita
+          <lb ed="#A" n="31"/>factum videmus de omnibus iis gentibus, &amp; regnis, quae
+          <lb ed="#A" n="32"/>ab hac ecclesia desciuerunt. Haec est illa, quam sponsus
+          <lb ed="#A" n="33"/>in Canticis terribilem esse dicit vt castrorum aciem
+          ordi<lb ed="#A" n="34" break="no"/>natam. Castra Dei sunt sancti Dei, charitate ordinati,
+          <lb ed="#A" n="35"/>quibus tanquam Christi militibus &amp; fidei
+          propugnatori<lb ed="#A" n="36" break="no"/>bus munitur, protegitur, &amp; defenditur Ecclesia Dei, de
+          <lb ed="#A" n="37"/>quibus apud Zachariam dicit Dominus: Circundabo
+          do<lb ed="#A" n="38" break="no"/>mum meam (Ecclesiam intellige) ex iis, qui militant
+          mi<lb ed="#A" n="39" break="no"/>hi. Sunt autem qui militant, doctores, antistites, &amp;
+          prin<lb ed="#A" n="40" break="no"/>cipes Ecclesiae: qualis fuit Timotheus, cui dicit Apostolus,
+          <lb ed="#A" n="41"/>Labora sicut bonus miles Iesu Christi: quales fuerunt
+          <lb ed="#A" n="42"/>innumeri martyres, qui vsque ad sanguinem, quin
+          ad<pb ed="#A" n="26-v"/><lb ed="#A" n="1" break="no"/>mortem vsque resistentes vitam etiam suam pro fide
+          Chri<lb ed="#A" n="2" break="no"/>si certando profuderunt. Hanc aciem perrumpere conati
+          <lb ed="#A" n="3"/>sunt pagani, omni suppliciorum genere de piis sumendo
+          <lb ed="#A" n="4"/>conati sunt tyranni, libertatem eripiendo conati sunt
+          fa<lb ed="#A" n="5" break="no"/>si fratres, charitatem exterminando: conati sunt Iudaei,
+          fi<lb ed="#A" n="6" break="no"/>dem impugnando: conati sunt schismatici, obedientiam
+          <lb ed="#A" n="7"/>tollendo, &amp; eius vnitatem scindendo: conati sunt haereti.
+          <lb ed="#A" n="8"/>ci, scripturas adulterando, veritatem earum obscurando,
+          <lb ed="#A" n="9"/>praueque eas interpretando.
+        </p>
+        <p xml:id="ho8ccf-a1vdsg-d1e316">
+          Sed fuit haec acies terribilis om
+          <lb ed="#A" n="10"/>nibus, vicit, fudit, fugauit omnes, vicit paganos, pro
+          Chri<lb ed="#A" n="11" break="no"/>fri fide vitam cum sanguine profundendo tanto animi
+          ro<lb ed="#A" n="12" break="no"/>bore, tanta constantia, tanta alacritate, vt gauderent etiam
+          <lb ed="#A" n="13"/>cum digni essent habiti, qui pro Christi nomine
+          contu<lb ed="#A" n="14" break="no"/>meliam aut supplicium aliquod perferrent, magisque
+          tor<lb ed="#A" n="15" break="no"/>tores cruciando, quam ecclesiae filii cruciatus perferendo
+          <lb ed="#A" n="16"/>fatigarentur: vicit tyrannos, in Deo spem ac fiduciam om
+          <lb ed="#A" n="17"/>nem collocando, ac pro se persequentibus illum
+          deprecan<lb ed="#A" n="18" break="no"/>lo: vicit falsos fratres, tolerando vicit schismaticos,
+          ordi<lb ed="#A" n="19" break="no"/>nem retinendo, &amp; vnius ductum sequendo, vt de illa
+          quo<lb ed="#A" n="20" break="no"/>que dici recte posset: Egressi sunt omnes filii Israel, &amp;
+          pari<lb ed="#A" n="21" break="no"/>ter congregati quasi vir vnus: Erat nanque multitudinis
+          cre<lb ed="#A" n="22" break="no"/>dentium cor vnum, &amp; anima vna: vicit Iudaeos &amp;
+          haereti<lb ed="#A" n="23" break="no"/>cos, verum scripturarum sensum, ab illis non intellectum,
+          <lb ed="#A" n="24"/>ab iis praue detortum aperiendo: Nam ecclesiae suae dixit,
+          <lb ed="#A" n="25"/>Christus. Ego dabo vobis os &amp; sapientiam, cui non
+          pote<lb ed="#A" n="26" break="no"/>rint resistere &amp; contradicere omnes aduersarii vestri. Neque
+          <lb ed="#A" n="27"/>dixit magis, quam praestitit. Quoties enim ceclesiae fuit cum
+          <lb ed="#A" n="28"/>Iudaeis &amp; haereticis de scripturis concertatio, dedit ei hoc
+          <lb ed="#A" n="29"/>os, dedit hanc sapientiam, cui nequaquam resistere &amp;
+          con<lb ed="#A" n="30" break="no"/>tradicere potuerunt. Est ergo vere sancta, inuicta, &amp;
+          inex<lb ed="#A" n="31" break="no"/>pugnabilis ecclesia, quae tot tantis grauissimorum hostium
+          <lb ed="#A" n="32"/>oppugnationibus non modo fracta non est &amp; debilitata,
+          <lb ed="#A" n="33"/>verum confirmata magis &amp; corroborata, recte vt verus
+          Is<lb ed="#A" n="34" break="no"/>rael noster verba illa Prophetae vsurpare sibi queat: Saepe
+          <lb ed="#A" n="35"/>expugnauerunt me a iuuentute mea, etenim non
+          potue<lb ed="#A" n="36" break="no"/>runt mihi. Cui proprium hoc etiam semper fuisse videtur,
+          <lb ed="#A" n="37"/>magis vt impugnationibus cresceret. Qua de re sic
+          ali<lb ed="#A" n="38" break="no"/>quando scripsit Clemens presbyter Alexandrinus. Et
+          Gra<lb ed="#A" n="39" break="no"/>cam quidem Philosophiam si quiuis Magistratus
+          prohi<lb ed="#A" n="40" break="no"/>buerit, ea statim perit, nostram autem doctrinam a prima
+          <lb ed="#A" n="41"/>vsque praedicatione prohibent simul &amp; reges &amp; tyranni
+          <lb ed="#A" n="42"/>&amp; singuli Duces &amp; Magistratus cum vniuersis
+          satelliti<pb ed="#A" n="27-r"/><lb ed="#A" n="1" break="no"/>bus &amp; innumerabilibus etiam hominibus, in nos
+          bellige<lb ed="#A" n="2" break="no"/>rantes, &amp; nos pro viribus excindere conantes: illa autem
+          <lb ed="#A" n="3"/>magis etiam floret, non enim emoritur vt doctrina huma
+          <lb ed="#A" n="4"/>na, neque flaccessit vt donum imbecillum. Nullum enim
+          <lb ed="#A" n="5"/>dei donum est imbecillum, manet autem eiusmodi, vt pro
+          <lb ed="#A" n="6"/>hiberi nequeat. Lib.s. stromatum. Et post eum Hilarius ita
+          <lb ed="#A" n="7"/>de Ecclesia loquitur: Dum persequitur, floret, dum
+          oppri<lb ed="#A" n="8" break="no"/>mitur, crescit: dum contemnitur, proficit: dum leditur, vin
+          <lb ed="#A" n="9"/>cit: dum arguitur, intelligit: tunc stat quum superari
+          vide<lb ed="#A" n="10" break="no"/>tur. Quem sequutus Ambrosius, vt vinea dum iugatur,
+          <lb ed="#A" n="11"/>inquit, erigitur, vt recisa non minuitur sed augetur, sic eo
+          <lb ed="#A" n="12"/>clesia dum ligatur, exuitur, dum humiliatur, attollitur,
+          dun<lb ed="#A" n="13" break="no"/>reciditur coronatur. Quanti initio oppugnarunt
+          Eccle<lb ed="#A" n="14" break="no"/>siam, ait Chrysostomus, cum fidei semina iacerentur, &amp; ar
+          <lb ed="#A" n="15"/>ma contra eam commata sunt? sed quanto magis
+          impu<lb ed="#A" n="16" break="no"/>gnabatur, tanto clarior reddebatur. Haec nota ita est
+          Ec<lb ed="#A" n="17" break="no"/>clesiae propria, vt eam haeretici sibi nulla ratione queant
+          <lb ed="#A" n="18"/>vsurpare. Stat enim fides &amp; doctrina ecclesiae, ac quanto
+          <lb ed="#A" n="19"/>grauioribus machinis ab haereticis oppugnatur, sibi sanam
+          <lb ed="#A" n="20"/>doctrinam, sibi Ecclesiae authoritatem falso arrogantibus,
+          <lb ed="#A" n="21"/>tanto fit clarior omnibus &amp; illustrior. Contra vero
+          haere<lb ed="#A" n="22" break="no"/>ticorum dogmata diuturnitatem non habuerunt, cum &amp;
+          <lb ed="#A" n="23"/>ea, quae nunc e tenebris eruuntur, &amp; sub euangelii
+          specio<lb ed="#A" n="24" break="no"/>so titulo populo venditantur, iam inde &amp; mille &amp; amplius
+          <lb ed="#A" n="25"/>annus confutata abolita, antiquata, calcata sint: sicut
+          pau<lb ed="#A" n="26" break="no"/>lo post clarius indicabimus. Habemus ergo iam Ecclesia
+          <lb ed="#A" n="27"/>notam vnam, quam vsurpare sibi Sathanae
+          synagoga<lb ed="#A" n="28" break="no"/>non potest.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

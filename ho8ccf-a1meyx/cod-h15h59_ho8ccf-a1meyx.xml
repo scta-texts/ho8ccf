@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 12</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 12</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="13-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1meyx"><!-- c12 -->
+        <head xml:id="ho8ccf-a1meyx-Hd1e99">Caput 12</head>
+        <head xml:id="ho8ccf-a1meyx-Hd1e101" type="question-title">Quomodo sacerdotes et episcopos ad contemplandum perpetuo crucis et mortis Christi beneficium excitare mater Ecclesia conata est</head>
+        <p xml:id="ho8ccf-a1meyx-d1e104">
+          <lb ed="#A" n="24"/>CAPVT DVODECIMVM
+          <lb ed="#A" n="25"/>Quomodo sacerdotes &amp; episcopos ad
+          contemplan<lb ed="#A" n="26" break="no"/>dum perpetuo crucis &amp; mortis Christi beneficium
+          <lb ed="#A" n="27"/>excitare mater Ecclesia conata est.
+        </p>
+        <p xml:id="ho8ccf-a1meyx-d1e115">
+          <lb ed="#A" n="28"/><milestone ed="#A" unit="p" rend="initial"/> QVod quoniam populo frequenter inculcare,
+          pro<lb ed="#A" n="29" break="no"/>prium sacerdotum est munus, hos vero non alia
+          <lb ed="#A" n="30"/>in re dies noctesque, quam in eius assidua
+          medi<lb ed="#A" n="31" break="no"/>tatione versari voluit, ex eo natae sunt preces,
+          <lb ed="#A" n="32"/>quas vocant horas canonicas, vt septies in die laudem Deo
+          <lb ed="#A" n="33"/>dicerent sacerdotes, quo sic implerent illud, quod ab Apo
+          <lb ed="#A" n="34"/>stolo scriptum est: Sine intermissione orate: simul illius
+          <lb ed="#A" n="35"/>immensa Christi beneficii recordarentur, per vulgo notos
+          <lb ed="#A" n="36"/>omnibus rithmos. Patris sapientia, veritas diuina: quid
+          <lb ed="#A" n="37"/>matutina: quid prima: quid tertia: quid sexta: quid
+          nona<lb ed="#A" n="38" break="no"/>quid vespertina: quid hora completorii de Christo factum
+          <lb ed="#A" n="39"/>sit, per singula suppliciorum genera, cum grati animi
+          signi<pb ed="#A" n="13-v"/><lb ed="#A" n="1" break="no"/>ficatione recolentes: omne vt vitae suae tempus in hac vna
+          <lb ed="#A" n="2"/>cogitatione traducere sacerdotes voluerit.
+        </p>
+        <p xml:id="ho8ccf-a1meyx-d1e150">
+          Porro quoties
+          <lb ed="#A" n="3"/>misse peragunt sanctum sacrificium, tum vero, sicut
+          ante<lb ed="#A" n="4" break="no"/>mentio facta est, quicquid est in Euangelio, quod scire
+          om<lb ed="#A" n="5" break="no"/>nium interest ad salutem, id non verbis explicant modo
+          <lb ed="#A" n="6"/>verum &amp; habitu, &amp; gestu, &amp; signis, &amp; ceremoniis sub aspe
+          <lb ed="#A" n="7"/>ctum populi subiiciunt: illud prae caeteris inenarrabile
+          <lb ed="#A" n="8"/>passi, crucifixi, mortui Christi beneficium, non auribus
+          <lb ed="#A" n="9"/>magis, quam oculis hominum inculcantes. Inde signa cru
+          <lb ed="#A" n="10"/>cis tam crebra, cum singulae cruces singula tormentorum
+          <lb ed="#A" n="11"/>genera designant, quae propter nos nocentes, innocem
+          <lb ed="#A" n="12"/>agnus ille, cuius sanguine redempti sumus, perferre
+          digna<lb ed="#A" n="13" break="no"/>tus est. Iam ad quorum officium pertinet non modo
+          sa<lb ed="#A" n="14" break="no"/>crificium offerre pro populo, verumetiam sacrificantibus
+          <lb ed="#A" n="15"/>praeesse, &amp; eos gubernare, atque vniuerso gregii
+          attende<lb ed="#A" n="16" break="no"/>re, cuius generis sunt Episcopi, nequaquam satis illis esse
+          <lb ed="#A" n="17"/>iudicauit, vel cum sacris operarentur, vel cum praecum
+          sua<lb ed="#A" n="18" break="no"/>rum pensum absoluerent, Christi crucis meminisse, quin
+          <lb ed="#A" n="19"/>punctum temporis nullum prope praetermitti voluit, prae
+          <lb ed="#A" n="20"/>cipue quoties domo prodeundum eis foret, quo crucis
+          <lb ed="#A" n="21"/>beneficium non recolerent: Hinc ille mos, quod
+          penden<lb ed="#A" n="22" break="no"/>tem de collo crucem gestant Episcopi, non ob id modo
+          <lb ed="#A" n="23"/>ne parum aliquando sint memores beneficij per crucem
+          <lb ed="#A" n="24"/>accepti, verumetiam vt admonerentur, quo crucifixi
+          ve<lb ed="#A" n="25" break="no"/>stigiis incedant, vt sicut illo vere bonus pastor posuit
+          ani<lb ed="#A" n="26" break="no"/>mam suam pro quibus suis, ita &amp; ipsi a bono pastore
+          pa<lb ed="#A" n="27" break="no"/>stores ouium eius constituti, ne dubitarent, si res ita
+          fer<lb ed="#A" n="28" break="no"/>ret, exemplo domini sui ponere animas suas pro
+          oui<lb ed="#A" n="29" break="no"/>bus suis, &amp; quamlibet acerba supplicia, in ipsius
+          prae<lb ed="#A" n="30" break="no"/>sidio fiducia collocata, sustinere. Hoc enim est, quod a
+          <lb ed="#A" n="31"/>suis exigit Christus, cum tollere crucem suam iubet, qui
+          <lb ed="#A" n="32"/>sequi se vult. Quinetiam quo se cunctis crucis esse
+          mini<lb ed="#A" n="33" break="no"/>stros declarent, quum alias, tum praecipue quoties
+          pri<lb ed="#A" n="34" break="no"/>mum in suae direceseos ciuitates ingrediuntur, cruce
+          sig<lb ed="#A" n="35" break="no"/>gnant obuios quosque, maioreque solennitare quadam, idque
+          <lb ed="#A" n="36"/>magis cum sacris operantur, signo crucis benedicunt
+          ho<lb ed="#A" n="37" break="no"/>minibus: simul illud in memoriam eis reuocantes, quod
+          <lb ed="#A" n="38"/>per crucem peccatorum remissio nobis obtenta est, neque
+          <lb ed="#A" n="39"/>fructus huius tanti beneficii nisi per crucis memoriam
+          <lb ed="#A" n="40"/>perque fiduciam in illa collocatam ad nos redundare queat.
+        </p>
+        <p xml:id="ho8ccf-a1meyx-d1e236">
+          <lb ed="#A" n="41"/>Caeterum Archiepiscopo vltra crucem de collo
+          penden<lb ed="#A" n="42" break="no"/>tem praefertur etiam ceux, quoties in publicum prodit,
+          <pb ed="#A" n="14-r"/>
+          <lb ed="#A" n="1"/>quo nunquam non ante oculos ipsius versetur, vt
+          quem<lb ed="#A" n="2" break="no"/>admodum princeps est episcoporum, ita se principem
+          <lb ed="#A" n="3"/>esse debere meminerit ad quaeuis adeunda pericula pro
+          fi<lb ed="#A" n="4" break="no"/>de &amp; Ecclesia Christi, proque salute concrediti sibi gregis
+          <lb ed="#A" n="5"/>conseruanda, quin &amp; ad mortem ipsam, si qua id
+          necessi<lb ed="#A" n="6" break="no"/>tas postulet, oppetendam. Potuitne amplius aliquid fa
+          <lb ed="#A" n="7"/>cere mater Ecclesia, quam quod fecit, ad mediatoris fidem
+          <lb ed="#A" n="8"/>illustrandam, &amp; quam maxime propagandam, atque ad
+          <lb ed="#A" n="9"/>redemptionis nostrae mysterium non auribus modo,
+          ve<lb ed="#A" n="10" break="no"/>rum &amp; oculis fidelium ingerendum? Quod tanto
+          stu<lb ed="#A" n="11" break="no"/>dio fecisse videtur, vt si qui ratione aut memoria
+          compre<lb ed="#A" n="12" break="no"/>hendere non possent, vel oculis aspicere, ac modo non
+          <lb ed="#A" n="13"/>manibus eis contrectare liceret: adeo se demisit ad
+          cap<lb ed="#A" n="14" break="no"/>tum omnium, vt ne quem laterent ea, sine quorum fide
+          <lb ed="#A" n="15"/>saluus esse nemo potest. Non illa scriptis modo, non
+          vi<lb ed="#A" n="16" break="no"/>ua voce tantum e superiore templi loco, verum &amp; certis
+          <lb ed="#A" n="17"/>diebus instituendis, &amp; signis, &amp; imaginibus, &amp; habitu,
+          <lb ed="#A" n="18"/>&amp; gestu, &amp; variis ceremoniis, &amp; quascunque vias &amp;
+          ratio<lb ed="#A" n="19" break="no"/>nes ad eam rem accommodatas diuini numinis afflatu
+          <lb ed="#A" n="20"/>excogitare potuit, omnibus iis in mentibus fidelium
+          im<lb ed="#A" n="21" break="no"/>primere conata est, cum alia omnia quae in symbolo
+          con<lb ed="#A" n="22" break="no"/>tinentur, quae breuis est credendorum collectio, tum
+          prae<lb ed="#A" n="23" break="no"/>cipue mediatorem Dei &amp; hominum Iesum Christum, &amp;
+          <lb ed="#A" n="24"/>hunc crucifixum: vt ex illo penderent omnes, in illo
+          pro<lb ed="#A" n="25" break="no"/>tam, quod aiunt, &amp; puppim suae salutis collocarent.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

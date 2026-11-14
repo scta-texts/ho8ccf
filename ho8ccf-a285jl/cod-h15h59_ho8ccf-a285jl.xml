@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 31</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 31</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="59-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a285jl"><!-- c31 -->
+        <head xml:id="ho8ccf-a285jl-Hd1e99">Caput 31</head>
+        <head xml:id="ho8ccf-a285jl-Hd1e101" type="question-title">Qui sint extra sanctorum communionem</head>
+        <p xml:id="ho8ccf-a285jl-d1e104">
+          <lb ed="#A" n="21"/>CAPVT XXXI.
+          <lb ed="#A" n="22"/>Qui sint extra sanctorum communionem.
+        </p>
+        <p xml:id="ho8ccf-a285jl-d1e111">
+          <lb ed="#A" n="23"/><milestone ed="#A" unit="p" rend="initial"/> EXtra communionem hanc sanctorum sunt
+          infi<lb ed="#A" n="24" break="no"/>deles omnes, quos Ethnicos siue Paganos
+          voca<lb ed="#A" n="25" break="no"/>mus, qui nunquam in Ecclesia, sed foris fuerunt
+          <lb ed="#A" n="26"/>semper: quod Paulus indicat dicens: Quid enim
+          <lb ed="#A" n="27"/>mihi de iis qui foris sunt iudicare? Sunt extra eam, qui
+          <lb ed="#A" n="28"/>prodierunt ex illa, sed segregauerunt semet ipsos, vt dicit
+          <lb ed="#A" n="29"/>Iudas, animales, Spiritum non habentes, Haeretici &amp;
+          <lb ed="#A" n="30"/>Schismatici: de quibus dicit Ioannes. Ex nobis
+          prodie<lb ed="#A" n="31" break="no"/>runt, sed non erant ex nobis: nam si fuissent ex nobis
+          <lb ed="#A" n="32"/>permansissent vtique nobiscum: qui non satis habent
+          se<lb ed="#A" n="33" break="no"/>gregasse semet ipsos, verum seducunt praeterea multos,
+          <lb ed="#A" n="34"/>dicentes: Ecce hic est Christus, ecce illis, ecce in deserto,
+          <lb ed="#A" n="35"/>ecce in penetralibus. Quos non audiri iubet Christus,
+          <lb ed="#A" n="36"/>quos post vnam atque alteram correptionem vitari
+          prae<lb ed="#A" n="37" break="no"/>cipit Apostolus, tanquam Viperam &amp; Basiliscum: quibus
+          <lb ed="#A" n="38"/>etiam Aue dici prohibet Ioannes: qui tantum abest vt in
+          <lb ed="#A" n="39"/>Ecclesia communicandum cum illis putauerit, vt ne
+          bal<lb ed="#A" n="40" break="no"/>neum quidem ingredi voluerit, in quo Cherinthum vide
+          <lb ed="#A" n="41"/>rat veritatis inimicum lauantem. Sunt denique extra eam,
+          <lb ed="#A" n="42"/>qui non sua sponte exierunt, sed tanquam putrida
+          mem<pb ed="#A" n="60-r"/><lb ed="#A" n="1" break="no"/>bra ab eius corpore sunt resecti, proque ea potestate ligandi
+          <lb ed="#A" n="2"/>&amp; soluendi, quae data est Apostolis &amp; eorum successoribus,
+          <lb ed="#A" n="3"/>declarati, vt pro Ethnicis &amp; Publicanis, iuxta Christi
+          prae<lb ed="#A" n="4" break="no"/>ceptum haberentur, atque a communione fidelium
+          reiice<lb ed="#A" n="5" break="no"/>rentur, vnde etiam excommunicati dicuntur, quod neque
+          <lb ed="#A" n="6"/>Christi, meque sanctorum cum eis illa merita
+          communi<lb ed="#A" n="7" break="no"/>cantur.
+        </p>
+        <p xml:id="ho8ccf-a285jl-d1e174">
+          Quamobrem &amp; a Sacramentis arcentur, &amp; eorum
+          <lb ed="#A" n="8"/>consuetudine piis omnibus interdicitur. Quod si quis
+          <lb ed="#A" n="9"/>recte expendat, incomparabile damnum est: traduntur
+          <lb ed="#A" n="10"/>enim eiusmodi satanae, qui, cum &amp; Christi meritis, &amp;
+          Ec<lb ed="#A" n="11" break="no"/>clesiae sint suffragiis destituti, plenam in eos accipit
+          potesta<lb ed="#A" n="12" break="no"/>tem. Hoc nunc agit in Ecclesia, dicit Augustinus,
+          excom<lb ed="#A" n="13" break="no"/>municatio, quod agebat in veteri Testamento interfectio
+          <lb ed="#A" n="14"/>Tunc, vt est apud Cyprianum, gladio occidebantur, quan
+          <lb ed="#A" n="15"/>do adhuc &amp; circuncisio carnalis manebat: nunc autem,
+          <lb ed="#A" n="16"/>quia circuncisio spiritualis esse ad fideles dei seruos cepit.
+          <lb ed="#A" n="17"/>spirituali gladio superbi &amp; contumaces necantur, dum
+          <lb ed="#A" n="18"/>ab Ecclesia eiiciuntur: neque enim viuere foris possunt, cum
+          <lb ed="#A" n="19"/>domus Dei vna sit, &amp; nemini salus esse nisi in Ecclesia
+          pos<lb ed="#A" n="20" break="no"/>sit. Indisciplinatos autem perire, dum non audiunt, nec
+          <lb ed="#A" n="21"/>obtemperant consiliis salubribus, testatur scriptura, quae
+          <lb ed="#A" n="22"/>dicit: Non diligit indisciplinatus castigantem se, qui
+          au<lb ed="#A" n="23" break="no"/>tem oderunt correptionem, consumentur turpiter.
+        </p>
+        <p xml:id="ho8ccf-a285jl-d1e212">
+          Quam<lb ed="#A" n="24" break="no"/>obrem nihil aeque formidandum est homini Christiano
+          <lb ed="#A" n="25"/>quam a Christi corpore quae est Ecclesia separari. Si quis
+          <lb ed="#A" n="26"/>enim ab ea separatur, iam non est membrum Christi, non
+          <lb ed="#A" n="27"/>vegetatur Spiritu Christi: a communione sanctorum, hoc
+          <lb ed="#A" n="28"/>est a participatione Sacramentorum &amp; ab Ecclesiae
+          suffra<lb ed="#A" n="29" break="no"/>giis excluditur. Quamuis autem haec sit poenarum
+          gra<lb ed="#A" n="30" break="no"/>uissima, quoniam tamen, sicut a quodam huius seculi
+          sa<lb ed="#A" n="31" break="no"/>piente scriptum est, medicinae quoque poenae sunt,
+          medi<lb ed="#A" n="32" break="no"/>cinae causa debent adhiberi. Neque propterea nobis hoc
+          <lb ed="#A" n="33"/>animaduersionis genere vtendum est, vt quem e caetu
+          pio<lb ed="#A" n="34" break="no"/>rum eiicimus, cum perpetuo iam condemnatum, ac gehen
+          <lb ed="#A" n="35"/>nae suppliciis traditum velimus: verum illud magis
+          pro<lb ed="#A" n="36" break="no"/>positum esse nobis debet, vt qui castigatur ad hunc
+          mo<lb ed="#A" n="37" break="no"/>dum, is ad mentem aliquando sanam redeat, ac ab eo quo
+          <lb ed="#A" n="38"/>ligatus est vinculo absolui petat. Hoc a Paulo ita
+          facien<lb ed="#A" n="39" break="no"/>dum esse discamus licet, is enim ad Corinthios scribens
+          <lb ed="#A" n="40"/>Iudicaui, inquit, tradere huiusmodi hominem Satanae in
+          <lb ed="#A" n="41"/>interitum carnis, vt spiritus saluus sit. Non ad spiritus,
+          <lb ed="#A" n="42"/>sed ad carnis interitum tradidit eum Satanae, hoc est,
+          <pb ed="#A" n="60-v"/>
+          <lb ed="#A" n="1"/>vt libido, vt rumor, superbia, contumacia, &amp; si quae sunt
+          <lb ed="#A" n="2"/>alia carnis opera, ea domarentur ac plane
+          mortificaren<lb ed="#A" n="3" break="no"/>tur, quo domitis iis, tanto minore negotio spiritus saluus,
+          <lb ed="#A" n="4"/>fieri possit. Ad Thessalonicenses quoque scribens. Quod
+          <lb ed="#A" n="5"/>si quis, inquit, non obedierit verbo nostro, per Epistolam,
+          <lb ed="#A" n="6"/>hunc notate, &amp; non commisceamini cum illo, vt
+          confun<lb ed="#A" n="7" break="no"/>datur, &amp; nolite quasi inimicum existimare, sed corripite,
+          <lb ed="#A" n="8"/>vt fratrem. A quo separationem indixit, dilectionem non
+          <lb ed="#A" n="9"/>praecidit, in hoc modo vitare volens vt erubescat, &amp; ad
+          <lb ed="#A" n="10"/>mentem sanam redeat. Quod si pudore correptus non
+          fue<lb ed="#A" n="11" break="no"/>rit, tum ipse sibi causa est mortis, non is qui sanatum eum
+          <lb ed="#A" n="12"/>hoc remedii genere cupiebat. Quod autem
+          excommuni<lb ed="#A" n="13" break="no"/>catio mortem &amp; quidem aeternam adferat, praeter multos
+          <lb ed="#A" n="14"/>alios, docet etiam is, qui pro Christi fide sanguinem suum
+          <lb ed="#A" n="15"/>profudit, sanctus ille Pontifex Vrbanus: Qui prohibens
+          <lb ed="#A" n="16"/>ne facultates Ecclesiae raperentur in alios vsus
+          conuerten<lb ed="#A" n="17" break="no"/>dae, vnicuique diripienti excommunicationem minatus: Haec
+          <lb ed="#A" n="18"/>inquit, fratres valde cauenda sunt &amp; timenda, quia res
+          Ec<lb ed="#A" n="19" break="no"/>clesiae non quasi propriae, sed vt communes &amp; domino ob
+          <lb ed="#A" n="20"/>latae, cum summo timore non in alios quam in praefatos
+          <lb ed="#A" n="21"/>vsus fideliter sunt dispensandae, ne sacrilegii reatum incur
+          <lb ed="#A" n="22"/>rant, qui eas inde abstrahant, vbi traditae sunt ne poenam
+          <lb ed="#A" n="23"/>&amp; mortem Ananiae &amp; Sapphirae incurrant, &amp; quod peius
+          <lb ed="#A" n="24"/>est anathema maranatha fiant, &amp; si non corpore vt
+          Ana<lb ed="#A" n="25" break="no"/>nias &amp; Sapphira mortui ceciderint, anima tamen, quae
+          po<lb ed="#A" n="26" break="no"/>tior est corpore, mortua, &amp; a consortio fidelium alienata
+          <lb ed="#A" n="27"/>cadat, &amp; in profundum baratri labatur. Vnde
+          attenden<lb ed="#A" n="28" break="no"/>dum est omnibus, &amp; fideliter custodiendum, &amp;
+          vsurpatio<lb ed="#A" n="29" break="no"/>nis illius contumelia depellenda, ne praedia vsibus
+          sacro<lb ed="#A" n="30" break="no"/>rum coelestium dedicata, a quibusdam irruentibus
+          vexen<lb ed="#A" n="31" break="no"/>tur. Quod si quis fecerit, post debitae vltionis acrimoniam,
+          <lb ed="#A" n="32"/>quae erga sacrilegos iure promenda est, perpetua
+          damne<lb ed="#A" n="33" break="no"/>tur infamia, &amp; carceri tradatur, aut exilio perpetuae depor
+          <lb ed="#A" n="34"/>rationis seruetur: quoniam iuxta Apostolum tradere
+          opor<lb ed="#A" n="35" break="no"/>tet hominem huiusmodi Satanae. Haec sanctus ille
+          mar<lb ed="#A" n="36" break="no"/>tyr, ante mille trecentos &amp; amplius annos,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

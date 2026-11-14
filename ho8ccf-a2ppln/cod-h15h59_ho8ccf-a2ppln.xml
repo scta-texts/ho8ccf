@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 50</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 50</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="135-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2ppln"><!-- c50 -->
+        <head xml:id="ho8ccf-a2ppln-Hd1e99">Caput 50</head>
+        <head xml:id="ho8ccf-a2ppln-Hd1e101" type="question-title">De Sacramento Ordinis</head>
+        <p xml:id="ho8ccf-a2ppln-d1e104">
+          <lb ed="#A" n="4"/>CAPVT L.
+          <lb ed="#A" n="5"/>De Sacramento Ordinis.
+        </p>
+        <p xml:id="ho8ccf-a2ppln-d1e111">
+          <lb ed="#A" n="6"/><milestone ed="#A" unit="p" rend="initial"/> CVm quae sunt, a Deo ordinata sint, non alibi
+          ma<lb ed="#A" n="7" break="no"/>gis requiri videtur, vt sint ordinata omnia, quam
+          <lb ed="#A" n="8"/>in Ecclesia, quam a Deo esse dubium non est. Ipse
+          <lb ed="#A" n="9"/>enim Deus &amp; dominus noster Iesus Christus
+          col<lb ed="#A" n="10" break="no"/>legit eam, &amp; aedificauit sanguine suo, qui propterea mori
+          <lb ed="#A" n="11"/>dignatus est, vt filios Israel qui erant dispersi
+          congrega<lb ed="#A" n="12" break="no"/>ret in vnum, &amp; esset vnus pastor, &amp; vnum ouile.
+        </p>
+        <p xml:id="ho8ccf-a2ppln-d1e130">
+          Quam<lb ed="#A" n="13" break="no"/>obrem recte in Canticis castrorum acies ordinata vocari
+          <lb ed="#A" n="14"/>legitur, neque alia magis re est aduersariis potestatibus
+          <lb ed="#A" n="15"/>terribilis, quam eo ipso quod est ordinata. Est igitur ordo
+          <lb ed="#A" n="16"/>cumprimis in ea necessarius, de quo praeclare scriptum est
+          <lb ed="#A" n="17"/>ab Augustino. Ordo est quem si tenuerimus in vita,
+          per<lb ed="#A" n="18" break="no"/>ducet ad Deum, &amp; quem nisi tenuerimus in vita, non
+          per<lb ed="#A" n="19" break="no"/>ueniemus ad Deum. Si ergo non peruenitur ad Deum
+          <lb ed="#A" n="20"/>nisi sit ordo retentus, omnia prius &amp; facere &amp; pati nos
+          <lb ed="#A" n="21"/>oportet, quam vt eum deseramus, ne si, quod absit, deseru
+          <lb ed="#A" n="22"/>erimus, eo (quod absit) nos venire contingat, vbi vmbra
+          <lb ed="#A" n="23"/>mortis &amp; nullus ordo, sed sempiternus horror inhabitat.
+          <lb ed="#A" n="24"/>Recte autem ordinem, quatenus est Ecclesiae
+          Sacramen<lb ed="#A" n="25" break="no"/>tum, de quo nunc a nobis oratio suscepta est, signaculum
+          <lb ed="#A" n="26"/>quoddam esse dicimus, per quod spiritualis potestas
+          tra<lb ed="#A" n="27" break="no"/>ditur ordinato, ad quam exercendam non licet cuiquam
+          <lb ed="#A" n="28"/>seipsum ingerere, verum vocationem expectare necesse
+          <lb ed="#A" n="29"/>est, quae nihil aliud esse videtur, quam ordinatio. Hoc est
+          <lb ed="#A" n="30"/>quod Paulus admonet. Ne quisquam sibi sumat honorem,
+          <lb ed="#A" n="31"/>sed qui vocatur a Deo tanquam Aron. Et rursus alio
+          lo<lb ed="#A" n="32" break="no"/>co: Quomodo inuocabunt in quem non crediderunt?
+          <lb ed="#A" n="33"/>aut quomodo credent ei quem non audierunt?
+          quomo<lb ed="#A" n="34" break="no"/>do autem audient sine praedicante? quomodo vero
+          prae<lb ed="#A" n="35" break="no"/>dicabunt nisi mittantur?
+        </p>
+        <p xml:id="ho8ccf-a2ppln-d1e183">
+          Quod autem ordo, vel quod
+          <lb ed="#A" n="36"/>rectius dici potest, ordinatio sit Sacramentum, vel ex eo
+          li<lb ed="#A" n="37" break="no"/>quet, quod est sacrae rei signum efficax. Est enim visibile
+          <lb ed="#A" n="38"/>signum, siue forma visibilis inuisibilis gratiae, quae
+          multi<lb ed="#A" n="39" break="no"/>plex in hoc Sacramento confertur, cum etiam ipse sit ordo
+          <lb ed="#A" n="40"/>multiplex, quemadmodum paulo post docebimus. Signum
+          <lb ed="#A" n="41"/>seu elementum huius Sacramenti, siue quis materiam
+          vo<lb ed="#A" n="42" break="no"/>care malit, est in Sacerdotibus vnctio, siue manuum impo
+          <pb ed="#A" n="136-r"/>
+          <lb ed="#A" n="1"/>sitio, in reliquis attactus eorum quae tangenda sunt. Ad
+          <lb ed="#A" n="2"/>quod elementum cum accedit verbum, sit Sacramentum.
+          <lb ed="#A" n="3"/>Nam non significatur modo, verumetiam re ipsa
+          confer<lb ed="#A" n="4" break="no"/>tur inuisibilis gratia, per quam sit vt tradita sibi
+          spiritua<lb ed="#A" n="5" break="no"/>li potestate recte fungi possit ordinatus.
+        </p>
+        <p xml:id="ho8ccf-a2ppln-d1e214">
+          Quod autem
+          <lb ed="#A" n="6"/>conferatur in hoc Sacramento gratia, testis est Paulus, cum
+          <lb ed="#A" n="7"/>Timotheum suum iis verbis alloquitur. Noli negligere
+          <lb ed="#A" n="8"/>gratiam quae in te est, quae data est tibi per prophetiam,
+          <lb ed="#A" n="9"/>cum impositione manuum presbyterii. Et iterum ad
+          eun<lb ed="#A" n="10" break="no"/>dem dicens: Admoneo te, vt resuscites gratiam Dei, quae
+          <lb ed="#A" n="11"/>in te est per impositionem manuum mearum. Meminit
+          <lb ed="#A" n="12"/>hoc loco Paulus elementi visibilis manuum impositionis,
+          <lb ed="#A" n="13"/>meminit simul inuisibilis gratiae, quae per eam confertur.
+          <lb ed="#A" n="14"/>Quisquis enim eo quo debet affectu ad hoc
+          Sacramen<lb ed="#A" n="15" break="no"/>tum percipiendum accedit, is virtute diuina ad ardui
+          mu<lb ed="#A" n="16" break="no"/>neris quod ei mandatur exequutionem praeparatur &amp;
+          in<lb ed="#A" n="17" break="no"/>struitur, simul etiam datur ei diuinitus authoritas &amp;
+          po<lb ed="#A" n="18" break="no"/>testas, rata vt sint &amp; efficacia, quaecunque sic ordinatus in eo
+          <lb ed="#A" n="19"/>quod suscepit officio iuxta Christi capitis &amp; eius corporis
+          <lb ed="#A" n="20"/>Ecclesiae institutionem rite gesserit. Non enim persona
+          <lb ed="#A" n="21"/>Sacerdotis attendi debet, qui eadem est qua caeteri
+          infir<lb ed="#A" n="22" break="no"/>mitate praeditus, verum eius a quo missus est potestas, eius
+          <lb ed="#A" n="23"/>qui dixit, Sicut misit me pater, &amp; ego mitto vos: qui
+          ba<lb ed="#A" n="24" break="no"/>ptizandi, qui ligandi &amp; soluendi, qui consecrandae,
+          distri<lb ed="#A" n="25" break="no"/>buendae, &amp; offerendae Eucharistiae, quique caeterorum
+          my<lb ed="#A" n="26" break="no"/>steriorum suorum dispensandorum potestatem tradidit.
+          <lb ed="#A" n="27"/>Recte itaque inter Sacramenta ordo numeratur. Quod
+          no<lb ed="#A" n="28" break="no"/>men illi ab Augustino quoque tribui legimus, cuius haec
+          <lb ed="#A" n="29"/>verba sunt. Nam illud quod quidam eorum veritate con
+          <lb ed="#A" n="30"/>uicti dicere caeperant, baptismum quidem non amittit qui
+          <lb ed="#A" n="31"/>recedit ab Ecclesia, sed ius tamen dandi amittit, multis
+          <lb ed="#A" n="32"/>modis apparet frustra &amp; inaniter dici. Primo quia nulla
+          <lb ed="#A" n="33"/>ostenditur causa, cur ille qui ipsum baptismum amittere non
+          <lb ed="#A" n="34"/>potest, ius dandi amittere possit, vtrunque enim
+          Sacramen<lb ed="#A" n="35" break="no"/>tum est, &amp; quadam consecratione vtrunque homini datur,
+          <lb ed="#A" n="36"/>illud cum baptizatur, illud cum ordinatur, Ideoque in Catho
+          <lb ed="#A" n="37"/>lica vtrunque non licet iterari. Nam si quando ex ipsa parte
+          <lb ed="#A" n="38"/>venientes etiam praepositi pro bono pacis correcto
+          schisma<lb ed="#A" n="39" break="no"/>tis errore correcti sunt, &amp; si visum est opus esse, vt eadem
+          <lb ed="#A" n="40"/>officia gererent quae gerebant, non sunt rursus
+          ordinan<lb ed="#A" n="41" break="no"/>di, sed sicut baptismus in eis, ita ordinatio mansit
+          inte<lb ed="#A" n="42" break="no"/>gra, quia in praecisione fuerat vitium, quod vnitatis pace
+          <pb ed="#A" n="136-v"/>
+          <lb ed="#A" n="1"/>correctum est, non in Sacramentis, quae vbicunque sunt, ipsa
+          <lb ed="#A" n="2"/>vera sunt. Et cum expedire hoc videatur Ecclesiae, vt
+          prae<lb ed="#A" n="3" break="no"/>positi eorum venientes ad Catholicam societatem
+          hono<lb ed="#A" n="4" break="no"/>res suos ibi non administrent, non eis tamen ipsa
+          ordina<lb ed="#A" n="5" break="no"/>tione Sacramenta detrahuntur, sed manit super eos.
+        </p>
+        <p xml:id="ho8ccf-a2ppln-d1e310">
+          Itaque
+          <lb ed="#A" n="6"/>non eis in populo manus imponitur, nenon homini, sed
+          <lb ed="#A" n="7"/>ipsi Sacramento fiat iniuria. Ex quo loco illud discimus,
+          <lb ed="#A" n="8"/>aeque ordinationem Sacramentum esse vt baptismum. Et
+          <lb ed="#A" n="9"/>sicut baptismus non iteratur, ita neque ordinatio, quod
+          <lb ed="#A" n="10"/>aeque in illa atque in baptismo character sue signum
+          impri<lb ed="#A" n="11" break="no"/>mitur, quo discernuntur fideles ab infidilibus, sic in
+          ordi<lb ed="#A" n="12" break="no"/>natione character imprimitur, quo discernuntur clerici a
+          <lb ed="#A" n="13"/>laicis. Leo quoque Pontifex primus eius nominis,
+          Sacra<lb ed="#A" n="14" break="no"/>menti nomen tribuit ordinationi dicere. Praeter
+          autho<lb ed="#A" n="15" break="no"/>ritatem consuetudinis, quam ex Apostica nouimus
+          ve<lb ed="#A" n="16" break="no"/>nire doctrina, etiam sacra scriptura manifestat, quod cum
+          <lb ed="#A" n="17"/>Apostoli Paulum &amp; Barnabam ex praecepto spiritus
+          san<lb ed="#A" n="18" break="no"/>cti ad Euangelium gentibus mitterent praedicandum,
+          ic<lb ed="#A" n="19" break="no"/>iunantes &amp; orantes imposuerunt eis manus, vt
+          intelliga<lb ed="#A" n="20" break="no"/>mus, quanta &amp; dantium &amp; accipientium seuotione
+          curan<lb ed="#A" n="21" break="no"/>dum sit, ne tantae benedictionis Sacramentum
+          negligen<lb ed="#A" n="22" break="no"/>ter videatur impletum. His verbis docemur non modo
+          <lb ed="#A" n="23"/>Sacramentum esse ordinationem, verimetiam gratiam
+          <lb ed="#A" n="24"/>in ea conferri. Quid enim opus esset icimio, oratione,
+          tan<lb ed="#A" n="25" break="no"/>taque deuotione dantium &amp; accipientium, nisi gratia
+          con<lb ed="#A" n="26" break="no"/>ferretur? Inde illud institutum videmis, quod non
+          ordi<lb ed="#A" n="27" break="no"/>nantur Sacerdotes, nisi praecedente ieimio, vel
+          quadrage<lb ed="#A" n="28" break="no"/>simae, vel eo quod vocatur quatuor temporum, quod ea
+          <lb ed="#A" n="29"/>etiam ex causa institutum esse videtur, vt vno animo,
+          <lb ed="#A" n="30"/>vnoque consensu, placato per ieiunium &amp; eleemosynas
+          do<lb ed="#A" n="31" break="no"/>mino, precentur Deum omnes, quod digios operarios mit
+          <lb ed="#A" n="32"/>tat in messem suam,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

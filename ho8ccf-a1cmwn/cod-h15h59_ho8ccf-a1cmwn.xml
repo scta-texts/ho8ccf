@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 2</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 2</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="1-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1cmwn"><!-- c2 -->
+        <head xml:id="ho8ccf-a1cmwn-Hd1e99">Caput 2</head>
+        <head xml:id="ho8ccf-a1cmwn-Hd1e101" type="question-title">Quod fides mediatoris, post lapsum primi hominis, fuerit et est omnibus ad salutem necessaria, neque potuerit, aut possit quisquam absque illa salvari</head>
+        <p xml:id="ho8ccf-a1cmwn-d1e104">
+          <lb ed="#A" n="24"/>CAPVT SECVNDVM.
+          <lb ed="#A" n="25"/>Quod fides mediatoris, post lapsum primi hominis,
+          <lb ed="#A" n="26"/>fuerit, &amp; est omnibus ad salutem necessaria, neque
+          <lb ed="#A" n="27"/>potuerit, aut possit quisquam absque illa saluari.
+        </p>
+        <p xml:id="ho8ccf-a1cmwn-d1e115">
+          <lb ed="#A" n="28"/><milestone ed="#A" unit="p" rend="initial"/> HAec est igitur fides nostra, in cuius simplicitate
+          <lb ed="#A" n="29"/>regnum est Dei, non in contentione sermonis, vt
+          <lb ed="#A" n="30"/>credamus &amp; confiteamur, quod non est aliud
+          no<lb ed="#A" n="31" break="no"/>men sub coelo datum hominibus, in quo saluum
+          <lb ed="#A" n="32"/>quenquam factum, aut fieri oporteret, praeter nomen illius,
+          <lb ed="#A" n="33"/>qui propterea vocari voluit IESVS, quod saluum esset
+          <lb ed="#A" n="34"/>facturus populum suum a peccatis eorum. Ac fides quidem
+          <lb ed="#A" n="35"/>haec, ante lapsum primi hominis, minime fuit necessaria,
+          <lb ed="#A" n="36"/>Neque enim alia causa fuit, quamobrem veniret in mundum
+          <lb ed="#A" n="37"/>Iesus Christus, quam vt peccatores saluos faceret. Non
+          il<lb ed="#A" n="38" break="no"/>lum de coelo ad terram merita nostra bona, sed peccata
+          tra<lb ed="#A" n="39" break="no"/>xerunt. Tolle morbos, tolle vulnera, dicit Augustinus, &amp;
+          <lb ed="#A" n="40"/>nulla est causa medicinae. Sufficiebat igitur primis
+          paren<pb ed="#A" n="2-r"/><lb ed="#A" n="1" break="no"/>tibus nostris, priusquam prolapsi fuissent, credere, quod
+          <lb ed="#A" n="2"/>Deus est, &amp; quod inquirentibus se remunerator est
+          <lb ed="#A" n="3"/>Post admissum vero per illos peccatum, iam illud
+          cre<lb ed="#A" n="4" break="no"/>dere nequaquam sufficiebat: necessaria fuit praeterea fides
+          <lb ed="#A" n="5"/>mediatoris, quem cum ipsi, tum liberi eorum &amp;
+          posteri<lb ed="#A" n="6" break="no"/>sancti Patriarchae &amp; Prophetae magno desiderio
+          ventu<lb ed="#A" n="7" break="no"/>rum expectabant, certa spe, &amp; fiducia futurum, vt per
+          <lb ed="#A" n="8"/>eum Deo patri reconciliarentur, &amp; de Diaboli potestate
+          <lb ed="#A" n="9"/>eriperentur.
+          <lb ed="#A" n="10"/>Quis autem futurus esset mediator ille, Deine filius, an
+          <lb ed="#A" n="11"/>angelus, an alius quispiam, de eo certi aliquid persuasum
+          <lb ed="#A" n="12"/>habere non fuit omnibus necesse: satis erat ad salutem,
+          <lb ed="#A" n="13"/>in genere credere, quod rationem Deus esset initurus, &amp;
+          <lb ed="#A" n="14"/>viam aliquam humanae redemptionis inuenturus. Ad
+          expli<lb ed="#A" n="15" break="no"/>catius vero &amp; distinctius de mediatore singula credenda
+          <lb ed="#A" n="16"/>tenebantur ii soli, quibus hoc fuit a Deo reuelatum, qui
+          <lb ed="#A" n="17"/>maiores vocantur, sancti Patriarchae, &amp; Prophetae, simul
+          <lb ed="#A" n="18"/>Sacerdotes, &amp; Pontifices, quibus populi docendi munus
+          <lb ed="#A" n="19"/>incumbebat, qui &amp; ante legem obscurius, &amp; post datam
+          <lb ed="#A" n="20"/>a Mose legem apertius, quibusdam sacrificus &amp;
+          caeremo<lb ed="#A" n="21" break="no"/>niis venturum Christum mediatore adumbrabant. Quo
+          <lb ed="#A" n="22"/>rum significationem intelligebant ipsi quidem apertius
+          ma<lb ed="#A" n="23" break="no"/>iores, quibus reuelatum erat, futurum, vt virgo conciperet
+          <lb ed="#A" n="24"/>&amp; pareret filium, qui passione, cruce, &amp; morte sua pro
+          pe<lb ed="#A" n="25" break="no"/>tatis hominum satisfaceret, qui tertia die a mortuis resur
+          <lb ed="#A" n="26"/>geret, deinde vero in coelos ascenderet, inde venturus
+          iu<lb ed="#A" n="27" break="no"/>dicaret viuos &amp; mortuos. In maiorum autem fide
+          salua<lb ed="#A" n="28" break="no"/>bantur minores, qui sub velamine quodam obscurius
+          co<lb ed="#A" n="29" break="no"/>gnoscebant, ac fide apprehendebant, venturum
+          mediato<lb ed="#A" n="30" break="no"/>rem, per quem essent a morte liberandi, cuius venturi fides
+          <lb ed="#A" n="31"/>Illustrior fuit sub lege, quam ante legem.
+        </p>
+        <p xml:id="ho8ccf-a1cmwn-d1e215">
+          <lb ed="#A" n="32"/><milestone ed="#A" unit="p" rend="indent"/> Posteaquam vero venit tempus illud acceptabile, vene
+          <lb ed="#A" n="33"/>runt dies salutis: posteaquam apparuit gratia Saluatoris
+          <lb ed="#A" n="34"/>nostri omnibus hominibus, qui dedit semet ipsum pro
+          <lb ed="#A" n="35"/>nobis, vt nos redimeret ab omni iniquitate, &amp; mundaret
+          <lb ed="#A" n="36"/>sibi populum acceptabilem, sectatorem bonorum
+          ope<lb ed="#A" n="37" break="no"/>rum, tum vero fides mediatoris Christi, qui pacificauit,
+          <lb ed="#A" n="38"/>per sanguinem crucis suae, siue quae in terris, siue quae in
+          <lb ed="#A" n="39"/>coelis sunt, sicut clarior &amp; apertior, ita magis esse coepit.
+          <lb ed="#A" n="40"/>necessaria, vt iam non adumbrate sicut sub lege, vel ante
+          <lb ed="#A" n="41"/>legem, neque sub velamine (quandoquidem Christo
+          mor<lb ed="#A" n="42" break="no"/>tuo velum templi scissum est) sed clare, dilucide, atque aperte
+          <pb ed="#A" n="2-v"/>
+          <lb ed="#A" n="1"/>crederent, &amp; confiterentur omnes, quod vererit iam is
+          <lb ed="#A" n="2"/>qui finis est legis Christus ad iustitiam omni
+          credenti<lb ed="#A" n="3" break="no"/>cui testimonium perhibent omnes Prophetae, emissionem
+          <lb ed="#A" n="4"/>peccatorum accipere per nomen eius, omnes qui credunt
+          <lb ed="#A" n="5"/>in eum: cuius diem Abraham videre gestiebae, ac vidit,
+          at<lb ed="#A" n="6" break="no"/>testante ipso Christo, &amp; gauisus est: vidit autem non
+          car<lb ed="#A" n="7" break="no"/>nis, verum fidei oculis, quibus multo certius videtur. Pro
+          <lb ed="#A" n="8"/>quo mittendo Moses orauit dicens: Obsecro domine,
+          mit<lb ed="#A" n="9" break="no"/>te quem missurus es. Orauit Dauid cum aliisim locis, tum
+          <lb ed="#A" n="10"/>ter in vno Psalmo repetens: Ostende faciem tuam &amp;
+          sal<lb ed="#A" n="11" break="no"/>ui erimus. Orauit Esaias, cum desiderio clamans: Emitte
+          <lb ed="#A" n="12"/>Domine agnum dominatorem terrae. Vtinam dirumperes
+          <lb ed="#A" n="13"/>coelos &amp; descenderes. Orauit in Canticis Ecclesia dicens,
+          <lb ed="#A" n="14"/>Osculetur me osculo oris sui: sonet vox tua in auribus
+          <lb ed="#A" n="15"/>meis. Quid enim aliud iis verbis a sponso suo Christo
+          pe<lb ed="#A" n="16" break="no"/>fit? quam vt qui loqueretur iam in patribus &amp; Prophetis
+          <lb ed="#A" n="17"/>idem ore proprio tandem aliquando loquatur in carne
+          <lb ed="#A" n="18"/>assumpta.
+        </p>
+        <p xml:id="ho8ccf-a1cmwn-d1e285">
+          Neque vero satis est credere, quod venerit in hunc
+          <lb ed="#A" n="19"/>mundum, sed &amp; illud fideles omnes tenere memoria
+          ne<lb ed="#A" n="20" break="no"/>cesse est, quod conceptus est de Spiritusancto, quod natus est
+          <lb ed="#A" n="21"/>ex Maria virgine, quod traditus est propter delicta nostra, &amp;
+          <lb ed="#A" n="22"/>resurrexit propter iustificationem nostram, quod ascendit
+          <lb ed="#A" n="23"/>ad coelos, sedet ad dexteram patris, inde venturus iudicare
+          <lb ed="#A" n="24"/>viuos &amp; mortuos.
+        </p>
+        <p xml:id="ho8ccf-a1cmwn-d1e301">
+          Quoniam vero qui virginis filius,
+          <lb ed="#A" n="25"/>idem est &amp; Dei filius, in patrem quoque omnipotentem cre
+          <lb ed="#A" n="26"/>dere necesse est, creatorem coeli &amp; terrae: simul &amp; in
+          Spiri<lb ed="#A" n="27" break="no"/>tum sanctum, ex quo conceptus est. Vt in tribus personis
+          <lb ed="#A" n="28"/>credatur vnus Deus. Distinctionem vero personarum, &amp;
+          <lb ed="#A" n="29"/>vnitatem substantiae, si qui sunt rudiores, quam vt
+          com<lb ed="#A" n="30" break="no"/>prehendere possint, non est adeo necessarium ad salutem,
+          <lb ed="#A" n="31"/>omnibus explicate credere, vt si quis minus hoc fuerit
+          <lb ed="#A" n="32"/>assequutus, de eius salute dubitandum sit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

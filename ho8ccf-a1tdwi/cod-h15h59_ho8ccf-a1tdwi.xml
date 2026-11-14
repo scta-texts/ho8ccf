@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 20</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 20</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="24-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1tdwi"><!-- c20 -->
+        <head xml:id="ho8ccf-a1tdwi-Hd1e99">Caput 20</head>
+        <head xml:id="ho8ccf-a1tdwi-Hd1e101" type="question-title">Descriptio Ecclesiae, quodque sibi nomen eius et authoritatem usurpant etiam haeretici</head>
+        <p xml:id="ho8ccf-a1tdwi-d1e104">
+          <pb ed="#A" n="24-v"/>
+          <lb ed="#A" n="1"/>CAPVT XX.
+          <lb ed="#A" n="2"/>Descriptio Ecclesiae, quodque sibi nomen eius &amp;
+          <lb ed="#A" n="3"/>authoritatem vsurpant etiam haeretici.
+        </p>
+        <p xml:id="ho8ccf-a1tdwi-d1e115">
+          <lb ed="#A" n="4"/><milestone ed="#A" unit="p" rend="initial"/> QVoniam vero fieri videmus, quod sicut
+          scriptu<lb ed="#A" n="5" break="no"/>ras &amp; earum verum intellectum sibi falso
+          arro<lb ed="#A" n="6" break="no"/>gant haeretici, ita &amp; ecclesiae nomen, cuius autho
+          <lb ed="#A" n="7"/>ritate se premi vident, sibi temere &amp; impudenter
+          <lb ed="#A" n="8"/>vsurpant, ac sicut scripturarum possessione, in qua pridem
+          <lb ed="#A" n="9"/>praescriptum est a Catholicis, a quibus eas habere se
+          nega<lb ed="#A" n="10" break="no"/>re non possunt, ita piorum coetu homines impii pios
+          om<lb ed="#A" n="11" break="no"/>nes, &amp; in Christiana fide religioneque fixos &amp; immobiles
+          <lb ed="#A" n="12"/>perinanentes, excludunt, illud nobis docendum restat,
+          qui<lb ed="#A" n="13" break="no"/>bus notis ecclesia, quae domus est Dei viui, ab ea, quam odi
+          <lb ed="#A" n="14"/>uit Deus, ecclesia malignantium discerni recte possit.
+        </p>
+        <p xml:id="ho8ccf-a1tdwi-d1e142">
+          Ne<lb ed="#A" n="15" break="no"/>que vero nouum hoc est, quod qui hostes ecclesiae sunt, ipsi
+          <lb ed="#A" n="16"/>dici &amp; videri volunt ecclesia. Et Irenei, &amp; Tertulliam tem
+          <lb ed="#A" n="17"/>poribus factitatum hoc legimus: Lactantius quoque
+          scri<lb ed="#A" n="18" break="no"/>bit, quod singuli quique coetus haereticorum, se potissimum
+          <lb ed="#A" n="19"/>Christianos, &amp; suam esse Catholicam ecclesiam putant
+          <lb ed="#A" n="20"/>Et ante eum Cyprianus de Nouatiano memoriae
+          prodi<lb ed="#A" n="21" break="no"/>dit, quod more simiarum, quae cum homines non sint,
+          ho<lb ed="#A" n="22" break="no"/>mines imitantur, quum ipse in ecclesia non esset, imo
+          ad<lb ed="#A" n="23" break="no"/>huc insuper contra ecclesiam rebellis extitisset, hoc sibi ven
+          <lb ed="#A" n="24"/>dicabat, vt apud se ecclesiam esse diceret, ac nos haereticos
+          <lb ed="#A" n="25"/>faceret. Et qui sequutus vtrumque videtur Hilarius, narrat
+          <lb ed="#A" n="26"/>de Antichris synagoga, quod se Christi esse ecclesiam men
+          <lb ed="#A" n="27"/>tiebatur. Idem faciebant Augustini temporibus Donatistae
+          <lb ed="#A" n="28"/>Suo quoque seculo fuisse scribit Bernardus quosdam, qui se
+          <lb ed="#A" n="29"/>vocabant Apostolicos, qui se Ecclesiam esse dicebant, sed
+          <lb ed="#A" n="30"/>contradicebant ei, qui dixit, non potest abscondi ciuitas
+          <lb ed="#A" n="31"/>supra montem posita: quorum temeritatem imitati sunt
+          <lb ed="#A" n="32"/>proximis superioribus seculis pauperes de Lugduno; siue
+          <lb ed="#A" n="33"/>Picardi, Vicleffistae, &amp; alii id genus haeretici, qui &amp; ipsi
+          si<lb ed="#A" n="34" break="no"/>bi sicut sanam doctrinam, ita Ecclesiae authoritatem
+          impu<lb ed="#A" n="35" break="no"/>denter arrogant.
+        </p>
+        <p xml:id="ho8ccf-a1tdwi-d1e191">
+          Quamobrem vt ne quis dubitet, vbi sit
+          <lb ed="#A" n="36"/>vera ecclesia, quae sint illius notae breuiter accipiat. Sunt
+          <lb ed="#A" n="37"/>qui duas tantum esse velint Ecclesiae, sanam doctrinam, &amp;
+          <lb ed="#A" n="38"/>legitimum Sacramentorum vsum. Quae quin Ecclesiae
+          no<lb ed="#A" n="39" break="no"/>re sint, negari non potest: Certum est enim, quod verbum
+          <lb ed="#A" n="40"/>dei, quod sanus illius intellectus, quod sacramentorum
+          ve<lb ed="#A" n="41" break="no"/>rus vsus, nusquam est alibi, quam in ecclesia Catholica,
+          <pb ed="#A" n="25-r"/>
+          <lb ed="#A" n="1"/>Sed facit haereticorum audacia, difficulter vt his notis a
+          <lb ed="#A" n="2"/>quibusuis agnosci possit Ecclesia, quibus iam inde a
+          mul<lb ed="#A" n="3" break="no"/>tis saeculis nulli fuerunt in eis sibi vsurpandis
+          pertinacio<lb ed="#A" n="4" break="no"/>res. Nam sicut nunc sunt, qui magis Euangelici dici
+          gau<lb ed="#A" n="5" break="no"/>dent, quam Christiani, vel hac ratione palam facientes
+          <lb ed="#A" n="6"/>omnibus, quod a Christo &amp; eius corpore, extra quod
+          <lb ed="#A" n="7"/>haud dubie nullum est Euangelium, se diuulscrint:
+          pro<lb ed="#A" n="8" break="no"/>pterea vero sibi nomen hoc arrogant, quod se solos Euan
+          <lb ed="#A" n="9"/>gelium, vt ipsi comminiscuntur, multis iam seculis
+          abscon<lb ed="#A" n="10" break="no"/>ditum, e densissimis tenebris eruisse, ac in lucem
+          protulis<lb ed="#A" n="11" break="no"/>se, se solos verum illius intellectum inuenisse persuasum
+          <lb ed="#A" n="12"/>rudibus esse volunt: Sic &amp; olim fuerunt, qui
+          Gnostici<lb ed="#A" n="13" break="no"/>quod se solos sapere, se solos omnia scire, &amp; intelligere
+          ia<lb ed="#A" n="14" break="no"/>ctarent: fuerunt qui Apostolici, quod Apostolorum &amp;
+          do<lb ed="#A" n="15" break="no"/>ctrinam &amp; vitam imitari se solos gloriarentur, appellari
+          <lb ed="#A" n="16"/>vellent. Christianorum nomen tanquam tritum &amp;
+          vulga<lb ed="#A" n="17" break="no"/>re aspernantes, quod simplicitatem quandam columbinam
+          <lb ed="#A" n="18"/>redoleret, atque ideo congregatione magis, quam
+          diuisio<lb ed="#A" n="19" break="no"/>ne, vt singularitate gauderent. Iam inter istos ipsos, qui
+          <lb ed="#A" n="20"/>se vocant Euangelicos, varias sectas reperire licet: sunt
+          Lu<lb ed="#A" n="21" break="no"/>therani, sunt Sacramentarii, sunt Anabaptistae, quorum singu
+          <lb ed="#A" n="22"/>si ita duas has notas ecclesiae suae proprias esse contendunt,
+          <lb ed="#A" n="23"/>sibique, pugnantes inter se, verbi puritatem, &amp; verum
+          sacra<lb ed="#A" n="24" break="no"/>mentorum vsum ita arrogant, vt neutri alteris eas
+          conce<lb ed="#A" n="25" break="no"/>dant. Quare quaerendae sunt praeter has certiores aliae
+          no<lb ed="#A" n="26" break="no"/>te, quibus omnis de ecclesia, penes quos ea sit, dubitatio
+          <lb ed="#A" n="27"/>tolli possit. Vnde autem eas petemus, nisi e symbolo?
+          par<lb ed="#A" n="28" break="no"/>tim eo, quod Apostoli conscripserunt, partim eo, quod a
+          <lb ed="#A" n="29"/>Patribus conditum est in concilio Constantinopolitano,
+          <lb ed="#A" n="30"/>In illo duas notas reperimus: appellatur enim sancta &amp;
+          <lb ed="#A" n="31"/>Catholica ecclesia: In hoc adduntur aliae praeterea duae,
+          <lb ed="#A" n="32"/>quod sit vna, &amp; Apostolica. Hae quatuor ita sunt ecclesia
+          <lb ed="#A" n="33"/>propriae notae, vt eas vsurpare sibi nequaquam possint
+          hae<lb ed="#A" n="34" break="no"/>retici. Vt autem qua de re agatur intelligi possit, scire
+          opor<lb ed="#A" n="35" break="no"/>tet, quod sicut videmus in vno homine esse vnum animum
+          <lb ed="#A" n="36"/>&amp; vnum corpus, &amp; tamen esse diuersa membra ipsius, ita
+          <lb ed="#A" n="37"/>ecclesia Catholica est vnum corpus, &amp; habet diuersa mem
+          <lb ed="#A" n="38"/>bra, sicut etiam Paulus meminit, anima autem, quae
+          cor<lb ed="#A" n="39" break="no"/>pus hoc viuificat, est spiritus sanctus, caput vero illius est
+          <lb ed="#A" n="40"/>Christus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 55</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 55</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="156-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2tfiv"><!-- c55 -->
+        <head xml:id="ho8ccf-a2tfiv-Hd1e99">Caput 55</head>
+        <head xml:id="ho8ccf-a2tfiv-Hd1e101" type="question-title">De Sacramento Matrimonii</head>
+        <p xml:id="ho8ccf-a2tfiv-d1e104">
+          <lb ed="#A" n="32"/>CAPVT LI.
+          <lb ed="#A" n="33"/>De Sacramento Matrimonij.
+        </p>
+        <p xml:id="ho8ccf-a2tfiv-d1e111">
+          <lb ed="#A" n="34"/><milestone ed="#A" unit="p" rend="initial"/> DIximus iam quemadmodum nati mundo, per
+          la<lb ed="#A" n="35" break="no"/>uacrum regenerationis feiicius Christo
+          renasci<lb ed="#A" n="36" break="no"/>mur in vitam quandam notum, qua non iam ipsi vi
+          <lb ed="#A" n="37"/>Quimus, verum quit in nobis Christus, quem in
+          <lb ed="#A" n="38"/>baptismo sumus induti. Quod autem viuimus
+          deincer<lb ed="#A" n="39" break="no"/>in carne, in fide viuimus filii dei, qui dilexit nos &amp;
+          tradi<lb ed="#A" n="40" break="no"/>dit semetipsum pro nobis: qua etiande causa fidei sacramen
+          <lb ed="#A" n="41"/>cum baptismus vocatur. Simul &amp; ilud docuimus,
+          postea<pb ed="#A" n="157-r"/><lb ed="#A" n="1" break="no"/>quam in baptismo semel Christo desponsi sumus, non ad
+          <lb ed="#A" n="2"/>fidem otiosam, sed ad pugnam periculosam nos vocatos
+          <lb ed="#A" n="3"/>esse. Dolet enim satanas ereptum sibi bolum e faucibus,
+          <lb ed="#A" n="4"/>quamobrem omni telorum genere nos oppugnat, vt a spon
+          <lb ed="#A" n="5"/>so nostro, cuius pretioso sanguine subarrati sumus abstra
+          <lb ed="#A" n="6"/>ctos, in suam nos rursus redigat potestatem. Contra quem
+          <lb ed="#A" n="7"/>cum perpetuo nos in acie stare oporteat, neque enim
+          fru<lb ed="#A" n="8" break="no"/>stra scriptum est. Militia est vita hominis super terram, quo
+          <lb ed="#A" n="9"/>simus in praelio gerendo fortiores, signamur in fronte
+          si<lb ed="#A" n="10" break="no"/>gno crucis, &amp; vngimur chrismate salutis, quo signo datur
+          <lb ed="#A" n="11"/>nobis spiritus sanctus, qui praesto nobis adsit,
+          pugnanti<lb ed="#A" n="12" break="no"/>bus, robur praestet, fiduciamque resistendi suppeditet.
+        </p>
+        <p xml:id="ho8ccf-a2tfiv-d1e159">
+          Itaque
+          <lb ed="#A" n="13"/>vocatur confirmatio spei sacramentum, quod per illud in
+          <lb ed="#A" n="14"/>bonam spem erigimur ex hostibus victoriae deportaudae,
+          <lb ed="#A" n="15"/>Ostendimus postea, quandoquidem qui non modo viuunt,
+          <lb ed="#A" n="16"/>verum etiam pugnant, alimoniae indigere videntur, quod
+          <lb ed="#A" n="17"/>alioqui vires non essent suffecturae, de hac quoque
+          prouidis<lb ed="#A" n="18" break="no"/>se nobis patrem misericordiarum Deum. Qualis vita, qua
+          <lb ed="#A" n="19"/>lis pugna. talis &amp; alimonia. Nihil in iis omnibus non est
+          <lb ed="#A" n="20"/>spirituale. Spiritus enim est qui viuificat, caro non prodes
+          <lb ed="#A" n="21"/>quicquam.
+        </p>
+        <p xml:id="ho8ccf-a2tfiv-d1e182">
+          Quamobrem non ea carne quae videri, quae
+          tan<lb ed="#A" n="22" break="no"/>gi, quaeve sensu aliquo comprehendi possit, sed ea quam
+          <lb ed="#A" n="23"/>fide sola complecti licet, sua ipsius vera &amp; viua carne, suo
+          <lb ed="#A" n="24"/>ipsius vero &amp; viuo sanguine nos reficere dignatur. Qua
+          <lb ed="#A" n="25"/>in re cum maxime sit illustris illius in nos charitas, qua nos
+          <lb ed="#A" n="26"/>vicissim ad amandum illum inflammamur, qui prior dile
+          <lb ed="#A" n="27"/>xit nos, recte dicitur eucharistia sacramentum charitatis,
+          <lb ed="#A" n="28"/>per quod vnum cum Christo capite, vnum etiam ipsi
+          in<lb ed="#A" n="29" break="no"/>ter nos corpus efficimur. Illud quoque demonstrauimus,
+          <lb ed="#A" n="30"/>quandoquidem nostra culpa sit, vt cum hostibus
+          dimican<lb ed="#A" n="31" break="no"/>tes aliquando succumbamus, grauiterque sauciati
+          prosterna<lb ed="#A" n="32" break="no"/>mur, hac quoque in parte de remedio nobis patrem nostrum
+          <lb ed="#A" n="33"/>coelestem pro sua ineffabili bonitate prospexisse,
+          poeniten<lb ed="#A" n="34" break="no"/>tiaeque medicinam concessisse, qua sanati resurgere possemus.
+        </p>
+        <p xml:id="ho8ccf-a2tfiv-d1e213">
+          <lb ed="#A" n="35"/>Quoniam vero non nisi nostra culpa fit, vt victum nosti
+          <lb ed="#A" n="36"/>hostis potestatem recidamus, merito nobis deus irascitur.
+          <lb ed="#A" n="37"/>cui per hoc poenitentiae sacramentum reconciliamur:
+          Ne<lb ed="#A" n="38" break="no"/>que tamen iam omnino gratis sicut in baptismo, sed
+          re<lb ed="#A" n="39" break="no"/>quiritur deinceps a nobis, si redire cum Deo velimus in
+          <lb ed="#A" n="40"/>gratiam, vt a peccatis cessemus, vt ea defestemur, &amp; odio
+          <lb ed="#A" n="41"/>habeamus, vt corde contrito &amp; humiliato, quod Deus no
+          <lb ed="#A" n="42"/>despicit, non solum recogitemus in amaritudine
+          pecca<pb ed="#A" n="157-v"/><lb ed="#A" n="1" break="no"/>ta nostra, verumetiam ministro reconciliationis sacerdo
+          <lb ed="#A" n="2"/>ea consiteamur, &amp; absolutionis ab eo beneficium petamus.
+          <lb ed="#A" n="3"/>denique vt per ieiunia, orationes, elcemosynas &amp; alia
+          pia<lb ed="#A" n="4" break="no"/>vitae spiritualis exercitia, dignaque poenitentiae opera
+          satis<lb ed="#A" n="5" break="no"/>faciamus, non quidem pro poena aeterna, quae merito
+          Chri<lb ed="#A" n="6" break="no"/>sti passionis &amp; mortis per sacramentum vel sacramenti
+          vo<lb ed="#A" n="7" break="no"/>tum vna cum culpa nobis remittitur, sed pro poena
+          tem<lb ed="#A" n="8" break="no"/>poraria, quae non tota semper vt in baptismo sit, remittitur.
+        </p>
+        <p xml:id="ho8ccf-a2tfiv-d1e251">
+          <lb ed="#A" n="9"/>Quare sacramentum hoc ad eam virtutem refertur, quam
+          <lb ed="#A" n="10"/>iustiam vocamus: iustum enim est, vt qui gratiae quam
+          acce<lb ed="#A" n="11" break="no"/>perat ingratus, spiritum sanctum contristauit, &amp; templum
+          <lb ed="#A" n="12"/>dei violare non est veritus, non sine aliqua satisfactione
+          <lb ed="#A" n="13"/>reconcilietur. Illud praeterea planum fecimus, quod non
+          <lb ed="#A" n="14"/>alio tempore grauius &amp; periculosius certamen instat quam
+          <lb ed="#A" n="15"/>cum graui morbo conflictatis ex hac vita migrandum est.
+          <lb ed="#A" n="16"/>quodque ne tum quidem deesse nobis dignata est dei
+          beni<lb ed="#A" n="17" break="no"/>gnitas, deditque sacramentum vnctionis, quam extremam vocant,
+          <lb ed="#A" n="18"/>quo vires tam corporis quam animi refocillari possint, vt ad
+          <lb ed="#A" n="19"/>congrediendum cum tam potenti aduersario illius gratia
+          <lb ed="#A" n="20"/>adiuti non omnino impares esse possemus. Hoc sacramen
+          <lb ed="#A" n="21"/>tum ad fortitudinem refertur, cuius pars est
+          perseueran<lb ed="#A" n="22" break="no"/>tia, quam huius vnctionis beneficio consequimur, fortes
+          <lb ed="#A" n="23"/>in pugna perseuerantes, ac sumpto scuto fidei, omnia tela
+          <lb ed="#A" n="24"/>nequissimi ignea extinguentes. Declaratum est &amp; illud,
+          <lb ed="#A" n="25"/>quando sine ministris vita constare non potest, etiam de
+          <lb ed="#A" n="26"/>illis Deum Ecclesiae suae prouidere voluisse, non sine quo
+          <lb ed="#A" n="27"/>dam ordine, qui non solum ad decorem facit plurimum,
+          <lb ed="#A" n="28"/>verum etiam ad concordiam &amp; vnitatem retinendam.
+          De<lb ed="#A" n="29" break="no"/>disse minores quosdam, Ostiarios, Lectores, Exorcistas,
+          <lb ed="#A" n="30"/>Acolythos. Dedisse maiores quoque ministros,
+          Subdiaco<lb ed="#A" n="31" break="no"/>nos, Diaconos, Sacerdotes. Quia vero sicut praeclare
+          di<lb ed="#A" n="32" break="no"/>ctum est a Chrysostomo, vbi honoris est aequalitas, aut
+          <lb ed="#A" n="33"/>omnes principatum gerunt, ibi nunquam poterit esse pax,
+          <lb ed="#A" n="34"/>dedisse quosdam etiam qui cum quadam in Ecclesia
+          pote<lb ed="#A" n="35" break="no"/>state versarentur, non solum cognoscendi de iis quae ad
+          fo<lb ed="#A" n="36" break="no"/>rum Ecclesiasticum pertinent, praecipue vero de doctrinae
+          <lb ed="#A" n="37"/>genere, verum etiam flagitiosos coercendi, &amp; eos qui
+          do<lb ed="#A" n="38" break="no"/>ctrinam impiam sectarentur ab Ecclesiae septis arcendi, ac
+          <lb ed="#A" n="39"/>ex piorum coetu exterminandi. Hos ordines per Paulum
+          <lb ed="#A" n="40"/>significatos putat Ambrosius quum dicit. Et ipse dedit quos
+          <lb ed="#A" n="41"/>dam quidem Apostolos, quosdam autem Prophetas, alios
+          <lb ed="#A" n="42"/>vero Euangelistas, quosdam vero pastores &amp; magistros ad con
+          <pb ed="#A" n="158-r"/>
+          <lb ed="#A" n="1"/>summationem sanctorum in opus ministerii. Apostoli,
+          <lb ed="#A" n="2"/>inquit, Episcopii sunt. Prophetae vero explanatores sunt
+          <lb ed="#A" n="3"/>scripturarum: Euangelistae Diaconi sunt, sicut fuit
+          Philip<lb ed="#A" n="4" break="no"/>pus: quamuis non sint Sacerdotes, Euangelizare tamen
+          <lb ed="#A" n="5"/>possunt sine cathedra: pastores sunt lectores, qui
+          lectioni<lb ed="#A" n="6" break="no"/>bus saginent populum audientem: magistri vero
+          exorci<lb ed="#A" n="7" break="no"/>stae sunt, quia in Ecclesia ipsi compescunt &amp; verberant
+          in<lb ed="#A" n="8" break="no"/>quictos. Refertur autem hoc Sacramentum ad
+          pruden<lb ed="#A" n="9" break="no"/>tiam, quandoquidem fidelem esse seruum &amp; prudentem
+          <lb ed="#A" n="10"/>oportet, quem constituit dominus super familiam suam, vt
+          <lb ed="#A" n="11"/>det illis cibum in tempore. Atque haec quidem dicta iam a
+          <lb ed="#A" n="12"/>nobis sunt.
+        </p>
+        <p xml:id="ho8ccf-a2tfiv-d1e355">
+          Quoniam vero cum vnius hominis aetas
+          lon<lb ed="#A" n="13" break="no"/>ga non sit, breui defuturi erant, qui per baptisinum renati,
+          <lb ed="#A" n="14"/>Christi se militiae adscriberent, etiam huic rei Deus
+          reme<lb ed="#A" n="15" break="no"/>dium prospexit, ac matrimonii Sacramentum in ipso
+          Pa<lb ed="#A" n="16" break="no"/>radiso instituit, &amp; quo noui Christi milites
+          conscriberen<lb ed="#A" n="17" break="no"/>tur: si modo, quod fieri dubitandum non est, non alia
+          ve<lb ed="#A" n="18" break="no"/>luntate liberos parentes procrearent, quam vt per
+          baptis<lb ed="#A" n="19" break="no"/>mum ex membris primi hominis in membra Christi
+          trans<lb ed="#A" n="20" break="no"/>lati, in eiusdem Christi militum album referrentur, atque iis
+          <lb ed="#A" n="21"/>qui vita functi essent, noui semper succederent. De hoc
+          <lb ed="#A" n="22"/>itaque Sacramento nobis nunc dicendum est, quod antequam
+          <lb ed="#A" n="23"/>peccasset Addam, in officium tantum &amp; ministerium, post
+          <lb ed="#A" n="24"/>admissum vero peccatum iam non in officium tantum,
+          ve<lb ed="#A" n="25" break="no"/>rumetiam in remedium est institutum. Quapropter ad eam
+          <lb ed="#A" n="26"/>virtutem refertur, quae temperantia dicitur, vt esset incon
+          <lb ed="#A" n="27"/>rinentiae remedium. De hoc Sacramento sic scribit Paulus.
+          <lb ed="#A" n="28"/>Mulieres viris suis subditae sint sicut domino, quoniam
+          ri<lb ed="#A" n="29" break="no"/>caput est mulieris, sicut &amp; Christus caput Ecclesiae: Ipse est
+          <lb ed="#A" n="30"/>Saluator corporis eius. Sed vt Ecclesia subiecta est
+          Chri<lb ed="#A" n="31" break="no"/>sto, ita &amp; mulieres viris suis in omnibus. Viri, diligite
+          vxo<lb ed="#A" n="32" break="no"/>res vestras, sicut &amp; Christus dilexit Ecclesiam, &amp; seipsum
+          <lb ed="#A" n="33"/>tradidit pro ea: vt eam sanctificaret, mundans lauacro aquae
+          <lb ed="#A" n="34"/>in verbo vit: vt exhiberet ipse sibi gloriosam Ecclesiam, non
+          <lb ed="#A" n="35"/>habentem maculam, aut rugam, aut aliquid huiusmodi, sed vt
+          <lb ed="#A" n="36"/>sit sancta &amp; immaculata. Ita &amp; viri debent diligere vxores.
+          <lb ed="#A" n="37"/>suas vt corpora sua. Qui suam uxorem diligit, seipsum diligit
+          <lb ed="#A" n="38"/>Nemo enim vnquam carnem suam odio habuit: sed nutrit &amp;
+          fo<lb ed="#A" n="39" break="no"/>uet eam, sicut &amp; Christus Ecclesiam: quia membra sumus corpo
+          <lb ed="#A" n="40"/>ris eius, de carne eius, &amp; de ossibus eius. Propter hoc
+          relin<lb ed="#A" n="41" break="no"/>quet homo patrem &amp; matrem suam, &amp; adhaerebit vxori suae: &amp;
+          <lb ed="#A" n="42"/>erunt duo in carne vna Sacramentum hoc magnum est ego autem de
+          <pb ed="#A" n="158-v"/>
+          <lb ed="#A" n="1"/>co in Christo, &amp; in Ecclesia.
+        </p>
+        <p xml:id="ho8ccf-a2tfiv-d1e427">
+          Verum tamen &amp; vos singuli
+          <lb ed="#A" n="2"/>vnusquisque vxorem suam sicut seipsum diligat: vxor
+          au<lb ed="#A" n="3" break="no"/>tem timeat virum suum. Nullum est e septem, de quibus
+          no<lb ed="#A" n="4" break="no"/>bis nunc sermo est, cui sacramenti nomen in scripturis
+          Ca<lb ed="#A" n="5" break="no"/>nonicis tribui legamus, praeter vnum hoc quod non modo
+          <lb ed="#A" n="6"/>sacramentum, verumetiam magnum sacramentum vocat
+          <lb ed="#A" n="7"/>Paulus. Neque desunt tamen, qui inter sacramenta matri
+          <lb ed="#A" n="8"/>monium numerari nolint. Nam a Paulo qui Graece
+          scri<lb ed="#A" n="9" break="no"/>psit, non sacramentum sed mysterium vocari dicunt. Quasi
+          <lb ed="#A" n="10"/>vero aliud sonet Graecis mysterium, quam quod Latini
+          vo<lb ed="#A" n="11" break="no"/>cant sacramentum. Cyprianus, Cyrillus, Chrysostomus
+          <lb ed="#A" n="12"/>eucharistiam saepe vocant mysterium, nunquid ideo sacra
+          <lb ed="#A" n="13"/>mentum non est? Ac late quidem patet mysterii nomen,
+          <lb ed="#A" n="14"/>sicut &amp; sacramenti, verum &amp; ea significatione qua nunc
+          <lb ed="#A" n="15"/>vtimur, sacramentum appellari matrimonium a Paulo
+          du<lb ed="#A" n="16" break="no"/>bitandum non est, quandoquidem ita multis &amp; disertis
+          <lb ed="#A" n="17"/>verbis omnia illi competere ostendit, quaecunque ad
+          sacra<lb ed="#A" n="18" break="no"/>menti rationem (quomodo nunc de eo loquimur)
+          perti<lb ed="#A" n="19" break="no"/>nent. Quid est enim aliud sacramentum, nisi sacrae rei
+          si<lb ed="#A" n="20" break="no"/>gnum? Docuimus autem antea tria esse signorum
+          gene<lb ed="#A" n="21" break="no"/>ra. nam &amp; praeteritarum, &amp; praesentium, &amp; futurarum
+          <lb ed="#A" n="22"/>rerum per ea admonemur. Omnium, harum rerum
+          <lb ed="#A" n="23"/>nos admonet signum huius sacramenti, siue quis
+          ma<lb ed="#A" n="24" break="no"/>teriam aut elementum vocare malit, quae est visibilis illa
+          <lb ed="#A" n="25"/>coniunctio, quae fit stipulatione verborum, data arra,
+          iun<lb ed="#A" n="26" break="no"/>ctis dextris, aliisque solennibus ceremoniis. Primum adine
+          <lb ed="#A" n="27"/>net praeteritae mysticae conglutinationis diuinae &amp;
+          huma<lb ed="#A" n="28" break="no"/>nae naturae, Christi sponsi &amp; Ecclesiae sponsae; quomodo
+          <lb ed="#A" n="29"/>dominus noster Iesus Christus reliquit, patrem suum
+          De<lb ed="#A" n="30" break="no"/>um, posteaquam exinaniuit semet ipsum formam serui
+          ac<lb ed="#A" n="31" break="no"/>cipiens: reliquit matrem suam synagogam, ex qua
+          secun<lb ed="#A" n="32" break="no"/>dum carnem natus est: reliquit domum suam: dimisit
+          hae<lb ed="#A" n="33" break="no"/>reditatem suam dedit dilectam animam suam in manus inimico
+          <lb ed="#A" n="34"/>rum suorum. Quam tandem ob causam? Vt adhaerere
+          <lb ed="#A" n="35"/>vxori suae Ecclesiae, quam ex gentibus sibi copulauerat, vt
+          <lb ed="#A" n="36"/>quam foedam inuenerat ac omni turpitudinis genere
+          pol<lb ed="#A" n="37" break="no"/>lutam, eam sanguine suo ablutam sanctificaret, ac exhibe
+          <lb ed="#A" n="38"/>ret sibi gloriosam Ecclesiam, non halentem maculam
+          ne<lb ed="#A" n="39" break="no"/>que rugam. Huius praeterit rei futuros coniuges primum
+          <lb ed="#A" n="40"/>admonet signum istud visibile. Admonet autem non in
+          <lb ed="#A" n="41"/>hoc tantum vt mirentur, verumetiam vt imitentur
+          <lb ed="#A" n="42"/>viri diligant vxores suas, sicut &amp; CHRISTVS dilexit
+          <pb ed="#A" n="159-r"/><lb ed="#A" n="1"/>Ecclesiam, vt neque patris neque matris amorem illius amori
+          <lb ed="#A" n="2"/>anteponendum esse putent: vt sicut Christus tradidit semet
+          <lb ed="#A" n="3"/>ipsum pro sponsa sua Ecclesia, ita vir pro vita, pudicitia,
+          ra<lb ed="#A" n="4" break="no"/>na vxoris suae non dubitet, vitae quoduis discrimen adire
+          <lb ed="#A" n="5"/>Sicut Christus adamauit immundam, &amp; acerbissima quaeque
+          <lb ed="#A" n="6"/>passus est, vt mundam &amp; incontaminatam redderet, sic &amp;
+          <lb ed="#A" n="7"/>vir si non vsquequaque munda sit vxor, si qua sit vel corporis
+          <lb ed="#A" n="8"/>vel animi infirmitate praedita, non statim abiiciendam
+          exi<lb ed="#A" n="9" break="no"/>stimet, verum infirmus infirmam toleret, atque omnia &amp;
+          <lb ed="#A" n="10"/>facere &amp; pati in animum inducat, quo vel corporis vel
+          ani<lb ed="#A" n="11" break="no"/>mi illius morbo mederi possit. Huius rei coniunctionis
+          <lb ed="#A" n="12"/>Christi sponsi cum sponsa Ecclesia sic signum est visibilis
+          <lb ed="#A" n="13"/>coniunctio viri cum foemina, vt eius admoneat tantum.
+          <lb ed="#A" n="14"/>non autem eam efficiat, Caeterum admonet praeterea
+          prae<lb ed="#A" n="15" break="no"/>sentis rei, praesentis gratiae, quam in hoc Sacramento con
+          <lb ed="#A" n="16"/>fert Deus, qui quod iubet non modo verbo, verumetiam
+          <lb ed="#A" n="17"/>exemplo, idem etiam dat pro sua bonitate. Siquidem
+          vi<lb ed="#A" n="18" break="no"/>sibilis ista compulatio quae fit datis arris, iunctis dextris,
+          ad<lb ed="#A" n="19" break="no"/>monet inuisibilis gratiae, quam largitur Deus. Nam simul
+          <lb ed="#A" n="20"/>vt ad elementum visibile accesserint verba, quae praeeunte
+          <lb ed="#A" n="21"/>Sacerdote profert vterque coniunx, sit Sacramentum,
+          per<lb ed="#A" n="22" break="no"/>quod peculiare donum spiritus infunditur, quo &amp;
+          firmio<lb ed="#A" n="23" break="no"/>res redduntur ad perpetuam concordiam, &amp; robusnores
+          <lb ed="#A" n="24"/>ac pariter toleranda huius vitae incommoda, &amp;
+          instructio<lb ed="#A" n="25" break="no"/>nes ad sobolem piis moribus educandam. Quod quidem
+          <lb ed="#A" n="26"/>donum sic demum infunditur, si quemadmodum oportet
+          <lb ed="#A" n="27"/>ita Sacramentum hoc susceptum fuerit.
+        </p>
+        <p xml:id="ho8ccf-a2tfiv-d1e578">
+          Nam si secus factum
+          <lb ed="#A" n="28"/>sit, sicut in aliis Sacramentis, ita &amp; in hoc ira paratur pro
+          <lb ed="#A" n="29"/>gratia. Infunditur autem hoc donum ex pacto diuino,
+          <lb ed="#A" n="30"/>qui promisit hoc ita futurum dicens: Propter hoc
+          relin<lb ed="#A" n="31" break="no"/>quet homo patrem &amp; matrem suam, &amp; adhaerebit vxori
+          <lb ed="#A" n="32"/>suae. Quod saci amentum etsi in viro quoque &amp; in muliere
+          <lb ed="#A" n="33"/>esse dicit Paulus, majus tamen esse vult in Christo &amp; in
+          <lb ed="#A" n="34"/>Ecclesia. Quod autem ad virum quoque &amp; mulierem
+          per<lb ed="#A" n="35" break="no"/>tineat mysterium hoc siue Sacramentum, testatur
+          Chry<lb ed="#A" n="36" break="no"/>sostomus, eum locum enarrans, his verbis: Revera namque
+          <lb ed="#A" n="37"/>revera inquam mysterium est, &amp; magnum mysterium:
+          re<lb ed="#A" n="38" break="no"/>licto parente eo qui genuit, eo qui aluit, etiam ea quae
+          pe<lb ed="#A" n="39" break="no"/>perit, quae misere &amp; cum labore parturiuit, illis videlicet
+          <lb ed="#A" n="40"/>desertis qui tanta beneficia praestiterunt, quibus cum con
+          <lb ed="#A" n="41"/>suetudo tracta est, adhaerere virum illi, quae antea neque
+          <lb ed="#A" n="42"/>visa sit, neque aliud commercij cum illa habuerit, atque hanc
+          <pb ed="#A" n="159-v"/>
+          <lb ed="#A" n="1"/>etiam omnibus praeferre: vere mysterium est. Et parentes
+          <lb ed="#A" n="2"/>etiam cum ista fiunt non offenduntur, sed magis
+          offendun<lb ed="#A" n="3" break="no"/>tur ac doleant cum non fiunt, expensis quoque pecus ac
+          <lb ed="#A" n="4"/>sumptu facto laetantur. Magnum revera iuxsictium &amp;
+          inef<lb ed="#A" n="5" break="no"/>fabilem quandam sapientiam habet. Istud supra praefatus
+          <lb ed="#A" n="6"/>dixit in Christo &amp; in Ecclesia, veruntamen non propter
+          <lb ed="#A" n="7"/>ipsum solum ita dictum est: sed quid? vt vxorem scilicet
+          <lb ed="#A" n="8"/>tanquam propriam carnem foueat, quemadmodum &amp;
+          <lb ed="#A" n="9"/>Christus Ecclesiam: vxat vero &amp; reuercatur virum.
+          Ne<lb ed="#A" n="10" break="no"/>que dissimilia scribit Augustinus quoque, cuius haec sunt
+          <lb ed="#A" n="11"/>verba. Quoniam non tantum foecunditas cuius fructus
+          <lb ed="#A" n="12"/>in prole est, nec tantum pudicitia, cuius vinculum est
+          fi<lb ed="#A" n="13" break="no"/>des, verum etiam quoddam Sacramentum nuptiarum
+          com<lb ed="#A" n="14" break="no"/>mendatur fidelibus coniugatis, vnde dicit Apostolus:
+          Vi<lb ed="#A" n="15" break="no"/>ri, diligite vxores vestras, sicut &amp; Christus dilexit
+          Eccle<lb ed="#A" n="16" break="no"/>siam. Huius proculdubio Sacramenti res est, vt mas &amp;
+          <lb ed="#A" n="17"/>foemina connubio compulati, quamdiu viuunt,
+          inseparabi<lb ed="#A" n="18" break="no"/>liter perseuerent, nec liceat, excepta causa fornicationis,
+          <lb ed="#A" n="19"/>a coniuge coniugem dirimi: hoc enim cusioditur in
+          Chri<lb ed="#A" n="20" break="no"/>sto &amp; Ecclesia, vt viuens cum viuente in aeternum nullo
+          <lb ed="#A" n="21"/>diuortio separetur. Cuius Sacramenti tanta
+          obseruatio<lb ed="#A" n="22" break="no"/>est in ciuitate Dei nostri, hoc est in Ecclesia Chritii
+          qui<lb ed="#A" n="23" break="no"/>busque fidelibus coniugatis qui sine dubio membra sunt
+          <lb ed="#A" n="24"/>Christi, vt cum filiorum procreandorum causa vel
+          nu<lb ed="#A" n="25" break="no"/>bant foeminae, vel ducantur vxores, nec fierilem
+          coniu<lb ed="#A" n="26" break="no"/>gem fas sit relinquere vt alia foecunda ducatur.
+        </p>
+        <p xml:id="ho8ccf-a2tfiv-d1e673">
+          Quod si
+          <lb ed="#A" n="27"/>quisquam fecerit, non lege huius seculi, vt interueniente
+          <lb ed="#A" n="28"/>repudio sine crimine conceditur cum aliis alia copulare
+          <lb ed="#A" n="29"/>connubia, quod etiam sanctum Moysen dominus
+          pro<lb ed="#A" n="30" break="no"/>pter duritiam cordis eorum Israelitis permisisse testatur,
+          <lb ed="#A" n="31"/>sed lege Euangelij reus est adulterii, sicut etiam illa, si
+          al<lb ed="#A" n="32" break="no"/>teri nupsit: &amp; vsque adeo manent inter viuentes semel
+          <lb ed="#A" n="33"/>inita iura nuptiarum, vt potius sint inter se coniuges qui
+          <lb ed="#A" n="34"/>ab alterutro separati sunt, quam cum iis quibus aliis
+          ad<lb ed="#A" n="35" break="no"/>haeserunt. Ac aliquanto post, adducens illa verba,
+          Relin<lb ed="#A" n="36" break="no"/>quet homo patrem &amp; matrem. Quod magnum,
+          Sacra<lb ed="#A" n="37" break="no"/>mentum dicit Apostolus in Christo &amp; in Ecclesia. Quod
+          <lb ed="#A" n="38"/>ergo est in Christo &amp; in Ecclesia magnum, hoc in
+          singu<lb ed="#A" n="39" break="no"/>lis quibusque viris atque vxoribus minimum, sed tamen
+          <lb ed="#A" n="40"/>coniunctionis inseparabile Sacramentum. Ad eundem
+          <lb ed="#A" n="41"/>modum scripserunt Ambrosius quoque, Theophilactus,
+          <lb ed="#A" n="42"/>Leo Pontifex, &amp; alii nonnulli, qui omnes eadem ratione
+          <pb ed="#A" n="160-r"/>
+          <lb ed="#A" n="1"/>qua septem reliquis, huic quoque Sacramenti nomen
+          tri<lb ed="#A" n="2" break="no"/>buunt. Duplicis itaque rei signum esse docuimus hoc
+          Sa<lb ed="#A" n="3" break="no"/>cramentum, praeteritae coniunctionis Christi cum
+          Eccle<lb ed="#A" n="4" break="no"/>sia, &amp; praesentis granae quae nobis confertur: cinus non
+          ad<lb ed="#A" n="5" break="no"/>monet modo, verumetiam causa illius est, &amp; eam efficit
+          <lb ed="#A" n="6"/>hoc Sacramentum. Est etiam tertiae rei signum: admonet
+          <lb ed="#A" n="7"/>enim ista coniunctio visibilis matrimonio copulandos.
+          <lb ed="#A" n="8"/>futurae coniunctionis cum sponso nostro Christo,
+          quan<lb ed="#A" n="9" break="no"/>doquidem per vas suum electum loquutus est spiritus
+          san<lb ed="#A" n="10" break="no"/>ctus, quod saluabitur mulier per generationem filiorum,
+          <lb ed="#A" n="11"/>si permanserint in fide &amp; dilectione &amp; sanctificatione cum
+          <lb ed="#A" n="12"/>sobrietate. Eucunt apud gentes quoque matrimonia, qui
+          <lb ed="#A" n="13"/>lege quadam naturae menti diuinitus insita sanctam esse
+          <lb ed="#A" n="14"/>rem matrimonium, &amp; majus quiddam, quam vt humanum
+          <lb ed="#A" n="15"/>inuentum existimari posset intelligebant, atque ideo vagos
+          <lb ed="#A" n="16"/>concubitus arcebant, ac de iis qui stuprum aut adulterium
+          <lb ed="#A" n="17"/>commisissent, poenas capitis legibus sumebant,
+          matrimo<lb ed="#A" n="18" break="no"/>nii tamen Sacramentum apud eos non fuit, cum liceret
+          <lb ed="#A" n="19"/>eis etiam nulla causa matrimonium rescindere.
+        </p>
+        <p xml:id="ho8ccf-a2tfiv-d1e754">
+          Sed neque
+          <lb ed="#A" n="20"/>apud Iudaeos, apud quos maior etiam fuit matrimonii
+          san<lb ed="#A" n="21" break="no"/>ctitas, fuit matrimonii Sacramentum, eadem illa ratione
+          <lb ed="#A" n="22"/>qua apud nos Sacramentum est, quibus &amp; ipsis ad duritiam
+          <lb ed="#A" n="23"/>cordis permissum erat vxores dimittere quamuis leuem
+          <lb ed="#A" n="24"/>ob causam. Solum ergo Christianum matrimonium
+          Sa<lb ed="#A" n="25" break="no"/>cramentum recte dicitur, &amp; est: Cuius cum tria bona
+          re<lb ed="#A" n="26" break="no"/>censeat Augustinus: primum dicit esse fidem, secundum
+          <lb ed="#A" n="27"/>prolem, tertium Sacramentum. In fide attenditur ne
+          prae<lb ed="#A" n="28" break="no"/>ter vinculum coniugale cum altero vel altera
+          concumba<lb ed="#A" n="29" break="no"/>tur: Vxor enim non habet potestatem sui corporis, sed
+          <lb ed="#A" n="30"/>vit: Similiter &amp; vir non habet potestatem sui corporis
+          <lb ed="#A" n="31"/>sed mulier. In prolo ante suscipiatur, benigne
+          ui<lb ed="#A" n="32" break="no"/>tiatur, religiose educatur: huius enim potissimum gratia
+          <lb ed="#A" n="33"/>contrahi debet matrimonium. Ita enim dicit Apostolus,
+          <lb ed="#A" n="34"/>Volo iuniores nubere, filios procreare, matres familias
+          es<lb ed="#A" n="35" break="no"/>se. In Sacramenta autem, vt coniugium ne separetur, &amp;
+          <lb ed="#A" n="36"/>dimissus aut dimissa nec prolis causa alteri coniungatur.
+          <lb ed="#A" n="37"/>Hoc enim est Christi verbum: Dictum est, quicunque
+          dimi<lb ed="#A" n="38" break="no"/>serit vxorem suam, det illi libellum repudii. Ego autem
+          di<lb ed="#A" n="39" break="no"/>co vobis, quia omnis qui dimiserit vxorem, excepta forni
+          <lb ed="#A" n="40"/>cationis causa, facit eam mochari, &amp; qui dimissam duxerit,
+          <lb ed="#A" n="41"/>adulterat. Et rursus: Quod Deus coniunxit, homo non
+          <lb ed="#A" n="42"/>separet. Et sequutus magistrum suum Paulus: His, inquit, qui
+          <pb ed="#A" n="160-v"/>
+          <lb ed="#A" n="1"/>matrimonio iuncti sunt, pressio, non ego, sed dominus,
+          <lb ed="#A" n="2"/>vxorem a viro non discedere: quod si disceserit, manere
+          <lb ed="#A" n="3"/>innuptam, aut viro suo reconciliari. Quae &amp; Christi &amp;
+          <lb ed="#A" n="4"/>Apostoli verba, non alio sensu acceperunt Ambrosius,
+          Hie<lb ed="#A" n="5" break="no"/>ronymus, Augustinus, &amp; ante eos Origenes &amp;
+          Chryso<lb ed="#A" n="6" break="no"/>stomus, ac qui sectator ipsius est Theophylacus, aliique
+          san<lb ed="#A" n="7" break="no"/>cti doctores, quam quod per ea significari existinarent tanti
+          <lb ed="#A" n="8"/>Sacramenti rem, esse foedus illud initum nuptiae, vt nec ipsa
+          <lb ed="#A" n="9"/>separatione irritum fiat, quandoquidem virente viro, a
+          <lb ed="#A" n="10"/>quo relicta est, mochatur, si alteri nupserit. Neque dispar est
+          <lb ed="#A" n="11"/>causa viri, quem non oportet esse meliore concitione quam
+          <lb ed="#A" n="12"/>sit mulier. Magna itaque est firmitas vincul coniugalis,
+          <lb ed="#A" n="13"/>quam non designat modo, verumetiam effuit accedente
+          <lb ed="#A" n="14"/>verbo visibilis illa quae fit per Sacerdotem copulatio.
+          Con<lb ed="#A" n="15" break="no"/>fertur enim per illam donum perseuerantiae peculiare,
+          mo<lb ed="#A" n="16" break="no"/>do quis animum habeat capacem, &amp; eo quodebet effectu
+          <lb ed="#A" n="17"/>ad Sacramentum hoc accedat. Qui qualis esse debeat,
+          do<lb ed="#A" n="18" break="no"/>cet nos oratio Sarae filiae Raguelis, quae matrimonium
+          <lb ed="#A" n="19"/>susceptura sic orauit: Tu scis domine quia unquam con
+          <lb ed="#A" n="20"/>cupiui virum, &amp; mundam seruaui animam meam ab om
+          <lb ed="#A" n="21"/>ni concubitu. Nunquam cum ludentibus miscui me, neque
+          <lb ed="#A" n="22"/>cum his qui in leuitate ambulant me partiopem praebui.
+          <lb ed="#A" n="23"/>Virum autem cum timore tuocem cum libidine mea
+          con<lb ed="#A" n="24" break="no"/>sensi suscipere. Contracturus matrimonium concipere
+          <lb ed="#A" n="25"/>debet animo, quantum sit hoc Sacramentum nempe quod
+          <lb ed="#A" n="26"/>Deo autore copulatur, neque aliter affectus esse, quam si
+          <lb ed="#A" n="27"/>praesentem Deum videat, vxorem sibi copulantem.
+          Mini<lb ed="#A" n="28" break="no"/>sterium enim Sacerdotis est, Deus autem est qui nexu
+          quo<lb ed="#A" n="29" break="no"/>dam insolubili coniungit, iuxta illud quod dictum est;
+          <lb ed="#A" n="30"/>Quos Deus coniunxit, homo non separet. Debet etiam
+          <lb ed="#A" n="31"/>animo secum reputare, quanta sit signi majestas, quod
+          si<lb ed="#A" n="32" break="no"/>militudinem refert coniunctionis Christi sponsi cum Ec
+          <lb ed="#A" n="33"/>clesia sua sponsa. Hoc affectu qui accesserit, dubitare non
+          <lb ed="#A" n="34"/>debet, quin gratiae quae confertur in hoc Sacramento sit
+          <lb ed="#A" n="35"/>particeps futurus. Qui vero profano affectu
+          Sacramen<lb ed="#A" n="36" break="no"/>tum hoc percipiunt, tantum absunt a gratia percipienda,
+          <lb ed="#A" n="37"/>vt iram etiam sibi thesaurizent in die irae. Neque enim
+          <lb ed="#A" n="38"/>aliis ex causis contrahendum est matrimonium, quam
+          <lb ed="#A" n="39"/>propter sanctam societatem, religiosae posteritatis
+          amo<lb ed="#A" n="40" break="no"/>rem, ac fornicationis odium ac detestationem, vt dicere
+          <lb ed="#A" n="41"/>possit vxorem ducturus cum sancto Tobia Domine tu
+          <lb ed="#A" n="42"/>scis quia non luxuriae causa accipio coniugem, sed sola
+          <pb ed="#A" n="161-r"/>
+          <lb ed="#A" n="1"/>posteritatis dilectione, in qua benedicatur nomen tuum
+          <lb ed="#A" n="2"/>in secula seculorum, amen.
+        </p>
+        <p xml:id="ho8ccf-a2tfiv-d1e906">
+          Nam si qui coniugium ita
+          susci<lb ed="#A" n="3" break="no"/>piunt, vt Deum a se &amp; a sua mente excludant, &amp; suae
+          libi<lb ed="#A" n="4" break="no"/>dini ita vacent sicut equus &amp; mulus, quibus non est
+          intel<lb ed="#A" n="5" break="no"/>lectus, habet potestatem daemonium super eos: ac
+          formi<lb ed="#A" n="6" break="no"/>dare debent, ne idem illis eueniat, quod septem illis viris,
+          <lb ed="#A" n="7"/>qui cum luxuriae causa Saram vxorem ducere voluissent,
+          <lb ed="#A" n="8"/>ordine omnes prima statim nocte propter incontinentiam
+          <lb ed="#A" n="9"/>suam a daemonio sunt suffocati. Libet hic adscribere
+          san<lb ed="#A" n="10" break="no"/>cti Pontificis &amp; martyris Euaristi verba, de eo, quo ritu
+          <lb ed="#A" n="11"/>legitimum matrimonium contrahi oporteat. Legitimum,
+          <lb ed="#A" n="12"/>inquit, vt a patribus accepimus &amp; sanctis Apostolis
+          eo<lb ed="#A" n="13" break="no"/>rumque successoribus, non est matrimonium, nisi ab his qui
+          <lb ed="#A" n="14"/>super ipsam foeminam dominationem habere videntur.
+          <lb ed="#A" n="15"/>&amp; a quibus custoditur, vxor petatur, &amp; a parentibus,
+          pro<lb ed="#A" n="16" break="no"/>pinquioribus, sponsetur, &amp; legibus dotetur, &amp; suo tempo
+          <lb ed="#A" n="17"/>re sacerdotaliter vt mos est, cum precibus &amp; oblationibus
+          <lb ed="#A" n="18"/>a Sacerdote benedicatur, &amp; a Paranymphis vt
+          consuetu<lb ed="#A" n="19" break="no"/>do docet custodita &amp; sociata a proximis tempore
+          con<lb ed="#A" n="20" break="no"/>gruo petita legibus detur, &amp; solenniter accipiatur, &amp;
+          bi<lb ed="#A" n="21" break="no"/>duo vel triduo orationibus vacent, &amp; castitatem
+          custo<lb ed="#A" n="22" break="no"/>diant, vt bonae soboles generentur, &amp; domino suis in
+          acti<lb ed="#A" n="23" break="no"/>bus placeant. Taliter enim placebunt, &amp; filios non
+          spu<lb ed="#A" n="24" break="no"/>rios, sed legitimos atque haereditabiles generabunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

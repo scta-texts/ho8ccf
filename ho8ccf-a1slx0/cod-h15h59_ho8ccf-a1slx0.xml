@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 19</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 19</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="22-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1slx0"><!-- c19 -->
+        <head xml:id="ho8ccf-a1slx0-Hd1e99">Caput 19</head>
+        <head xml:id="ho8ccf-a1slx0-Hd1e101" type="question-title">Non propterea non esse consensum patrum in scripturis interpretandis sequendum, quod unus aliquis aliquando erraverit</head>
+        <p xml:id="ho8ccf-a1slx0-d1e104">
+          <lb ed="#A" n="23"/>CAPVT XIX.
+          <lb ed="#A" n="24"/>Non propterea non esse consensum patrum in
+          scri<lb ed="#A" n="25" break="no"/>pturis interpretandis sequendum, quod vnus
+          <lb ed="#A" n="26"/>aliquis aliquando errauerit.
+        </p>
+        <p xml:id="ho8ccf-a1slx0-d1e115">
+          <lb ed="#A" n="27"/><milestone ed="#A" unit="p" rend="initial"/> SEd hic iterum nobis obstrepunt Martini, sanctos
+          Pa<lb ed="#A" n="28" break="no"/>tres homines fuisse, atque ideo errare potuisse, quin
+          <lb ed="#A" n="29"/>&amp; errasse nonnullos. Obiicitur sanctissimi
+          Cypria<lb ed="#A" n="30" break="no"/>ni martyris, obiicitur Origenis, obiicitur &amp;
+          Tertu<lb ed="#A" n="31" break="no"/>liani error.
+        </p>
+        <p xml:id="ho8ccf-a1slx0-d1e129">
+          Atqui hoc ipsum plus facit ad corroboranda,
+          <lb ed="#A" n="32"/>quam ad infirmanda ea, quae per nos asseruntur. Qui enim
+          <lb ed="#A" n="33"/>factum est, vt erraret Cyprianus? Non illi tantus hic
+          er<lb ed="#A" n="34" break="no"/>ror obrepsit aliunde, quam quod aliter sentiebat, quam co
+          <lb ed="#A" n="35"/>clesiae Romanae consuetudo tulisset, vt iure optimo huic
+          <lb ed="#A" n="36"/>errori illius intercedens Papa Stephanus, nihil nouandum
+          <lb ed="#A" n="37"/>esse, verum id quod fuit traditum obseruari debere
+          sanci<lb ed="#A" n="38" break="no"/>uerit, quod intelligebat vir sanctus &amp; prudens, rationem
+          <lb ed="#A" n="39"/>pietatis aliud non admittere, quam vt omnia qua fide susce
+          <lb ed="#A" n="40"/>pta forent a patribus, eadem fide filiis consignarentur,
+          <pb ed="#A" n="23-r"/>
+          <lb ed="#A" n="1"/>nosque religionem, non qua vellemus ducere, sed qua duce
+          <lb ed="#A" n="2"/>ret illa, sequi oportere, idque proprium esse Christianae
+          gra<lb ed="#A" n="3" break="no"/>uitatis &amp; modestiae, non sua tradere maioribus, verum a
+          <lb ed="#A" n="4"/>maioribus accepta seruare, ac iuxta Pauli praeceptum
+          de<lb ed="#A" n="5" break="no"/>positum custodire, profanasque vocum nouitates deuitare.
+          <lb ed="#A" n="6"/>Rectenta est itaque authore Stephano antiquitas, explosa
+          <lb ed="#A" n="7"/>nouitas.
+        </p>
+        <p xml:id="ho8ccf-a1slx0-d1e169">
+          Neque vero existimandum est nouitiae
+          adinuen<lb ed="#A" n="8" break="no"/>tioni de rebaptizandis haereticis patrocinia defuisse, imo
+          <lb ed="#A" n="9"/>vero tanta vis adfuit ingenii, dicit Vincentius Lirinensis.
+          <lb ed="#A" n="10"/>tanta fuerunt eloquentiae flumina, tantus assertorum
+          nu<lb ed="#A" n="11" break="no"/>merus, tanta veri similitudo, tanta diuinae legis oracula
+          <lb ed="#A" n="12"/>sed plane nouo ac malo more intellecta, vt omnis illa
+          conspi<lb ed="#A" n="13" break="no"/>ratio nullo modo desirui potuisse videretur, nisi sola
+          tan<lb ed="#A" n="14" break="no"/>ti moliminis causa, ipsa illa suscepta, ipsa defensa, ipsa
+          lau<lb ed="#A" n="15" break="no"/>data nouitatis professio destituisset. Ex his perspicuum est
+          <lb ed="#A" n="16"/>non propterea Cyprianum errauisse, quod eum defecerint
+          <lb ed="#A" n="17"/>in eo, quod asserebat diuinae legis oracula, quibus abunda
+          <lb ed="#A" n="18"/>bat, sed quod ea suo, non ecclesiae sensu interpretari
+          cona<lb ed="#A" n="19" break="no"/>batur. Hoc est, quod dicit de eo Augustinus: Non
+          accipi<lb ed="#A" n="20" break="no"/>mus quod de rebaptizandis haereticis Cyprianus scripsit,
+          <lb ed="#A" n="21"/>quia hoc ecclesia non accepit, pro qua Cyprianus
+          sangui<lb ed="#A" n="22" break="no"/>nem suum fudit. Non dixit Augustinus: Non recipimus,
+          <lb ed="#A" n="23"/>quia diuinae legis oraculis non probauit, quae diceret, (ii
+          <lb ed="#A" n="24"/>enim, verum praue intellectis, minime destitutus fuerat C
+          <lb ed="#A" n="25"/>prianus) verum, non recipimus, inquit, quia ecclesia non
+          re<lb ed="#A" n="26" break="no"/>cepit. Idem de Origene, deque Tertulliano dici potest, qui
+          <lb ed="#A" n="27"/>cum ingenio suo nimium indulgerent, sibique plus satis
+          fi<lb ed="#A" n="28" break="no"/>derent cum antiquam religionis Christianae simplicitate
+          <lb ed="#A" n="29"/>paruipenderent, cum se sapere plus caeteris existimarent,
+          <lb ed="#A" n="30"/>cum Ecclesiasticas traditiones veterumque magisteria
+          con<lb ed="#A" n="31" break="no"/>temnerent, scripturas nouo more quodam interpretati, in
+          <lb ed="#A" n="32"/>absurdas opiniones inciderunt, atque documento nobis
+          fue<lb ed="#A" n="33" break="no"/>runt, vt non credamus vni alicui, quantalibet doctrina &amp;
+          <lb ed="#A" n="34"/>eloquentia polleat, quantacunque etiam sanctitate &amp; autho
+          <lb ed="#A" n="35"/>ritate sit praeditus, contra communem totius ecclesiae
+          sen<lb ed="#A" n="36" break="no"/>sum &amp; consensum aliquid adferenti, etiamsi quamplurima
+          <lb ed="#A" n="37"/>diuinae legis oracula proferat, etiamsi nihil nisi scripturas,
+          <lb ed="#A" n="38"/>nisi verbum dei, nisi euangelium crepet. Illum vero solum
+          <lb ed="#A" n="39"/>vere Catholicum &amp; Orthodoxum existimemus, qui
+          veri<lb ed="#A" n="40" break="no"/>tatem dei, qui ecclesiam, qui Christi corpus diligit, qui
+          di<lb ed="#A" n="41" break="no"/>uinae religioni, qui Catholicae fidei nihil anteponit: non ho
+          <lb ed="#A" n="42"/>minis cuiuspiam authoritatem, non amorem, non
+          inge<pb ed="#A" n="23-v"/><lb ed="#A" n="1" break="no"/>nium, non eloquentiam, non doctrinam, sedae omnia
+          <lb ed="#A" n="2"/>pro nihilo habens, in fide xero fixus &amp; siabilis permanens,
+          <lb ed="#A" n="3"/>quicquid vniuersaliter antiquitus Ecclesiam Catholicam
+          <lb ed="#A" n="4"/>docuisse cognouerit, id solum sibi tenendum credendumque
+          <lb ed="#A" n="5"/>esse firmiter deliberatum habet. Quicquid vero ab
+          ali<lb ed="#A" n="6" break="no"/>quo deinceps vno praeter omnes, vel contra omnes potius,
+          <lb ed="#A" n="7"/>nouum &amp; inauditum antehac adferri senserit, non ad
+          re<lb ed="#A" n="8" break="no"/>ligionem, sed ad sui potius tentationem id intelligat
+          per<lb ed="#A" n="9" break="no"/>tinere, sibique dictum illud existimet. Si surrexerit in me
+          <lb ed="#A" n="10"/>dio tui Propheta, &amp; praedixerit signum atque portentum
+          <lb ed="#A" n="11"/>&amp; venerit quod loquutus est, &amp; dixerit tibi: Eamus &amp;
+          se<lb ed="#A" n="12" break="no"/>quamur deos alienos, hoc est extraneas quasdam
+          opinio<lb ed="#A" n="13" break="no"/>nes, quae ab Ecclesiae traditione sunt alienae, quas propterea
+          <lb ed="#A" n="14"/>deos vocat Propheta, quod haud aliter eos colunt &amp;
+          ob<lb ed="#A" n="15" break="no"/>seruant haeretici, quam suos deos ethnici: Non audies
+          <lb ed="#A" n="16"/>inquit, verba Prophetae illius, quia tentat vos Dominus
+          <lb ed="#A" n="17"/>Deus vester, vt palam fiat, vtrum diligatis eum, an non
+          <lb ed="#A" n="18"/>in toto corde, &amp; in tota anima vestra. Quae ergo de
+          Cy<lb ed="#A" n="19" break="no"/>priano, de Magistro eius Tertulliano, deque Origene
+          pro<lb ed="#A" n="20" break="no"/>feruntur, pro nobis magis, quam contra nos faciunt: Nos
+          <lb ed="#A" n="21"/>enim sumus ij, qui dicimus, non esse cuipiam alicuius quam
+          <lb ed="#A" n="22"/>libet docti, quamlibet etiam sancti viri singularem opinis
+          <lb ed="#A" n="23"/>onem sequendam, etiamsi scripturarum examen
+          protule<lb ed="#A" n="24" break="no"/>rit: atque in scripturis interpretandis non vnius alicuius,
+          <lb ed="#A" n="25"/>verum Ecclesiae iudicio standum esse. Neque fuit quisquam
+          <lb ed="#A" n="26"/>aliquando Catholicus, qui parem esse censeret Canonica
+          <lb ed="#A" n="27"/>rum scripturarum, &amp; vnius alicuius quamlibet excellentis
+          <lb ed="#A" n="28"/>Doctoris authoritatem, sed eandem Ecclesiae totius, quae
+          <lb ed="#A" n="29"/>nequaquam in vno aliquo consistit (cum nomen Ecclesiae,
+          <lb ed="#A" n="30"/>sicut etiam a Chrysostomo traditum est, nomen sit
+          multi<lb ed="#A" n="31" break="no"/>tudinis, &amp; iustae iam ac absolutae congregationis) Eandem
+          <lb ed="#A" n="32"/>gitur ecclesiae &amp; scripturae Canonicae veritatem esse, ab
+          <lb ed="#A" n="33"/>eodem authore spiritu sancto profectam, nemo Catholi
+          <lb ed="#A" n="34"/>cus dubitauit vnquam. Libenter &amp; nos cum Augustino
+          <lb ed="#A" n="35"/>solis scripturarum libris, qui Canonici vocantur, timorem
+          <lb ed="#A" n="36"/>hunc honoremque deferrimus, vt nullum eorum authorem
+          <lb ed="#A" n="37"/>aliquid errasse scribendo firmissime credamus: alios autem
+          <lb ed="#A" n="38"/>ita legimus, vt quantalibet sanctitate doctrinaque
+          praepol<lb ed="#A" n="39" break="no"/>leant, non ideo verum putemus, quod ipsi ita senserunt,
+          <lb ed="#A" n="40"/>sed quia nobis vel per illos authores Canonicos, vel
+          pro<lb ed="#A" n="41" break="no"/>babili ratione, quod a vero non abhorreat, persuadere po
+          <lb ed="#A" n="42"/>tuerunt. Atque ita non solum quae scriptus probauerint,
+          <pb ed="#A" n="24-r"/>
+          <lb ed="#A" n="1"/>sed etiam quae probabili ratione persuaserint, ea nobis
+          iu<lb ed="#A" n="2" break="no"/>xta Augustini sententiam amplectenda putamus.
+          Proba<lb ed="#A" n="3" break="no"/>bilem autem rationem eam intelligimus, quae tot seculis
+          <lb ed="#A" n="4"/>vniuersae Ecclesiae probata, atque illius iudicio semper fuit
+          <lb ed="#A" n="5"/>recepta. Si quae vero magni alicuius Doctoris sententia ab
+          <lb ed="#A" n="6"/>vniuersa Ecclesia reiecta est &amp; explosa, qualis est illa
+          Cy<lb ed="#A" n="7" break="no"/>priani de rebaptizandis haereticis, quamlibet multis
+          diui<lb ed="#A" n="8" break="no"/>nae legis oraculis nixa sit, eam nihilominus non modo
+          <lb ed="#A" n="9"/>non sequendam, verum etiam prorsus esse fugiendam
+          existi<lb ed="#A" n="10" break="no"/>mamus. Qua vero de re ita ab vno aliquo scriptum est
+          <lb ed="#A" n="11"/>priuata vt eius opinio esse videatur, non esse nefas arbitra
+          <lb ed="#A" n="12"/>mur, de ea nonnunquam dubitare: quinetiam examinare
+          <lb ed="#A" n="13"/>ac excutere diligentius, &amp; si qua nos ratio probabilis
+          mo<lb ed="#A" n="14" break="no"/>cat, contrarium sentire licet: Sicubi vero idem sentiunt
+          <lb ed="#A" n="15"/>omnes, ita vt quod scriptum est a Tertulliano &amp; Augusti
+          <lb ed="#A" n="16"/>no in Africa, idem visum fuerit Hilario in Gallia,
+          Ambro<lb ed="#A" n="17" break="no"/>sio, Leoni, Gregorio in Italiae, Ioanni Chrysostomo in
+          <lb ed="#A" n="18"/>Thracia, Theophylacto in Moesia, Ioanni Ephem,
+          Ioan<lb ed="#A" n="19" break="no"/>ni Damasceno &amp; Hieronymo in Syria: Basilio in
+          Cappa<lb ed="#A" n="20" break="no"/>docia: Origeni, Cyrillo, &amp; Athanasio in Aegypto, &amp; qui
+          <lb ed="#A" n="21"/>ad haec vsque nostra tempora istos sequuti sunt, in
+          diuer<lb ed="#A" n="22" break="no"/>sis orbis regionibus commorati, idem &amp; ipsi tanto loco
+          <lb ed="#A" n="23"/>rum &amp; seculorum interuallo disiuncti senserint, sicuti de
+          <lb ed="#A" n="24"/>baptismo paruulorum: de tremendo mediatoris Christi
+          <lb ed="#A" n="25"/>sacrificio, quod offertur in Altari: de veritate corporis &amp;
+          <lb ed="#A" n="26"/>sanguinis eius: de sanctorum inuocatione: de oratione
+          <lb ed="#A" n="27"/>pro defunctis: de statis ieiuniorum diebus: de Sacerdo
+          <lb ed="#A" n="28"/>tum coelibatu: de votis monasticis: deque aliis multis
+          fa<lb ed="#A" n="29" break="no"/>ctum esse videmus: vbi tantus est omnium consensus,
+          mi<lb ed="#A" n="30" break="no"/>nime dubitare debemus, non hominum hanc, verum
+          de<lb ed="#A" n="31" break="no"/>vocem esse, per membra sua loquentis, atque ideo qui
+          con<lb ed="#A" n="32" break="no"/>tradicit huic dei voci, eum iure merito tanquam ethnicum
+          <lb ed="#A" n="33"/>habemus &amp; publicanum.
+        </p>
+        <p xml:id="ho8ccf-a1slx0-d1e413">
+          Sed haec iam dicta sufficiant ad
+          <lb ed="#A" n="34"/>ostendendum parem esse scripturarum &amp; ecclesiae authori
+          <lb ed="#A" n="35"/>tatem, quandoquidem vtriusque veritas a spiritu sancto est,
+          <lb ed="#A" n="36"/>quo regebantur amanuenses illius, cum ea, quae nobis
+          re<lb ed="#A" n="37" break="no"/>liquerunt scripto consignarent, quo regitur etiam nunc
+          <lb ed="#A" n="38"/>Ecclesia, nec ab ea quicquam decernitur, nisi quod visum
+          <lb ed="#A" n="39"/>est spiritui sancto.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 84</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 84</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="281-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3mrwi"><!-- c84 -->
+        <head xml:id="ho8ccf-a3mrwi-Hd1e99">Caput 84</head>
+        <head xml:id="ho8ccf-a3mrwi-Hd1e101" type="question-title">De octavo praecepto</head>
+        <p xml:id="ho8ccf-a3mrwi-d1e104">
+          <lb ed="#A" n="8"/>CAPVT LXXXIIII.
+          <lb ed="#A" n="9"/>De octauo praecepto.
+        </p>
+        <p xml:id="ho8ccf-a3mrwi-d1e111">
+          <lb ed="#A" n="10"/><milestone ed="#A" unit="p" rend="initial"/> OCtauo praecepto prohibetur omne genus
+          men<lb ed="#A" n="11" break="no"/>dacii, quemadmodum etiam auo loco dicit
+          scri<lb ed="#A" n="12" break="no"/>ptura. Noli velle mentiri omne, mendacium,
+          a<lb ed="#A" n="13" break="no"/>siduitas enim illius non est bona. Quantum au
+          <lb ed="#A" n="14"/>tem sit crimen mendacium, vel ex eo colligi potest, quod
+          <lb ed="#A" n="15"/>ab Augustino scriptum est. Quomodo Deus cater genuit,
+          <lb ed="#A" n="16"/>filium veritatem, sic diabolus lapsus, genuit, quam hum
+          <lb ed="#A" n="17"/>mendacium. Quare qui veritatem loquitur, dei, qui
+          veri<lb ed="#A" n="18" break="no"/>tas est: qui vero mentitur, filius est diaboli: qui, sicut ipsa
+          <lb ed="#A" n="19"/>dicit veritas, mendax est, &amp; pater eius, intellige mendacii.
+        </p>
+        <p xml:id="ho8ccf-a3mrwi-d1e136">
+          <lb ed="#A" n="20"/>Verum &amp; scriptura quam graue sit hoc facinus,
+          demon<lb ed="#A" n="21" break="no"/>strat dicens, Os quod mentitur occidit animam. Et rursus,
+          <lb ed="#A" n="22"/>Perdes omnes qui loquuntur mendacium, peccat igitur
+          <lb ed="#A" n="23"/>quicunque mentitur. Quum autem tria sint mendaci
+          ge<lb ed="#A" n="24" break="no"/>nera, perniciosum quod obest, officiosum quod prodest, id
+          <lb ed="#A" n="25"/>consum quod delectat: peccatur quidem omni genere, sed
+          <lb ed="#A" n="26"/>eo grauissime quod perniciem adfert proximo, siue
+          qui<lb ed="#A" n="27" break="no"/>euin doctrinis variis &amp; peregrinis in aliud Euangelium
+          <lb ed="#A" n="28"/>transferre, dei verbum adulterando, siue capitis aut fortu
+          <lb ed="#A" n="29"/>narum, aut quae vita charior est, existimationis ei periculum
+          <lb ed="#A" n="30"/>creare conetur, falsum contra eum testimonium dicendo
+          <lb ed="#A" n="31"/>Quod si iusiurandi accedat religio, tunc vero duplicatur
+          <lb ed="#A" n="32"/>peccatum. Nullum enim esse potest facinus magis capitale,
+          <lb ed="#A" n="33"/>quam testem citare mendacii veritatem.
+        </p>
+        <p xml:id="ho8ccf-a3mrwi-d1e170">
+          Quamobrem cum
+          <lb ed="#A" n="34"/>graue sit crimen mendacium, longe grauissimum est
+          per<lb ed="#A" n="35" break="no"/>iurium. In veteri lege contra falsum testem ponam hanc
+          <lb ed="#A" n="36"/>fuisse constitutam legimus. Quum diligentissime
+          perscru<lb ed="#A" n="37" break="no"/>tantes, inquit, inuenerit falsum testim contra fratrem
+          di<lb ed="#A" n="38" break="no"/>xisse mendacium, reddent ei sicut frari facere cogitauit,
+          <lb ed="#A" n="39"/>&amp; auferes malum de medio tui vt audientes caeteri
+          timo<lb ed="#A" n="40" break="no"/>rem habeant, &amp; nequaquam talia audeant facere. Non
+          mi<pb ed="#A" n="282-r"/><lb ed="#A" n="1" break="no"/>sereberis eius, sed animam pro anima, oculum pro oculo,
+          <lb ed="#A" n="2"/>dentem pro dente, manum pro manu, pedem pro pede
+          exi<lb ed="#A" n="3" break="no"/>ges. Eadem videtur falso testi paena proposita, quam aduer
+          <lb ed="#A" n="4"/>sus homicidas in Exodo sancitam legimus. Neque enim
+          le<lb ed="#A" n="5" break="no"/>uius est, falso testimonio, quam ferro, quenquam laedere.
+          <lb ed="#A" n="6"/>Videtur autem sub hoc falsi testimonii titulo, contineri
+          no<lb ed="#A" n="7" break="no"/>xa omnis qua proximus per linguam afficitur, quae
+          non<lb ed="#A" n="8" break="no"/>nunquam est omni ferro nocentior.
+        </p>
+        <p xml:id="ho8ccf-a3mrwi-d1e206">
+          Quamobrem
+          impin<lb ed="#A" n="9" break="no"/>gunt in hunc scopulum detractores deo odibiles, qui quod
+          <lb ed="#A" n="10"/>Deus in hominibus amat praecipue, amorem inter eos,
+          be<lb ed="#A" n="11" break="no"/>neuolentiamque mutuam euertere conantur, qui similes
+          es<lb ed="#A" n="12" break="no"/>se videntur serpentibus. Quemadmodum enim illi
+          occul<lb ed="#A" n="13" break="no"/>te mordentes venenum inferunt, sic isti clam detrahentes
+          <lb ed="#A" n="14"/>virus sui pectoris infundunt in fratrem, cumque lingua ho
+          <lb ed="#A" n="15"/>minis ad benedicendum deum &amp; ad aedificationem homi
+          <lb ed="#A" n="16"/>nis sit creata, isti eam serpenti faciunt similem, dum virtu
+          <lb ed="#A" n="17"/>tibus eius in peruersum abutuntur.
+        </p>
+        <p xml:id="ho8ccf-a3mrwi-d1e228">
+          Neque vero modo ipsi
+          <lb ed="#A" n="18"/>qui detrahunt alienae famae, verum &amp; ii qui detrahentibus
+          <lb ed="#A" n="19"/>aurem accommodant, ad eundem lapidem offendunt, quos
+          <lb ed="#A" n="20"/>monet scriptura dicens, Sepi aures tuas spinis, &amp; linguam
+          <lb ed="#A" n="21"/>nequam noli audire, &amp; ori tuo facito ostia, &amp; seras auribus
+          <lb ed="#A" n="22"/>tuis. Offendunt &amp; susurrones qui seminant discordias
+          in<lb ed="#A" n="23" break="no"/>ter fratres, qui multos turbant saepe pacem habentes. Offen
+          <lb ed="#A" n="24"/>dunt &amp; palpones, qui laudant peccatores in desideriis
+          an<lb ed="#A" n="25" break="no"/>mae suae, qui dicunt bonum malum, &amp; malum bonum, dum
+          <lb ed="#A" n="26"/>nihil non loquuntur ad gratiam, contra quos dicit Prophe
+          <lb ed="#A" n="27"/>ta: Popule meus qui beatum te dicunt, ipsi te decipiunt. Of
+          <lb ed="#A" n="28"/>fendunt &amp; murmuratores, quibus nunquam satisfieri potest
+          <lb ed="#A" n="29"/>Offendunt vt vno verbo complectamur omnia, quicunque
+          <lb ed="#A" n="30"/>vel vitam proximi, vel existimationem, vel fortunas,
+          lin<lb ed="#A" n="31" break="no"/>gua sua vocant in discrimen, quae saepe muratas etiam
+          diui<lb ed="#A" n="32" break="no"/>tum ciuitates destruxit, sicut dicit ille Sapiens: &amp; domos
+          <lb ed="#A" n="33"/>anagnatorum effodit, virtutes populorum concidit &amp; gen
+          <lb ed="#A" n="34"/>tes fortes dissoluit, plures vt per linguam interiisse, quam
+          <lb ed="#A" n="35"/>in ore gladii cecidisse videantur, vt recte eam Iacobus vni
+          <lb ed="#A" n="36"/>uersitatem iniquitatis vocauerit, inquietum malum,
+          ple<lb ed="#A" n="37" break="no"/>nam veneno mortifero.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

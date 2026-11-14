@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 66</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 66</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="215-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a34yk3"><!-- c66 -->
+        <head xml:id="ho8ccf-a34yk3-Hd1e99">Caput 66</head>
+        <head xml:id="ho8ccf-a34yk3-Hd1e101" type="question-title">Quod non tam natura mandatorum, quam nostra fiat ignavia, ut implere mandata non possimus, cum quae timori gravia sunt, levia sint amori</head>
+        <p xml:id="ho8ccf-a34yk3-d1e104">
+          <lb ed="#A" n="12"/>CAPVT LXVI.
+          <lb ed="#A" n="13"/>Quod non tam natura mandatorum, quam nostra fiat
+          <lb ed="#A" n="14"/>ignauia, vt implere mandata non possimus, cum
+          <lb ed="#A" n="15"/>quae timori grauia sunt, leuia sint amori.
+        </p>
+        <p xml:id="ho8ccf-a34yk3-d1e115">
+          <lb ed="#A" n="16"/><milestone ed="#A" unit="p" rend="initial"/> SEd hic isti nobis obiiciunt: Si tam leuia sunt Christi
+          <lb ed="#A" n="17"/>praecepta, quam ea tu videri vis, cur igitur dixit
+          Chri<lb ed="#A" n="18" break="no"/>stus, quod angusta est porta, &amp; arcta via, quae ducit ad
+          vi<lb ed="#A" n="19" break="no"/>tam, &amp; pauci sunt qui inueniunt eam: Cur vias
+          do<lb ed="#A" n="20" break="no"/>mini duras appellat Propheta? Nos vero non nostris,
+          ve<lb ed="#A" n="21" break="no"/>rum eorum qui totius orbis iudicio, grauissimi,
+          doctissi<lb ed="#A" n="22" break="no"/>mi, sanctissimique sunt habiti, verbis, ad haec respondebimus.
+          <lb ed="#A" n="23"/>Ac primo quidem loco, quod laboriosa via dei, quod eius
+          <lb ed="#A" n="24"/>mandata videntur esse difficilia, dicit Ioannes Chrysosto
+          <lb ed="#A" n="25"/>mus, non tam id fieri natura mandatorum, quam nostra
+          <lb ed="#A" n="26"/>gnauia. Quid enim esse potest melle dulcius? aegroto
+          ta<lb ed="#A" n="27" break="no"/>men amarum per saepe videtur. Num quod natura tale sit?
+          <lb ed="#A" n="28"/>minime gentium, sed est id morbi vitium. Ad eundem
+          mo<lb ed="#A" n="29" break="no"/>dum lex onerosa, non tam sua natura, quam nostra fit
+          pi<lb ed="#A" n="30" break="no"/>gritia. Ac vt insit etiam aliquid, in ipsius legis natura
+          dif<lb ed="#A" n="31" break="no"/>ficultatis &amp; molesiae: tamen si nautis minaces pelagi
+          flu<lb ed="#A" n="32" break="no"/>ctus: si tempestates &amp; hyemes agricolis: si vulnera caedesque
+          <lb ed="#A" n="33"/>militibus: si pugilibus ictus plagaeque grauissimae, leues
+          <lb ed="#A" n="34"/>adeo videntur &amp; tollerabiles vt voluntarii magna cum
+          ala<lb ed="#A" n="35" break="no"/>critate, se discriminibus istis &amp; difficultatibus offerant, spe
+          <lb ed="#A" n="36"/>temporalium commodorum, quae mox peritura sunt:
+          quan<lb ed="#A" n="37" break="no"/>to magis homini Christiano, videri leue debet ac tollera
+          <lb ed="#A" n="38"/>bile, si quid etiam aduersi ferendum sit, cui praemium in
+          <lb ed="#A" n="39"/>coelo positum est, non momentaneum, sed aeternum: cum
+          <lb ed="#A" n="40"/>nec oculus viderit, nec auris audierit, nec in cor hommis
+          <lb ed="#A" n="41"/>ascenderit, quae praeparauit Deus his, qui diligunt illum:
+          <pb ed="#A" n="216-r"/>
+          <lb ed="#A" n="1"/>vt vere dictum sit a Paulo. Quod in praesenti
+          momenta<lb ed="#A" n="2" break="no"/>neum est, &amp; leue tribulationis nostrae, supra modum in
+          subli<lb ed="#A" n="3" break="no"/>mitate, aeternum gloriae pondus operatur in nobis, non
+          <lb ed="#A" n="4"/>contemplantibus nobis quae videntur, sed quae non
+          viden<lb ed="#A" n="5" break="no"/>tur, quae enim videntur temporalia sunt, quae autem non
+          <lb ed="#A" n="6"/>videntur aeterna. Leue Paulus vocat momentaneum, quod
+          <lb ed="#A" n="7"/>est in praesenti tribulationis: at isu non satis habent, si
+          di<lb ed="#A" n="8" break="no"/>cant esse difficile, verum prorsus impossibile, prorsus
+          vo<lb ed="#A" n="9" break="no"/>sunt esse onus importabile, cui ferendo nemo sit
+          morta<lb ed="#A" n="10" break="no"/>lium. Interea tamen purum putum Dei verbum haberi
+          vo<lb ed="#A" n="11" break="no"/>lunt, quod isti loquuntur &amp; sentiunt, quamuis ex diametro,
+          <lb ed="#A" n="12"/>quod aiunt, cum dei verbo pugnare videatur. Diuus
+          Au<lb ed="#A" n="13" break="no"/>gustinus, cum &amp; ipse locum hunc enarraret ex Euangelio,
+          <lb ed="#A" n="14"/>iugum meum suaue est &amp; onus meum leue, pluribus
+          ver<lb ed="#A" n="15" break="no"/>bis laboriosiorem esse docet huius mundi amorem. Et in
+          <lb ed="#A" n="16"/>Psalmos commentatus, Bonum opus, inquit, non multum
+          <lb ed="#A" n="17"/>laborat, malum opus habet laborem. Ac alio quodam
+          lo<lb ed="#A" n="18" break="no"/>co, adducens illud ex Psalmo: Propter verba labiorum
+          <lb ed="#A" n="19"/>tuorum, ego custodiui vias tuas: Durae sunt, inquit, timo
+          <lb ed="#A" n="20"/>ri, leues amori, Omnia quippe sunt facilia charitati,
+          cu<lb ed="#A" n="21" break="no"/>vni Christi sarcina leuis est: quin ea potius est, ipsa illa
+          <lb ed="#A" n="22"/>sarcina quae leuis est.
+        </p>
+        <p xml:id="ho8ccf-a34yk3-d1e225">
+          Itaque quae dura sunt laborantibus.
+          <lb ed="#A" n="23"/>eisdem ipsis mitescunt amantibus. Nam quae saeua sunt
+          <lb ed="#A" n="24"/>etiam &amp; immania, prorsus facilia &amp; prorsus nulla efficit
+          <lb ed="#A" n="25"/>amor. Quem secutus Gregorius quoque loquens de
+          pec<lb ed="#A" n="26" break="no"/>cato dilectionis: Hoc est, inquit, praeceptum domini, hoc
+          <lb ed="#A" n="27"/>jugum est diuinae suauitatis: quid enim leuius aut
+          vn<lb ed="#A" n="28" break="no"/>quam gratius, quam amor fertur? quid praeterea graue non
+          <lb ed="#A" n="29"/>leuiter tollerat qui amat? Quicquid enim diligitur cum
+          <lb ed="#A" n="30"/>magna deuotione portatur. Potest hoc amor huius
+          mun<lb ed="#A" n="31" break="no"/>di, vt etiam quae videntur difficilia, facilia videri faciat, &amp; non
+          <lb ed="#A" n="32"/>possit multo magis, quo nihil est fortius amor Christi?
+          <lb ed="#A" n="33"/>Quod si soli nos essemus, si nostris ipsorum viribus, lex
+          <lb ed="#A" n="34"/>nobis implenda foret, fortasse nostrae nobis imbecillitatis
+          <lb ed="#A" n="35"/>conscii, de difficultate, atque adeo impossibilitate ipsius
+          <lb ed="#A" n="36"/>non immerito quaeri possemus. Nunc autem qui viuit in no
+          <lb ed="#A" n="37"/>bis Christus, qui per fidem habitat in cordibus nostris, ipse
+          <lb ed="#A" n="38"/>est qui operatur omnia in omnibus: ipse est qui operatu
+          <lb ed="#A" n="39"/>in nobis &amp; velle &amp; perficere: ipse est qui facit in nobis
+          <lb ed="#A" n="40"/>quod placeat coram se. Hoc est, quod cum scribens ad Co
+          <lb ed="#A" n="41"/>rinthios gloriatus fuisset Paulus, quod plus aliis omnibus
+          <lb ed="#A" n="42"/>laborasset, ne sibi suaeque virtuti bona tribuere videretur,
+          <pb ed="#A" n="216-v"/>
+          <lb ed="#A" n="1"/>quae per ipsum Deus operatus fuerat, subiunxit euestigio:
+          <lb ed="#A" n="2"/>Non ego autem, sed gratia Dei mecum. Quae tamen
+          ver<lb ed="#A" n="3" break="no"/>ba, nequaquam ita sunt accipienda, quasi cum dixerit, non
+          <lb ed="#A" n="4"/>ego autem, hoc intelligi voluerit, nihil se laborasse, nihil
+          <lb ed="#A" n="5"/>prorsus operatum esse: non enim adiecisset mecum, si
+          prae<lb ed="#A" n="6" break="no"/>ueniente gratia, subsequens liberum arbitrium non
+          ha<lb ed="#A" n="7" break="no"/>buisset: Poterat dicere per me, quemadmodum annotatum
+          <lb ed="#A" n="8"/>est a Bernardo, sed quia minus, inquit, erat, maluit dicere
+          <lb ed="#A" n="9"/>mecum, praesumens se non solum operis esse ministrum
+          <lb ed="#A" n="10"/>per effectum, sed operantis quodammodo socium per
+          con<lb ed="#A" n="11" break="no"/>sensum. Ac si diceret, abundantius laboraui, non ego, sed
+          <lb ed="#A" n="12"/>&amp; ego: in eo enim quod solo Dei dono praeuentus sum,
+          <lb ed="#A" n="13"/>non ego in eo autem, quod donum voluntate subsecutus
+          <lb ed="#A" n="14"/>sum, &amp; ego.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

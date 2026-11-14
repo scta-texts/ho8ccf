@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 78</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 78</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="268-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3gx5q"><!-- c78 -->
+        <head xml:id="ho8ccf-a3gx5q-Hd1e99">Caput 78</head>
+        <head xml:id="ho8ccf-a3gx5q-Hd1e101" type="question-title">De secundo praecepto</head>
+        <p xml:id="ho8ccf-a3gx5q-d1e104">
+          <lb ed="#A" n="32"/>CAPVT LXXVIII.
+          <lb ed="#A" n="33"/>De secundo praecepto.
+        </p>
+        <p xml:id="ho8ccf-a3gx5q-d1e111">
+          <lb ed="#A" n="34"/><milestone ed="#A" unit="p" rend="indent"/> PRimo loco, corde, secundo, prohibemur ore
+          trans<lb ed="#A" n="35" break="no"/>gredi praeceptum de diligendo Deo. Sic igitur dicit
+        </p>
+        <p xml:id="ho8ccf-a3gx5q-d1e119">
+          <lb ed="#A" n="36"/><milestone ed="#A" unit="p" rend="initial"/> Dominus: Non assumes nomen domini Dei tui
+          in<lb ed="#A" n="37" break="no"/>uanum: nec enim habebit insontem Deus eum, qui
+          <lb ed="#A" n="38"/>assumpserit nomen domini Dei sui frustra. Qui
+          diligi<lb ed="#A" n="39" break="no"/>&amp; colit aliquem, non meminit illius nisi reuerenter, &amp; cum
+          <lb ed="#A" n="40"/>quadam etiam honoris praefatione. Cum itaque prae cunctis
+          <pb ed="#A" n="268-v"/>
+          <lb ed="#A" n="1"/>aliis diligere nos, &amp; colere Deum oporteat: committere
+          <lb ed="#A" n="2"/>non debemus, quin &amp; ipsi summa cum reuerentia nomen
+          <lb ed="#A" n="3"/>eius vsurpemus, neque id in alios, quam tantam decet
+          ma<lb ed="#A" n="4" break="no"/>iestatem vsus, conferamus. Quod faciunt ii qui
+          nigroma<lb ed="#A" n="5" break="no"/>tiis, incantationibus, sortilegiis, diris deuotionibus, &amp; id
+          <lb ed="#A" n="6"/>genus aliis rebus impiis dei nomen, &amp; sanctae scripturae ver
+          <lb ed="#A" n="7"/>ba seruire faciunt, qui per iocum deum aliquando
+          nomi<lb ed="#A" n="8" break="no"/>nant, qui scripturis ioculariter vtuntur, qui mendacii sui
+          <lb ed="#A" n="9"/>testem deum nonnunquam citant. Is autem cum sit
+          veri<lb ed="#A" n="10" break="no"/>tas, nulla potest ei fieri maior contumelia, quam si quis eum
+          <lb ed="#A" n="11"/>sui mendacii testem inuocet. Quare prohibetur hic omne
+          <lb ed="#A" n="12"/>iusiurandum, quod non vel dei gloria, vel fructum vsus
+          <lb ed="#A" n="13"/>necessario postulet. Peccat igitur contra praeceptum hoc,
+          <lb ed="#A" n="14"/>quisquis voluntarie iurat. Nam si quis iuret exigente
+          ma<lb ed="#A" n="15" break="no"/>gistratu, sibique iuramentum deferente, modo id faciat in
+          <lb ed="#A" n="16"/>veritate &amp; in iudicio, &amp; in iustitia, non peccat. Nam quod
+          <lb ed="#A" n="17"/>prohibuit Deus ne iuretur, illud Augustinus prohibuisse
+          <lb ed="#A" n="18"/>vult intelligi, ne quisquam, sicut bonum appetat
+          iusiuran<lb ed="#A" n="19" break="no"/>dum, &amp; assiduitate iurandi ad periurium per
+          consuetudi<lb ed="#A" n="20" break="no"/>nem delabatur.
+        </p>
+        <p xml:id="ho8ccf-a3gx5q-d1e180">
+          Quamobrem non est appetenda sicut bo
+          <lb ed="#A" n="21"/>na, iuratio, nec tamen fugienda tanquam mala, cum est
+          ne<lb ed="#A" n="22" break="no"/>cessaria. Cum igitur non in bonis, sed in necessariis,
+          iura<lb ed="#A" n="23" break="no"/>tio sit habenda: refrenet se quisque quantum potest, vt ea
+          <lb ed="#A" n="24"/>non vtatur, nisi cum necessitas postulauerit: si quando
+          vi<lb ed="#A" n="25" break="no"/>det difficiles homines ad credendum, quod eis expedit
+          cre<lb ed="#A" n="26" break="no"/>dere, nisi quod dicitur, iurando firmetur. Quoties autem
+          <lb ed="#A" n="27"/>vel ad dei gloriam, vel ad proximi vtilitatem in veritate,
+          <lb ed="#A" n="28"/>iudicio &amp; iustitia iusiurandum praestatur, non modo
+          con<lb ed="#A" n="29" break="no"/>tra praeceptum hoc nihil fieri, verum illud magis
+          imple<lb ed="#A" n="30" break="no"/>ri credendum est, quod in Deuteronomio scribitur.
+          De<lb ed="#A" n="31" break="no"/>um tuum timebis &amp; illi soli seruies, ac per nomen illius
+          <lb ed="#A" n="32"/>iurabis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

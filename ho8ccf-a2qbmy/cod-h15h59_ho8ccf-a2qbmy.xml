@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 52</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 52</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="138-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2qbmy"><!-- c52 -->
+        <head xml:id="ho8ccf-a2qbmy-Hd1e99">Caput 52</head>
+        <head xml:id="ho8ccf-a2qbmy-Hd1e101" type="question-title">De sacris ordinibus, qui maiores vocantur</head>
+        <p xml:id="ho8ccf-a2qbmy-d1e104">
+          <lb ed="#A" n="28"/>CAPVT LII
+          <lb ed="#A" n="29"/>De sacris ordinibus, qui maiores vocantur.
+        </p>
+        <p xml:id="ho8ccf-a2qbmy-d1e111">
+          <lb ed="#A" n="30"/><milestone ed="#A" unit="p" rend="indent"/> INter sacros ordines qui maiores appellantur, primum
+          <lb ed="#A" n="31"/>locum obtinet Subdiaconatus. Est autem officium
+          <lb ed="#A" n="32"/>Subdiaconi, aquam ad ministerium altaris
+          praepara<lb ed="#A" n="33" break="no"/>re, ac tantum de oblationibus in altari ponere,
+          quan<lb ed="#A" n="34" break="no"/>tum sufficere possit populo Dei, tum Epistolam cantare:
+          <lb ed="#A" n="35"/>In cuius rei signum accipit patenam &amp; calicem vacuum
+          <lb ed="#A" n="36"/>de manu Episcopi, &amp; admonetur vt videat cuiusmodi
+          <lb ed="#A" n="37"/>ministerium sibi tradatur, atque ideo ita se exhibeat, vt
+          <lb ed="#A" n="38"/>Deo placere possit, Datur etiam liber Epistolarum,
+          dici<lb ed="#A" n="39" break="no"/>turque ei ab Episcopo, vt eum accipiat, &amp; habeat
+          potesta<lb ed="#A" n="40" break="no"/>tem legendi eas in Ecclesia sancta Dei, tam pro viuis,
+          <lb ed="#A" n="41"/>quam pro defunctis, in nomine patris &amp; filii &amp; spiritus
+          <pb ed="#A" n="138-v"/>
+          <lb ed="#A" n="1"/>sancti. Hoc oficio Dominus vsus est, quando facta
+          coe<lb ed="#A" n="2" break="no"/>na cum discipulis linteo se praecinxit, &amp; miuens aquam
+          <lb ed="#A" n="3"/>in peluim, pedes discipulorum lauit, &amp; linteo extersit.
+          <lb ed="#A" n="4"/>Qui scripsit hunc ordinem, ei continentiae lex indicitur,
+          <lb ed="#A" n="5"/>vt impleatur illud quod a Propheta dictum est:
+          Munda<lb ed="#A" n="6" break="no"/>mini qui fertis vasa domini. Aequum enim est, vt seipsos
+          <lb ed="#A" n="7"/>exhibeant vasa in honorem non in contumeliam, atque ab
+          <lb ed="#A" n="8"/>omni carnis inquinamento se contineant, qui altari
+          appro<lb ed="#A" n="9" break="no"/>pinquantes vasa illa ferunt, in quibus corpus &amp; sanguis
+          <lb ed="#A" n="10"/>Domini conficitur. Meminit Cyprianis qui fuerunt in
+          <lb ed="#A" n="11"/>Ecclesia Carthaginensi Subdiaconorum Messiae, &amp;
+          Cle<lb ed="#A" n="12" break="no"/>mentis, per quos ad Cornelium Papam literas dedit. Quin
+          <lb ed="#A" n="13"/>ipsum Cyprianum ordinasse legimus Subdiaconum
+          Opta<lb ed="#A" n="14" break="no"/>tum. Hunc ordinem sequitur ordo Diaconorum, qui
+          lati<lb ed="#A" n="15" break="no"/>ne possunt dici ministri. Hic ordo leuitarum
+          appellaba<lb ed="#A" n="16" break="no"/>tur in veteri Testamento. Praeceperat enim Dominus
+          <lb ed="#A" n="17"/>Mosi, vt post ordinationem Aaron &amp; fliorum eius,
+          tri<lb ed="#A" n="18" break="no"/>bus Leui ad diuini cultus ministerium ordinaretur, &amp;
+          con<lb ed="#A" n="19" break="no"/>secraretur domino, &amp; seruirent pro Israd in tabernaculo
+          <lb ed="#A" n="20"/>Dei coram Aaron &amp; filiis eius. Legimus in Actis
+          Aposto<lb ed="#A" n="21" break="no"/>lorum, septem viros boni testimonum spirtu sancto plenos
+          <lb ed="#A" n="22"/>ad hoc officium electos, &amp; oratione premissa manus eis
+          <lb ed="#A" n="23"/>impositas esse. Fuit inter eos Stephanis
+          prothomartyr<lb ed="#A" n="24" break="no"/>fuit &amp; Nicolaus author sectae vnius omnum
+          flagitiosissi<lb ed="#A" n="25" break="no"/>mae. Inde mos inoleuit, quin etiam decetum intercessit,
+          <lb ed="#A" n="26"/>vt in omni matrice Ecclesiae septem Diaoni circa Christi
+          <lb ed="#A" n="27"/>aram sublimiori gradu tanquam colunnae septem
+          Epis<lb ed="#A" n="28" break="no"/>copo assistant, habitique sunt Diaconi taquam oculi
+          Epis<lb ed="#A" n="29" break="no"/>copi, oberrantes &amp; circum lustrantes cum erecundia actus
+          <lb ed="#A" n="30"/>totius Ecclesiae: perscrutantes diligentiis, si quem
+          vide<lb ed="#A" n="31" break="no"/>ant vicinum fieri praecipitio &amp; proximum esse peccato, vt
+          <lb ed="#A" n="32"/>referant haec ad Episcopum, vt commefieri ab eo
+          pos<lb ed="#A" n="33" break="no"/>sit, sicut a Clemente scriptum est: Qui cistodiebant etiam
+          <lb ed="#A" n="34"/>Episcopum a maleuolis hominibus, &amp; consensum eius
+          <lb ed="#A" n="35"/>praebebant sacrificio. Origenes autem Sacerdotes
+          ma<lb ed="#A" n="36" break="no"/>uult oculos Ecclesiae dicis quod specultores vocentur:
+          <lb ed="#A" n="37"/>Diaconos autem caeterosque ministros nauult existimari
+          <lb ed="#A" n="38"/>manus, quoniam per eos opera spiritualia vniuersa
+          ge<lb ed="#A" n="39" break="no"/>runtur populum vero pedes. Temporibus
+          Apostolo<lb ed="#A" n="40" break="no"/>rum, sicut in Actis legimus, mensis minstrabant, hoc est
+          <lb ed="#A" n="41"/>pecuniam dispensabant, quae dabatur Apostolis, &amp; in
+          <lb ed="#A" n="42"/>pauperum vsus conuertebant, sicut exeodem Origene,
+          <pb ed="#A" n="139-r"/>
+          <lb ed="#A" n="1"/>Chrysostomo, &amp; qui praecessit eum Cypriano discimus.
+          <lb ed="#A" n="2"/>Ordinantur autem per manuum impositionem, daturque
+          <lb ed="#A" n="3"/>illis Euangeliorum liber, &amp; potestas legendi illud
+          conce<lb ed="#A" n="4" break="no"/>ditur: Neque legendi modo, verumetiam praedicandi
+          <lb ed="#A" n="5"/>Quamuis aeuo suo scribat Ambrosius praedicandi
+          pote<lb ed="#A" n="6" break="no"/>statem Diaconis ademptam fuisse. Hos Apostolus vult
+          <lb ed="#A" n="7"/>esse pudicos, non bilingues, non multo vino deditos,
+          <lb ed="#A" n="8"/>non turpe lucrum sectantes, habentes mysterium fidei in
+          <lb ed="#A" n="9"/>conscientia pura, quos primum etiam probare iubet, &amp;
+          <lb ed="#A" n="10"/>sic ministrare, nullum crimen habentes. Officio Diaco
+          <lb ed="#A" n="11"/>ni functus existimatur Christus, quando post coenam
+          <lb ed="#A" n="12"/>proprio ore &amp; propriis manibus Sacramenta confecta
+          di<lb ed="#A" n="13" break="no"/>spensauit, &amp; quando dormientes Apostolos ad
+          oratio<lb ed="#A" n="14" break="no"/>nem inuitauit dicens: Vigilate &amp; orate, vt non intretis
+          <lb ed="#A" n="15"/>in tentationem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

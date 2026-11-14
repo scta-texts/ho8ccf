@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 48</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 48</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="125-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2olds"><!-- c48 -->
+        <head xml:id="ho8ccf-a2olds-Hd1e99">Caput 48</head>
+        <head xml:id="ho8ccf-a2olds-Hd1e101" type="question-title">De satisfactione</head>
+        <p xml:id="ho8ccf-a2olds-d1e104">
+          <lb ed="#A" n="13"/>CAPVT XLVIII.
+          <lb ed="#A" n="14"/>De satisfactione.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e111">
+          <lb ed="#A" n="15"/><milestone ed="#A" unit="p" rend="indent"/> TErtia poenitentiae pars est satisfactio: quam si quis
+          <lb ed="#A" n="16"/>malit sequelam appellare, nulla est litigandi
+          cau<lb ed="#A" n="17" break="no"/>sa. Nam quae praecedebat olim absolutionem, nunc
+          <lb ed="#A" n="18"/>sequi plerunque consueuit. Fit autem satisfactio
+          pe<lb ed="#A" n="19" break="no"/>leiunia, elcemosynas, orationes, &amp; alia pia spiritualis vitae
+          <lb ed="#A" n="20"/>exercitia: non quidem pro poena aeterna, quae vel
+          sacramen<lb ed="#A" n="21" break="no"/>to, vel sacramenti voto vna cum culpa remittitur, verum
+          <lb ed="#A" n="22"/>pro poena temporali, quae vt sacrae literae docent, non tota
+          <lb ed="#A" n="23"/>semper (vt in baptismo fit) dimittitur illis, qui gratiae
+          de<lb ed="#A" n="24" break="no"/>quam acceperunt ingrati, spiritum sanctum
+          contristaue<lb ed="#A" n="25" break="no"/>runt, &amp; templum dei violare non sunt veriti. Diximus
+          in<lb ed="#A" n="26" break="no"/>tio quum de sacramentis agere caepissemus, quod
+          Baptis<lb ed="#A" n="27" break="no"/>mus fidei, Confirmatio spei, Eucharistia charitatis est sacra
+          <lb ed="#A" n="28"/>mentum, poenitentia vero refertur ad iustitiam, maxime
+          <lb ed="#A" n="29"/>in ea parte quae dicitur satisfactio, quae videtur iniuriae
+          il<lb ed="#A" n="30" break="no"/>latae quaedam esse recompensatio. Iam enim baptizatis non
+          <lb ed="#A" n="31"/>perinde facilis, neque tam liberalis &amp; gratuita via
+          pate<lb ed="#A" n="32" break="no"/>ad misericordiam diuinam, quam fuit ipsis baptismus,
+          <lb ed="#A" n="33"/>quem qui suscipiunt, nulla requiritur ab eis satisfactio
+          <lb ed="#A" n="34"/>Contra autem est in hoc penitentiae sacramento.
+          Quan<lb ed="#A" n="35" break="no"/>to enim grauius peccat homo fidelis per baptismum
+          Chri<lb ed="#A" n="36" break="no"/>sto semel incorporatus, tanto maior illi difficultas
+          impen<lb ed="#A" n="37" break="no"/>det in misericordia diuina impetranda: Vt iure merito
+          lo<lb ed="#A" n="38" break="no"/>annes Damascenus vere laboriosum Baptismum, peniter
+          <lb ed="#A" n="39"/>tiam appellauerit. Iustum itaque est, vt ipse a se peccat,
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e169">
+          <lb ed="#A" n="40"/>poenas exigat, vt illud impleatur quod scriptum est: Pro
+          <lb ed="#A" n="41"/>mensura peccati erit plagarum modus. Et alio loco,
+          <pb ed="#A" n="126-r"/>
+          <lb ed="#A" n="1"/>Quantum se glorificauit &amp; in delitiis fuit, tantum date
+          <lb ed="#A" n="2"/>ei tormentum &amp; luctum. Si magnus est lapsus tuus,
+          di<lb ed="#A" n="3" break="no"/>cit Chrysostomus, maior sit lachrymarum tuarum
+          tor<lb ed="#A" n="4" break="no"/>rens. Et aequalis eius Eusebius Emisenus: Non putemus
+          <lb ed="#A" n="5"/>tam facile remitti posse inusta semel crimina, &amp; profundo
+          <lb ed="#A" n="6"/>vulnera in are ipsius impressa visceribus. Multo opus est
+          <lb ed="#A" n="7"/>fletu, multo gemitu, multo dolore cordis, ad sanandos
+          ipsi<lb ed="#A" n="8" break="no"/>us cordis dolores. Tota insistendum est spiritus contritione,
+          <lb ed="#A" n="9"/>vt venista mala tanquam sagittae de conscientia euellantur.
+          <lb ed="#A" n="10"/>Non sufficit summis labiis dicere: Peccaui: parce, remitte.
+          <lb ed="#A" n="11"/>Saul dicebat, peccaui, sed non obtinuit illam veniam, qua
+          <lb ed="#A" n="12"/>Dauid vna penitentiae voce promeruit. Et hoc quare? Quia
+          <lb ed="#A" n="13"/>confessionem nuda magis verba, quam veri gemitus
+          ex<lb ed="#A" n="14" break="no"/>primebant. Quia non compensabat cum magnitudine
+          cri<lb ed="#A" n="15" break="no"/>minis lenta humiliario supplicantis. Non leui agendum
+          <lb ed="#A" n="16"/>est contritione, vt debita illa reddimantur, quibus
+          mor<lb ed="#A" n="17" break="no"/>aeterna debetur. Nec transitoria opus est satisfactione pro
+          <lb ed="#A" n="18"/>malis illis, propter quae paratus est ignis aeternus. Et
+          ite<lb ed="#A" n="19" break="no"/>rum homilia decima, ieiunia ac vigiliae, ac sanctae
+          afflicti<lb ed="#A" n="20" break="no"/>ones humiliata corda macerant, sed maculata corda
+          puri<lb ed="#A" n="21" break="no"/>ficant, membris subtrahunt fortitudinem, sed
+          conscien<lb ed="#A" n="22" break="no"/>riis addunt nitorem. Nihilominus de contritione animi
+          <lb ed="#A" n="23"/>redimuntur crimina voluptatum. Per durae crucis
+          exerci<lb ed="#A" n="24" break="no"/>ria, decepta dudum carnis gaudia puniuntur. At sic
+          mor<lb ed="#A" n="25" break="no"/>tificatione praesenti, futurae mortis sententia praeuenitur.
+          <lb ed="#A" n="26"/>&amp; dum culpae author humiliatur, culpa consumitur, dumque
+          <lb ed="#A" n="27"/>exterior afflictio voluntariae districtionis infertur, tremen
+          <lb ed="#A" n="28"/>di iudicii offensa sedatur, &amp; ingentia debita labor soluit
+          <lb ed="#A" n="29"/>exiguus, quae vix consumpturus erat ignis aeternus.
+          Tra<lb ed="#A" n="30" break="no"/>ctantes ergo causam salutis nostrae, faciamus intra nos
+          <lb ed="#A" n="31"/>quod circa nos facere solent medici, si laesura aliqua vel
+          <lb ed="#A" n="32"/>querela in prima corporis cute sentitur, curatio
+          medica<lb ed="#A" n="33" break="no"/>menti blandioris apponitur: si vero in ossibus vulnus
+          <lb ed="#A" n="34"/>absconditum, aut in viscera profunda immersum est,
+          au<lb ed="#A" n="35" break="no"/>steriorem &amp; fortiorem poscit vis occulta medicinam, vt
+          <lb ed="#A" n="36"/>vlceris magnitudo aut sectione, aut exustione
+          supercurre<lb ed="#A" n="37" break="no"/>tur, &amp; dolor dolore pellatur. Similis ratio est in
+          aegri<lb ed="#A" n="38" break="no"/>tudine hominis interioris adhibenda, si leuia sunt
+          fortas<lb ed="#A" n="39" break="no"/>se delicta. Verbi gratia. Si homo vel in sermone, vel in
+          <lb ed="#A" n="40"/>aliqua reprehensibili voluptate: si oculo peccauit, aut
+          cor<lb ed="#A" n="41" break="no"/>de, verborum &amp; cogitationum maculae quotidiana
+          ora<lb ed="#A" n="42" break="no"/>tione curandae, &amp; priuata compunctione tergendae sunt.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e270">
+          <pb ed="#A" n="126-v"/>
+          <lb ed="#A" n="1"/>Si vero quisquis conscientiam suam intus interrogans,
+          fa<lb ed="#A" n="2" break="no"/>cinus aliquod capitale commiserit, aut si fidem suam falso
+          <lb ed="#A" n="3"/>testimonio expugnauerit, ac sacrum veritatis nomen
+          per<lb ed="#A" n="4" break="no"/>iurii temeritate violauerit: Si veram luptismi tunicam
+          coe<lb ed="#A" n="5" break="no"/>no commaculati pudoris infecerit, si in seipso nouum
+          ho<lb ed="#A" n="6" break="no"/>minem nece hominis occiderit, si per augures &amp; diuinos
+          <lb ed="#A" n="7"/>atque incantatores captiuum se diabolo tradiderit. Haec
+          at<lb ed="#A" n="8" break="no"/>que huiusmodi commissa, expiari penitus communi &amp;
+          me<lb ed="#A" n="9" break="no"/>diocri, vel secreta satisfactione non possunt, sed graues
+          cau<lb ed="#A" n="10" break="no"/>sae, grauiores &amp; acriores publicas curas requirunt, vt qui
+          <lb ed="#A" n="11"/>cum plurimorum destructione se perdidit, cum
+          plurimo<lb ed="#A" n="12" break="no"/>rum dificatione se redimat. Homo enim seipsum decipit,
+          <lb ed="#A" n="13"/>si quum in medullis feruere sibi sentiat morbum, per
+          su<lb ed="#A" n="14" break="no"/>perficiem corporis molle deducat vnguentum. Sic &amp; The
+          <lb ed="#A" n="15"/>odoritus in praeclaro illo libello, quem inscripsit
+          diuino<lb ed="#A" n="16" break="no"/>rum decretorum Epitome. Sunt ergo medicabilia etiam
+          <lb ed="#A" n="17"/>quae post baptismum fiunt vulnera, medicabilia autem non
+          <lb ed="#A" n="18"/>vt olim per solam fidem data remissione, sed per multas
+          <lb ed="#A" n="19"/>lachrymas &amp; fletus &amp; luctus &amp; ieiunium &amp; orationem &amp;
+          <lb ed="#A" n="20"/>laborem facti peccati quantitati commoderatum. Qui enim
+          <lb ed="#A" n="21"/>sic affecti sunt nec admittere quidem didicimus, nec
+          diui<lb ed="#A" n="22" break="no"/>na sunt eis manu impartienda. Nolite, inquit, sanctum
+          da<lb ed="#A" n="23" break="no"/>re canibus, nec margaritas porcis. Fit autem eiusmodi
+          sa<lb ed="#A" n="24" break="no"/>tisfactio non ad culpam vel poenam aeteriam expiandam,
+          <lb ed="#A" n="25"/>haec enim satisfactio soli Christo tribuenda est. Solus ille
+          <lb ed="#A" n="26"/>factus est propitiatio pro peccatis nostris, non pro nostris
+          <lb ed="#A" n="27"/>tantum, verum &amp; totius mundi. Solus ile mortem
+          mori<lb ed="#A" n="28" break="no"/>endo destruxit, per eam pro peccatis nostris abunde satis
+          <lb ed="#A" n="29"/>fecit, per eam patri suo coelesti nos reconciliauit. Non de
+          <lb ed="#A" n="30"/>hac itaque satisfactione nunc loquimur, sed de ea quae in
+          <lb ed="#A" n="31"/>iis maxime poenitentiae fructibus consisit, quos iustitiae
+          <lb ed="#A" n="32"/>nomine Christus dignatur, in ieiunio, oratione, &amp;
+          elee<lb ed="#A" n="33" break="no"/>mosyna, siue a nobis ea suscepta, siue per parochos nostros
+          <lb ed="#A" n="34"/>sacramentorumque dispensatores nobis niuncta sit: quae
+          <lb ed="#A" n="35"/>quum ex fide &amp; charitate peragitur, peccatorum causas
+          <lb ed="#A" n="36"/>excindit, peccati reliquiis medetur, ac temporalem paenam
+          <lb ed="#A" n="37"/>vel tollit, vel mitigat, denique &amp; in exemplum adhibetur.
+          <lb ed="#A" n="38"/>Est quidem ita, quod Christus pro peccatis nostris
+          abun<lb ed="#A" n="39" break="no"/>de satisfecit, pro nobis tot cruciatus, ac mortem etiam
+          ip<lb ed="#A" n="40" break="no"/>sam perferendo, sed non ideo passus est, non ideo
+          satisfe<lb ed="#A" n="41" break="no"/>cit, vt nos nihil iam patiamur, nihil fadamus pro
+          pecca<lb ed="#A" n="42" break="no"/>tis nostris, posteaquam semel a gratia illa exciderimus,
+          <pb ed="#A" n="127-r"/>
+          <lb ed="#A" n="1"/>quam, illi commortui, per baptisinum consequuti
+          fuera<lb ed="#A" n="2" break="no"/>mus. Quin ille nobis exemplum dedit potius, vt eius
+          ve<lb ed="#A" n="3" break="no"/>stigia sequamur, vt sicut ipse tulit crucem suam, carnem
+          <lb ed="#A" n="4"/>nostram indutus, verum ab omni peccato prorsus
+          immu<lb ed="#A" n="5" break="no"/>nis, ita &amp; nos tot peccatis contaminati, tollamus &amp; ipsi
+          <lb ed="#A" n="6"/>crucem nostram. Hoc est quod nos admonet dicens, Si
+          <lb ed="#A" n="7"/>quis vult venire post me, abneget semet ipsum, &amp; tollat
+          <lb ed="#A" n="8"/>crucem suam, &amp; sequatur me. Explicans illa verba
+          Samu<lb ed="#A" n="9" break="no"/>elis ad Saulem Gregorius: Ecce quod remansit, pone ante
+          <lb ed="#A" n="10"/>Remansit quidem, inquit, quia non omnia nostra
+          Chri<lb ed="#A" n="11" break="no"/>stus expleuit. Per crucem quidem suam omnes redemit,
+          <lb ed="#A" n="12"/>sed remansit: vt qui redimi &amp; regnare cum eo nititur,
+          cru<lb ed="#A" n="13" break="no"/>cifigatur. Hoc profecto residuum viderat qui dicebat: Si
+          <lb ed="#A" n="14"/>compatimur &amp; conregnabimus. Quasi dicat: quod exple
+          <lb ed="#A" n="15"/>it Christus, non valet, nisi ei, qui id quod remansit adim
+          <lb ed="#A" n="16"/>plet.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e403">
+          Hinc beatus Petrus apostolus dicit: Christus passus,
+          <lb ed="#A" n="17"/>est pro nobis, vobis relinquens exemplum, vt sequamini
+          <lb ed="#A" n="18"/>vestigia eius. Hinc Paulus ait: Adimpleo ea quae desunt
+          <lb ed="#A" n="19"/>passionem Christi in corpore meo. Dicit hic aliquis: Quid
+          <lb ed="#A" n="20"/>ergo mihi contulit crux Chris, si nihilominus opus est
+          <lb ed="#A" n="21"/>assidue portare me crucem propriam, quasi illa non suffecerit?
+          <lb ed="#A" n="22"/>Multum adeo contulit. Nullus enim esset nostrae crucis
+          <lb ed="#A" n="23"/>us, neque fructum ex ea caperemus vllum, nisi Christi
+          cru<lb ed="#A" n="24" break="no"/>praecessisset, cuius merito valet nostra crux, quicquid
+          va<lb ed="#A" n="25" break="no"/>let. Ad eundem modum &amp; satisfactionis nostrae pro
+          pecca<lb ed="#A" n="26" break="no"/>tis nulla esset prosus vtilitas, nisi Christi satisfactio
+          prae<lb ed="#A" n="27" break="no"/>cessisset, per cuius mortem &amp; sanguinem efficacia
+          reddun<lb ed="#A" n="28" break="no"/>tur, &amp; Deo gratia quae fiunt a nobis in satisfactionem pro
+          <lb ed="#A" n="29"/>peccatis nostris.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e434">
+          Quid ergo prodest nobis nostra
+          satisfa<lb ed="#A" n="30" break="no"/>ctio, non aliter prodest, nisi virtute, merito, &amp; efficacia
+          <lb ed="#A" n="31"/>Christi passionis, quae fons &amp; fundamentum est omnium
+          <lb ed="#A" n="32"/>bonorum operum nostrorum, quae iam non nostra
+          ma<lb ed="#A" n="33" break="no"/>gis sunt, quam eius qui viuit in nobis, qui operatur in
+          no<lb ed="#A" n="34" break="no"/>bis, Christi. De quo dicit Propheta: Domine, omnia
+          ope<lb ed="#A" n="35" break="no"/>ra operatus es in robis. Hunc itaque passionis, crucis &amp; san
+          <lb ed="#A" n="36"/>guinis Christi fructum habemus, quod quae opera nostra
+          <lb ed="#A" n="37"/>quamlibet in speciem bona, nihil nobis autem fuerant
+          pro<lb ed="#A" n="38" break="no"/>futura, ea posteaquam Christi sanguine tincta sunt prodesse
+          <lb ed="#A" n="39"/>nobis incipiunt ac placandam iram Dei, &amp; ad satisfaciendum
+          <lb ed="#A" n="40"/>pro peccatis nostra. Noluit Christus passionem &amp; mortem
+          <lb ed="#A" n="41"/>suam operculum esse turpitudinis &amp; asylum iniquitatis
+          no<lb ed="#A" n="42" break="no"/>rae, vt quoniam illi satisfecit pro nobis, licere nobis
+          existi<pb ed="#A" n="127-v"/><lb ed="#A" n="1" break="no"/>memus, vt deinceps ventri iam libere seniamus, in omni
+          <lb ed="#A" n="2"/>peccatorum ceno volutemur, atque omnia quae libido no
+          <lb ed="#A" n="3"/>stra fert faciamus. Non propterea passus est, non propterea
+          <lb ed="#A" n="4"/>satisfecit pro nobis: sed sicut Petrus docet, ideo peccanta
+          <lb ed="#A" n="5"/>nostra, hoc est, penam nobis pro peccatis nostros debitam,
+          <lb ed="#A" n="6"/>ipse pertulit in corpore suo super lignum crucis, vt
+          pecca<lb ed="#A" n="7" break="no"/>tis mortui, non modo non peccemus deinceps, verumetiam
+          <lb ed="#A" n="8"/>iustitiae viuamus, &amp; exhibeamus nos Deo tanquam ex
+          mo<lb ed="#A" n="9" break="no"/>tuis viuentes, vt sicut exhibuimus antea membra nostra
+          <lb ed="#A" n="10"/>seruire immunditiae &amp; iniquitati ad iniquitatem, ita dein
+          <lb ed="#A" n="11"/>ceps exhibeamus membra nostra seruire iustitiae in
+          satisfa<lb ed="#A" n="12" break="no"/>ctionem, ne tanti redemptoris mortem &amp; sanguinem, quo
+          <lb ed="#A" n="13"/>sumus a peccatis nostris abluti, pro nihilo halbuisse
+          videa<lb ed="#A" n="14" break="no"/>mur. Et hoc est quod nos satisfactionem vocamus, exhibe
+          <lb ed="#A" n="15"/>re membra nostra seruire iustitiae in satisfactionem, sicut
+          <lb ed="#A" n="16"/>antea exhibuimus ea seruire immunditiae &amp; iniquitati ad
+          <lb ed="#A" n="17"/>iniquitatem, vt fiat illud quod est apud Prophetam, Sicut
+          <lb ed="#A" n="18"/>fuit sensus vester vt erraretis a Deo, decies tantum iterum
+          <lb ed="#A" n="19"/>conuertentes requireris cum. Hoc est enim satisfacere,
+          <lb ed="#A" n="20"/>quantum orendisti Deum peccando, tantum dare operam,
+          <lb ed="#A" n="21"/>et eum tibi placatum reddas, non tantum a peccatis absu
+          <lb ed="#A" n="22"/>nendo, verumetiam indebita quaedam bona opera faciem
+          <lb ed="#A" n="23"/>do, vt quoad eius fieri possit, infectum reddere coneris,
+          <lb ed="#A" n="24"/>quod perperam factum est, &amp; praecedentis vitae studia in
+          <lb ed="#A" n="25"/>diuersum uiutes. Qui furabatur iam non furetur, dicit Pau
+          <lb ed="#A" n="26"/>lus, magis autem laboret operando manibus quod bonum
+          <lb ed="#A" n="27"/>est, vt habeat vnde tribuat necessitatem patienti. Non
+          fu<lb ed="#A" n="28" break="no"/>rari euin qui furatus antea fuerat, sed honestis operibus se
+          <lb ed="#A" n="29"/>alere, est resipiscentiae: suis vero laboribus etiam
+          indigen<lb ed="#A" n="30" break="no"/>ti victum parari, satisfactionis est: non illius qua dominis
+          <lb ed="#A" n="31"/>ablata restituuntur, nam haec restitutio vocari proprie
+          con<lb ed="#A" n="32" break="no"/>sueuit, sed huius quam verae poenitentiae partem esse
+          dici<lb ed="#A" n="33" break="no"/>mus.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e537">
+          Quamobrem Christianus homo non solum aliena
+          <lb ed="#A" n="34"/>non tollere ubetur, sed &amp; de labore suo penunam
+          patien<lb ed="#A" n="35" break="no"/>tibus subministrare, vt bonis operibus deditus, rependat
+          <lb ed="#A" n="36"/>quae prius abstulerat, &amp; de caetero thesaurizet sibi in
+          futu<lb ed="#A" n="37" break="no"/>rum. Quid enim magnum, aut cuius meriti est ab
+          alie<lb ed="#A" n="38" break="no"/>nis temperare? Faciunt hoc etiam ethnici viri boni: illud
+          <lb ed="#A" n="39"/>vero ad meritum proficit, quum quis de proprio tribuit
+          <lb ed="#A" n="40"/>egenis. Talis fuit satisfactio Zachaei, qui vere &amp; ex
+          ani<lb ed="#A" n="41" break="no"/>mo poenitens dixit: Ecce dimidium bonorum meorum
+          <lb ed="#A" n="42"/>Domine do pauperibus, &amp; si quid aliquem defraudaui,
+          <pb ed="#A" n="128-r"/>
+          <lb ed="#A" n="1"/>reddo quadruplum: quae tam grata Christo fuit, vt mox
+          <lb ed="#A" n="2"/>ei diceret, Hodie salus huic domui facta est. Ad talem
+          sa<lb ed="#A" n="3" break="no"/>tisfactionem inuitat nos Ambrosius, dicens: Nos quoque
+          <lb ed="#A" n="4"/>si tam graue peccatum fuerit, vt minime suis fletibus
+          ab<lb ed="#A" n="5" break="no"/>luatur, addamus misericordiae oleum, acrimoniamque icius
+          <lb ed="#A" n="6"/>nii. Nullum enim tam graue delictum est, quod non
+          pul<lb ed="#A" n="7" break="no"/>getur abstinentia, elcemosynis extinguatur. Ait enim
+          <lb ed="#A" n="8"/>sanctus Propheta, Sicut aqua extinguit ignem, ita
+          elee<lb ed="#A" n="9" break="no"/>mosyna extinguit peccata. Magna est ergo eleemosyna,
+          <lb ed="#A" n="10"/>quae ardentium criminum globos, beneuolenuae suae fon
+          <lb ed="#A" n="11"/>te refrigerat, &amp; quodam irriguo largitatis obruit
+          incen<lb ed="#A" n="12" break="no"/>dia delictorum, vt quamuis offensus Deus, quamuis crimi
+          <lb ed="#A" n="13"/>nibus prouocatus, cogatur liberare eleemosynis, quem
+          <lb ed="#A" n="14"/>disposuerat punire peccatis. Cogitur enim a nobis
+          quo<lb ed="#A" n="15" break="no"/>dammodo, dum compellitur pro actibus nostris mutare
+          <lb ed="#A" n="16"/>sententiam, &amp; in vno eodemque homine nunc seueritate in
+          <lb ed="#A" n="17"/>dicis permo acri, nunc patris pietate blandiri. Pater enim
+          <lb ed="#A" n="18"/>nobis Deus est quum bene agimus, iudex noster est quum
+          <lb ed="#A" n="19"/>peccamus. Compellitur ergo operibus nostris dominus,
+          <lb ed="#A" n="20"/>vt nobis misericordiam suam largiatur: atque ideo ipse in
+          <lb ed="#A" n="21"/>Euangelio sancto dicit, A diebus Ioannis Baptisiae regnum
+          <lb ed="#A" n="22"/>caelorum cogitur. Hinc perspicuum cuiuis esse potest, quan
+          <lb ed="#A" n="23"/>tum ei satisfactioni tribuat Ambrosius, quae fit per
+          ieiuni<lb ed="#A" n="24" break="no"/>um &amp; elecmosynam.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e613">
+          Neque vero solus ille: Nam &amp;
+          Basi<lb ed="#A" n="25" break="no"/>lius, Per ieiunum, inquit, satisfacite. Et Eusebius
+          Emise<lb ed="#A" n="26" break="no"/>nus: Omnia, inquit, quae illic finiri non potuerunt, hic tedi
+          <lb ed="#A" n="27"/>mi possunt, per emendationem prioris vitae, per eleemos,
+          <lb ed="#A" n="28"/>nas, per lachrymas, per humilitatem cordis, per corporis
+          <lb ed="#A" n="29"/>castitatem, per exercitia iustitiae &amp; misericordiae. Nullus
+          <lb ed="#A" n="30"/>est sanctorum, qui non idem cum ipso sentiat. Est autem
+          <lb ed="#A" n="31"/>adinirabilis eorum caecitas, qui non verentur affirmare, per
+          <lb ed="#A" n="32"/>haec opera satisfactoria meritis &amp; satisfactioni Christi
+          de<lb ed="#A" n="33" break="no"/>rogari. Nonne sicut ille pro peccatis nostris copiose satis
+          fe<lb ed="#A" n="34" break="no"/>cit, ita copiose quoque nos ab illis redemit, perfecte nos
+          pa<lb ed="#A" n="35" break="no"/>tri suo reconciliauit, omnia peccata nostra pertulit in
+          cor<lb ed="#A" n="36" break="no"/>pore suo, ac ex condigno meruit omnibus vitam aeternam
+          <lb ed="#A" n="37"/>Atqui non obstantibus iis, fatentur isti, qui nihil iudicio
+          <lb ed="#A" n="38"/>suo non tribuunt, atque illud ecclesiae totius iudicio ante
+          <lb ed="#A" n="39"/>ponunt, nasci nihilominus paruulos irae filios, &amp; nisi
+          bapti<lb ed="#A" n="40" break="no"/>zati fuerint, condemnari, quin &amp; adultos vt iustificentur, &amp;
+          <lb ed="#A" n="41"/>fide &amp; baptismo opus habere: iustificatis autem, praecepta
+          <lb ed="#A" n="42"/>decalogi, lapsis penitentiam interiorem esse necessariam.
+          <pb ed="#A" n="128-v"/>
+          <lb ed="#A" n="1"/>Si nihil derogat plenissimae Christi satisfactioni fides, si
+          <lb ed="#A" n="2"/>nihil derogat baptismus, si nihil derogat interior
+          poeni<lb ed="#A" n="3" break="no"/>tentia, cur secus iuditant de exteriore poenitentia, quae
+          in<lb ed="#A" n="4" break="no"/>terioris index est, deque iis operibus, quae Christus ipse, qui
+          <lb ed="#A" n="5"/>est iustitia nostra, iustitiae nomine dignatur, quibus etiam
+          <lb ed="#A" n="6"/>mercedem pollicetur, quae tamen &amp; ipsa, quod iam toties
+          <lb ed="#A" n="7"/>admonuimus, non aliunde pretium habent, quam ex
+          Chri<lb ed="#A" n="8" break="no"/>sti sanguine, quo respersa sunt: ad quem si referantur, non
+          <lb ed="#A" n="9"/>possunt Deo grata non esse. Quemadmodum rursus si quis
+          <lb ed="#A" n="10"/>alio referat, nihil aliud sunt omnes iustitiae nostrae, quam
+          <lb ed="#A" n="11"/>pannus menstruatae.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e681">
+          Verum &amp; illud ineptum est, quod
+          pro<lb ed="#A" n="12" break="no"/>pterea satisfactionem reiiciendam putant, quod nomen
+          <lb ed="#A" n="13"/>hoc in scripturis non reperiri dicant. Non dissimili
+          ratio<lb ed="#A" n="14" break="no"/>ne reiiciebant vocem homousion Arriani, quod eam in
+          <lb ed="#A" n="15"/>scripturis non reperiri dicerent. Ac fuit hoc proprium &amp;
+          <lb ed="#A" n="16"/>perpetuum haereticorum, vt nihil reciperent, quod in
+          scri<lb ed="#A" n="17" break="no"/>pturis non esset: quemadmodum fusius a nobis antea scri
+          <lb ed="#A" n="18"/>prum est. Quasi vero de nomine magis, quam de re
+          labo<lb ed="#A" n="19" break="no"/>randum sit.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e702">
+          Atqui reperitur ipsa res. Quid enim aliud sibi
+          <lb ed="#A" n="20"/>volunt digni fructus poenitentiae, ad quos faciendos horta
+          <lb ed="#A" n="21"/>tur Ioannes? Quid aliud sibi vult, quod annuntiabat
+          <lb ed="#A" n="22"/>Paulus, vt poenitentiam agerent &amp; conuerterentur ad
+          <lb ed="#A" n="23"/>Deum, digna poenitentiae opera facientes? Quid aliud haec
+          <lb ed="#A" n="24"/>significant, quam eam, de qua nunc loquimur,
+          satisfactio<lb ed="#A" n="25" break="no"/>nem? Dignos fructus penitentiae facimus, dicit Chrysoste
+          <lb ed="#A" n="26"/>mus, siue quisquis ille fuit author operis imperfecti in
+          <lb ed="#A" n="27"/>Matthaeum, cum commissis peccatis aduersa facimus.
+          <lb ed="#A" n="28"/>Aliena rapuisti, incipe donare propria: longo tempore
+          for<lb ed="#A" n="29" break="no"/>nicatus es, a legitimo quoque coniugii vsu suspendere, ac
+          <lb ed="#A" n="30"/>perpetuam continentiam paucorum dierum castitate
+          sae<lb ed="#A" n="31" break="no"/>pius meditare: iniuria vel opere quenquam vel sermone
+          <lb ed="#A" n="32"/>affecisti, refer benedictionis verba: conuitiis te
+          percutien<lb ed="#A" n="33" break="no"/>tem, nunc officiis, nunc beneficiis placare contende.
+          (Ne<lb ed="#A" n="34" break="no"/>que enim vulnerato sufficit ad salutem, spicula de
+          corpo<lb ed="#A" n="35" break="no"/>re euellere, sed etiam remedia vulneribus oportet
+          adhibe<lb ed="#A" n="36" break="no"/>re.) Delitiis antea &amp; temulentia diffluebas, ieiunio &amp; aquae
+          <lb ed="#A" n="37"/>potu vtrumque compensa, vt famem superes imminentem;
+          <lb ed="#A" n="38"/>Vidisti impudicis alienum decorem oculis, foeminam om
+          <lb ed="#A" n="39"/>nino iam non videas, maiore tactus cautione post
+          vulne<lb ed="#A" n="40" break="no"/>ra. Quid autem aliud est satisfacere, quam quod his
+          ven<lb ed="#A" n="41" break="no"/>bis exprimitur, quodque Ioannes admonuit, dignos
+          po<lb ed="#A" n="42" break="no"/>nitentiae fructus facere? Quem locum de hoc genere
+          satis<pb ed="#A" n="129-r"/><lb ed="#A" n="1" break="no"/>factionis recte intelligi, non modo Ioannes
+          Chrysosto<lb ed="#A" n="2" break="no"/>mus, verumetiam Basilius, Augustinus, Gregorius,
+          Isichi<lb ed="#A" n="3" break="no"/>lus, Christianus, Ruthmarus, &amp; alii scriptum reliquerunt
+          <lb ed="#A" n="4"/>Irenaeus de primo parente nostro scribit in hunc modum.
+          <lb ed="#A" n="5"/>Per succinctorium in facto ostendit suam poenitentiam
+          <lb ed="#A" n="6"/>foliis ficuulneis semet ipsum contegens, existentibus &amp; alii,
+          <lb ed="#A" n="7"/>foliis multis, quae minus corpus eius vexare potuissent,
+          <lb ed="#A" n="8"/>condignum tamen inobedientiae amictum fecit,
+          conteri<lb ed="#A" n="9" break="no"/>tus amore dei, &amp; retundens petulantem carnis impetum,
+          <lb ed="#A" n="10"/>velut tale quid significans, quoniam quam habui a spiritu
+          <lb ed="#A" n="11"/>sanctitatis stolam, amisi per inobedientiam, &amp; nunc
+          co<lb ed="#A" n="12" break="no"/>gnosco, quoniam sum dignus tali tegumento, quod
+          dele<lb ed="#A" n="13" break="no"/>ctationem quidem nullam praestat, mordet autem &amp;
+          pun<lb ed="#A" n="14" break="no"/>git corpus.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e786">
+          Ex quo loco licet illud colligere, etiam in
+          para<lb ed="#A" n="15" break="no"/>diso quodam genere satisfactionis primum parentum no
+          <lb ed="#A" n="16"/>strum vsum esse. Cyprianus quoque lapsos ad
+          satisfactio<lb ed="#A" n="17" break="no"/>nem inuitat his verbis: Ne cesset, inquit, in agenda
+          poeni<lb ed="#A" n="18" break="no"/>tentia atque in domini misericordia deprecanda, ne quod
+          <lb ed="#A" n="19"/>minus esse in qualitate delicti videtur, in neglecta
+          satisfa<lb ed="#A" n="20" break="no"/>ctione cumuletur. Confiteantur singuli quaeso fratres
+          de<lb ed="#A" n="21" break="no"/>lictum suum, dum adhuc quo deliquit in seculo est, dum
+          <lb ed="#A" n="22"/>admitti confessio eius potest, dum satisfactio &amp;
+          remissio<lb ed="#A" n="23" break="no"/>facta per sacerdotem, apud Dominum grata est.
+          Conuer<lb ed="#A" n="24" break="no"/>tamur ad Dominum tota mente, &amp; poenitentiam
+          crimi<lb ed="#A" n="25" break="no"/>nis veris doloribus exprimentes, dei misericordiam
+          depre<lb ed="#A" n="26" break="no"/>cemur: illi se in anima prosternat, &amp;c. modumque
+          satisfaci<lb ed="#A" n="27" break="no"/>endi pluribus verbis postea persequitur.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e817">
+          Quod autem
+          se<lb ed="#A" n="28" break="no"/>mel &amp; iterum admonuimus, satisfactionem hanc non ita
+          <lb ed="#A" n="29"/>velimus accipi, quasi culpae propitiatoria, &amp; aeternae
+          poena<lb ed="#A" n="30" break="no"/>sit abolitoria: soli Christo tribuendum est hoc, solus est
+          il<lb ed="#A" n="31" break="no"/>le qui delet iniquitates nostras, solus est ille qui factus est
+          <lb ed="#A" n="32"/>propitiatio pro peccatis nostris, solus est ille qui mortem
+          <lb ed="#A" n="33"/>aeternam moriendo destruxit: Sed solet Deus in hac vita
+          <lb ed="#A" n="34"/>temporariam poenam aeterne loco peccatis nostris
+          inflige<lb ed="#A" n="35" break="no"/>re, sic enim ait per Prophetam: Visitabo in virga
+          iniquita<lb ed="#A" n="36" break="no"/>tes eorum, &amp; in verberibus peccata corum, misericordiam
+          <lb ed="#A" n="37"/>autem meam non dispergam ab eis. Qui locus non
+          ob<lb ed="#A" n="38" break="no"/>scure indicat, quod quam poenam comminatus est
+          Domi<lb ed="#A" n="39" break="no"/>nus, ea non ad internecionem, sed ad correptionem vti
+          vo<lb ed="#A" n="40" break="no"/>luerit. Multa in scripturis eius rei exempla reperire licet.
+          <lb ed="#A" n="41"/>Remissum est peccatum diffidentiae Mosi &amp; Aaron, non
+          <lb ed="#A" n="42"/>tamen est remissa poena temporaria: neque enim ingressi
+          <pb ed="#A" n="129-v"/>
+          <lb ed="#A" n="1"/>sunt in terram promissionis. Hoc de reliquo populo
+          Is<lb ed="#A" n="2" break="no"/>rae, hoc de Maria sorore Moysi, hoc de Dauid factum
+          le<lb ed="#A" n="3" break="no"/>gimus: quibus omnibus remissis peccatis, non sunt
+          re<lb ed="#A" n="4" break="no"/>missae poenae temporariae: quas effugere nobis licet,
+          quan<lb ed="#A" n="5" break="no"/>do ieiunio, oratione, eleemosyna Deum nobis placatum
+          <lb ed="#A" n="6"/>reddere conamur, sicut Niniuitas, sicut Ezechiam, sicut
+          <lb ed="#A" n="7"/>Achab, &amp; alios fecisse legimus. Hoc est quod ab Eucherio
+          <lb ed="#A" n="8"/>Lugdunensi episcopo scriptum est. Si peccatum Dauid
+          <lb ed="#A" n="9"/>tam detestabile dominus transtulit, quid est quod omnia
+          <lb ed="#A" n="10"/>quae de eodem peccato per Prophetam ei a domino
+          di<lb ed="#A" n="11" break="no"/>cta sunt, postmodum tolerauit? sed procul dubio
+          domi<lb ed="#A" n="12" break="no"/>nus delet illud, sed sine vltione non deserit: aut enim ipse
+          <lb ed="#A" n="13"/>hoc homo in se penitens punit, aut hoc Deus cum
+          homi<lb ed="#A" n="14" break="no"/>ne vindicans percutit. Nequaquam igitur peccato parcit,
+          <lb ed="#A" n="15"/>quod nullatenus sine vindicta dimittit. Sic enim Dauid
+          <lb ed="#A" n="16"/>audire post conuersionem meruit, Dominus transtulit
+          <lb ed="#A" n="17"/>peccatum tuum, tamen &amp; multis post cruciatibus afflictus,
+          <lb ed="#A" n="18"/>ac fugiens, reatum quem perpetrauerat exoluit. Si nos
+          <lb ed="#A" n="19"/>salutis vnda a culpa primi parentis absoluit, sed tamen
+          <lb ed="#A" n="20"/>reatum eiusdem culpae diluentes, absoluti quoque adhuc
+          <lb ed="#A" n="21"/>carnaliter obimus: quia delicta nostra, siue per nos, siue
+          <lb ed="#A" n="22"/>per seipsum resecat, etiam cum relaxat. Ab electis enim
+          <lb ed="#A" n="23"/>suis iniquitatum maculas stupet temporali afflictione
+          ter<lb ed="#A" n="24" break="no"/>gere, quas in eis in perpetuum non vult vindicare. Quod
+          <lb ed="#A" n="25"/>iisdem prope verbis in moralibus a Gregorio scriptum
+          <lb ed="#A" n="26"/>legimus, qui fuisse videtur ducentis plus minus annis
+          po<lb ed="#A" n="27" break="no"/>sterior.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e913">
+          Verum &amp; Augustinus contra Faustum scribens in
+          <lb ed="#A" n="28"/>eadem est sententia. Qui recte colligit, si dimissa culpa
+          <lb ed="#A" n="29"/>nullus reliquus esset ad paenam reatus, quod neque
+          mor<lb ed="#A" n="30" break="no"/>tuus Addam, neque fuisset aliis miseriis &amp; huius vitae
+          cala<lb ed="#A" n="31" break="no"/>mitatibus obnoxius futurus, posteaquam, teste
+          Salomo<lb ed="#A" n="32" break="no"/>ne, eduxit eum Deus a delicto suo. Quin &amp; nos morti
+          <lb ed="#A" n="33"/>&amp; multis aliis erumnis huius vitae subiecti non essemus,
+          <lb ed="#A" n="34"/>posteaquam originale peccatum nobis in baptismo
+          remis<lb ed="#A" n="35" break="no"/>sum est, si omnes in vniuersum paenae inflictae pro peccatis
+          <lb ed="#A" n="36"/>simul cum culpa delerentur.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e935">
+          Caeterum videre licet, quod
+          <lb ed="#A" n="37"/>ipsi sibi non constant, quodque ipsi secum pugnant, qui
+          vo<lb ed="#A" n="38" break="no"/>sunt dimissa culpa simul dimitti paenam omnem etiam
+          tem<lb ed="#A" n="39" break="no"/>porariam. Cum enim agunt de peccato originali, quod
+          <lb ed="#A" n="40"/>aliena voluntate contraximus, sic nobis illud remitti per
+          <lb ed="#A" n="41"/>baptismum asseuerant, vt concupiscentia carnis, quae paena
+          <lb ed="#A" n="42"/>ipsius est, semper nihilominus in nobis manet, neque vlla
+          <pb ed="#A" n="130-r"/>
+          <lb ed="#A" n="1"/>satisfactione, etiam Christi, possit impediri, quominus
+          <lb ed="#A" n="2"/>proprie sit peccatum. Interea tamen illi ipsi ex his
+          sceleri<lb ed="#A" n="3" break="no"/>bus &amp; flagitiis, quae re ipsa voluntarie patrantur, nullum
+          <lb ed="#A" n="4"/>sequi reatum contendunt, qui non simul cum ipsis per satis
+          <lb ed="#A" n="5"/>factionem Christi deleatur, vno actu fidei peccatoribus
+          ap<lb ed="#A" n="6" break="no"/>blicatae. Quid autem hoc est aliud quam peccatum originis gra
+          <lb ed="#A" n="7"/>uius facere, quam actuale? &amp; penitentiam vel fidem magis
+          <lb ed="#A" n="8"/>efficax remedium ad abolenda peccata existimare quam
+          <lb ed="#A" n="9"/>baptismum? Quae quam sint absurda, quis est qui non videat:
+          <lb ed="#A" n="10"/>Indicat hoc etiam ille Pauli locus: quod si nosmet ipsos
+          <lb ed="#A" n="11"/>diiudicaremus, non vtique iudicaremur, ita demum fore,
+          <lb ed="#A" n="12"/>sicut etiam ab Ambrosio traditum est, vt nobis parcat deus
+          <lb ed="#A" n="13"/>si nobis ipsi non pepercerrimus. Hoc Tertullianus quoque
+          <lb ed="#A" n="14"/>testatur dicens: Inquantum non peperceris tibi, intantum
+          <lb ed="#A" n="15"/>tibi Deus (crede) parcet. Et qui fuit propemodum eius
+          <lb ed="#A" n="16"/>sequalis Origenes. Non expectes, inquit, vt humiliet te
+          <lb ed="#A" n="17"/>Chusarsaton, &amp; inuito necessitas extorqueat penitentiam,
+          <lb ed="#A" n="18"/>sed ipse praeueni tortoris manus: quia si te ipse emendaue
+          <lb ed="#A" n="19"/>ris, si te ipse correxeris, pius est Deus &amp; misericors, qui vin
+          <lb ed="#A" n="20"/>dictam temperet ab eo qui illam penitendo praeuenit.
+          <lb ed="#A" n="21"/>Ac qui fuit eiusdem cum Tertulliano gentis Augustinus,
+          <lb ed="#A" n="22"/>In hac, inquit, penitentia maiorem in se seueritatem vnus
+          <lb ed="#A" n="23"/>quisque debet exercere, vt a seipso iudicatus non
+          iudice<lb ed="#A" n="24" break="no"/>tur a Deo, sicut Apostolus ait, Si enim nos iudicaremus,
+          <lb ed="#A" n="25"/>a domino non iudicaremur. Ioannes quoque
+          Chrysosto<lb ed="#A" n="26" break="no"/>mus eundem illum locum adferens, si nos ipsos
+          diiudicare<lb ed="#A" n="27" break="no"/>nus, non vtique iudicaremur. Vides, inquit, quomodo hic
+          <lb ed="#A" n="28"/>inflicta pena, liberat a paena quae illic est. Et in ea homilia
+          <lb ed="#A" n="29"/>quae proxinte sequitur, post adducta eadem illa verba, vt
+          <lb ed="#A" n="30"/>gitur, inquit, neque puniamur, neque paenas demus, in
+          <lb ed="#A" n="31"/>suam quisque conscientiam ingrediatur, vitamque
+          expli<lb ed="#A" n="32" break="no"/>cet, cunctisque commissis diligenter excussis, condemnet
+          <lb ed="#A" n="33"/>animam quae haec patrauit, puniatque cogitationem,
+          affli<lb ed="#A" n="34" break="no"/>gat, crucietque suam ipsius mentem, suppliciumque a seipso
+          <lb ed="#A" n="35"/>exigat pro peccatis, per condemnationem, per diligenter
+          <lb ed="#A" n="36"/>factam penitentiam, per lachrymas, per confessionem, per
+          <lb ed="#A" n="37"/>ieiunium, per eleemosynam, per continentiam &amp; charitatem,
+          <lb ed="#A" n="38"/>vt possimus omnes omni modo hic depositis peccatis multa
+          <lb ed="#A" n="39"/>cum fiducia illuc proficisci. Bernardus quoque. Vnum est, inquit
+          <lb ed="#A" n="40"/>si nosmet ipsos iudicauerimus, non vtique iudicabimur. Bonum
+          <lb ed="#A" n="41"/>iudicium quod me illi districto diuinoque iudicio subducit
+          <lb ed="#A" n="42"/>&amp; abscondit prorsus horreo incidere in manus dei viuentis
+          <pb ed="#A" n="130-v"/>
+          <lb ed="#A" n="1"/>volo vultui irae, iudicatus praesentari, non iudicandus: spi
+          <lb ed="#A" n="2"/>ritalis homo omnia diiudicat, &amp; ipse a nemine iudicatur.
+          <lb ed="#A" n="3"/>Iudicabo proinde mala mea, iudicabo &amp; bona: mala
+          me<lb ed="#A" n="4" break="no"/>lioribus curabo corrigere actibus, diluere lachrymis,
+          pu<lb ed="#A" n="5" break="no"/>nire ieiuniis, caeterisque sanctae laboribus disciplinae: in
+          bo<lb ed="#A" n="6" break="no"/>nis de me humiliter sentiam, &amp; iuxta praeceptum Domini
+          <lb ed="#A" n="7"/>seruum me inutilem reputabo, qui quod facere debui tan
+          <lb ed="#A" n="8"/>tum feci. Dabo operam nec lolia pro granis, nec paleas cum
+          <lb ed="#A" n="9"/>granis offerre. Scrutabor ego vias meas, &amp; studia mea,
+          <lb ed="#A" n="10"/>quo is qui scrutaturus est Hierusalem in lucernis, nihil
+          in<lb ed="#A" n="11" break="no"/>scrutatum in me siue indiscussum inueniat, neque enim
+          <lb ed="#A" n="12"/>iudicaturus est bis in idipsum. Ex iis &amp; aliis multis,
+          quo<lb ed="#A" n="13" break="no"/>rum verba longum foret recensere, colligere licet,
+          remis<lb ed="#A" n="14" break="no"/>sa culpa superesse adhuc reatum ad poenam temporariam,
+          <lb ed="#A" n="15"/>Quamobrem recte Sapiens admonuit. Fili peccasti, ne ad
+          <lb ed="#A" n="16"/>iicias iterum. Et ne hoc solo securum se quisquam esse
+          pu<lb ed="#A" n="17" break="no"/>taret: &amp; de pristinis, inquit, deprecare, vt tibi dimittantur.
+          <lb ed="#A" n="18"/>parum esse iudicans recedere a peccatis, si praeterita curare
+          <lb ed="#A" n="19"/>neglexerimus.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e1087">
+          Neque vero poena tantum remanet
+          dimis<lb ed="#A" n="20" break="no"/>sa culpa, verum &amp; ipsa culpa non ita per poenitentiam
+          abo<lb ed="#A" n="21" break="no"/>letur, vt non illius aliquae maneant reliquiae quibus
+          poena<lb ed="#A" n="22" break="no"/>debetur. Hoc Dauid exemplo discimus, cui dixerat
+          qui<lb ed="#A" n="23" break="no"/>dam Nathan, Dominus transtulit peccatum tuum, sed quia
+          <lb ed="#A" n="24"/>remisso peccato reliquiae peccati remanserant, orat
+          nihilo<lb ed="#A" n="25" break="no"/>minus Deum Dauid, vt secundum multitudinem
+          misera<lb ed="#A" n="26" break="no"/>tionum suarum deleat iniquitatem eius, atque amplius la
+          <lb ed="#A" n="27"/>uet eum ab iniquitate, &amp; a peccato mundet. Non satis ha
+          <lb ed="#A" n="28"/>bet curatum esse vulnus (ait Chrysostomus) etiam
+          cica<lb ed="#A" n="29" break="no"/>tricem sanari, pristinum etiam decorem restitui perit. Quod
+          <lb ed="#A" n="30"/>fieri videmus in baptismo, vt remisso originalis peccati
+          re<lb ed="#A" n="31" break="no"/>atu, reliquiae tamen eius maneant, fomes ille concupiscer
+          <lb ed="#A" n="32"/>riae, quem tota vita piis exercitiis oportet mortificare, hoc
+          <lb ed="#A" n="33"/>&amp; in poenitentiae sacramento euenit. Manet quasi fomes
+          <lb ed="#A" n="34"/>quidam quaedam reliquiae peccati quas purgare
+          satisfacti<lb ed="#A" n="35" break="no"/>one salubri necesse est: Quum praesertim praeteritum
+          <lb ed="#A" n="36"/>peccatum in consuetudinem abiit, quod quanto fixerat
+          <lb ed="#A" n="37"/>radices altius, tanto maiore &amp; longiore purgatione opus
+          <lb ed="#A" n="38"/>habet. Nam lauari quidem cito possumus, dicit
+          Bernar<lb ed="#A" n="39" break="no"/>dus, ad sanandum vero opus est curatione multa.
+          Atha<lb ed="#A" n="40" break="no"/>nasius hoc interesse scribit inter baptismum &amp;
+          poeniten<lb ed="#A" n="41" break="no"/>tiam, Quod quum poenitet homo, cessat quidem a per
+          <lb ed="#A" n="42"/>cando, sed habet vulnerum cicatrices.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e1140">
+          Caeterum qui
+          ba<pb ed="#A" n="131-r"/><lb ed="#A" n="1" break="no"/>tizatur, veterem quidem hominem exuit, renouatur
+          au<lb ed="#A" n="2" break="no"/>em vt denuo renatus per spiritus gratiam. Et Basilius in
+          <lb ed="#A" n="3"/>milia de poenitentia. Est spes etiam post peccatum, est
+          <lb ed="#A" n="4"/>natio etiam post vlcus, sed manet cicatrix. Et his
+          omni<lb ed="#A" n="5" break="no"/>us vetustior Origenes: Transi nunc ab ista legis vmbra
+          <lb ed="#A" n="6"/>Id veritatem eius, &amp; intuere quomodo anima quae
+          pecca<lb ed="#A" n="7" break="no"/>li vulnus accepit, etiam si curetur, tamen habet in loco
+          ci<lb ed="#A" n="8" break="no"/>latricem vulneris residentem, quae cicatrix non solum a
+          <lb ed="#A" n="9"/>Deo videtur, sed ab iis qui acceperint ab eo gratiam, per
+          <lb ed="#A" n="10"/>quam videre possint animae languores, &amp; discernere quae
+          <lb ed="#A" n="11"/>ut anima ita curata, vt omni genere vestigium illati
+          vul<lb ed="#A" n="12" break="no"/>peris abiecerit: &amp; quae curata sit quidem, sed ferat adhuc
+          <lb ed="#A" n="13"/>eteris morbi ipso vestigio cicatricis indicia. Et
+          Cypria<lb ed="#A" n="14" break="no"/>bus: Quam necessaria, quam benigna est diuina
+          clemen<lb ed="#A" n="15" break="no"/>lia, quae cum sciat non deesse satis quaedam postmodum
+          <lb ed="#A" n="16"/>uulnera, dedit curandis sanandisque denuo remedia
+          saluta<lb ed="#A" n="17" break="no"/>tia. Gregorius Nazianzenus in actione qua ad baptismum
+          <lb ed="#A" n="18"/>cohortatur: praesertim cum alia non detur regeneratio,
+          <lb ed="#A" n="19"/>neque refectio, neque pristinum in statum restitutio, licet
+          <lb ed="#A" n="20"/>ta maximis gemitibus &amp; lachrymis, ex quibus vt ego qui
+          <lb ed="#A" n="21"/>dem sentio atque statuo, vix cicatricis obductio sequitur,
+          <lb ed="#A" n="22"/>inquiramus.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e1191">
+          Neque vero tantum in viuentibus, verum
+          <lb ed="#A" n="23"/>tiam in vita functis manent &amp; cicatrices quaedam ac
+          ma<lb ed="#A" n="24" break="no"/>tulae peccatorum per ignem purgandae, &amp; poenae per quas
+          <lb ed="#A" n="25"/>pro peccatis satisfit, venialibus tantum, pro quibus
+          debi<lb ed="#A" n="26" break="no"/>a penitentia in hoc seculo peracta non est. Quorum
+          vtrum<lb ed="#A" n="27" break="no"/>que necessario credi oportere, grauissimis rationibus
+          di<lb ed="#A" n="28" break="no"/>scimus. Primum enim illud constat, quod illa cum
+          Chri<lb ed="#A" n="29" break="no"/>to triumphantium ecclesia, sicut Apostolus testatur, sine
+          <lb ed="#A" n="30"/>macula est &amp; ruga: de qua scriptum etiam legimus, quod
+          <lb ed="#A" n="31"/>non intrabit in eam aliquid coinquinatum. Nam &amp; illud
+          <lb ed="#A" n="32"/>ad eam referri potest, quod via sancta vocabitur, nec
+          transi<lb ed="#A" n="33" break="no"/>bit per eam pollutus.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e1217">
+          Quamobrem purgari necesse est
+          ci<lb ed="#A" n="34" break="no"/>tatrices &amp; maculas peccatorum, priusquam ad Ecclesiam
+          <lb ed="#A" n="35"/>Illam, quae est sine macula &amp; ruga, peruenire liceat. Quod
+          <lb ed="#A" n="36"/>ex illo Esaiae liquet loco: Abluet Dominus sordes filiarum
+          <lb ed="#A" n="37"/>Sion, &amp; sanguinem Hierusalem lauabit de medio eius, in
+          <lb ed="#A" n="38"/>spiritum iudicii &amp; spiritu ardoris. Et ex altero Malachiae
+          <lb ed="#A" n="39"/>loco: Ecce venit, dicit Dominus omnipotens, &amp; quis
+          susti<lb ed="#A" n="40" break="no"/>hebit diem introitus eius? aut quis ferre poterit vt
+          aspi<lb ed="#A" n="41" break="no"/>tiat eum? ipse enim quasi ignis conflans, &amp; quasi herba
+          <lb ed="#A" n="42"/>fullonum, &amp; sedebit quasi conflans &amp; emundans
+          argen<pb ed="#A" n="131-v"/><lb ed="#A" n="1" break="no"/>tum, &amp; purgabit filios Leui, &amp; colabit eos, quasi aurum &amp;
+          <lb ed="#A" n="2"/>quasi argentum, &amp; erunt Domino offerentes sacrificia in
+          <lb ed="#A" n="3"/>iustitia. Ex vtroque hoc loco recte id colligit Augusinus.
+          <lb ed="#A" n="4"/>Qui simul ex illis verbis, vbi dicitur, peccatum in
+          spiri<lb ed="#A" n="5" break="no"/>tum sanctum non dimitti neque in hoc seculo, neque in
+          fu<lb ed="#A" n="6" break="no"/>turo, docet esse quaedam peccata, quae si non in isto, tamen
+          <lb ed="#A" n="7"/>remittantur in futuro seculo, quod non tam de poena
+          pec<lb ed="#A" n="8" break="no"/>cati, quam de ipso peccato recte intelligi, quum ipse
+          Augu<lb ed="#A" n="9" break="no"/>stinus, tum sequuti illum Gregorius, Beda, &amp; Bernardus,
+          <lb ed="#A" n="10"/>atque alii complures, authores sunt.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e1262">
+          Deinde vero ita miso
+          <lb ed="#A" n="11"/>ricors est Deus, vt sit iustus nihilominus: neque boni quid
+          <lb ed="#A" n="12"/>quam est, quod non remuneretur, neque mali, quod poena
+          <lb ed="#A" n="13"/>aliqua non prosequatur. Remittit itaque poenam
+          aeter<lb ed="#A" n="14" break="no"/>nam pro sua misericordia, sed exigit nihilominus
+          tempo<lb ed="#A" n="15" break="no"/>ralem pro sua iustitia, ne sit malum prorsus impunitum.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e1275">
+          <lb ed="#A" n="16"/>Quamobrem certo persuasum esse debet piis omnibus
+          re<lb ed="#A" n="17" break="no"/>stare post hanc vitam poenas ignis purgatorii, quibus
+          ex<lb ed="#A" n="18" break="no"/>piantur leuiora peccata eorum, qui dum viuerent ipsi
+          po<lb ed="#A" n="19" break="no"/>nas de illis sumere conati non sunt. Hic est ille ignis, de
+          <lb ed="#A" n="20"/>quo dixisse Apostolum, saluus erit tanquam per ignem,
+          <lb ed="#A" n="21"/>vetustissimus Origenes, &amp; eum sequuti Augustinus, atque
+          <lb ed="#A" n="22"/>Gregorius memoriae prodiderunt. Hunc esse carcerem, de
+          <lb ed="#A" n="23"/>quo Christus loquitur, non exibis inde, donec reddas
+          no<lb ed="#A" n="24" break="no"/>uissimum quadrantem, intelligi vult Ambrosius. Iam illa
+          <lb ed="#A" n="25"/>Apostoli verba, vt in nomine Iesu omne genu flectatur, cae
+          <lb ed="#A" n="26"/>lestium, terrestrium, &amp; infernorum. Et illa rursus ex
+          Apo<lb ed="#A" n="27" break="no"/>calypsi, quod nemo inuentus est, nec in coelo, nec in terra,
+          <lb ed="#A" n="28"/>nec subtus terram, qui dignus esset aperire librum,
+          nun<lb ed="#A" n="29" break="no"/>quid non aperte purgatorium indicant? Cui enim dubium
+          <lb ed="#A" n="30"/>esse potest, qui subtus terram in gehenna sunt, eos in Iesu
+          <lb ed="#A" n="31"/>nomine genua non flectere, quem iugiter potius
+          blasphe<lb ed="#A" n="32" break="no"/>mant? sed nec aperiendi libri vlla de eis est probabilitas.
+          <lb ed="#A" n="33"/>vt non de aliis intelligi locus hic possit rectius, quam de
+          <lb ed="#A" n="34"/>iis, quorum in purgatorio delicta expiantur. Sed &amp; ex
+          il<lb ed="#A" n="35" break="no"/>lo Machabaeorum libri loco, sancta &amp; salubris est
+          cogita<lb ed="#A" n="36" break="no"/>tio pro defunctis exorare, vt a peccatis soluantur, recte
+          col<lb ed="#A" n="37" break="no"/>ligi potest, esse quaedam abdita receptacula, in quibus
+          eo<lb ed="#A" n="38" break="no"/>rum animae detinentur, qui cum signo fidei in
+          confessio<lb ed="#A" n="39" break="no"/>ne Christi nominis ex hac vita decesserunt. Nam pro his
+          <lb ed="#A" n="40"/>qui sunt in coelo nihil attinet Deum precari, qui cum sum
+          <lb ed="#A" n="41"/>ma beatitudine perfruantur, gratiae potius agendae sunt
+          <lb ed="#A" n="42"/>Deo, qui tantae beatitudinis eos participes facere dignatu
+          <pb ed="#A" n="132-r"/>
+          <lb ed="#A" n="1"/>est, quam vt orare pro illis necesse sit. Iniuriam facit
+          mar<lb ed="#A" n="2" break="no"/>tyri, dicit Aug. qui pro illo orat. Qui vero sunt ignis aeter
+          <lb ed="#A" n="3"/>hi suppliciis destinati, pro eis superuacanea est omnis
+          ora<lb ed="#A" n="4" break="no"/>tio. Nam in inferno nulla est redemptio. Si itaque salubris
+          <lb ed="#A" n="5"/>sen cogitatio pro defunctis exorare, neque necesse est
+          ora<lb ed="#A" n="6" break="no"/>re pro iis, qui sunt in caelo, quo nulli pater aditus, nisi
+          pri<lb ed="#A" n="7" break="no"/>us omni peccati reatu sit solutus, superuacaneum autem sit
+          <lb ed="#A" n="8"/>pro iis orare qui sunt in gehenna, quid restat aliud nisi
+          ter<lb ed="#A" n="9" break="no"/>tium esse locum aliquem, in quo poena quadam
+          tempora<lb ed="#A" n="10" break="no"/>pia purgentur ii, qui non satis purgati ex hac vita
+          migraue<lb ed="#A" n="11" break="no"/>runt? Legimus in Genesi flammeum gladium atque versati
+          <lb ed="#A" n="12"/>lem ante paradisum esse collocatum. Quid autem sibi vult
+          <lb ed="#A" n="13"/>flammeus iste gladius? nisi quod quicunque deinceps admit
+          <lb ed="#A" n="14"/>tendi sunt, illos transire per examinatorium ignem opor
+          <lb ed="#A" n="15"/>teat, sicut Ambrosius, &amp; eum sequutus Rupertus, locum
+          <lb ed="#A" n="16"/>hunc interpretantur. Quod si scripturis etiam probari
+          pur<lb ed="#A" n="17" break="no"/>gatorium non posset, quum tamen vnanimes vno ore
+          san<lb ed="#A" n="18" break="no"/>cti doctores omnes a Christo nato ad haec vsque nostra
+          <lb ed="#A" n="19"/>tempora, vel paenarum ignis purgatorii, vel orationum &amp;
+          <lb ed="#A" n="20"/>sacrificiorum pro defunctis meminerint, cum plerique eo
+          <lb ed="#A" n="21"/>rum, nominatim vero Augustinus &amp; Ioannes
+          Damasce<lb ed="#A" n="22" break="no"/>mus etiam libros de cura pro mortuis gerenda
+          conscripse<lb ed="#A" n="23" break="no"/>rint, quis est qui dubitare queat Apostolicam hanc esse
+          tra<lb ed="#A" n="24" break="no"/>ditionem, quae tanto omnium consensu tot seculis in
+          Ec<lb ed="#A" n="25" break="no"/>clesia semper fuit obseruata. Cui qui contra dixit Aerius
+          <lb ed="#A" n="26"/>ante mille ducentos annos, pro haeretico habitus est, quod
+          <lb ed="#A" n="27"/>superuacaneas esse diceret orationes &amp; oblationes pro de
+          <lb ed="#A" n="28"/>functis, sicut apud Philastrum, Epiphanium, August. legimus.
+          <lb ed="#A" n="29"/>Ante quadringentos etiam annos fuerunt Henriciani quidam &amp;
+          <lb ed="#A" n="30"/>Petrobrussiani, qui cum ad eundem lapidem offendissent, per
+          <lb ed="#A" n="31"/>Petrum Cluniacensem, &amp; Bernardum Abbatem Clareual
+          <lb ed="#A" n="32"/>lensem confutati sunt.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e1408">
+          Verum nobis de hoc propositum non
+          <lb ed="#A" n="33"/>est hoc argumenti genus tractare, obiter tantum illud
+          si<lb ed="#A" n="34" break="no"/>gnificandum esse duximus, si volumus paenas effugere
+          tem<lb ed="#A" n="35" break="no"/>porarias, vel in hoc vel in futuro seculo pro peccatis
+          no<lb ed="#A" n="36" break="no"/>stris nobis infligendas, opus esse vt ipsi nos iudicemus, vt
+          <lb ed="#A" n="37"/>ipsi supplicium de nobis summamus, vt per ieiunium, orationem,
+          <lb ed="#A" n="38"/>&amp; eleemosynam peccata nostra expiantes, Deum nobis
+          placa<lb ed="#A" n="39" break="no"/>tum reddamus, vt cum ipsi nobis non pepercerrimus,
+          par<lb ed="#A" n="40" break="no"/>cat ille nobis, atque a paenis quas longe grauiores eramus
+          <lb ed="#A" n="41"/>commeriti, nos liberet. Atque haec est satisfactionis
+          ra<pb ed="#A" n="132-v"/><lb ed="#A" n="1" break="no"/>tio, quae inter partes siue actus poenitentiae tertio loco
+          nu<lb ed="#A" n="2" break="no"/>meratur, quae tollitur tamen nonnunquam per
+          indulgen<lb ed="#A" n="3" break="no"/>tias, quae &amp; ipse valent ad peccatorum remissionem. Quo
+          <lb ed="#A" n="4"/>magis autem intelligi possit quae sit indulgentiarum vis,
+          <lb ed="#A" n="5"/>sic accipi rem oportet. Dominus noster Iesus Christus,
+          si<lb ed="#A" n="6" break="no"/>cut ab Augustino traditum legimus, vnus est homo cum
+          <lb ed="#A" n="7"/>capite &amp; corpore suo, saluator corporis &amp; membrorum
+          co<lb ed="#A" n="8" break="no"/>poris, duo in carne vna, &amp; in voce vna, &amp; in passione vna,
+          <lb ed="#A" n="9"/>&amp; quum transierit iniquitas in requie vna. Passiones itaque
+          <lb ed="#A" n="10"/>Christi non in solo Christo, imo passiones Christi non
+          ni<lb ed="#A" n="11" break="no"/>si in Christo. Si enim Christum intelligas caput &amp;
+          cor<lb ed="#A" n="12" break="no"/>pus, passiones Christi non nisi in Christo si autem
+          Chri<lb ed="#A" n="13" break="no"/>stum intelligas caput tantum, passiones Christi non in
+          so<lb ed="#A" n="14" break="no"/>lo Christo. Si enim passiones Christi in solo Christo,
+          si<lb ed="#A" n="15" break="no"/>ue in solo capite, vnde dicit quoddam membrum eius
+          Pau<lb ed="#A" n="16" break="no"/>lus Apostolus, vt suppleam quae desunt passionem
+          Chri<lb ed="#A" n="17" break="no"/>sti in carne mea? Nunquid aliquid passionum deerat in
+          <lb ed="#A" n="18"/>Christo capite? an non passus est quicquid pati debuit?
+          <lb ed="#A" n="19"/>nonne ipse dixit, Consummatum est? Quibus verbis
+          si<lb ed="#A" n="20" break="no"/>gnificauit iam de mensura passionum suarum nihil
+          dees<lb ed="#A" n="21" break="no"/>se, quia omnia quae dicta de se fuerant, completa essent. Ni
+          <lb ed="#A" n="22"/>hil ergo deerat passionibus Christi, quatenus caput est,
+          <lb ed="#A" n="23"/>sed restabant adhuc &amp; restant Christi passiones in
+          corpo<lb ed="#A" n="24" break="no"/>re, in eo corpore, de quo dixit alibi Paulus: Vos estis
+          cor<lb ed="#A" n="25" break="no"/>pus Christi, &amp; membra de membro. In huius ergo
+          corpo<lb ed="#A" n="26" break="no"/>ris membris, hoc est, in piis hominibus, qui tanquam
+          ca<lb ed="#A" n="27" break="no"/>put semel passus est, passus est saepe, &amp; patitur Christus,
+          <lb ed="#A" n="28"/>Nam vnusquisque piorum pro modulo suo exoluit quod
+          <lb ed="#A" n="29"/>debet, &amp; pro posse virium suarum quasi canonem
+          passio<lb ed="#A" n="30" break="no"/>num infert, quarum non erit finis, nisi cum seculum
+          fini<lb ed="#A" n="31" break="no"/>tum fuerit. Sic patiebatur Christus a Saulo, quando dixit illi
+          <lb ed="#A" n="32"/>Saule, Saule quid me persequeris? Membra persequebatur,
+          <lb ed="#A" n="33"/>&amp; tamen se in membris suis pati Christus interpretabatur.
+          <lb ed="#A" n="34"/>Quomodo solet lingua dicere calcato pede, calcas me
+          <lb ed="#A" n="35"/>Linguam nullus tetigit, compassione clamat, non attritione,
+          <lb ed="#A" n="36"/>Ita Christus, si quis membro suo faciat iniuriam, si quis illud
+          <lb ed="#A" n="37"/>persequatur, sibi fieri, quicquid illi fit, imputat. Hanc qui
+          ca<lb ed="#A" n="38" break="no"/>pitis cum corpore coniunctionem intelligit, facile perspicere
+          <lb ed="#A" n="39"/>potest, quae sint Christi capitis, quae sint corporis &amp;
+          mem<lb ed="#A" n="40" break="no"/>brorum eius merita. Nam sicut viuit Christus in membris suis,
+          <lb ed="#A" n="41"/>ita patitur in membris suis, ita meretur in membris suis, ita
+          <lb ed="#A" n="42"/>satisfacit in membris suis. Hoc est quod dicit Paulus,
+          <pb ed="#A" n="133-r"/>
+          <lb ed="#A" n="1"/>adimplere se quae desunt Christi passionum in carne sua:
+          <lb ed="#A" n="2"/>non quod congeries Christi passionum, quas tanquam
+          ca<lb ed="#A" n="3" break="no"/>put pertulit, non fuerit sufficiens ad exolutionem
+          poena<lb ed="#A" n="4" break="no"/>rum, quae totius ecclesiae peccatis debebantur, sed quod
+          <lb ed="#A" n="5"/>multa pars passionum eius adhuc corpori eius, quae est
+          ec<lb ed="#A" n="6" break="no"/>clesia, deest, priusquam persequutionum Christi sit finis,
+          <lb ed="#A" n="7"/>quia vsque in finem saeculi patitur Christus in suis
+          mem<lb ed="#A" n="8" break="no"/>bris.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e1543">
+          Hinc colligere licet, quod meritum passionis &amp; mor
+          <lb ed="#A" n="9"/>tis Christi, ac sanctorum eius, in quibus patitur &amp;
+          patie<lb ed="#A" n="10" break="no"/>tur Christus vsque ad consummationem saeculi, multo fue
+          <lb ed="#A" n="11"/>rit &amp; sit abundantius, quam fuerint &amp; sint &amp; esse possint
+          <lb ed="#A" n="12"/>omnia totius orbis flagitia, ad illa abluenda, pro quibus
+          <lb ed="#A" n="13"/>vel vna gutta sanguinis sui satisfacere poterat. Nam si
+          po<lb ed="#A" n="14" break="no"/>tuit dicere beatus Iob. Vtinam appenderentur peccata mea,
+          <lb ed="#A" n="15"/>quibus iram merui, &amp; calamitas quam patior, in statera,
+          <lb ed="#A" n="16"/>quasi arena maris grauior haec appareret: certe multo
+          re<lb ed="#A" n="17" break="no"/>ctius de Christo dici potest, quod calamitas, quam
+          pertu<lb ed="#A" n="18" break="no"/>lit iustus pro iniustis, multo grauior est si in statera appen
+          <lb ed="#A" n="19"/>datur, quam sint omnia peccata in vnum collecta, non
+          <lb ed="#A" n="20"/>vnius, verumetiam si dici possit multorum mundorum,
+          <lb ed="#A" n="21"/>pro quibus eam sustinere dignatus est, meritum vt illius
+          <lb ed="#A" n="22"/>infinitis partibus omnes iniquitates &amp; scelera totius
+          or<lb ed="#A" n="23" break="no"/>bis superata videatur. Ex hac itaque superabundantia meri
+          <lb ed="#A" n="24"/>torum &amp; satisfactionum Christi &amp; sanctorum eius, hoc
+          <lb ed="#A" n="25"/>est capitis &amp; corporis, pendet &amp; constat indulgentiarum
+          <lb ed="#A" n="26"/>thesaurus, cuius dispensatio cum ad alios Episcopos, tum
+          <lb ed="#A" n="27"/>ad summum Pontificem praecipue pertinet, qui totius
+          es<lb ed="#A" n="28" break="no"/>clesiae sub Christo capite caput est, cui Christus ipse
+          pecu<lb ed="#A" n="29" break="no"/>liariter claues regni coelorum commisit. Hoc est quod
+          di<lb ed="#A" n="30" break="no"/>cit Apostolus: Sic nos existimet homo vt ministros
+          Chri<lb ed="#A" n="31" break="no"/>sti &amp; dispensatores mysteriorum Dei. Et iterum:
+          Dispen<lb ed="#A" n="32" break="no"/>satio mihi credita est. Et rursus alio loco: Cui donastis
+          ali<lb ed="#A" n="33" break="no"/>quid, &amp; ego. Nam &amp; ego quod donaui, si quid donaui,
+          <lb ed="#A" n="34"/>propter vos in persona Christi. Effectus ergo siue fructus
+          <lb ed="#A" n="35"/>indulgentiarum hic est: quod per eas illius, quae fit per
+          ope<lb ed="#A" n="36" break="no"/>ra poenitentiae, &amp; per sacerdotem alicui in sacramento
+          <lb ed="#A" n="37"/>poenitentiae iniungitur &amp; praecipitur, satisfactionis fit
+          re<lb ed="#A" n="38" break="no"/>missio siue condonatio.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e1611">
+          Quoniam vero per iniunctam
+          <lb ed="#A" n="39"/>satisfactionem, quam vere ponitens exequitur, soluitur
+          <lb ed="#A" n="40"/>&amp; aufertur poena temporalis, quae peccato, quod patratum
+          <lb ed="#A" n="41"/>est, ex iustitia diuina debetur, consequens est per
+          indulgen<lb ed="#A" n="42" break="no"/>tias veluti satisfactorias poenas (tantum enim valent,
+          mo<pb ed="#A" n="133-v"/><lb ed="#A" n="1" break="no"/>do digne ac recte administrentur ac exquirantur)
+          tantun<lb ed="#A" n="2" break="no"/>dem remitti poenae temporalis apud iustitiam diuinam,
+          <lb ed="#A" n="3"/>quantum apud eam ipse, quas aliquis accipit, valent indul
+          <lb ed="#A" n="4"/>gentiae. Ac ne cui nouum videatur, quod etiam sanctorum
+          <lb ed="#A" n="5"/>passiones &amp; merita valere dicimus ad remissionem
+          pecca<lb ed="#A" n="6" break="no"/>torum, libet hic adscribere, quid ea de re vetustissimus &amp;
+          <lb ed="#A" n="7"/>idem doctissimus vir senserit Orige. Quod dominus
+          no<lb ed="#A" n="8" break="no"/>ster Iesus Christus venerit, vt tolleret peccatum mundi, &amp;
+          <lb ed="#A" n="9"/>morte sua peccata nostra deleret, nullus qui Christo
+          cre<lb ed="#A" n="10" break="no"/>dit ignorat. Quomodo autem &amp; filii eius auferant
+          pecca<lb ed="#A" n="11" break="no"/>ta sanctorum.i. Apostoli &amp; martyres, si potenmus ex scriptu
+          <lb ed="#A" n="12"/>ris diuinis probare tentabimus. Audi primum Paulum dice
+          <lb ed="#A" n="13"/>tem: Libenter enim, inquit, expendam &amp; expendar pro
+          ani<lb ed="#A" n="14" break="no"/>mabus vestris. Et in alio loco: Ego enim iam immolor, &amp;
+          <lb ed="#A" n="15"/>tempus regressionis siue resolutionis meae instat. Pro his
+          <lb ed="#A" n="16"/>ergo quibus scribebat expendi se &amp; immolari dicit Apost.
+          <lb ed="#A" n="17"/>Hostia autem cum immolatur, ad hoc immolatur, vt eorum
+          <lb ed="#A" n="18"/>pro quibus iugulatur peccata purgentur. De martyribus
+          <lb ed="#A" n="19"/>autem scribit Ioannes Apostolus in Apocalypsi: Quia
+          ani<lb ed="#A" n="20" break="no"/>mae eorum qui iugulati sunt propter nomen domini Iesu,
+          ad<lb ed="#A" n="21" break="no"/>sistant altari, ostenditur fungi sacerdotis officio.
+          Sacerdo<lb ed="#A" n="22" break="no"/>tis autem officium est pro populi supplicare peccatis. Et in
+          <lb ed="#A" n="23"/>eodem libro. Vide, inquit, ne forte sicut Dominus &amp;
+          Sal<lb ed="#A" n="24" break="no"/>uator noster quasi agnus ad occisionem ductus, &amp; in sacri
+          <lb ed="#A" n="25"/>ficium altaris oblatus peccatorum remissionem vniuerso
+          <lb ed="#A" n="26"/>praestitit mundo, ita fortassis caeterorum sanctorum ac
+          iusto<lb ed="#A" n="27" break="no"/>rum sanguis fusus est ad expiandum pro parte aliqua
+          po<lb ed="#A" n="28" break="no"/>pulum. Ac interiectis nonnullis, posteaquam docuit, quod
+          <lb ed="#A" n="29"/>etiam Paulus hostiam se obtulerit iugulandam, similiter
+          <lb ed="#A" n="30"/>&amp; alii sancti: Sed in his omnibus, inquit, vnus est agnus,
+          <lb ed="#A" n="31"/>qui totius mundi potuit auferre peccatum, &amp; ideo
+          cessa<lb ed="#A" n="32" break="no"/>uerunt caetere Hostiae, quia talis haec fuit Hostia, vt vna
+          so<lb ed="#A" n="33" break="no"/>la sufficeret pro totius mundi salute. Caeteri enim
+          preci<lb ed="#A" n="34" break="no"/>bus peccata, hic solus potestate dimisit. Dicebat enim: Fili
+          <lb ed="#A" n="35"/>remissa sunt tibi peccata tua. Detrahere itaque meritis
+          san<lb ed="#A" n="36" break="no"/>ctorum, nihil est aliud quam detrahere meritis Christi.
+          <lb ed="#A" n="37"/>Christus est enim qui viuit in illis, Chystus est qui
+          pari<lb ed="#A" n="38" break="no"/>tur in illis, Christus est qui meretur in illis, cuius fuso
+          pre<lb ed="#A" n="39" break="no"/>tioso sanguine fit, vt illorum quoque fusus pro Christi
+          san<lb ed="#A" n="40" break="no"/>guis valeat nobis ad remissionem peccatorum, quamuis haec
+          <lb ed="#A" n="41"/>remissio non per alium detur, quam per Christum.
+        </p>
+        <p xml:id="ho8ccf-a2olds-d1e1712">
+          Sed haec
+          <lb ed="#A" n="42"/>obiter de sanctorum meritis, quae miro quodam consensu
+          <pb ed="#A" n="134-r"/>
+          <lb ed="#A" n="1"/>semper fuerunt ab omnibus &amp; doctrina &amp; pietate viris
+          prae<lb ed="#A" n="2" break="no"/>stantibus omnibus saeculis in ecclesia celebrata, deque
+          peni<lb ed="#A" n="3" break="no"/>tentia &amp; eius partibus dicta sufficiant. Nunc de
+          sacramen<lb ed="#A" n="4" break="no"/>to extremae Vnctionis dicendum nobis restat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

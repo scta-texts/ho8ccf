@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 72</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 72</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="231-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3bkwh"><!-- c72 -->
+        <head xml:id="ho8ccf-a3bkwh-Hd1e99">Caput 72</head>
+        <head xml:id="ho8ccf-a3bkwh-Hd1e101" type="question-title">Quod non sola iustitiae Christi imputatione, sed vere realiter inhaerente nobis iustitia iusti sumus</head>
+        <p xml:id="ho8ccf-a3bkwh-d1e104">
+          <lb ed="#A" n="17"/>CAPVT LXXII.
+          <lb ed="#A" n="18"/>Quod non sola iustitiae Christi imputatione, sed
+          ve<lb ed="#A" n="19" break="no"/>re realiter inhaerente nobis iustitia
+          iusti<lb ed="#A" n="20" break="no"/>sumus.
+        </p>
+        <p xml:id="ho8ccf-a3bkwh-d1e115">
+          <lb ed="#A" n="21"/><milestone ed="#A" unit="p" rend="initial"/> VErum hic alios audire licet, qui nolunt videri se
+          <lb ed="#A" n="22"/>prorsus negare nostram esse iustitiam, qua iusti
+          <lb ed="#A" n="23"/>sumus: esse enim aiunt, &amp; Christi &amp; nostram:
+          <lb ed="#A" n="24"/>Christi quod in ipso non in nobis sita sit: nostram
+          <lb ed="#A" n="25"/>autem imputatione fieri, quoniam accepta nobis fertur.
+          <lb ed="#A" n="26"/>Ita non vere nos iustos esse, sed imputatione, vel non esse
+          <lb ed="#A" n="27"/>iustos, sed pro iustis imputatione haberi, quatenus
+          Chri<lb ed="#A" n="28" break="no"/>sti iustitiam per fidem possidemus: hanc enim solam esse
+          <lb ed="#A" n="29"/>volunt nostram iustitiam, non quatenus ea nobis a
+          Chri<lb ed="#A" n="30" break="no"/>sto communicatur, sed quatenus in Christo ipso residens
+          <lb ed="#A" n="31"/>posteaquam per fidem eam apprehendimus, nobis
+          perin<lb ed="#A" n="32" break="no"/>de ac si nostra esset imputatur. Docet igitur nos
+          reputa<lb ed="#A" n="33" break="no"/>ri iustos, hoc est acceptos, non propter propriam
+          qualita<lb ed="#A" n="34" break="no"/>tem, hoc est, non propter gratiam, quam de plenitudine
+          <lb ed="#A" n="35"/>Christi accepimus, sed propter aliud extra nos, scilicet
+          <lb ed="#A" n="36"/>propter mediatorem filium dei per misericordiam.
+        </p>
+        <p xml:id="ho8ccf-a3bkwh-d1e153">
+          Verum
+          <lb ed="#A" n="37"/>haec quoque non minus quam illa prior absurda est
+          opinio<lb ed="#A" n="38" break="no"/>&amp; eodem propemodum recidere videtur. Quid enim aliud
+          <lb ed="#A" n="39"/>affirmant hi quoque, quam quod ea qua Christus iustus est,
+          <lb ed="#A" n="40"/>non autem ea, qua nos vere iustos facit, iustitia iusti sumus,
+          <pb ed="#A" n="231-v"/>
+          <lb ed="#A" n="1"/>quandoquidem extra nos esse volunt id, quo iusti sumus
+          <lb ed="#A" n="2"/>Quod si Paulus audiendus est, qui prophanas vocum
+          no<lb ed="#A" n="3" break="no"/>uitates deuitare iubet: noua certe vox est, &amp; his quae nos
+          <lb ed="#A" n="4"/>praecesserunt seculis inaudita, imputatiuae iustitiae. Nam re
+          <lb ed="#A" n="5"/>putari nobis fidem ad iustitiam. Beatum esse, cui non
+          in<lb ed="#A" n="6" break="no"/>putauit dominus peccatum: propter Christum non
+          repu<lb ed="#A" n="7" break="no"/>tare nobis deum delicta nostra legimus in scripturis iusti
+          <lb ed="#A" n="8"/>tiam vero Christi nobis ad iustitiam reputari, ac si nostra
+          <lb ed="#A" n="9"/>esset, nec in Canonicis, nec in veterum Orthodoxorum li
+          <lb ed="#A" n="10"/>bris, temere quisquam scriptum inueniet. Communicatio
+          <lb ed="#A" n="11"/>nis, participationis, diffusionis, deriuationis, appellationis,
+          <lb ed="#A" n="12"/>coniunctionis, compulationis nominibus, vsi quandoque
+          pa<lb ed="#A" n="13" break="no"/>tres reperiuntur: verum imputatiuae iustitiae vox, noua est,
+          <lb ed="#A" n="14"/>&amp; catholicorum auribus hactenus inaudita.
+        </p>
+        <p xml:id="ho8ccf-a3bkwh-d1e198">
+          Neque vero
+          <lb ed="#A" n="15"/>eunt hoc inficias ipsi nouatores, nouam hanc esse vocem,
+          <lb ed="#A" n="16"/>nec a Catholicis vsurpatam, sed sicut veteres licere sibi
+          vo<lb ed="#A" n="17" break="no"/>luerunt, essentiae, personaeque nominibus vti, quamuis in
+          <lb ed="#A" n="18"/>scripturis ea non legantur: sic isti concedi sibi postulant,
+          <lb ed="#A" n="19"/>vt imputatiuam vocent iustitiam, quamuis ab orbe
+          condi<lb ed="#A" n="20" break="no"/>to, hoc praesertim sensu, quo ab ipsis profertur, haec vox
+          <lb ed="#A" n="21"/>nunquam fuerit a quopiam vsurpata. Vti se dicunt hoc lo
+          <lb ed="#A" n="22"/>cutionis genere, quo planioribus verbis edisserant, ea quae
+          <lb ed="#A" n="23"/>captui nostro in scripturis perplexa impeditaque sunt.
+          Inte<lb ed="#A" n="24" break="no"/>rea tamen quam sibi dari postulant, eam catholicis
+          veni<lb ed="#A" n="25" break="no"/>am non concedunt, a quibus simul vt aliquid prolatum
+          fue<lb ed="#A" n="26" break="no"/>rit, quod illis ipsis verbis in scripturis non legitur,
+          vsita<lb ed="#A" n="27" break="no"/>to haereticis collectionis genere, quia non est scriptum,
+          re<lb ed="#A" n="28" break="no"/>ficiendum esse censent. Nostras autem aures, vocis haec no
+          <lb ed="#A" n="29"/>uitas non offenderet, si quod isti se facere videri volunt,
+          <lb ed="#A" n="30"/>explananda ea, quae sunt in scripturis abstrusiora, illa vte
+          <lb ed="#A" n="31"/>rentur.
+        </p>
+        <p xml:id="ho8ccf-a3bkwh-d1e237">
+          Verum tantum abest, vt per has nouas voces
+          edis<lb ed="#A" n="32" break="no"/>serentur ea, quae sunt in literis sacris perplexa contrarium
+          <lb ed="#A" n="33"/>vt potius illis asseratur. Aperta sunt scripturae verba: per
+          <lb ed="#A" n="34"/>obedientiam vnius Christi, iustos constitui multos:
+          An<lb ed="#A" n="35" break="no"/>cum hac scriptura non pugnat, qui non constitui, sed
+          repu<lb ed="#A" n="36" break="no"/>tari tantum nos iustos asseuerat? Quid autem hoc est aliud
+          <lb ed="#A" n="37"/>quam Christi meritis derogare? quam gloriam illius
+          im<lb ed="#A" n="38" break="no"/>minuere velle? Scilicet peccati tanta fuit vis, quod a primo
+          <lb ed="#A" n="39"/>Adam patratum est, vt vere nos peccatores &amp; ministros
+          con<lb ed="#A" n="40" break="no"/>stitueret, vt illius peccato, non solum per imputationem dam
+          <lb ed="#A" n="41"/>nemur, ac si aliem peccati exigeretur a nobis poena: sed
+          <lb ed="#A" n="42"/>ideo ponam illius sustineamus, quia &amp; culpae rei sumus.
+          <pb ed="#A" n="232-r"/>
+          <lb ed="#A" n="1"/>Et non erit secundi Adam Christi iustitiae, tanta vis, vt ea
+          <lb ed="#A" n="2"/>nos vere iustos constituat? Vbi est igitur quod dixit
+          Pau<lb ed="#A" n="3" break="no"/>lus: Vbi abundauit delictum, superabundauit &amp; gratia
+          <lb ed="#A" n="4"/>Et paulo ante: Sed non sicut delictum, ita &amp; donum. Si
+          <lb ed="#A" n="5"/>enim vnius delicto multi mortui sunt, multo magis
+          gra<lb ed="#A" n="6" break="no"/>tia dei &amp; domini, in gratia vnius hominis Iesu Christi, in
+          <lb ed="#A" n="7"/>plures abundauit. Quin dicat confidenter homo
+          Christia<lb ed="#A" n="8" break="no"/>nus quod a Bernardo scriptum supra commemorauimus.
+          <lb ed="#A" n="9"/>Si mea traducta culpa, cur non &amp; mea indulta iustitia: si
+          <lb ed="#A" n="10"/>peccato primi Adae, non per solam imputationem damnor,
+          <lb ed="#A" n="11"/>ac si alieni peccati exigeretur a poena: sed ideo poenam
+          il<lb ed="#A" n="12" break="no"/>lius sustineo, quia &amp; culpae reus sum: cur &amp; iusutia
+          secun<lb ed="#A" n="13" break="no"/>di Addam, non per solam imputationem iustificor, ac si
+          alie<lb ed="#A" n="14" break="no"/>nae iustitiae merces mihi daretur, sed ideo praemium illius
+          <lb ed="#A" n="15"/>fero, quia iustitiae particeps sum, quae mihi non innata, sed
+          <lb ed="#A" n="16"/>per Christi meritum est a deo donata? Dicat cum eo qui
+          <lb ed="#A" n="17"/>multis ante seculis praecessit Cyrillo. Absurdum est, nos
+          <lb ed="#A" n="18"/>quidem haeredes factos supplicii primi parentiis,
+          corruptio<lb ed="#A" n="19" break="no"/>ne per inobedientiam immissa, non autem fieri participes
+          <lb ed="#A" n="20"/>iustitiae secundi, qui ad vitam nos reuehit, per maximam
+          <lb ed="#A" n="21"/>illius obedientiam. Est ne autem verisimile, propterea
+          de<lb ed="#A" n="22" break="no"/>filium de coelo descendisse, propterea carnem indurum,
+          <lb ed="#A" n="23"/>propterea factum esse patri obedientem vsque ad mortem,
+          <lb ed="#A" n="24"/>mortem autem crucis, vt nos imputatione tantum, non
+          <lb ed="#A" n="25"/>autem vere iustos faceret?
+        </p>
+        <p xml:id="ho8ccf-a3bkwh-d1e320">
+          Atqui quum esset ad mortem
+          <lb ed="#A" n="26"/>iturus, patrem pro suis discipulis, proque omnibus qui essent
+          <lb ed="#A" n="27"/>in se credituri precatus, Pater, inquit, sanctifica illos in
+          ve<lb ed="#A" n="28" break="no"/>ritate: Isti vero non veritate, sed imputatione sanctificari
+          <lb ed="#A" n="29"/>nos dicunt &amp; iustificari: non vere nos iustos esse, &amp;
+          san<lb ed="#A" n="30" break="no"/>ctos, sed imputatiue: vel non iustos esse potius &amp; sanctos,
+          <lb ed="#A" n="31"/>sed pro iustis &amp; sanctis imputatione haberi. Dicit idem
+          <lb ed="#A" n="32"/>Christus. Si vos filius liberauerit, vere liberi eritis, At
+          <lb ed="#A" n="33"/>isti: non eritis, aiunt, vere liberi, sed hactenus tantum
+          eri<lb ed="#A" n="34" break="no"/>tis a peccatis liberi, quod ea vobis non imputabuntur.
+          <lb ed="#A" n="35"/>Sic dixit dilectus Christo discipulus, Qui facit iustitiam,
+          <lb ed="#A" n="36"/>iustus est: Isti, si diis placet Euangelici, non qui facit
+          iusti<lb ed="#A" n="37" break="no"/>tiam, aiunt, sed cui imputatur Christi iustitia, iustus. Dixit
+          <lb ed="#A" n="38"/>idem in eodem capite, Videte qualem charitatem dedit
+          no<lb ed="#A" n="39" break="no"/>bis Deus, vt filii dei nominemur &amp; simus: Isti vero, non
+          <lb ed="#A" n="40"/>est verum, aiunt, quod dicit spiritus dei per Ioannem: non
+          <lb ed="#A" n="41"/>sumus filii dei, verum nominamur tantum &amp; reputamur:
+          <lb ed="#A" n="42"/>Nisi forte possunt esse filii Dei, qui iusti non fuerint,
+          <pb ed="#A" n="232-v"/>
+          <lb ed="#A" n="1"/>Atqui reclamat spiritus dei per Paulum dicens. Quae
+          par<lb ed="#A" n="2" break="no"/>ticipatio iustitiae cum iniquitate, aut quae societas luci ad
+          <lb ed="#A" n="3"/>tenebras? Quae autem conuentio Christi ad Bellas? Idem
+          <lb ed="#A" n="4"/>Paulus cum recensuisset, fornicarios, idolis seruientes, &amp;
+          <lb ed="#A" n="5"/>aliis id genus criminibus infames: Et haec quidem fuistis,
+          <lb ed="#A" n="6"/>inquit, sed abluti estis, sed sanctificati estis, sed iustificati
+          <lb ed="#A" n="7"/>estis. Isti autem fuistis, aiunt, haec &amp; estis adhuc, nisi quod
+          <lb ed="#A" n="8"/>non imputatur vobis: iustitia autem Christi, imputatur vo
+          <lb ed="#A" n="9"/>bis ad iustitiam. Nimirum hoc est planioribus verbis
+          edis<lb ed="#A" n="10" break="no"/>serere, quae sunt perplexa in scripturis, hoc est purum euan
+          <lb ed="#A" n="11"/>gelium docere, quae cum Christi &amp; Apostolorum
+          doctri<lb ed="#A" n="12" break="no"/>na pugnant ex diametro, populo persuadere conari, hoc
+          <lb ed="#A" n="13"/>est, Christi gloriam propagare, negare tantam fuisse virtu
+          <lb ed="#A" n="14"/>tem passionis &amp; mortis eius, vt per eam vere iustificati,
+          ve<lb ed="#A" n="15" break="no"/>re sanctificati, vere per eam abluti simus, &amp; a peccatis
+          libe<lb ed="#A" n="16" break="no"/>rati, vere ex filiis irae, filii dei facti.
+        </p>
+        <p xml:id="ho8ccf-a3bkwh-d1e396">
+          Deinde vero non
+          intel<lb ed="#A" n="17" break="no"/>ligunt isti, per quos miro quodam artificio Sathanas,
+          om<lb ed="#A" n="18" break="no"/>nia Christi beneficia, non obscurare modo, verumetiam
+          <lb ed="#A" n="19"/>ex omni hominum memoria delere, &amp; sempiterna quadam
+          <lb ed="#A" n="20"/>obliuione conatur obruere, non intelligunt, inquam, isti,
+          <lb ed="#A" n="21"/>se pugnantia dicere: neque enim non legerunt, peccata
+          no<lb ed="#A" n="22" break="no"/>stra esse quae diuidunt inter nos &amp; Deum: Odio esse Deo
+          <lb ed="#A" n="23"/>impium &amp; impietatem eius: qui igitur fieri potest, vt non
+          <lb ed="#A" n="24"/>imputet, quod odio habet, cum ipsum etiam
+          imputatio<lb ed="#A" n="25" break="no"/>nis verbum odium quoddam significare videatur. Quam
+          <lb ed="#A" n="26"/>obrem explodenda prorsus est istorum, &amp; de manente qui
+          <lb ed="#A" n="27"/>dem in nobis, sed non imputato peccato, &amp; non de
+          inhae<lb ed="#A" n="28" break="no"/>rente nobis, sed imputata tantum iustitiae, doctrina:
+          pu<lb ed="#A" n="29" break="no"/>gnat enim cum verbo dei, qui non dixit: Ego sum qui non
+          <lb ed="#A" n="30"/>imputo, sed ego sum ipse, qui deleo iniquitates tuas
+          pro<lb ed="#A" n="31" break="no"/>pter me &amp; peccatorum tuorum non recordabor. Et in
+          eu<lb ed="#A" n="32" break="no"/>angelio loquitur de Christo, dei spiritus: Ecce agnus dei,
+          <lb ed="#A" n="33"/>Ecce qui rollit peccata mundi: qui tollit, inquit, non qui
+          <lb ed="#A" n="34"/>non imputat.
+        </p>
+        <p xml:id="ho8ccf-a3bkwh-d1e438">
+          Verum a sancto Dauid, aiunt, scriptum est,
+          <lb ed="#A" n="35"/>Beatus vir cui non imputauit Dominus peccatum.
+          Scri<lb ed="#A" n="36" break="no"/>ptum est, verum non eo sensu, quo volunt nouatores isti,
+          <lb ed="#A" n="37"/>neque hoc verbis istis Dauid significare voluit peccatum,
+          <lb ed="#A" n="38"/>quod quidem veri peccati rationem habet, quodque
+          sem<lb ed="#A" n="39" break="no"/>piternae mortis reum facit hominem, eatenus tantum
+          re<lb ed="#A" n="40" break="no"/>mitti, vt non imputetur, non autem vt non sit. Longe
+          <lb ed="#A" n="41"/>abfuit ab sententia, sanctus ille rex &amp; Propheta, quin
+          il<lb ed="#A" n="42" break="no"/>lud his verbis exprimere potius voluisse videtur, beatum
+          <pb ed="#A" n="233-r"/>
+          <lb ed="#A" n="1"/>eum esse, in quo sic peccatum deletur, vt eius etiam omnis
+          <lb ed="#A" n="2"/>memoria, prorsus extinguatur, quas nunquam admissum
+          <lb ed="#A" n="3"/>fuisset, vt fiat illud, quod per Ezechielem dicit Dominus
+          <lb ed="#A" n="4"/>Omnium iniquitatum quas operatus est, non recordabor
+          <lb ed="#A" n="5"/>Videtur enim Propheta quasi gradus quosdam
+          constitue<lb ed="#A" n="6" break="no"/>re, quiddam vt amplius esse velit tegere peccata, quam
+          re<lb ed="#A" n="7" break="no"/>mittere: rursus majus quiddam non imputare, quam
+          tege<lb ed="#A" n="8" break="no"/>re: quemadmodum a doctissimo Origene, &amp; ab Eutimio
+          <lb ed="#A" n="9"/>legimus annotatum. Tunc enim non imputari peccatum
+          <lb ed="#A" n="10"/>interpretatur Origenes, quando mens hominis ad
+          perfe<lb ed="#A" n="11" break="no"/>ctum venerit, ita vt omnis malitiae radix ex ea penitus am
+          <lb ed="#A" n="12"/>putetur, eousque vt nullum in eo vestigium possit reperiri
+          <lb ed="#A" n="13"/>nequitiae. Hieronymus quoque palmum hunc enarrans,
+          <lb ed="#A" n="14"/>remitti dicit peccata per baptismum, tegi per charitatem,
+          <lb ed="#A" n="15"/>de qua scriptum est, quod operit multitudinem
+          peccato<lb ed="#A" n="16" break="no"/>rum: non imputari, per martyrium. Quibus verbis non
+          <lb ed="#A" n="17"/>obscure videtur indicare, majus quiddam significari, cum
+          <lb ed="#A" n="18"/>non imputari, quam cum vel remitti, vel tegi peccatum
+          di<lb ed="#A" n="19" break="no"/>citur.
+        </p>
+        <p xml:id="ho8ccf-a3bkwh-d1e501">
+          Quamobrem quum legimus, non imputari nobis
+          <lb ed="#A" n="20"/>peccatum, sic accipere debemus, vt cum puluisculo, quod
+          <lb ed="#A" n="21"/>aiunt, ablatum, nec vel vestigium vllum deinceps eius in
+          <lb ed="#A" n="22"/>nobis reliquum esse factum persuasum habeamus. De
+          iu<lb ed="#A" n="23" break="no"/>stitia vero Christo potius &amp; Apostolis eius fidem
+          habea<lb ed="#A" n="24" break="no"/>mus, qui vere nos sanctos, vere liberos, vere iustos esse
+          con<lb ed="#A" n="25" break="no"/>stitutos, ac filios dei non modo nominari, verum etiam et
+          <lb ed="#A" n="26"/>se dixerunt, quam nouatoribus istis, per quos non aliam ob
+          cau<lb ed="#A" n="27" break="no"/>sam, hanc de ficta &amp; imputata iustitia, quam ipse commentus
+          <lb ed="#A" n="28"/>est, Sathanas doctrinam disseminauit, quam vt homines
+          <lb ed="#A" n="29"/>verae iustitiae prorsus expertes faceret. Venisse nunc revera
+          <lb ed="#A" n="30"/>tempus illud videtur, de quo scripsit Apostolus, in quod se
+          <lb ed="#A" n="31"/>quoque incidisse, quaestus est olim Hilanus. Erit, inquit
+          Apo<lb ed="#A" n="32" break="no"/>stolus, tempus cum sanam doctrinam non sustinebunt, sed
+          <lb ed="#A" n="33"/>sua desideria, coaceruabunt sibi magistros, prurientes
+          au<lb ed="#A" n="34" break="no"/>ribus. Quid enim? non videntur nunc quoque dicere: Lo
+          <lb ed="#A" n="35"/>quimini nobis placentia, quorum nimis aures delicatae, ferre
+          <lb ed="#A" n="36"/>non possunt, vt retributio fieri dicatur secundum opera,
+          <lb ed="#A" n="37"/>vt referat vnusquisque propria corporis prout gessit, siue
+          <lb ed="#A" n="38"/>bonum, siue malum, sed volunt vt retributio fieri dicatur:
+          <lb ed="#A" n="39"/>secundum illa non quae gesserunt ipsi mala, sed quae gessit,
+          <lb ed="#A" n="40"/>Christus in corpore suo bona, vt si ipsi probi non sunt,
+          <lb ed="#A" n="41"/>sufficiat Christum tamen probum fuisse, quamuis de
+          re<lb ed="#A" n="42" break="no"/>cens baptizatis, si subito ex hac vita eos migrare
+          contin<pb ed="#A" n="233-v"/><lb ed="#A" n="1" break="no"/>gat, fortassis non absurde dici queat, retributionem futu
+          <lb ed="#A" n="2"/>ram, secundum ea quae Christus gessit in corpore suo
+          bo<lb ed="#A" n="3" break="no"/>na: de his vero nequaquam, qui post baptisinum
+          aliquan<lb ed="#A" n="4" break="no"/>diu superstites, in peccatorum coeno sunt volutati. Fuit
+          <lb ed="#A" n="5"/>ne tempus vllum, quo maior esset magistrorum aceruus,
+          <lb ed="#A" n="6"/>auribus hominum prurientium, quam sit istud in quod
+          <lb ed="#A" n="7"/>incidit aetas haec nostia? Nisi forte non titillat, hoc aures
+          <lb ed="#A" n="8"/>nostras, non est auditu mortalibus vel maxime gratum
+          <lb ed="#A" n="9"/>&amp; iucundum cum dicitur: nulla nostra sed sola Christi iu
+          <lb ed="#A" n="10"/>stitia nos iustos, sola Christi iustitia nos saluos esse,
+          quic<lb ed="#A" n="11" break="no"/>quid sit de nostris operibus vnumquenque certum esse
+          de<lb ed="#A" n="12" break="no"/>bere, quod gratis propter Christum peccata sibi remissa,
+          <lb ed="#A" n="13"/>quodque deo acceptus &amp; vitae sit haeres aeternae. Ac videtur
+          <lb ed="#A" n="14"/>hic esse temporum horum status, haud facile vt quicquam
+          <lb ed="#A" n="15"/>statuere possit: in magistris ne linguarum, an in discipulis
+          <lb ed="#A" n="16"/>aurium sit pruritus ardentior, neque enim in iis audiendi,
+          <lb ed="#A" n="17"/>quam in illis placentia loquendi, maius est studium, adeo
+          <lb ed="#A" n="18"/>se vltro ingerunt auribus, etiam auscultare nolentium, vt
+          <lb ed="#A" n="19"/>vel inde facile quisquam perspiciat, quod ex eorum nume
+          <lb ed="#A" n="20"/>ro sunt de quibus Propheta scribit. Non mittebam
+          Pro<lb ed="#A" n="21" break="no"/>phetas &amp; ipsi currebant, nec loquebar ad eos &amp; ipsi propho
+          <lb ed="#A" n="22"/>tabant. Et plane impletum est quod ab eodem Propheta scriptum
+          <lb ed="#A" n="23"/>est, stupor &amp; mirabilia facta sunt in terra, Prophetae
+          pro<lb ed="#A" n="24" break="no"/>phetabant mendacium, sacerdotes applaudebant manibus suis,
+          <lb ed="#A" n="25"/>&amp; populus meus dilexit talia. Quem autem fructum
+          attu<lb ed="#A" n="26" break="no"/>lerit haec eorum doctrina, quam isti parum sani, sanam ha
+          <lb ed="#A" n="27"/>beri volunt, quamque sub specioso verbi dei titulo rudi
+          po<lb ed="#A" n="28" break="no"/>pulo venditant, rerum exitus declarat. Non eunt hoc
+          infi<lb ed="#A" n="29" break="no"/>cias ipsi prurientes auribus magistri, eos vitam agere
+          im<lb ed="#A" n="30" break="no"/>probam &amp; contaminatissimam, nihiloque meliores nunc
+          <lb ed="#A" n="31"/>esse quam ante receptum nouum hoc doctrinae genus
+          fue<lb ed="#A" n="32" break="no"/>runt, quin etiam maiore audacia sequi mundum, &amp; eius
+          <lb ed="#A" n="33"/>cupidates, omniaque sibi permittere. Qui bonam vitae suae
+          <lb ed="#A" n="34"/>partem inter eos traduxit, qui malunt Euangelici, quam
+          <lb ed="#A" n="35"/>Christiani vocari, vir amoeno cumprimis ingenio, neque
+          <lb ed="#A" n="36"/>mediocri iudicio, dicendique suauitate quadam admirabili
+          <lb ed="#A" n="37"/>praeditus Frasmus Roterodamus, Circunspice mihi,
+          in<lb ed="#A" n="38" break="no"/>quit, sodalitatem istam Euangelicam, quot habet
+          adulte<lb ed="#A" n="39" break="no"/>ros, quot temulentos, quot aleatores, quot decoctores, quot
+          <lb ed="#A" n="40"/>aliis vitiis infames? Ac nonnullis interiectis: Dices,
+          in<lb ed="#A" n="41" break="no"/>quit, nihil tam felix vnquam fuit in rebus humanis, quin
+          <lb ed="#A" n="42"/>malorum admixtu viciaretur: Ad bonos verte oculos: Fie
+          <lb ed="#A" n="43"/>ri potest vt mea sit haec infelicitas, mihi adhuc neminem
+          <pb ed="#A" n="234-r"/>
+          <lb ed="#A" n="1"/>contigit nosse, qui non videatur seipso factus deterior. Et
+          <lb ed="#A" n="2"/>iterum paulo post. Euangelica pietas a minimis initiis
+          <lb ed="#A" n="3"/>paulatim creuit in majus ac melius, ac optimus quisque
+          <lb ed="#A" n="4"/>se illi iungebat: hanc doctrinam non fere nisi
+          leuissi<lb ed="#A" n="5" break="no"/>mus quisque amplectitur. Et ad fratres inferioris
+          Ger<lb ed="#A" n="6" break="no"/>maniae scribens, de quodam sacerdote narrat, qui cum
+          <lb ed="#A" n="7"/>virgis caesus, &amp; ex vrbe eiectus esset, &amp; in carcere &amp;
+          ex<lb ed="#A" n="8" break="no"/>tra portam, quum a carnifice dimitteretur, publice
+          testa<lb ed="#A" n="9" break="no"/>tus est, se posteaquam illi se sectae addixerat, in omne
+          fla<lb ed="#A" n="10" break="no"/>gitiorum genus proruisse. Et in alio quodam libro, aded
+          <lb ed="#A" n="11"/>per hoc quod ipsi vocant Euangelium, non corrigi
+          scri<lb ed="#A" n="12" break="no"/>bit homines, vt potius videantur deteriores, nec fieri vt
+          <lb ed="#A" n="13"/>peccare desinant, sed vt peccent impunitius. Ac vere
+          qui<lb ed="#A" n="14" break="no"/>dem ille, quis non peccet impunitius, quum ab istis
+          ho<lb ed="#A" n="15" break="no"/>minum sceleribus blandientibus &amp; prurientibus auribus
+          <lb ed="#A" n="16"/>magistris, non nostris, in immensum exaggerari vim
+          pec<lb ed="#A" n="17" break="no"/>cati originalis audiuerit, adeo vt etiam renati ex aqua &amp;
+          <lb ed="#A" n="18"/>spiritu sancto, non possumus non peccare, quum cuius
+          im<lb ed="#A" n="19" break="no"/>pulsu fit vt peccemus, ab istis edoctus, fortiorem esse
+          cre<lb ed="#A" n="20" break="no"/>dit vnum daemonem, quam omnes homines, Quasi non
+          <lb ed="#A" n="21"/>contra fortior sit vnus Deus, quo adiuuante peccatum
+          <lb ed="#A" n="22"/>effugere possumus, quam omnes daemones: Quem
+          ta<lb ed="#A" n="23" break="no"/>men &amp; ipsum, quae cacangelicorum istorum insignis est
+          <lb ed="#A" n="24"/>&amp; horrenda blasphemia peccati faciunt authorem, vt ab
+          <lb ed="#A" n="25"/>eo nos ad peccatum agi blasphement. Quis non peccet
+          <lb ed="#A" n="26"/>impunitius, cum nulla sua, sed sola Chrisu iustitia, se
+          sal<lb ed="#A" n="27" break="no"/>uum fore persuasum habuerit? Quis non peccet
+          impuni<lb ed="#A" n="28" break="no"/>tius, si nullum esse meritum bonorum operum
+          arbitre<lb ed="#A" n="29" break="no"/>tur, etiam eorum, in quibus a Deo creati sumus? quae
+          <lb ed="#A" n="30"/>Deus ipse operatus est in nobis, quae non aliunde
+          pre<lb ed="#A" n="31" break="no"/>tium, non aliunde meritum habent, quam ex pretioso
+          <lb ed="#A" n="32"/>Christi sanguine quo respersa sunt: quemadmodum a
+          vi<lb ed="#A" n="33" break="no"/>ro quodam docto praeclare scriptum est: Quod iustitia meri
+          <lb ed="#A" n="34"/>torum Christi, fulget in virtutibus sanctorum, sicut sol in
+          <lb ed="#A" n="35"/>gemmis, quae magis rutilant in praesentia solis, in absen
+          <lb ed="#A" n="36"/>tia autem obtenebrantur. Quis non peccet impunitius,
+          <lb ed="#A" n="37"/>cum omnem iustitiam &amp; sanctitatem nostram, merum esse peccatum &amp;
+          <lb ed="#A" n="38"/>rem damnatam crediderit? atque adeo nihil valere bona ope
+          <lb ed="#A" n="39"/>ra ad diuinam gloriam demerendam, vt quo quisque turpior est,
+          <lb ed="#A" n="40"/>eo citius illi Deus gratiam impartiatur?
+        </p>
+        <p xml:id="ho8ccf-a3bkwh-d1e738">
+          Sed quorsum
+          atti<lb ed="#A" n="41" break="no"/>net aliunde quaerere testimonia: modo non aedita voce cla
+          <lb ed="#A" n="42"/>mat hoc res ipsa, quod ipse quoque princeps &amp; architectus
+          <pb ed="#A" n="234-v"/>
+          <lb ed="#A" n="1"/>huius temporis haerescon fatetur, se corruptiores
+          exper<lb ed="#A" n="2" break="no"/>tum esse mores Germanorum, posteaquam quod ab eo
+          tra<lb ed="#A" n="3" break="no"/>ditum est, quintum Euangelium, acceperunt, quam fuerint
+          <lb ed="#A" n="4"/>sub regno (sic enim ipse vocat) Romani Pontificis, hoc
+          <lb ed="#A" n="5"/>est in Ecclesia dei, quae quatuor tantum recipit Euangelia,
+          <lb ed="#A" n="6"/>quae tamen quatuor vnum sunt. Qui etiam alio loco suos
+          <lb ed="#A" n="7"/>increpans, decies eos dicit Sodomitis esse peiores. Interea
+          <lb ed="#A" n="8"/>tamen, quae miseranda est istorum hominum caecitas, dei
+          <lb ed="#A" n="9"/>verbum vocatur, quod ad omne genus nequitiae fenestra
+          <lb ed="#A" n="10"/>patefecit quod ex bonis improbos, ex improbis multo
+          <lb ed="#A" n="11"/>reddit improbissimos. Nos vero aduersus istorum voces
+          <lb ed="#A" n="12"/>tanquam Syrenum cantiones, dulces illas quidem, verum
+          <lb ed="#A" n="13"/>certam perniciem adferentes, aures nostras obturemus.
+          <lb ed="#A" n="14"/>Nam praeterquam quod omne studium virtutis eneruant,
+          <lb ed="#A" n="15"/>dum si minus ipsi probi sumus, sufficere docent, quod Ch
+          <lb ed="#A" n="16"/>stus probus fuerit, atque illius nos sola iustitia contentos ef
+          <lb ed="#A" n="17"/>se oportere, etiamsi minus ipsi iuste viuamus: nondum
+          in<lb ed="#A" n="18" break="no"/>ter ipsos, qui de via regia declinauerunt, hoc est, ab
+          Eccle<lb ed="#A" n="19" break="no"/>siae sana doctrina aberrarunt, de ratione iustificandi satis
+          <lb ed="#A" n="20"/>conuenit, nec ipsi modo dissident inter se, &amp; inuicem sibi
+          <lb ed="#A" n="21"/>sunt haeretici, seque mutuo iudicio condemnant, verumetiam
+          <lb ed="#A" n="22"/>secum ipsi non raro pugnant. Annotauit hoc vir quidam
+          <lb ed="#A" n="23"/>doctus, quamuis ex eorum numero, qui segregauerunt
+          <lb ed="#A" n="24"/>semet ipsos, Philippum Melanchthonem in iustificationis
+          <lb ed="#A" n="25"/>negotio quaterdecies variasse. Sic istorum oratio, sicut
+          ali<lb ed="#A" n="26" break="no"/>cubi scribit Basilius, videtur nescio quomodo, cum semel
+          <lb ed="#A" n="27"/>extra veritatem deducta sit, ad multiplicia periculosaque
+          in<lb ed="#A" n="28" break="no"/>conuenientia, per quandam seductionis consecutionem
+          <lb ed="#A" n="29"/>efferri. Nam qui semel de recte fidei religionisque curriculo
+          <lb ed="#A" n="30"/>deflexerunt, haud aliter atque ii qui a recto itinere aberra
+          <lb ed="#A" n="31"/>runt, alias ex aliis semitas ingredientes vagantur &amp; errant,
+          <lb ed="#A" n="32"/>nullum peritum regionis ducem sequuti. Sic isti duce
+          caren<lb ed="#A" n="33" break="no"/>tes ecclesia quam relinquerunt, alia ex aliis erroris &amp;
+          impie<lb ed="#A" n="34" break="no"/>tatis diuerticula ingressi, nullum errandi finem faciunt.
+          <lb ed="#A" n="35"/>Miscuit enim Deus in medio eorum spiritum vertiginis,
+          <lb ed="#A" n="36"/>&amp; immisit illis operationem erroris: Obscuratum est insipiens
+          <lb ed="#A" n="37"/>tor eorum, vt non intelligant, neque quae loquuntur, neque
+          <lb ed="#A" n="38"/>de quibus affirmant. Sic fit vbi suo quisque praesidit ingenio,
+          <lb ed="#A" n="39"/>sibique hoc arrogat, vt proprio suo, non communi totius
+          Ec<lb ed="#A" n="40" break="no"/>clesiae sensu, scripturas interpretur, vt caeteros omnes,
+          quam<lb ed="#A" n="41" break="no"/>libet pios &amp; doctos viros, talpis fuisse caeciores, se vero
+          <lb ed="#A" n="42"/>solum videre, se solum sapere, persuasum habeat.
+        </p>
+        <p xml:id="ho8ccf-a3bkwh-d1e838">
+          <pb ed="#A" n="235-r"/>
+          <lb ed="#A" n="1"/>Quamobrem istos cum imputatiua sua iustitia missos
+          fa<lb ed="#A" n="2" break="no"/>ciamus, &amp; Augustino credere potius animum inducamus.
+          <lb ed="#A" n="3"/>qui vere nos &amp; realiter esse iustos docet, cum per illum, in
+          <lb ed="#A" n="4"/>quo omnes viuisicabuntur, praeterquam quod se ad
+          iusti<lb ed="#A" n="5" break="no"/>tiam exemplum imitantibus praebuit, dari etiam dicit sui
+          <lb ed="#A" n="6"/>spiritus occultissimam fidelibus gratiam, quam latenter
+          <lb ed="#A" n="7"/>infundit &amp; paruulis: sicut &amp; ille in quo omnes
+          moriun<lb ed="#A" n="8" break="no"/>tur, praeterquam quod eis qui praeceptum domini
+          volun<lb ed="#A" n="9" break="no"/>tate transgrediuntur, imitationis exemplum est, occulta
+          <lb ed="#A" n="10"/>etiam tale carnalis concupiscentiae suae tabificauit in se om
+          <lb ed="#A" n="11"/>nes de sua stirpe venientes, Itaque iustificari in Christo qui
+          <lb ed="#A" n="12"/>credunt in eum, dicit Augustinus, propter occultam
+          com<lb ed="#A" n="13" break="no"/>municationem &amp; inspirationem gratiae spiritalis, qua
+          quis<lb ed="#A" n="14" break="no"/>quis adhaeret domino vnus spiritus est. Haeret autem quisque
+          <lb ed="#A" n="15"/>domino per charitatem, qua vna sicut in alio libro dicit
+          <lb ed="#A" n="16"/>idem Augustinus, vere iustus est, quicunque iustus est, cuius
+          <lb ed="#A" n="17"/>charitatis habitus inest etiam paruulis, vt cum adulti
+          fue<lb ed="#A" n="18" break="no"/>rint, actu eam exercere possint. Non igitur sola peccatorum
+          <lb ed="#A" n="19"/>remissione, verumetiam cuius toties Paulus meminit,
+          in<lb ed="#A" n="20" break="no"/>terioris hominis renouatione, nostra constat iustitia, quae
+          <lb ed="#A" n="21"/>renouatio sit, quemadmodum ex Augustino iam
+          docui<lb ed="#A" n="22" break="no"/>mus, per occultam quandam communicationem &amp;
+          inspi<lb ed="#A" n="23" break="no"/>rationem gratiae spiritalis, Quam etiam alio loco, vocat
+          <lb ed="#A" n="24"/>interioris hominis pulchritudinem, cum scribit ad
+          Con<lb ed="#A" n="25" break="no"/>sentium. Quid est aliud iustitia in nobis, quam interioris
+          <lb ed="#A" n="26"/>hominis pulchritudo?
+        </p>
+        <p xml:id="ho8ccf-a3bkwh-d1e899">
+          Neque vero dissidet ab Augustino
+          <lb ed="#A" n="27"/>latino, Graecus author Eusebius Caesariensis Episcopus,
+          <lb ed="#A" n="28"/>siue quis Emissenum esse malit quod ex hoc libello pleraque
+          <lb ed="#A" n="29"/>citant Petrus Lombardus &amp; Gratianus sub Emisseni
+          no<lb ed="#A" n="30" break="no"/>mine, qui vti docet quod nemini nouum &amp; impossibile
+          <lb ed="#A" n="31"/>videri debeat, quod in Christi substantiam terrena &amp;
+          mor<lb ed="#A" n="32" break="no"/>talia nimirum panis &amp; vini commutantur, teipsum, inquit,
+          <lb ed="#A" n="33"/>qui iam in Christo renatus interroga, dudum alienus a
+          <lb ed="#A" n="34"/>vita, peregrinus a misericordia, a salutis via intrinsecus
+          <lb ed="#A" n="35"/>mortuus exulabas, subito initiatus Christi legibus &amp;
+          sa<lb ed="#A" n="36" break="no"/>lutaribus mysteriis innouatis in corpus Ecclesiae non
+          vi<lb ed="#A" n="37" break="no"/>dendo, sed credendo transisti, &amp; de filio perditionis, adopi
+          <lb ed="#A" n="38"/>nus dei fieri, occulta puritate meruisti. Quod
+          Augusti<lb ed="#A" n="39" break="no"/>nus, occultam communicationem &amp; inspirationem
+          gra<lb ed="#A" n="40" break="no"/>tiae spiritalis, Hoc Eusebius vocat occultam puritatem: Et
+          <lb ed="#A" n="41"/>mox subdit, in mensura visibili permanens, maior factus
+          <lb ed="#A" n="42"/>es cripso inuisibiliter sine quantitatis augmento, cum idem
+          <pb ed="#A" n="235-v"/>
+          <lb ed="#A" n="1"/>atque ipse esses multo alter fieri fidei processibus meruisti
+          <lb ed="#A" n="2"/>In exteriore nihil additum est, &amp; totum in interiore
+          mu<lb ed="#A" n="3" break="no"/>tatum est, ac sic homo dei filius effectus, &amp; Christus in ho
+          <lb ed="#A" n="4"/>minis mente formatus est. Sicut ergo sine corporali sensu,
+          <lb ed="#A" n="5"/>praeterea vilitate deposita, subito nouam indutus es digni
+          <lb ed="#A" n="6"/>tatem, &amp; sicut haec quae in te Deus laesa curauit, infesta
+          di<lb ed="#A" n="7" break="no"/>luit, maculata detersit, non oculis sed sensibus sunt
+          credi<lb ed="#A" n="8" break="no"/>ta: ita &amp; cum reuerendum altare cibis faciandus accedis.
+          <lb ed="#A" n="9"/>sacrum dei tui corpus &amp; sanguinem, fidem respice,
+          hono<lb ed="#A" n="10" break="no"/>re mirare, mente continge, cordis manu suscipe, &amp;
+          maxi<lb ed="#A" n="11" break="no"/>me haustu interiori assume. Quam clare docet hic Euse.
+          <lb ed="#A" n="12"/>bius, non imputatione iustitiae nos iustos, deique filios
+          no<lb ed="#A" n="13" break="no"/>minari &amp; esse, sed occulta quadam puritate, sed
+          mutatio<lb ed="#A" n="14" break="no"/>ne virum alium. Quemadmodum etiam scriptura dicit,
+          <lb ed="#A" n="15"/>Mutaberis in virum alium. Quae verba Gregorius
+          expli<lb ed="#A" n="16" break="no"/>cans: Amor, inquit, electae mentis, quid est aliud, quam im
+          <lb ed="#A" n="17"/>mutatio vetustatis? natura enim nostra per lapsum primi
+          <lb ed="#A" n="18"/>hominis sic damnata est, vt quotidie labendo deficiat, &amp;
+          <lb ed="#A" n="19"/>deficiendo veterascat: Sed qui in nobismetipsis deficimus
+          <lb ed="#A" n="20"/>cum in nos ille spiritus insiliit, renouamur, quia statim quod
+          <lb ed="#A" n="21"/>non eramus efficimur. Tepidus erat quis, sed repente
+          visi<lb ed="#A" n="22" break="no"/>tatus a spiritu feruens efficimur, incipit ardere per
+          deuoti<lb ed="#A" n="23" break="no"/>onem, fortiter exerceri in bono opere. In virum ergo
+          ali<lb ed="#A" n="24" break="no"/>um mutatus est, quia esse coepit quod ante insilientem
+          spi<lb ed="#A" n="25" break="no"/>ritum in se, esse non potuit. Vtrum autem praecedat ea gra
+          <lb ed="#A" n="26"/>tia qua quis renouatur, culpae remissionem, an sequatur,
+          <lb ed="#A" n="27"/>curiose magis quam fructuose quaeritur. Scribit quidem
+          <lb ed="#A" n="28"/>Dionisius, quod quibus insinuat se diuinitas, eorum
+          ani<lb ed="#A" n="29" break="no"/>mos purgat primum, deinde illuminat, postea
+          conforma<lb ed="#A" n="30" break="no"/>ad deiformem perfectionem.
+        </p>
+        <p xml:id="ho8ccf-a3bkwh-d1e1003">
+          Caeterum si quis haec omnia
+          <lb ed="#A" n="31"/>simul &amp; eodem puncto temporis fieri dixerit, a vero nihil
+          <lb ed="#A" n="32"/>aberrauit, nescit ergo tarda molimina sancti spiritus
+          gra<lb ed="#A" n="33" break="no"/>tia, ac tria haec non tam re ipsa, quam ratione distingui videntur.
+          <lb ed="#A" n="34"/>Si quidem vnus &amp; idem actus, quatenus repurgat mentem
+          <lb ed="#A" n="35"/>hominis ab inquinamentis &amp; peccatis, dicitur
+          purgatio<lb ed="#A" n="36" break="no"/>quatenus eam agnitione veritatis illustrat, vocatur illum
+          <lb ed="#A" n="37"/>natio, quatenus vero sic amore dei accendit, vt prae illo ter
+          <lb ed="#A" n="38"/>rena contemnat omnia, perfectio nuncupatur. Quanquam
+          <lb ed="#A" n="39"/>si causa prior est effectu suo, gratiae communicatio prior
+          <lb ed="#A" n="40"/>esse videtur, quam sit culpae remissio. Sic enim Deus per
+          <lb ed="#A" n="41"/>gratiam expellit culpam, sicut sol per suos radios tenebras pro
+          <lb ed="#A" n="42"/>pulsat. Quamuis itaque natura sit inspiratio gratiae posterior,
+          <pb ed="#A" n="236-r"/>
+          <lb ed="#A" n="1"/>quod ea locum non habet, nisi propulsa sint peccata:
+          quo<lb ed="#A" n="2" break="no"/>niam tamen causa est peccatorum propulsionis, prior esse
+          <lb ed="#A" n="3"/>dicitur: sicut infusio radiorum, prior est effugatione
+          tene<lb ed="#A" n="4" break="no"/>brarum, quamuis non prius incipiunt radij splendescere.
+          <lb ed="#A" n="5"/>quam tenebrae fuerint propulsatae.
+        </p>
+        <p xml:id="ho8ccf-a3bkwh-d1e1045">
+          Quamobrem anxia
+          dis<lb ed="#A" n="6" break="no"/>quisitione omissa praecedat ne an sequatur gratia culpae
+          <lb ed="#A" n="7"/>remissionem, an quod verisimilius est, simul vtrunque
+          <lb ed="#A" n="8"/>fiat persuasum illud habeamus, esse in nobis iustitiam,
+          <lb ed="#A" n="9"/>Quemadmodum etiam alio loco scriptum est ab
+          Augu<lb ed="#A" n="10" break="no"/>stino: Si dixerimus, inquit, quia peccatum non
+          habe<lb ed="#A" n="11" break="no"/>mus, nosmet ipsos decipimus, &amp; veritas in nobis non est
+          <lb ed="#A" n="12"/>Item si dixerimus, quia iustitiae nihil habemus, aduersum
+          <lb ed="#A" n="13"/>Dei dona mentimur. Si enim iustitiae nihil habemus, nec
+          <lb ed="#A" n="14"/>fidem habemus: si autem fidem habemus, iam aliquid ha
+          <lb ed="#A" n="15"/>bemus iustitiae. Ipsum aliquid, vis nosse quantum est:
+          Iu<lb ed="#A" n="16" break="no"/>stus ex fide viuit. Et paulo post: Beati praedicti sumus, &amp;
+          <lb ed="#A" n="17"/>de iustitia nihil habemus? Venit dominus carnaliter ad
+          <lb ed="#A" n="18"/>Iudaeos, &amp; occisus est, non venit ad nos, &amp; acceptus est
+          <lb ed="#A" n="19"/>Populus quem non cognoui seruiuit mihi, in auditu
+          au<lb ed="#A" n="20" break="no"/>ris obediuit mihi, nos sumus, &amp; de iustitia nihil
+          habe<lb ed="#A" n="21" break="no"/>mus? Omnino habemus, grati simus ex eo quod
+          habe<lb ed="#A" n="22" break="no"/>mus, vt addatur quod non habemus, &amp; non perdamus
+          <lb ed="#A" n="23"/>quod habemus. Et iterum paucis interiectis, ne quis cum de
+          <lb ed="#A" n="24"/>sola fide loqui putaret: Ad fidem, inquit, quid pertinet?
+          <lb ed="#A" n="25"/>credere. Sed ait Apostolus Iacobus: Et daemones credunt
+          <lb ed="#A" n="26"/>&amp; contremiscunt. Si tantum credis &amp; sine spe viuis, vel di
+          <lb ed="#A" n="27"/>lectionem non habes &amp; daemones credunt &amp;
+          contremis<lb ed="#A" n="28" break="no"/>cunt. Quid magnum est? Dicis Christum filium Dei,
+          <lb ed="#A" n="29"/>hoc dixit Petrus, &amp; audiuit, Beatus es Simon
+          Barlona<lb ed="#A" n="30" break="no"/>hoc dixerunt daemonia &amp; audierunt obmurescite: Ille bea
+          <lb ed="#A" n="31"/>tus, dicitur ei, quia non reuelauit tibi caro &amp; sanguis, sed
+          <lb ed="#A" n="32"/>pater meus, qui in coelis est: Illi autem audiunt,
+          obmutesci<lb ed="#A" n="33" break="no"/>te, &amp; hoc ipsum dicunt &amp; repelluntur, vna vox est, sed do
+          <lb ed="#A" n="34"/>minus radicem interrogat, non florem. Vnde dicitur ad
+          <lb ed="#A" n="35"/>Hebraeos. Ne qua radix amaritudinis, sursum germinans
+          <lb ed="#A" n="36"/>molestet, &amp; per illam contaminentur multi. Prius ergo
+          <lb ed="#A" n="37"/>discerne fidem tuam a fide daemonis. Vnde eam discernis,
+          <lb ed="#A" n="38"/>Daemones hoc dixerunt timendo, Petrus amando: adde
+          <lb ed="#A" n="39"/>ergo fidei spem, &amp; quae spes est, nisi de aliqua
+          conscien<lb ed="#A" n="40" break="no"/>tiae bonitate? speique ipsi adde charitatem: Discemite fidem
+          <lb ed="#A" n="41"/>vestram, iam estis de praedestinatis, vocatis, iustificatis
+          <lb ed="#A" n="42"/>Paulus Apostolus dicit: Neque circuncisio aliquid valet.
+          <pb ed="#A" n="236-v"/>
+          <lb ed="#A" n="1"/>neque praeputium, sed fides: Dic adhuc Apostolo, adde,
+          <lb ed="#A" n="2"/>discerne, quia &amp; daemones credunt &amp; contremiscunt, ergo
+          <lb ed="#A" n="3"/>adde, Daemones enim credunt &amp; contremiscunt quod
+          ode<lb ed="#A" n="4" break="no"/>runt. Distingue Apostole &amp; circuncide fidem meam, &amp;
+          <lb ed="#A" n="5"/>discerne causam meam de gente non sancta: Plane distis
+          <lb ed="#A" n="6"/>guit, discernit, circuncidit: Sed fides, inquit, quae per
+          dile<lb ed="#A" n="7" break="no"/>ctionem operatur. Vnusquisque ergo fratres mei inspiciat
+          <lb ed="#A" n="8"/>se intus, appendat se, probet se, in omnibus factis suis,
+          bo<lb ed="#A" n="9" break="no"/>nis operibus suis, quae faciat cum charitate, non expectas
+          <lb ed="#A" n="10"/>retributionem temporalem, sed promissum Dei, faciem
+          <lb ed="#A" n="11"/>Dei. Fides ergo quae per dilectionem operatur, si est in
+          vo<lb ed="#A" n="12" break="no"/>bis, iam pertinetis ad praedestinatos, vocatos, iustificatos
+          <lb ed="#A" n="13"/>Ergo crescat in vobis. Quibus verbis quam iis
+          Augusti<lb ed="#A" n="14" break="no"/>ni, potuit apertius demonstrari, quod sit in nobis iustitia,
+          <lb ed="#A" n="15"/>quodque ea iustitia sit fides nostra, non sola, sed quae per
+          <lb ed="#A" n="16"/>charitatem operatur?
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

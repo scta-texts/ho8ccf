@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 1</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 1</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="1-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1b0yl"><!-- c1 -->
+        <head xml:id="ho8ccf-a1b0yl-Hd1e99">Caput 1</head>
+        <head xml:id="ho8ccf-a1b0yl-Hd1e101" type="question-title">Quod Fides fundamentum sit religionis Christianae</head>
+        <p xml:id="ho8ccf-a1b0yl-d1e104">
+          <pb ed="#A" n="1-r"/>
+          <lb ed="#A" n="1"/>Quod Fides
+          fun<lb ed="#A" n="2" break="no"/>DAMENTVM SIT
+          <lb ed="#A" n="3"/>religionis Christianae.
+          <lb ed="#A" n="4"/>CAPVT PRIMVM
+        </p>
+        <p xml:id="ho8ccf-a1b0yl-d1e117">
+          <lb ed="#A" n="5"/><milestone ed="#A" unit="p" rend="initial"/> QVI Fidem sanctissimae religionis,
+          doctri<lb ed="#A" n="6" break="no"/>naeque Christianae fundamentum, simul ia
+          <lb ed="#A" n="7"/>nuam &amp; viam in vitam, ac recursum
+          quen<lb ed="#A" n="8" break="no"/>dam atque reductionem, a corruptione ad
+          <lb ed="#A" n="9"/>incorruptionem immortalitatemque esse
+          <lb ed="#A" n="10"/>dixerunt, ii vere vim eius expressisse
+          vi<lb ed="#A" n="11" break="no"/>dentur. Nam per hanc accessum habemus
+          <lb ed="#A" n="12"/>patrem, qui vitae nobis &amp; immortalitatis auctor est.
+          <lb ed="#A" n="13"/>Credere enim oportet accedentem ad Deum. Accedit ad
+          <lb ed="#A" n="14"/>Deum, qui inuocat eum. Quomodo autem inuocabunt
+          <lb ed="#A" n="15"/>dicit Apostolus, in quem non crediderunt? Fides itaque
+          <lb ed="#A" n="16"/>cum primis est necessaria, sine qua impossibile est placere
+          <lb ed="#A" n="17"/>Deo: Quam qui non habet, frustra accedit ad Deum,
+          fru<lb ed="#A" n="18" break="no"/>stra loquitur, frustra inuocat Deum. Intellexit hoc
+          Pro<lb ed="#A" n="19" break="no"/>pheta cum dixit: Credidi propter quod locutus sum. Quis
+          <lb ed="#A" n="20"/>&amp; Apostolus: Et nos, inquit, credimus, propter quod &amp;
+          <lb ed="#A" n="21"/>loquimur. Prima ergo vox eius, qui se Christianum pro
+          <lb ed="#A" n="22"/>fitetur, est, Credo. Hinc est, quod non Sophi, non
+          Philo<lb ed="#A" n="23" break="no"/>sophi, sed fideles appellamur.
+        </p>
+        <p xml:id="ho8ccf-a1b0yl-d1e162">
+          Verum quid tandem illud
+          <lb ed="#A" n="24"/>est, quod credere nos oportet? nihil aliud est quam Iesum
+          <lb ed="#A" n="25"/>Christum, &amp; hunc crucifixum. Haec est fidei nostrae
+          sum<lb ed="#A" n="26" break="no"/>ma, vt credamus, nos, qui primorum parentum nostrorum
+          <lb ed="#A" n="27"/>culpa facti eramus filij irae, filij gehennae, rei mortis
+          aeter<lb ed="#A" n="28" break="no"/>nae, non potuisse, neque posse a morte liberari, nisi per vnum
+          <lb ed="#A" n="29"/>mediatorem Dei &amp; hominum, hominem Christum Iesum.
+          <lb ed="#A" n="30"/>qui dedit semet ipsum redemptionem pro omnibus: qui
+          <lb ed="#A" n="31"/>factus est propitiatio pro peccatis nostris: non pro nostris
+          <lb ed="#A" n="32"/>autem tantum, verum &amp; totius mundi: qui lauit nos a
+          pec<lb ed="#A" n="33" break="no"/>catis nostris in sanguine suo: Qui cum inimici fuissemus
+          <lb ed="#A" n="34"/>reconciliauit nos Deo patri. Quomodo autem reconcili
+          <lb ed="#A" n="35"/>auit? Vt sicut per in obedientiam vnius hominis,
+          pecca<lb ed="#A" n="36" break="no"/>tores constituti fuimus multi, sic per vnius obedientiam
+          <lb ed="#A" n="37"/>iusti constitueremur multi. Factus est enim obediens
+          pa<pb ed="#A" n="1-v"/><lb ed="#A" n="1" break="no"/>tri vsque ad mortem, mortem autem crucis, quo silueret
+          <lb ed="#A" n="2"/>inobedientiae peccatum, per primos parentes nosos
+          ad<lb ed="#A" n="3" break="no"/>missum, &amp; nos ex impiis iustos factos, per obedintiam
+          <lb ed="#A" n="4"/>suam, quam in perferenda morte crucis ostendit, cum
+          pa<lb ed="#A" n="5" break="no"/>tre suo coelesti in gratiam reduceret. Hoc qui code
+          cre<lb ed="#A" n="6" break="no"/>dit, sufficit illi ad iustitiam: qui vero confitetur insuper
+          <lb ed="#A" n="7"/>ore, consequitur salutem. Hoc solum scire se Pauus
+          glo<lb ed="#A" n="8" break="no"/>riabatur, scribens ad Corinthios: Cum venissem inquit,
+          <lb ed="#A" n="9"/>ad vos fratres, veni non in sublimitate, sermonis aut
+          sa<lb ed="#A" n="10" break="no"/>pientiae, annuntians vobis testimonium Christi. Non
+          <lb ed="#A" n="11"/>enim iudicaui me scire aliquid inter vos, nisi Iesum
+          Chri<lb ed="#A" n="12" break="no"/>stum, &amp; hunc crucifixum. Non veni, inquit,
+          syllogismo<lb ed="#A" n="13" break="no"/>rum captiones, non sophismata, non aliud quadam
+          hu<lb ed="#A" n="14" break="no"/>iusmodi vobis afferens: verum sic me vobis exhibui, quas
+          <lb ed="#A" n="15"/>nihil aliud scirem, praeter crucem Christi,
+          <lb ed="#A" n="16"/>In hac sola gloriabatur Paulus, hanc solam se nesse
+          pro<lb ed="#A" n="17" break="no"/>fitebatur &amp; prae se ferebat: Ab iis vero vehementer
+          ani<lb ed="#A" n="18" break="no"/>mus eius abhorrebat, &amp; eorum consuetudine
+          interdice<lb ed="#A" n="19" break="no"/>bat, qui superbi, nihil scientes, languebant circa
+          quaestio<lb ed="#A" n="20" break="no"/>nes &amp; pugnas verborum, ex quibus oriuntur inuidiae, con
+          <lb ed="#A" n="21"/>tentiones, blasphemiae, suspitiones malae: cum sertum
+          do<lb ed="#A" n="22" break="no"/>mini non oporteat ligare, sed esse mansuetum ad omnes,
+          <lb ed="#A" n="23"/>docibilem, patientem, &amp;c.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

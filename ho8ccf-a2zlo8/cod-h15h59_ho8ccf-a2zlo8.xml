@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 62</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 62</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="210-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2zlo8"><!-- c62 -->
+        <head xml:id="ho8ccf-a2zlo8-Hd1e99">Caput 62</head>
+        <head xml:id="ho8ccf-a2zlo8-Hd1e101" type="question-title">Quod peccato quolibet mortali, fides non amittatur</head>
+        <p xml:id="ho8ccf-a2zlo8-d1e104">
+          <lb ed="#A" n="22"/>CAPVT LXII.
+          <lb ed="#A" n="23"/>Quod peccato quolibet mortali, fides non
+          <lb ed="#A" n="24"/>amittatur.
+        </p>
+        <p xml:id="ho8ccf-a2zlo8-d1e113">
+          <lb ed="#A" n="25"/><milestone ed="#A" unit="p" rend="initial"/> VErum hic isti quo rimam habere queant, per quam
+          <lb ed="#A" n="26"/>elabi liceat, fieri posse negant, vt haec insint fidem
+          <lb ed="#A" n="27"/>habenti, quam amitti mortali peccato quolibet
+          <lb ed="#A" n="28"/>asseuerant. Quod si ita est, cur igitur operarios
+          <lb ed="#A" n="29"/>iniquitatis vocat Christus eos, qui in ipsius nomine
+          pro<lb ed="#A" n="30" break="no"/>phetabant, daemonia eiiciebant, virtutes multas faciebant,
+          <lb ed="#A" n="31"/>quae tam eximia, sine fide certe praestare non poterant.
+          <lb ed="#A" n="32"/>Cur idem viro stulto comparat eum, qui verba sua
+          audi<lb ed="#A" n="33" break="no"/>ret &amp; ea non faceret: quum fides ex auditu fit. Cur multos
+          <lb ed="#A" n="34"/>ex principibus in Christum ait credidisse scriptura, verum
+          <lb ed="#A" n="35"/>eos magis hominum, quam dei gloriam dilexisse? Cur
+          alie<lb ed="#A" n="36" break="no"/>loco dicit: Seruus sciens voluntatem domini. &amp; non
+          faci<lb ed="#A" n="37" break="no"/>ens, plagis vapulabit multis? Cur a Iacobo scriptum est,
+          <lb ed="#A" n="38"/>scienti igitur bonum facere, &amp; non facienti, peccatum est
+          <lb ed="#A" n="39"/>illi: Quid autem est aliud scire voluntatem domini, scire bo
+          <lb ed="#A" n="40"/>num, nisi credere spiritui sancto, per amanuenses suos,
+          Pro<lb ed="#A" n="41" break="no"/>phetas, Apostolos, &amp; Euangelistas nos docenti, hanc esse
+          do<pb ed="#A" n="211-r"/><lb ed="#A" n="1" break="no"/>mini voluntatem. Et cum hac tamen fide, peccatum dicit
+          <lb ed="#A" n="2"/>esse scriptura, quando non sit quod creditur. Quare falsum
+          <lb ed="#A" n="3"/>est quod ab istis asseritur, per peccatum fidem amitti, aut
+          <lb ed="#A" n="4"/>si remaneat non esse veram fidem, aut cum qui fidem
+          ha<lb ed="#A" n="5" break="no"/>beat sine charitate, non esse Christianum: Falsum est quod
+          <lb ed="#A" n="6"/>solam incredulitatem esse peccatum, solam fidem esse
+          iu<lb ed="#A" n="7" break="no"/>stitiam, tam peruicaciter asserunt. Nam si nullum est
+          pec<lb ed="#A" n="8" break="no"/>catum, nisi incredulitas, si nulla est iustitia nisi fides:
+          quor<lb ed="#A" n="9" break="no"/>sum igitur illud extremum erit iudicium? quod non esse
+          <lb ed="#A" n="10"/>futurum de infidelibus, illa Christi verba non obscure vi
+          <lb ed="#A" n="11"/>dentur indicare: Qui non credit, iam iudicatus est.
+          Futu<lb ed="#A" n="12" break="no"/>rum est ergo iudicium de fidelibus, quos non ideo
+          collo<lb ed="#A" n="13" break="no"/>tatos a sinistris, incorruptus ille iudex viuorum &amp; mortu
+          <lb ed="#A" n="14"/>orum, in ignem aeternum ire iussurus est, quia non
+          credi<lb ed="#A" n="15" break="no"/>derunt, sed quia pietatis opera facere neglexerunt. Hoc est
+          <lb ed="#A" n="16"/>quod a Sapiente dictum est: Omnis misericordia faciet lo
+          <lb ed="#A" n="17"/>cum vnicuique secundum meritum operum suorum. Hoc
+          <lb ed="#A" n="18"/>est quod a regio Propheta scriptum, &amp; est ab Apostolo re
+          <lb ed="#A" n="19"/>pentum: Tu reddes vnicuique secundum opera sua. Ad Co
+          <lb ed="#A" n="20"/>rinthios quoque scribens idem Apostolus ait: Omnes nos
+          <lb ed="#A" n="21"/>manifestari oportet ante tribunal Christi, vt referat vnus
+          <lb ed="#A" n="22"/>quisque propria corporis: non dicit prout credidit, sed
+          pro<lb ed="#A" n="23" break="no"/>ut gessit, siue bonum siue malum. Sed &amp; in Apocalypsi
+          le<lb ed="#A" n="24" break="no"/>gimus. Ego venio cito &amp; merces mea mecum est, reddere
+          <lb ed="#A" n="25"/>vnicuique secundum opera sua. Quin &amp; ipse Christus: Pro
+          <lb ed="#A" n="26"/>cedent, inquit, qui bona fecerunt in resurrectionem vitae:
+          <lb ed="#A" n="27"/>qui vero male egerunt, in resurrectionem iudicii. Plena
+          <lb ed="#A" n="28"/>est scriptura hoc genus sententiis, futuram esse
+          retributio<lb ed="#A" n="29" break="no"/>nem, futurum esse iudicium, non secundum fidem, sed
+          secun<lb ed="#A" n="30" break="no"/>dum opera. Quorum autem opera? num infidelium?
+          mi<lb ed="#A" n="31" break="no"/>nime gentium, nam ii, Veritate ipsa attestante, eo ipso, quod
+          <lb ed="#A" n="32"/>non credunt, iam iudicati, iam condemnati sunt. Fidelium
+          <lb ed="#A" n="33"/>igitur opera ea sunt, secundum quae retributio, secundum
+          <lb ed="#A" n="34"/>quae futurum est iudicium.
+        </p>
+        <p xml:id="ho8ccf-a2zlo8-d1e228">
+          Quamobrem longe alia fidei &amp;
+          <lb ed="#A" n="35"/>spei, alia charitatis, per quam fides operatur est ratio, haec
+          <lb ed="#A" n="36"/>enim indiuidua comes est gratiae, nec vnquam ab illa
+          desti<lb ed="#A" n="37" break="no"/>tuitur. Sic enim loquitur patris aeterna sapientia: Ego
+          di<lb ed="#A" n="38" break="no"/>ligentes me diligo. Et alio loco: Qui diligit me, diligetur
+          <lb ed="#A" n="39"/>a patre meo.
+        </p>
+        <p xml:id="ho8ccf-a2zlo8-d1e242">
+          Quamobrem quam sunt inter se pugnantia,
+          <lb ed="#A" n="40"/>peccatum &amp; gratia, tam pugnant inter se peccatum &amp; charitas:
+          <lb ed="#A" n="41"/>fides autem &amp; spes, etiam iis inesse queunt qui cum Deo non
+          <lb ed="#A" n="42"/>sunt in gratia. Quemadmodum igitur, si quis furtum admisit,
+          <pb ed="#A" n="211-v"/>
+          <lb ed="#A" n="1"/>exclusit is quidem charitatem, quae non modo non
+          con<lb ed="#A" n="2" break="no"/>cupiscit aliena, verumetiam pro eo, vt benigna est,
+          liben<lb ed="#A" n="3" break="no"/>ter impertit sua: sed interim nihil impedit, quo minus in
+          <lb ed="#A" n="4"/>eo maneat habitus castitaris. Ita nulla est ratio, quae
+          impe<lb ed="#A" n="5" break="no"/>diat, quo minus qui fur est, idem amissa charitate, fidei
+          re<lb ed="#A" n="6" break="no"/>tineat habitum, &amp; spei, quamuis &amp; fides &amp; spes, quarum
+          <lb ed="#A" n="7"/>vita est charitas, nullum habenti fructum sint allaturae, si
+          <lb ed="#A" n="8"/>vita sua fuerint destitutae. Sola igitur est haeresis, aut apo
+          <lb ed="#A" n="9"/>stasia, per quam excluditur habitus fidei, ita vt si quis in
+          <lb ed="#A" n="10"/>vno aliquo articulo fidei discrepet ab vnius, sanctae, catho
+          <lb ed="#A" n="11"/>licae, apostolicae Ecclesiae sensu &amp; consensu, is habitum
+          ami<lb ed="#A" n="12" break="no"/>sisse fidei recte dici possit. Est igitur vera fides etiam in
+          <lb ed="#A" n="13"/>iis, qui peccatis aliquibus grauioribus obstricti tenentur.
+          <lb ed="#A" n="14"/>si cum alios articulos fidei, tum sanctam credant Ecclesiam
+          <lb ed="#A" n="15"/>catholicam. Neque credendus est Dauid rex, postquam
+          <lb ed="#A" n="16"/>adulterio commisso, caedem quoque patrauit, euestigio
+          si<lb ed="#A" n="17" break="no"/>dem simul amisisse siue qua reuelatis a Deo credimus,
+          si<lb ed="#A" n="18" break="no"/>ue qua nobis eum propitium fore, propter Christum con
+          <lb ed="#A" n="19"/>fidimus, quo tamen alterum spei magis, quam fidei esse vi
+          <lb ed="#A" n="20"/>detur. Nam nisi credidisset Dauid, esse Deum gauem
+          pe<lb ed="#A" n="21" break="no"/>catorum vltorem, non ita grauiter animo perculsus, non
+          <lb ed="#A" n="22"/>tantum de sceleribus patratis dolorem concepisset.
+          Rur<lb ed="#A" n="23" break="no"/>sus, nisi benignum eundem &amp; misericordem, patientem &amp;
+          <lb ed="#A" n="24"/>multae misericordiae ac praestabilem esse super malitia
+          per<lb ed="#A" n="25" break="no"/>suasum habuisset, nisi certam spem &amp; fiduciam
+          concepis<lb ed="#A" n="26" break="no"/>set, fore vt propter nomen suum, propter vnigenitum
+          fi<lb ed="#A" n="27" break="no"/>lium suum propitiaretur peccato suo, nunquam ad
+          cine<lb ed="#A" n="28" break="no"/>rem, ad lachrymas, ad ieiunium confugisset, nunquam
+          sup<lb ed="#A" n="29" break="no"/>plici prece, placatum eum sibi reddere studuisset. Petrum
+          <lb ed="#A" n="30"/>negasse Christum legimus: non desunt tamen, qui illo ipso
+          <lb ed="#A" n="31"/>passionis tempore fidem eum in Christum habuisse
+          con<lb ed="#A" n="32" break="no"/>tendant. Non excluditur itaque per mortale peccatum vera
+          <lb ed="#A" n="33"/>fides, etiamsi viua fides cum eo consistere non possit: quae
+          <lb ed="#A" n="34"/>non propterea vera non est, quoniam a Iacobo mortua
+          vo<lb ed="#A" n="35" break="no"/>catur: cum qui mortuus est, verus homo dici nequeat. Nam
+          <lb ed="#A" n="36"/>si verba Iacobi diligentius expendas, longe diuersum
+          re<lb ed="#A" n="37" break="no"/>peries. Non enim dixit Iacobus, sicut homo, sed sicut
+          cor<lb ed="#A" n="38" break="no"/>pus sine spiritu mortuum est, ita &amp; fides sine operibus
+          mor<lb ed="#A" n="39" break="no"/>tua est. Est quidem ita, quod &amp; homo moritur extincto
+          spi<lb ed="#A" n="40" break="no"/>ritu, &amp; fides moritur extincta charitate, per quam qui
+          vi<lb ed="#A" n="41" break="no"/>ta nostra est Deus habitat in nobis, qui ipse Deus verum
+          <lb ed="#A" n="42"/>fides habet se instar corporis, charitas instar animae, est
+          <pb ed="#A" n="212-r"/>
+          <lb ed="#A" n="1"/>enim anima fidei, charitas.
+        </p>
+        <p xml:id="ho8ccf-a2zlo8-d1e349">
+          Quamobrem sicut cum ex cor
+          <lb ed="#A" n="2"/>pore migrauerit anima, verum nihilominus corpus
+          perma<lb ed="#A" n="3" break="no"/>net, etiamsi spiritu destiturum sit, neque deest illi quicquam,
+          <lb ed="#A" n="4"/>quod ad essentiam spectet corporis &amp; proprietatem: sic
+          <lb ed="#A" n="5"/>amissa charitate remanet nihilominus vera fides, neque
+          <lb ed="#A" n="6"/>deest illi quicquam eorum, quae ad rationem, substantiam,
+          <lb ed="#A" n="7"/>&amp; proprietatem fidei pertinere videntur, nimirum vt Der
+          <lb ed="#A" n="8"/>dictis &amp; omnibus ab eo reuelatis assentiatur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

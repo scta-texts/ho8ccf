@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 11</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 11</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="11-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1l5ye"><!-- c11 -->
+        <head xml:id="ho8ccf-a1l5ye-Hd1e99">Caput 11</head>
+        <head xml:id="ho8ccf-a1l5ye-Hd1e101" type="question-title">De crucifixi simulachro</head>
+        <p xml:id="ho8ccf-a1l5ye-d1e104">
+          <lb ed="#A" n="35"/>CAPVT XI.
+          <lb ed="#A" n="36"/>De crucifixi simulachro.
+        </p>
+        <p xml:id="ho8ccf-a1l5ye-d1e111">
+          <lb ed="#A" n="37"/><milestone ed="#A" unit="p" rend="initial"/> AD hunc signandi nos cruce morem adiecta
+          prae<lb ed="#A" n="38" break="no"/>terea sunt Christi crucifixi simulachra, quae
+          prae<lb ed="#A" n="39" break="no"/>feruntur quoties fiunt supplicationes, quas
+          pro<lb ed="#A" n="40" break="no"/>cessiones vulgo vocant, vna cum vexillis, quae sunt
+          <lb ed="#A" n="41"/>Christi triumphantis, &amp; in coelum scandentis insignia, in
+          <lb ed="#A" n="42"/>quibus &amp; ipsis Christus fere depingitur siue sculpitur
+          cru<pb ed="#A" n="11-v"/><lb ed="#A" n="1" break="no"/>ci affixus. Praeferuntur autem haec adeo, vt indicetur
+          no<lb ed="#A" n="2" break="no"/>bis atque ante oculos nostros ponatur, in quo gloriari, in
+          <lb ed="#A" n="3"/>quo spem nostram habere nos defixam oportet. Per
+          cru<lb ed="#A" n="4" break="no"/>cis enim vexillum fortior armatus dominus noster Iesus
+          <lb ed="#A" n="5"/>Christus morte mortem superauit, &amp; effractis inferorum
+          <lb ed="#A" n="6"/>portis aditum in caelos piis omnibus patefecit. Absit igitur
+          <lb ed="#A" n="7"/>nobis gloriari nisi in cruce Domini nostri Iesu Chrisu
+          <lb ed="#A" n="8"/>absit in alio quoquam fiduciam nostram collocare, quam
+          <lb ed="#A" n="9"/>in hac, quae saluus est &amp; redemptio nostra Nam quae potest
+          <lb ed="#A" n="10"/>maior esse nobis gloriandi materia? quam quod rex ille
+          <lb ed="#A" n="11"/>regum &amp; dominus dominantium, cui donatum est
+          no<lb ed="#A" n="12" break="no"/>men, quod est super omne nomen, vt in nomine Iesu om
+          <lb ed="#A" n="13"/>ne genu flectatur, celestium, terrestrium, &amp; infernorum
+          <lb ed="#A" n="14"/>quod ille Dei filius Deus ipse, relicto excelso folio
+          regni<lb ed="#A" n="15" break="no"/>sui celestis, dignatus est in hanc lachrymarum vallem de
+          <lb ed="#A" n="16"/>scendere, &amp; eousque se deiicere, vt serui speciem in se susci
+          <lb ed="#A" n="17"/>peret, &amp; quidem serui nocentis, cum ipsa esset innocentia:
+          <lb ed="#A" n="18"/>dignatus est ceu facinorosus aliquis capi, alligari, flagris
+          <lb ed="#A" n="19"/>caedi, conspui, probris innumeris affici dignatus est, quod
+          <lb ed="#A" n="20"/>vnum omnium &amp; probrosissimum fuit &amp; atrocissimum
+          <lb ed="#A" n="21"/>supplicii genus, morte crucis ad extremum
+          condemnari<lb ed="#A" n="22" break="no"/>dignatus autem est haec omnia tam dura perferre propter
+          <lb ed="#A" n="23"/>nos, qui serui, qui peccatores, qui inimici, qui impii
+          era<lb ed="#A" n="24" break="no"/>mus, oblitus suae dignitatis, neque nostrae memor indigni
+          <lb ed="#A" n="25"/>tatis, dignatus est adeo nos diligere, vt semet ipsum
+          trade<lb ed="#A" n="26" break="no"/>ret pro nobis. Nunquid haec non est iustissima gloriandi
+          <lb ed="#A" n="27"/>causa? Serui cum ab heris laudantur, qui tamen eiusdem
+          <lb ed="#A" n="28"/>naturae, ex eodem luto conficti, iisdem sunt fortunae
+          casi<lb ed="#A" n="29" break="no"/>bus obnoxii, placent sibi tamen vehementer hoc nomine:
+          <lb ed="#A" n="30"/>Nos non multo magis nobis placebimus, non multo
+          ma<lb ed="#A" n="31" break="no"/>gis de eo gloriabimur, quod ille dominus, qui solus est
+          ve<lb ed="#A" n="32" break="no"/>rus Deus, quem laudant angeli, adorant dominationes,
+          tre<lb ed="#A" n="33" break="no"/>munt potestates, non est dedignatus nostra causa nostram
+          car<lb ed="#A" n="34" break="no"/>nem indutus, horrendos in ea sustinere cruciatus: Ad extre
+          <lb ed="#A" n="35"/>mum vero morte turpissima condemnatus, per crucis
+          cru<lb ed="#A" n="36" break="no"/>dele supplicium vitam pro nobis profundere? Quis hoc
+          ami<lb ed="#A" n="37" break="no"/>cus amici causa faceret? Quis pater propter vnigenitum
+          fi<lb ed="#A" n="38" break="no"/>lium tanta pateretur, quanta dominus pro seruis pati
+          di<lb ed="#A" n="39" break="no"/>gnatus est? Quam autem aliam ob causam? nisi vt e seruis
+        </p>
+        <p xml:id="ho8ccf-a1l5ye-d1e213">
+          <lb ed="#A" n="40"/>liberos, ex inimicis dei, filios dei faceret: filios quidem dei
+          <lb ed="#A" n="41"/>patris, fratres autem suos, haeredes dei patris, cohaeredes autem
+          <lb ed="#A" n="42"/>suos. Nulla potest esse mundi tanta gloria, quae cum hac
+          ve<pb ed="#A" n="12-r"/><lb ed="#A" n="1" break="no"/>minima in parte comparari queat. Est ergo quod gloriemur
+          <lb ed="#A" n="2"/>in cruce domini nostri Iesu Christi: est quod firmam
+          prae<lb ed="#A" n="3" break="no"/>terea spem &amp; fiduciam collocemus. Quid enim non
+          cer<lb ed="#A" n="4" break="no"/>to nobis de tam benefici tamque indulgentis, non
+          domini<lb ed="#A" n="5" break="no"/>sed plus quam patris misericordia polliceri possumus &amp;
+          <lb ed="#A" n="6"/>schemius? Quid ille non dabit petentibus, qui semet
+          tra<lb ed="#A" n="7" break="no"/>didit im mortem? Quid est quod negare queat rogatus, qui
+          <lb ed="#A" n="8"/>tot &amp; tanta beneficia contulit vltro, non modo non
+          roga<lb ed="#A" n="9" break="no"/>tus, verumetiam grauissimis iniuriis multum prouocatus,
+          <lb ed="#A" n="10"/>Haec est itaque causa, quamobrem in supplicationibus siue
+          <lb ed="#A" n="11"/>processionibus crux praefertur, vt in illa gloriari nos, in
+          il<lb ed="#A" n="12" break="no"/>la spem nostram omnem defixam habere, illius fiducia
+          ni<lb ed="#A" n="13" break="no"/>hil non a Deo petentes impetrare posse palam omnibus
+          fa<lb ed="#A" n="14" break="no"/>ciamus.
+        </p>
+        <p xml:id="ho8ccf-a1l5ye-d1e254">
+          Neque vero praeferri tantum crucem instituit
+          eccle<lb ed="#A" n="15" break="no"/>sia, verum &amp; in medio templi cuiusque, in eminentiori
+          lo<lb ed="#A" n="16" break="no"/>co, vt ab omnibus conspici possit, Christi crucifixi statuam
+          <lb ed="#A" n="17"/>erexit, quo sicut in serpentem aeneum, quem in deserto Me
+          <lb ed="#A" n="18"/>ses exaltauit, qui morsi a serpentibus intuebantur,
+          sanaban<lb ed="#A" n="19" break="no"/>tur, sic qui vellent a morsibus peccatorum sanari, quos
+          in<lb ed="#A" n="20" break="no"/>tulit serpens diabolus, in eum intuerentur, qui pro nobis
+          <lb ed="#A" n="21"/>in erucae pendens mori dignatus est, certa cum spe
+          remis<lb ed="#A" n="22" break="no"/>sionis peccatorum illius merito consequendae. Ac non
+          <lb ed="#A" n="23"/>in templis modo, verum in viis etiam &amp; compitis
+          Chri<lb ed="#A" n="24" break="no"/>sti crucifixi signum istud erigendum putauit. Fuit hoc
+          <lb ed="#A" n="25"/>priscis illis temporibus apud nonnullos in more positum.
+          <lb ed="#A" n="26"/>priusquam ad agnitionem veri Dei peruenissent, vt
+          Mer<lb ed="#A" n="27" break="no"/>curii statuas in viis collocarent, quod hunc Deum itineri
+          <lb ed="#A" n="28"/>bus praeesse persuasum haberent. Posteaquam vero
+          de<lb ed="#A" n="29" break="no"/>pulsis errorum tenebris, Euangelii noua lux affulsit,
+          de<lb ed="#A" n="30" break="no"/>iectae sunt statuae Mercuriales, qui viarum indices
+          fue<lb ed="#A" n="31" break="no"/>rant, &amp; earum in locum erectae sunt statuae Christi
+          cruci<lb ed="#A" n="32" break="no"/>fixi, vt ne viatores quidem aliud agentes, tanti
+          be<lb ed="#A" n="33" break="no"/>neficii possent obliuisci. Qui simul etiam obiter admono
+          <lb ed="#A" n="34"/>bantur, quandoquidem aduenae sumus omnes &amp; peregrini.
+          <lb ed="#A" n="35"/>neque manentem hic habemus ciuitatem, sed futuram
+          inqui<lb ed="#A" n="36" break="no"/>rimus coelestem illam Hierusalem: quam ingredi viam
+          <lb ed="#A" n="37"/>oportet ad eam anhelantibus. Via enim nostra Christus
+          <lb ed="#A" n="38"/>est, is qui dixit: Ego sum via, veritas, &amp; vita. Huius
+          vesti<lb ed="#A" n="39" break="no"/>giis incedamus necesse est, si volumus ad caelestem patriam
+          <lb ed="#A" n="40"/>peruenire, ad quam nisi per crucem aditus non patet, ipso
+          <lb ed="#A" n="41"/>etiam Iesu Christo attestante, qui dixit: Qui non accipit
+          <lb ed="#A" n="42"/>crucem suam, &amp; sequitur me, non est me dignus. Sic igitur
+          <pb ed="#A" n="12-v"/>
+          <lb ed="#A" n="1"/>&amp; ingredientium &amp; egredientium templum, &amp; in viam
+          <lb ed="#A" n="2"/>se dantium oculis, Christi crucifixi simulachrum obiectum
+          <lb ed="#A" n="3"/>semper esse voluit Ecclesia: Multo maxime vero eorum
+          <lb ed="#A" n="4"/>qui ex huius vitae diuersorio aeternam illam in domum
+          <lb ed="#A" n="5"/>migraturi prae caeteris consolationis plurimum indigent,
+          <lb ed="#A" n="6"/>quo suae redemptionis pretium agnoscerent, ac tanto
+          <lb ed="#A" n="7"/>aequiore animo corpus mortis huius relinquerent,
+          indu<lb ed="#A" n="8" break="no"/>bitata spe, se coelestis patris haeredes futuros, cui per
+          Chri<lb ed="#A" n="9" break="no"/>stum cruci affixum abunde pro peccatis omnibus est
+          sa<lb ed="#A" n="10" break="no"/>tisfactum. Quod in iis maiore etiam cura obseruari voluit,
+          <lb ed="#A" n="11"/>qui propter scelus aliquod patratum ad extremum
+          suppli<lb ed="#A" n="12" break="no"/>cium ducerentur: Quorum quo magis perterritas esse con
+          <lb ed="#A" n="13"/>scientias oportet, hoc maiore studio sollicito de salute eo
+          <lb ed="#A" n="14"/>rum mater Ecclesia, succurrendum eis esse duxit, ne
+          magni<lb ed="#A" n="15" break="no"/>tudine flagitiorum deterriti, consequendae veniae
+          spen<lb ed="#A" n="16" break="no"/>abiicerent. Eius itaque factum est institutione, vt cum ad
+          sup<lb ed="#A" n="17" break="no"/>plicii locum sontes ducerentur, sacerdos eos comitaretur.
+          <lb ed="#A" n="18"/>Christi crucifixi signum praeferret, plectendorum oculis
+          <lb ed="#A" n="19"/>illud ingereret, atque in cruce domini nostri Iesu Christ.
+          <lb ed="#A" n="20"/>spem suam omnem eos collocare iuberet, de qua cantat,
+          <lb ed="#A" n="21"/>Ecclesia. O crux aue, spes vnica: Crux enim est meritum
+          <lb ed="#A" n="22"/>nostrum, crux est refugium nostrum, crux est vita, salus,
+          <lb ed="#A" n="23"/>&amp; resurrectio nostra.
+        </p>
+        <p xml:id="ho8ccf-a1l5ye-d1e369">
+          Quamobrem hortatur sacerdos ad
+          <lb ed="#A" n="24"/>mortis supplicium condemnatos, quandoquidem sua non
+          <lb ed="#A" n="25"/>possunt, vt Christi crucifixi merita ad Deum patrem alle
+          <lb ed="#A" n="26"/>gent. Quid est enim omne meritum cuiuscunque
+          homi<lb ed="#A" n="27" break="no"/>nis, nisi miseratio domini?
+        </p>
+        <p xml:id="ho8ccf-a1l5ye-d1e380">
+          Quamobrem ne se
+          crederen<lb ed="#A" n="28" break="no"/>inopes esse meritorum, quamdiu miserationum ille
+          domi<lb ed="#A" n="29" break="no"/>nus non defuerit, cuius si multae sunt misericordiae, multa
+          <lb ed="#A" n="30"/>etiam esse merita sua considerent: quae non aliunde quam
+          <lb ed="#A" n="31"/>ex sola Dei pendent misericordia. Illius ergo satisfaction
+          <lb ed="#A" n="32"/>inniterentur, illius passionem, crucem, &amp; mortem Deo
+          pa<lb ed="#A" n="33" break="no"/>tri ante oculos proponerent, cuius vel vna gutta
+          sangui<lb ed="#A" n="34" break="no"/>nis ad abluenda totius orbis peccata cumulate satisfecit.
+          <lb ed="#A" n="35"/>Propterea damnatus est ille, vt liberaret damnatos:
+          pro<lb ed="#A" n="36" break="no"/>pterea doluit, vt sanaret infirmos: propterea timuit, vt
+          se<lb ed="#A" n="37" break="no"/>curos faceret: propterea deputatus est inter latrones,
+          quo<lb ed="#A" n="38" break="no"/>rum alter assumptus, alter est reprobatus, vt exemplum &amp;
+          <lb ed="#A" n="39"/>forma daretur, indissolubilis manens in posteros, qua nec
+          <lb ed="#A" n="40"/>in vltimis Dei clementia penitentes excludit, nec vlla
+          ho<lb ed="#A" n="41" break="no"/>ra sera est, cui compunctio districta occurrit, nec eos, qui
+          <lb ed="#A" n="42"/>vitae suae quocunque temporis articulo veri sunt iudices,
+          <pb ed="#A" n="13-r"/>
+          <lb ed="#A" n="1"/>iterum iudicari, Neque enim bis in idipsum Deus
+          iudi<lb ed="#A" n="2" break="no"/>cat, cum &amp; Paulus dicat: Quod si nos ipsos iudicaremus.
+          <lb ed="#A" n="3"/>non vtaque iudicaremur. Impoenitentes itaque Deus
+          iudi<lb ed="#A" n="4" break="no"/>cat &amp; damnat, pa nitentes vero quia suscipit, a seipsis
+          iu<lb ed="#A" n="5" break="no"/>dicatos, absoluit: Neque iudicio, quod humanae
+          poeniten<lb ed="#A" n="6" break="no"/>tiae seueritas protulit, aliquid iustitia coelestis apponit,
+          <lb ed="#A" n="7"/>Iudicati sunt Aegyptij, cum redeuntibus super se maris
+          <lb ed="#A" n="8"/>fluctibus inuoluerentur: Iudicati Sodomitae, cum
+          subuer<lb ed="#A" n="9" break="no"/>sis vrbibus eorum sulfureis flammis cremarentur: Sed si
+          <lb ed="#A" n="10"/>in eisdem subuersionibus gemerent poenitentes,
+          tempo<lb ed="#A" n="11" break="no"/>rali poenae non succederet aeterna: sed esset illis pro
+          reme<lb ed="#A" n="12" break="no"/>dio supplicium, &amp; pro absolutione tormentum, neque
+          cor<lb ed="#A" n="13" break="no"/>de contritos aeternum contereret &amp; aggrauaret iudicium.
+          <lb ed="#A" n="14"/>Sic in cruce latro confitens non tantum indulgentiam
+          <lb ed="#A" n="15"/>meruit, sed etiam Christi familiaris effectus, praemissus est
+          <lb ed="#A" n="16"/>in paradisum, &amp; regni factus est particeps. Ad hunc
+          mo<lb ed="#A" n="17" break="no"/>dum etiam eos, quorum omnis vita in omni flagitiorum
+          <lb ed="#A" n="18"/>genere volutata est, noluit mater Ecclesia de peccatis suis
+          <lb ed="#A" n="19"/>desperare, sed concepto de illis iusto dolore, ad Chrisu
+          <lb ed="#A" n="20"/>crucis remedium confugere, atque inde salutem
+          expecta<lb ed="#A" n="21" break="no"/>re iussit: nullum vt genus hominum fuerit, cui non
+          ma<lb ed="#A" n="22" break="no"/>xime cum alia omnia, tum hoc praesertim crucis &amp;
+          mor<lb ed="#A" n="23" break="no"/>tis Christi beneficium sit manifestare conata.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

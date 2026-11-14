@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 7</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 7</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="8-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1gqes"><!-- c7 -->
+        <head xml:id="ho8ccf-a1gqes-Hd1e99">Caput 7</head>
+        <head xml:id="ho8ccf-a1gqes-Hd1e101" type="question-title">De ascensione Christi, deque extremo iudicio</head>
+        <p xml:id="ho8ccf-a1gqes-d1e104">
+          <lb ed="#A" n="19"/>CAPVT SEPTIMVM.
+          <lb ed="#A" n="20"/>De ascensione Christi, deque extremo iudicio.
+        </p>
+        <p xml:id="ho8ccf-a1gqes-d1e111">
+          <lb ed="#A" n="21"/>SIcut autem quadraginta dies ante dominicam
+          resu<lb ed="#A" n="22" break="no"/>rectionis in omni abstinentiae continentiaeque
+          gene<lb ed="#A" n="23" break="no"/>re traducendos, ita deinceps iam quinquaginta
+          die<lb ed="#A" n="24" break="no"/>bus ieiunia censuit esse relaxanda, vt ad festum vsque
+          <lb ed="#A" n="25"/>Pentecostes non ieiunaretur a cibis, quod est moerentium,
+          <lb ed="#A" n="26"/>sed in Domino gauderetur. Illud etiam subiecit quasi sub
+          <lb ed="#A" n="27"/>oculos nostros, quomodo quadraginta dies cum suis
+          disci<lb ed="#A" n="28" break="no"/>pulis versatus est, quibuscum etiam cibum interdum
+          ca<lb ed="#A" n="29" break="no"/>pere visus est, dominus noster Iesus Christus, quo magis
+          <lb ed="#A" n="30"/>fidem faceret suae resurrectionis: Postea videntibus illis elo
+          <lb ed="#A" n="31"/>natus, &amp; in caelum assumptus est. Poterat quidem celerius
+          <lb ed="#A" n="32"/>in caelum ascendere, sed quoniam non quae sua, sed quae
+          no<lb ed="#A" n="33" break="no"/>stra sunt quaerere venerat (descenderat enim propter nos
+          <lb ed="#A" n="34"/>homines, &amp; propter nostram salutem) quo magis claram
+          <lb ed="#A" n="35"/>testatamque cunctis resurrectionem suam redderet, atque
+          <lb ed="#A" n="36"/>omnem ex omnium animis de ea dubitationem tolleret,
+          <lb ed="#A" n="37"/>tantisper in terris commorari, ascensionisque suae gloriam
+          <lb ed="#A" n="38"/>in quadragesimum diem differre dignatus est. Nulla
+          au<lb ed="#A" n="39" break="no"/>tem res aeque spem nostram erigit, atque gloriosa haec
+          <lb ed="#A" n="40"/>Christi ascensio. Nam passio illius charitatem in nobis
+          ac<lb ed="#A" n="41" break="no"/>cendit, quam cum ille summam ergo nos declarauerit (nam
+          <pb ed="#A" n="8-v"/>
+          <lb ed="#A" n="1"/>dilectionem hac maiorem habere potest nemo, quam vt ani
+          <lb ed="#A" n="2"/>mam suam ponat quis pro amicis suis, qua tamen maiorem
+          <lb ed="#A" n="3"/>habuit ille, qui posuit pro inimicis) fieri non potest, quin
+          <lb ed="#A" n="4"/>mutuo illius amore inflammemur, qui prior nos tantope
+          <lb ed="#A" n="5"/>re dilexit. Resurrectio vero Chrisu, non modo de
+          diuini<lb ed="#A" n="6" break="no"/>tate ipsius, verum &amp; de nostrae carnis resurrectione fidem
+          <lb ed="#A" n="7"/>nostram confirmat &amp; roborat: Si enim credimus, quod le
+          <lb ed="#A" n="8"/>sus mortuus est &amp; resurrexit, ita &amp; Deus eos qui
+          dormie<lb ed="#A" n="9" break="no"/>runt, per Iesum adducet cum eo. Ascensio porro spem laeti
+          <lb ed="#A" n="10"/>ficat, quam firmam habemus &amp; indubitatam, quo caput no
+          <lb ed="#A" n="11"/>strum praecessit, eo nos, qui sumus ipsius membra,
+          sequi<lb ed="#A" n="12" break="no"/>turos: Cum praesertim promissum eius habeamus, qui
+          fal<lb ed="#A" n="13" break="no"/>lere nescit, vbi fuerit ipse, ibi futurum &amp; ministrum. Sed
+          <lb ed="#A" n="14"/>ita nos in spem erigit ascensio, ne prorsus tamen
+          securo<lb ed="#A" n="15" break="no"/>&amp; oscitantes esse permittat. Nam eodem ipso die nobis in
+          <lb ed="#A" n="16"/>memoriam reuocatur, quomodo qui ascendit ad coelos, &amp;
+          <lb ed="#A" n="17"/>sedet ad dextram patris, inde venturus sit iudicare viuos
+          <lb ed="#A" n="18"/>&amp; mortuos. Cantatur enim in Misse introitu: Viri Galilei
+          <lb ed="#A" n="19"/>quid admiramini aspicientes in coelum? Hic Iesus qui
+          as<lb ed="#A" n="20" break="no"/>sumptus est a vobis in caelum, ita veniet, quemadmodum
+          <lb ed="#A" n="21"/>vidistis eum euntem in caelum. Vnde docemur, venturum cum
+          <lb ed="#A" n="22"/>in eadem forma hominis, in corpore glorificato, quod in
+          <lb ed="#A" n="23"/>caelum secum detulit, iudicare vinos &amp; mortuos.
+          Canta<lb ed="#A" n="24" break="no"/>tur &amp; illud ex Psalmo: Ascendit Deus in iubilo, &amp;
+          Domi<lb ed="#A" n="25" break="no"/>nus in voce tubae.
+        </p>
+        <p xml:id="ho8ccf-a1gqes-d1e215">
+          Atqui in eiusdem voce tubae nouissimae
+          <lb ed="#A" n="26"/>resurgent omnes incorrupti, sententiam iudicis audituri
+          <lb ed="#A" n="27"/>qui, quos a sinistris collocauerit; eos ad supplicium ignis
+          <lb ed="#A" n="28"/>aeterni condemnabit, quos autem a dextris posuerit, eos ire
+          <lb ed="#A" n="29"/>iubebit in regnum suum caeleste: Propterea &amp; in prosa
+          ca<lb ed="#A" n="30" break="no"/>nitur illud: Iudex cum veneris iudicare seculum, da
+          no<lb ed="#A" n="31" break="no"/>bis quaesumus sempiternam requiem in sanctorum gloria,
+          <lb ed="#A" n="32"/>Sic ergo gaudio, quod ex ascensione Christi capimus, quae
+          <lb ed="#A" n="33"/>nos in spem erigit, futurum vt ipsi quoque simus vbi
+          ca<lb ed="#A" n="34" break="no"/>put nostrum est, miscere voluit Ecclesia sollicitudinem
+          <lb ed="#A" n="35"/>quam simul nobis adfert expectatio terribilis illius
+          iudi<lb ed="#A" n="36" break="no"/>cii, quo &amp; hunc articulum, qui extremus est de
+          Christo<lb ed="#A" n="37" break="no"/>ne ignorare possemus: Cuius etiam commonefacit nos se
+          <lb ed="#A" n="38"/>cunda dominica Aduentus, Nam cum in prima nos amabilis
+          <lb ed="#A" n="39"/>illius admonuisset, quo venit, mansuetus, non vt
+          perdere<lb ed="#A" n="40" break="no"/>animas hominum, sed vt saluaret, non vt iudicaret
+          mun<lb ed="#A" n="41" break="no"/>dum, sed vt mundus per ipsum saluus fieret: In secunda
+          <lb ed="#A" n="42"/>dominica, meminit illius aduentus horrendi, quo qui
+          diui<pb ed="#A" n="9-r"/><lb ed="#A" n="1" break="no"/>tias bonitatis eius contemplerunt, quem recipere redem,
+          <lb ed="#A" n="2"/>ptorem noluerunt, eum seuerum &amp; inexorabilem iudicem
+          <lb ed="#A" n="3"/>experientur. Atque ita non tam scribendo aut praedicando,
+          <lb ed="#A" n="4"/>quam oculis quasi rem subiiciendo, per certorum dierum
+          <lb ed="#A" n="5"/>obseruationes, absoluit omnia mater ecclesia, quae de
+          Chri<lb ed="#A" n="6" break="no"/>sto credere necessarium est ad salutem
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 16</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 16</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="19-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1qpa4"><!-- c16 -->
+        <head xml:id="ho8ccf-a1qpa4-Hd1e99">Caput 16</head>
+        <head xml:id="ho8ccf-a1qpa4-Hd1e101" type="question-title">Quod Evangelio credimus non tanquam hominis testimonio, sed tanquam intus loquentis Dei voci</head>
+        <p xml:id="ho8ccf-a1qpa4-d1e104">
+          <lb ed="#A" n="16"/>CAPVT XVI.
+          <lb ed="#A" n="17"/>Quod Euangelio credimus non tanquam hominis
+          <lb ed="#A" n="18"/>testimonio, sed tanquam intus loquentis
+          <lb ed="#A" n="19"/>Dei voci
+        </p>
+        <p xml:id="ho8ccf-a1qpa4-d1e115">
+          <lb ed="#A" n="20"/><milestone ed="#A" unit="p" rend="initial"/> SED hic iterum dicet aliquis: Ergo tu me iubes
+          Eu<lb ed="#A" n="21" break="no"/>angelio credere tanquam hominis testimonio, &amp;
+          <lb ed="#A" n="22"/>non tanquam intus loquentis Dei voci: vis vt
+          acci<lb ed="#A" n="23" break="no"/>piam Dei verbum ex humana traditione, &amp; non ex
+          <lb ed="#A" n="24"/>infusa desuper fide?
+        </p>
+        <p xml:id="ho8ccf-a1qpa4-d1e129">
+          Atqui contrarium me docet Paulus,
+          <lb ed="#A" n="25"/>cum dicit: Gratia saluati estis per fidem, &amp; hoc non ex vo
+          <lb ed="#A" n="26"/>bis, Dei enim donum est. Sed &amp; Christus ad Petrum:
+          Be<lb ed="#A" n="27" break="no"/>tus es, inquit, Simon Bar Iona, quia caro &amp; sanguis non
+          <lb ed="#A" n="28"/>reuelauit tibi, sed pater meus, qui in coelis est. Iterum Pau
+          <lb ed="#A" n="29"/>lus gloriatur, quod non ab homine acceperit
+          Euange<lb ed="#A" n="30" break="no"/>lium, sed ex reuelatione Iesu Christi. Nos vero
+          liben<lb ed="#A" n="31" break="no"/>ter concedimus accipienda esse Euangelia, vt verba Dei
+          <lb ed="#A" n="32"/>intus docentis &amp; reuelantis, neque credendum illis esse,
+          <lb ed="#A" n="33"/>nisi propter Dei vocem intus loquentis. Sed illud
+          inte<lb ed="#A" n="34" break="no"/>rea scire oportet, ne quis erret, quod Deus multifariam
+          <lb ed="#A" n="35"/>multisque modis loquutus est olim patribus, ac nunc etiam
+          <lb ed="#A" n="36"/>loquitur filiis. Loquutus est per Prophetas,
+          quemadmo<lb ed="#A" n="37" break="no"/>dum vnus ex illis testatur dicens: Lingua mea calamus
+          <lb ed="#A" n="38"/>scribae, velociter scribentis: loquutus est per angelos, sicut
+          <lb ed="#A" n="39"/>in Genesi, apud Zachariam, &amp; in Euangelio videre licet
+          <lb ed="#A" n="40"/>loquutus est per filium suum incarnatum: loquutus est per
+          <lb ed="#A" n="41"/>Apostolos: loquutus est &amp; loquitur etiam nunc per
+          spiri<pb ed="#A" n="20-r"/><lb ed="#A" n="1" break="no"/>tum sanctum in ecclesia, cui dixit Christus. Non vos estis
+          <lb ed="#A" n="2"/>qui loquimini, sed spiritus patris vestri, qui loquitur in vo
+          <lb ed="#A" n="3"/>bis. Quando igitur scripturam hanc esse reuelatam a deo,
+          <lb ed="#A" n="4"/>nos adductos Ecclesiae authoritate credere profitemur,
+          <lb ed="#A" n="5"/>hoc affirmare videmur, quod spiritus sanctus, qui docet
+          <lb ed="#A" n="6"/>ecclesiam, qui loquitur per os eius, docet nos, quod
+          scri<lb ed="#A" n="7" break="no"/>ptum est a Matthaeo, non esse vocem hominis, verum
+          in<lb ed="#A" n="8" break="no"/>tus loquentis dei: Contra, quod scriptum est a Nicodemo,
+          <lb ed="#A" n="9"/>non dei, sed hominis vocem esse. Atque ita omnis
+          autho<lb ed="#A" n="10" break="no"/>ritas &amp; scripturarum &amp; ecclesiae, non est aliunde, nisi a spi
+          <lb ed="#A" n="11"/>ritu sancto, a quo etiam est veritas omnis par vt sit autho
+          <lb ed="#A" n="12"/>ritas vtriusque. Scriptura sortitur authoritatem ab
+          Eccle<lb ed="#A" n="13" break="no"/>sia, quatenus ab illa planum fit omnibus, hanc &amp; non
+          ali<lb ed="#A" n="14" break="no"/>am esse scripturam canonicam. Rursus, Ecclesia accipit
+          au<lb ed="#A" n="15" break="no"/>thoritatem a scriptura, quatenus illa testificatur, quod sug
+          <lb ed="#A" n="16"/>gerit illi spiritus sanctus, quod docet illam omnem verita
+          <lb ed="#A" n="17"/>tem, quod nunquam illam destituet, sed manebit cum illa
+          <lb ed="#A" n="18"/>in aeternum, quod portae inferi non praeualebunt
+          aduer<lb ed="#A" n="19" break="no"/>sus eam: Quo nomine vocat etiam eam columnam &amp;
+          fir<lb ed="#A" n="20" break="no"/>mamentum veritatis: &amp; qui non audient illam, eum
+          habe<lb ed="#A" n="21" break="no"/>re vult pro ethnico &amp; publicano
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

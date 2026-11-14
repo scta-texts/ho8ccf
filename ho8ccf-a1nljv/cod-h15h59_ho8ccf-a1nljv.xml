@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 14</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 14</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="16-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1nljv"><!-- c14 -->
+        <head xml:id="ho8ccf-a1nljv-Hd1e99">Caput 14</head>
+        <head xml:id="ho8ccf-a1nljv-Hd1e101" type="question-title">Quae sit vis huius articuli, Credo sanctam Ecclesiam Catholicam</head>
+        <p xml:id="ho8ccf-a1nljv-d1e104">
+          <lb ed="#A" n="29"/>CAPVT XIIII.
+          <lb ed="#A" n="30"/>Quae sit vis huius articuli, Credo sanctam
+          <lb ed="#A" n="31"/>Ecclesiam Catholicam,
+        </p>
+        <p xml:id="ho8ccf-a1nljv-d1e113">
+          <lb ed="#A" n="32"/><milestone ed="#A" unit="p" rend="initial"/> SED nunquid haec ita credere satis est? an alia
+          prae<lb ed="#A" n="33" break="no"/>terea requiruntur, quae nisi quis crediderit, saluus
+          <lb ed="#A" n="34"/>esse non possit? Est vnus articulus in symbolo
+          <lb ed="#A" n="35"/>cumprimis necessarius, quem qui credit, iam
+          cun<lb ed="#A" n="36" break="no"/>&amp; credit ad salutem necessaria. Hic ille est, quo nos
+          cre<lb ed="#A" n="37" break="no"/>dere profitemur sanctam Ecclesiam Catholicam, quam
+          <lb ed="#A" n="38"/>ex nostris animabus constructam domum esse dicit
+          Chry<lb ed="#A" n="39" break="no"/>sostomus. Hanc qui credit, non hoc solum credit, esse Ec
+          <lb ed="#A" n="40"/>clesiam, quod credunt haeretici quoque &amp; schismatici
+          <lb ed="#A" n="41"/>sed simul credit, extra illam, sicut olim extra arcam
+          No<pb ed="#A" n="16-v"/><lb ed="#A" n="1" break="no"/>salutem non esse, credit vera esse omnia, quae in scripturis
+          <lb ed="#A" n="2"/>omnibus Canonicis ab illa receptis scripta continentur.
+          <lb ed="#A" n="3"/>credit illam spiritu sancto congregatam per eundem
+          con<lb ed="#A" n="4" break="no"/>seruari &amp; gubernari: Quo duce cum regatur, credit
+          si<lb ed="#A" n="5" break="no"/>mul eam errare non posse.
+        </p>
+        <p xml:id="ho8ccf-a1nljv-d1e150">
+          Quamobrem sanctissimam
+          <lb ed="#A" n="6"/>hanc parentem suam ea qua decet pietate veneratur, illi
+          <lb ed="#A" n="7"/>se permittit, illi credit, illam audit, illam secundum deum
+          <lb ed="#A" n="8"/>ipsum veretur, quae de diuinis rebus ipsa sentit, sentienda
+          <lb ed="#A" n="9"/>quae de humanis praescribit, facienda, quae prohibet,
+          fugi<lb ed="#A" n="10" break="no"/>cenda esse sine vlla dubitatione censet: Huius articuli
+          tan<lb ed="#A" n="11" break="no"/>eta vis est, vt si quis hebetioris ingenii caetera non
+          possi<lb ed="#A" n="12" break="no"/>assequi, verum hoc tantum cum Paulo profiteatur, se
+          sci<lb ed="#A" n="13" break="no"/>
+          <lb ed="#A" n="14"/>re Iesum Christum, &amp; hunc crucifixum, deinde se
+          crede<lb ed="#A" n="15" break="no"/>re sanctam ecclesiam catholicam, vel hoc ad salutem illi
+          <lb ed="#A" n="16"/>sufficere queat. Neque enim qui doctrina, sed qui
+          pieta<lb ed="#A" n="17" break="no"/>te caeteris praestat, is est regno coelorum propinquior.
+          Ig<lb ed="#A" n="18" break="no"/>norare pleraque melius est, sicut praeclare scripsit
+          Tertul<lb ed="#A" n="19" break="no"/>lianus, ne quid, quod non debeas, noris, quia quod de
+          <lb ed="#A" n="20"/>beas, nosti. Fides tua, dicit Christus, te saluum fecit, non
+          <lb ed="#A" n="21"/>exercitatio scripturarum. Nihil scire, omnia scire est. Et
+          <lb ed="#A" n="22"/>tius aequalis Clemens presbyter Alexandrinus: Fides,
+          in<lb ed="#A" n="23" break="no"/>quit, non sapientum secundum mundum, sed eorum qui
+          <lb ed="#A" n="24"/>secundum Deum sunt sapientes est possessio. Illa autem
+          <lb ed="#A" n="25"/>etiam absque literis discitur: eius autem scriptum quod ad
+          <lb ed="#A" n="26"/>rudes ignarosque homines pertinet, &amp; est diuinum,
+          voca<lb ed="#A" n="27" break="no"/>tum est charitas, quae est decretum spirituale. Lib. 3.
+          Pe<lb ed="#A" n="28" break="no"/>lagogi. Cap.. Et eos sequutus Hilarius: Habet, inquit,
+          <lb ed="#A" n="29"/>non tam veniam, quam praemium ignorare quod credas,
+          <lb ed="#A" n="30"/>quia maximum fidei stipendium est sperare quae nescias.
+          <lb ed="#A" n="31"/>Ante quos etiam Irrenaeus: Melius est, inquit, nihil
+          omni<lb ed="#A" n="32" break="no"/>no scientem quempiam credere deo, &amp; perseuerare in eius
+          <lb ed="#A" n="33"/>dilectione, quae hominem viuificat, nec aliud inquirere
+          <lb ed="#A" n="34"/>ad scientiam, nisi Iesum Christum filium dei, qui pro
+          no<lb ed="#A" n="35" break="no"/>bis crucifixus est, quam per quaestionum subtilitates &amp;
+          <lb ed="#A" n="36"/>multiloquium in impietatem cadere. Et alio loco. Qui
+          re<lb ed="#A" n="37" break="no"/>linquunt praeconium ecclesiae, imperitiam sanctorum
+          pre<lb ed="#A" n="38" break="no"/>byterorum arguunt, non contemplantes, quanto pluris sit
+          <lb ed="#A" n="39"/>idiota religiosus, a blasphemo &amp; impudente Sophista
+          <lb ed="#A" n="40"/>Non ergo qui quamplurima memoriter e scripturis,
+          ple<lb ed="#A" n="41" break="no"/>runque etiam Psitaci more non intellecta recitat, sed qui
+          <lb ed="#A" n="42"/>quae scripta sunt, opere complere studet, is est, de cuius
+          sa<lb ed="#A" n="43" break="no"/>lute sperandum est maxime, cum pictas diuina non
+          atten<pb ed="#A" n="17-r"/><lb ed="#A" n="1" break="no"/>dat, quamta cognitione credatur, sed magis quanta
+          deuo<lb ed="#A" n="2" break="no"/>tione quod creditur diligatur, sicut ab Hugone scriptum
+          <lb ed="#A" n="3"/>legimus. Quem sequutus Ioannes Gerson. In die, inquit,
+          <lb ed="#A" n="4"/>examinis nouissimi non interrogabimur, quantum
+          fue<lb ed="#A" n="5" break="no"/>rit intellectus noster acutus &amp; eruditus, sed qualis fuerit
+          <lb ed="#A" n="6"/>affectus noster ad dominum Deum nostrum, hoc est, quam
+          <lb ed="#A" n="7"/>simplex, quam rectus, quam pius, humilis, &amp; deuotus, quamque
+          <lb ed="#A" n="8"/>pontaneus &amp; fidelis in Dei seruitio. Helior est fidelis
+          <lb ed="#A" n="9"/>ignorantia, dicit Augustinus, quam temeraria scientia
+          <lb ed="#A" n="10"/>Scientia enim inflat, charitas sedificat. Surgunt
+          indocti<lb ed="#A" n="11" break="no"/>dicit idem alio loco, &amp; rapiunt coelum, &amp; nos cum
+          doctri<lb ed="#A" n="12" break="no"/>nis nostris sine corde, ecce vbi volutamur in carne &amp;
+          san<lb ed="#A" n="13" break="no"/>guine? Quapropter ei qui est ex minoribus, hoc est cu
+          <lb ed="#A" n="14"/>munus alios docendi non incumbit, posteaquam ea
+          cre<lb ed="#A" n="15" break="no"/>diderit, quae de patre, quae de filio, quae de Spiritu sancto
+          <lb ed="#A" n="16"/>nudis verbis in symbolo sunt expressa, satis est, si de
+          reli<lb ed="#A" n="17" break="no"/>quis ea se credere profiteatur, quae credit sancta Ecclesia
+          <lb ed="#A" n="18"/>Catholica, etiamsi nullam de illis explicitam fidem habeat
+          <lb ed="#A" n="19"/>Atque hic est articulus, quo praecipue discernuntur a Catho
+          <lb ed="#A" n="20"/>licis haere rici &amp; schismatici, qui se crederent sanctam Eccle
+          <lb ed="#A" n="21"/>siam Catholicam, nulla haeresis, nullum esset schisima. Cra
+          <lb ed="#A" n="22"/>diderunt omnia Nouatiani, quae in symbolo, quaeque in
+          scri<lb ed="#A" n="23" break="no"/>pturis Canonicis continentur. Crediderunt Pelagiani,
+          <lb ed="#A" n="24"/>crediderunt Donatistae, crediderunt &amp; alij multi haeretici:
+          <lb ed="#A" n="25"/>neque cum illis aut de scripturis vlla fuit Catholicis
+          con<lb ed="#A" n="26" break="no"/>trouersia, sed quia sanctam Ecclesiam Catholicam non cre
+          <lb ed="#A" n="27"/>diderunt, unde tot haereses, tot schismata, tot sectae tam
+          dis<lb ed="#A" n="28" break="no"/>sectae, nom prioribus modo saeculis, verum &amp; hoc nostro
+          <lb ed="#A" n="29"/>conflatae sunt.
+        </p>
+        <p xml:id="ho8ccf-a1nljv-d1e300">
+          Nam si crederetur sancta Ecclesia
+          Catho<lb ed="#A" n="30" break="no"/>lica, non ab ea discederetur, neque sibi quisquam sumeret,
+          <lb ed="#A" n="31"/>vt suo potius priuato, quam illius Spiritu, scripturas
+          in<lb ed="#A" n="32" break="no"/>terpretari vellet. Hanc igitur mordicus teneamus, quodque
+          <lb ed="#A" n="33"/>ab ipsis Apostolorum temporibus vnanimiter ab
+          omni<lb ed="#A" n="34" break="no"/>bus obseruatum esse summo Christianorum omnium
+          con<lb ed="#A" n="35" break="no"/>sensu constiterit, de eo dubitare nefas esse putemus. Neque
+          <lb ed="#A" n="36"/>nos vlla ratione de eo deduci patiamur, etiamsi,
+          quemad<lb ed="#A" n="37" break="no"/>modum ipse per se Christo quondam, ita per sua membra
+          <lb ed="#A" n="38"/>Sathanas millies millies nobis dicat. Scriptum est enim
+          <lb ed="#A" n="39"/>Non illi se transfiguranti in angelum lucis, atque ouium
+          <lb ed="#A" n="40"/>vestimentis induto, verum Ecclesiae credamus, quae nunquam
+          <lb ed="#A" n="41"/>sancti Spiritus magisterio destituitur, quem se missurum
+          <lb ed="#A" n="42"/>illi Christus promisit, qui suggereret illi, qui doceret illam
+          <pb ed="#A" n="17-v"/>
+          <lb ed="#A" n="1"/>omnem veritatem, qui cum illa maneret in aeternum. Suus
+          <lb ed="#A" n="2"/>quemque priuatus Spiritus fallere potest, cum scriptum sit
+          <lb ed="#A" n="3"/>Vae Prophetis insipientibus, qui sequuntur spiritum suum
+          <lb ed="#A" n="4"/>&amp; nihil vident: Ecclesiae Spiritus nunquam fallere potest
+          <lb ed="#A" n="5"/>Illius itaque definitionibus pareamus: illius, non priuato
+          <lb ed="#A" n="6"/>nostro spiritu scripturas esse nobis interpretandas
+          existi<lb ed="#A" n="7" break="no"/>memus. De quibus nobis, qui per Dei gratiam Catholici
+          <lb ed="#A" n="8"/>lumus, qui cum Cypriano gloriari possumus, quod non
+          <lb ed="#A" n="9"/>nos ab illis, sed illi recesserunt a nobis, nulla est cum
+          no<lb ed="#A" n="10" break="no"/>uatoribus huius temporis controuersia, de intelligentia
+          <lb ed="#A" n="11"/>naeresis est, non de scriptura. Sensus, vt est apud Hilarium
+          <lb ed="#A" n="12"/>non sermo fit crimen. Neque in legendo, sicut scribit Hie
+          <lb ed="#A" n="13"/>ronymus, sed in intelligendo scripturae consistunt: non in
+          <lb ed="#A" n="14"/>superficie, sed in medulla, non in sermonum foliis, sed in
+          <lb ed="#A" n="15"/>radice rationis.
+        </p>
+        <p xml:id="ho8ccf-a1nljv-d1e365">
+          Quamobrem aequum non est, quod
+          pri<lb ed="#A" n="16" break="no"/>uato suo iudicio rectum sentit aliquis, id totius vt
+          Eccle<lb ed="#A" n="17" break="no"/>siae sensui &amp; consensui anteponat, &amp; quae sunt in oecum
+          <lb ed="#A" n="18"/>nicis conciliis recte constituta, ea in dubium reuocari
+          ve<lb ed="#A" n="19" break="no"/>lit. Quin ea nos mente potius esse praediti debemus, vt in
+          <lb ed="#A" n="20"/>iis, quae didicimus, permanendum nobis esse putemus:
+          di<lb ed="#A" n="21" break="no"/>dicimus enim ab ea, quae firmamentum est &amp; columna
+          ve<lb ed="#A" n="22" break="no"/>ritatis, Ecclesia, in illius interpretatione definitioneque nos
+          <lb ed="#A" n="23"/>acquiescere, neque fluctuare, atque omni doctrinae vento
+          <lb ed="#A" n="24"/>circumferri oportet. Quod Paulus Timotheum
+          horta<lb ed="#A" n="25" break="no"/>tus est, id sibi quisque notum dictum existimet, quicunque
+          <lb ed="#A" n="26"/>veri Dei verus cultor censeri vult, depositum vt custodia
+          <lb ed="#A" n="27"/>mus, ac deuitemus profanas vocum nouitates, quas
+          vni<lb ed="#A" n="28" break="no"/>uersitati, quas antiquitati, quas consensui sanctae
+          Catho<lb ed="#A" n="29" break="no"/>licae Ecclesiae contrarias esse constat: quae si reciperentur
+          <lb ed="#A" n="30"/>necesse foret, vt fides beatorum patrum, aut tota, aut certe
+          <lb ed="#A" n="31"/>magna ex parte violaretur: vt omnes omnium aetatum
+          <lb ed="#A" n="32"/>fideles, omnes sancti, omnes casti, continentes, virgines
+          <lb ed="#A" n="33"/>omnes clerici, Leuitae, Sacerdotes, tot confessorum millia
+          <lb ed="#A" n="34"/>tantus martyrum exercitus, tanta vrbium, tanta
+          populo<lb ed="#A" n="35" break="no"/>rum celebritas &amp; multitudo, tot Insulae, Prouinciae,
+          Re<lb ed="#A" n="36" break="no"/>ges, Centes, Regna, Nationes, totus postremo iam
+          pen<lb ed="#A" n="37" break="no"/>terrarum orbis, Christo capiti per Catholicam fidem
+          in<lb ed="#A" n="38" break="no"/>corporatus, tanto seculorum tractu ignorasse, errasse,
+          blas<lb ed="#A" n="39" break="no"/>phenasse, quid crederet nescisse, quodque dictu est
+          abomi<lb ed="#A" n="40" break="no"/>nabile, idola coluisse pronuntiaretur. Quod credere,
+          <lb ed="#A" n="41"/>quid aliud fuerit, quam cuacuare crucem Christi? quam
+          <lb ed="#A" n="42"/>abolere, obliterare, irritum reddere beneficium illud
+          im<pb ed="#A" n="18-r"/><lb ed="#A" n="1" break="no"/>mensum passionis &amp; mortis Christi? Quid enim? an
+          <lb ed="#A" n="2"/>non iure merito nobis quoque dicere liceret, quod
+          Gala<lb ed="#A" n="3" break="no"/>tis quondam dixit Paulus, si seipsum tradidit Christus
+          <lb ed="#A" n="4"/>pro Ecclesia, neque tamen sanctificauit illam, neque
+          san<lb ed="#A" n="5" break="no"/>guis illius eam ab operibus mortuis, praecipue vero ab
+          <lb ed="#A" n="6"/>idololatria emundauit, ergo gratis Christus est
+          mor<lb ed="#A" n="7" break="no"/>tuus? Quis enim incarnationis, quis crucis, quis
+          mor<lb ed="#A" n="8" break="no"/>tis illius fructus est? fi, cuius causa tulit haec omnia,
+          spon<lb ed="#A" n="9" break="no"/>sa ipsius Ecclesia, mater omnium fidelium, in idolorum
+          <lb ed="#A" n="10"/>cultu perstat nihilominus si versatur adhuc in
+          ignoran<lb ed="#A" n="11" break="no"/>tiae tenebris? Vbi illa Christi promissa. Ego vobiscum
+          <lb ed="#A" n="12"/>sum vsque ad consummationem seculi? Rogabo patrem
+          <lb ed="#A" n="13"/>&amp; alium Paracletum dabit vobis, vt maneat vobiscum
+          <lb ed="#A" n="14"/>in aeternum, Spiritum veritatis? Sed verum est, quod
+          di<lb ed="#A" n="15" break="no"/>cit veritas, falsum est, quod mentita est iniquitas sibi
+          <lb ed="#A" n="16"/>Non destituit corpus suum Ecclesiam, caput ipsius
+          Chri<lb ed="#A" n="17" break="no"/>stus, nec aut defuit illi, aut deest, aut deerit vnquam
+          san<lb ed="#A" n="18" break="no"/>ctus spiritus, qui viuificet illam, qui regat &amp; gubernet,
+          <lb ed="#A" n="19"/>nullum vt in errorem aliquando labi potuerit, aut possit,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

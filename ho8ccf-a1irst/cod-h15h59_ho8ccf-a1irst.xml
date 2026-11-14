@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 9</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 9</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="9-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1irst"><!-- c9 -->
+        <head xml:id="ho8ccf-a1irst-Hd1e99">Caput 9</head>
+        <head xml:id="ho8ccf-a1irst-Hd1e101" type="question-title">Quod dictum Apostoli, dies observatis et menses, nihil adversatur observationi dierum, quae fit in Ecclesia</head>
+        <p xml:id="ho8ccf-a1irst-d1e104">
+          <lb ed="#A" n="11"/>CAPVT NONVM.
+          <lb ed="#A" n="12"/>Quod dictum Apostoli, dies obseruatis &amp; menses,
+          <lb ed="#A" n="13"/>nihil aduersatur obseruationi dierum, quae fit
+          <lb ed="#A" n="14"/>in Ecclesia
+        </p>
+        <p xml:id="ho8ccf-a1irst-d1e115">
+          <lb ed="#A" n="15"/><milestone ed="#A" unit="p" rend="initial"/> NEque vero defuerunt, qui sanctae matris nostrae
+          <lb ed="#A" n="16"/>sanctum hoc institutum reprehenderent, quod lu
+          <lb ed="#A" n="17"/>daicas quasdam obseruationes amplexos esse
+          fi<lb ed="#A" n="18" break="no"/>deles dicerent. Obiectum est etiam ante mille
+          <lb ed="#A" n="19"/>ducentos annos, quod nunc ab iis, qui pridem sopitas
+          hae<lb ed="#A" n="20" break="no"/>reses suscitauerunt, obiici nobis audimus: Dies obseruatis,
+          <lb ed="#A" n="21"/>&amp; menses, &amp; tempora, &amp; annos. Sed iis iam pridem &amp; ab
+          <lb ed="#A" n="22"/>Epiphanio graeco, &amp; ab Hieronymo latino ita responsum
+          <lb ed="#A" n="23"/>est, satis vt esse confutati videantur. Neque enim
+          existi<lb ed="#A" n="24" break="no"/>mandum est, ignorasse matrem ecclesiam, vel nunc etiam
+          <lb ed="#A" n="25"/>gnorare, quod omnes dies aequales sint, quodque non
+          di<lb ed="#A" n="26" break="no"/>parasceues crucifigitur, neque die dominico resurgit
+          Chri<lb ed="#A" n="27" break="no"/>stus, quodque nullus dies atque adeo nulla sit hora, qua non
+          <lb ed="#A" n="28"/>recte passionis illius &amp; resurrectionis, ac aliorum quorum
+          <lb ed="#A" n="29"/>cunque beneficiorum fiat recordatio.
+        </p>
+        <p xml:id="ho8ccf-a1irst-d1e151">
+          Quamobrem receptus ec
+          <lb ed="#A" n="30"/>clesiae mos, quo singulis Christi beneficiis recolendis certos
+          <lb ed="#A" n="31"/>dies instituit, nihil habet cum Iudaeorum superstitione
+          com<lb ed="#A" n="32" break="no"/>muno. Nam illis non est sas quouis tempore ieiunare, agnum
+          <lb ed="#A" n="33"/>immolare, Pentecosten agere, tabernacula figere: nobis
+          ve<lb ed="#A" n="34" break="no"/>ro quotidie ieiunare, quotidie agnum immaculatum &amp; of
+          <lb ed="#A" n="35"/>ferre Deo patri, &amp; oblatum manducare, quotidie licet simul
+          <lb ed="#A" n="36"/>omnia Christi beneficia repraesentare.
+        </p>
+        <p xml:id="ho8ccf-a1irst-d1e170">
+          Quoniam vero seculi
+          <lb ed="#A" n="37"/>curis nimio plus plerique omnes immersi sumus, neque aut
+          ora<lb ed="#A" n="38" break="no"/>tionibus, aut gratiarum actionibus, deique beneficiis
+          <lb ed="#A" n="39"/>recolendis perinde vt oporteret, vacamus: quid faceret
+          si<lb ed="#A" n="40" break="no"/>tiens nostrae salutis mater ecclesia? permitteretne tantorum
+          <lb ed="#A" n="41"/>Christi beneficiorum interire menona? quae quanuis in
+          e<pb ed="#A" n="10-r"/><lb ed="#A" n="1" break="no"/>clesiis praedicantur e superiore loco, tamen verbi dei semen
+          <lb ed="#A" n="2"/>a spinis non raro suffocatur: Non potuerunt hoc ferre plena
+          <lb ed="#A" n="3"/>charitanis illius ergo nos viscera, cum praesertim salutem in
+          <lb ed="#A" n="4"/>eo nostram agi videret. Cum itaque cerneret, adduci non
+          pos<lb ed="#A" n="5" break="no"/>se liberos suos, vt quotidie ieiunarent, quotidie orarent,
+          <lb ed="#A" n="6"/>quotidie Christi corporis &amp; sanguinis communionem
+          per<lb ed="#A" n="7" break="no"/>uperent, ac in iugi beneficiorum eius meditatione
+          versaren<lb ed="#A" n="8" break="no"/>tur: fecit illa deo &amp; piorum omnium consensu approbante,
+          <lb ed="#A" n="9"/>fecit autem sancti spiritus docta magisterio, certos vt dies
+          <lb ed="#A" n="10"/>institueret, qui prae caeteris tantorum commemoratione
+          be<lb ed="#A" n="11" break="no"/>neficiorum essent insignes, quibus ad officium fideles
+          reuo<lb ed="#A" n="12" break="no"/>carentur, ac munere suo curis aliis vacui diligentius
+          fun<lb ed="#A" n="13" break="no"/>gerentur: non aliud spectans hac dierum praescriptione,
+          <lb ed="#A" n="14"/>quam vt &amp; admonerentur eorum, quae Deus pro sua
+          inef<lb ed="#A" n="15" break="no"/>tabili bonitate, tam plena manu conferre dignatus est, &amp;
+          <lb ed="#A" n="16"/>sepositum tamen tempus aliquot haberent, quo
+          diligen<lb ed="#A" n="17" break="no"/>tius eorum contemplationi vacare liceret. Sic illam, a Paulo
+          <lb ed="#A" n="18"/>edocta, comnibus omnia facta est, vt omnes lucrifaceret, &amp;
+          <lb ed="#A" n="19"/>qui non possent adhuc solidum cibum capere, quod is
+          perfe<lb ed="#A" n="20" break="no"/>ctorum est, eos minime negligendos, verum tanquam paruum
+          <lb ed="#A" n="21"/>lis lac potum dandum esse putauit. Quo manifestius
+          au<lb ed="#A" n="22" break="no"/>tem fiat omnibus, quod ecclesia nullum nouit dierum
+          discri<lb ed="#A" n="23" break="no"/>men, vel ex tremendo sacrificio, quam missam vocamus,
+          cui<lb ed="#A" n="24" break="no"/>uis id collligere licebit, in qua natiuitatis, passionis,
+          mor<lb ed="#A" n="25" break="no"/>tis, resurrectionis, in caelum ascensionis, &amp; spiritus sancti
+          <lb ed="#A" n="26"/>missionis beneficia, nullo non die simul omnia
+          celebran<lb ed="#A" n="27" break="no"/>tur per totum terrarum orbem, quam late patet
+          Christia<lb ed="#A" n="28" break="no"/>na religio, nulla prorsus varietate. Etsi enim verba
+          muta<lb ed="#A" n="29" break="no"/>ri videmus, idque in iis tantum, quibus ad sacrificium hoc
+          <lb ed="#A" n="30"/>mentes praeparantur, cuius generis sunt Introitus,
+          Colle<lb ed="#A" n="31" break="no"/>ctae, Epistola, Graduale, Euangelium, Offerenda, Commu
+          <lb ed="#A" n="32"/>nio significationes tamen manent eaedem. Quae vero
+          li<lb ed="#A" n="33" break="no"/>turgiae potissima pars est, &amp; in quouis tota consistit,
+          Ca<lb ed="#A" n="34" break="no"/>non, Idem perpetuo legitur: vbi ad eundem semper
+          mo<lb ed="#A" n="35" break="no"/>dum praecipuorum Chrisi beneficiorum simul omnium fit ed
+          <lb ed="#A" n="36"/>memoratio, nihil vt ab Euangelio Missa differre videatur.
+          <lb ed="#A" n="37"/>quin ipsum potius Euangelium &amp; breuis quaedam
+          creden<lb ed="#A" n="38" break="no"/>dorum omnium non tam explicatio, quam quasi sub
+          ocu<lb ed="#A" n="39" break="no"/>los subiecta, ac fidelium ad recolendum praecipue passionis
+          <lb ed="#A" n="40"/>illud immensum beneficium sit excitatio. Quod ita
+          re<lb ed="#A" n="41" break="no"/>praesentatur in hoc sacro, vt recte a Cypriano dictum
+          sin<lb ed="#A" n="42" break="no"/>passionem esse Domini, sacrificium quod offerimus.
+          <pb ed="#A" n="10-v"/>
+          <lb ed="#A" n="1"/>Ex iis itaque, quae peraguntur in hoc sacro, facile cuiuis
+          <lb ed="#A" n="2"/>perspicuum esse potest, quod quotidie Christi natalem,
+          <lb ed="#A" n="3"/>quotidie parasceuen, quotidie pascha, quotidie in coelum
+          <lb ed="#A" n="4"/>ascensionem, quotidie pentecosten celebrat ecclesia. Sed
+          <lb ed="#A" n="5"/>quoniam haec non ita attenduntur ab omnibus,
+          rudio<lb ed="#A" n="6" break="no"/>ribus praesertim, qui minores etiam vocantur, ad eorum
+          <lb ed="#A" n="7"/>quoque captum communis nostra mater ecclesia demittere
+          <lb ed="#A" n="8"/>se dignata est, certis diebus instituendis, quibus eorum
+          at<lb ed="#A" n="9" break="no"/>tentionem excitaret. Quare nihil est, quod nobis
+          Iudais<lb ed="#A" n="10" break="no"/>mum quisquam obiiciat, qui non aliud hac dierum
+          obser<lb ed="#A" n="11" break="no"/>uatione, quam Christi beneficiorum conseruare
+          memori<lb ed="#A" n="12" break="no"/>am, &amp; ea rudibus etiam inculcare conamur, nemo vt sit, qui
+          <lb ed="#A" n="13"/>ignorantiam praetendere queat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 8</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 8</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="9-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1h6eg"><!-- c8 -->
+        <head xml:id="ho8ccf-a1h6eg-Hd1e99">Caput 8</head>
+        <head xml:id="ho8ccf-a1h6eg-Hd1e101" type="question-title">De Spiritu Sancto, deque Trinitate</head>
+        <p xml:id="ho8ccf-a1h6eg-d1e104">
+          <lb ed="#A" n="7"/>CAPVT OCTAVVM.
+          <lb ed="#A" n="8"/>De Spiritu sancto, deque Trinitate,
+        </p>
+        <p xml:id="ho8ccf-a1h6eg-d1e111">
+          <lb ed="#A" n="9"/>SEd nec eum articulum praetereundum putauit, quo
+          <lb ed="#A" n="10"/>nos in spiritum quoque sanctum credere profitemur.
+          <lb ed="#A" n="11"/>Nam &amp; is quemadmodum dudum promissus
+          Apo<lb ed="#A" n="12" break="no"/>stolis, tandem sit missus quinquagesimo die postquam
+          <lb ed="#A" n="13"/>Christus resurrexit, festiua solennitate, magnaque
+          cuncto<lb ed="#A" n="14" break="no"/>rum hilaritate repraesentat. Tunc indicans illud impletum
+          <lb ed="#A" n="15"/>esse, quod a Propheta dictum est de Christo. Ascendens
+          <lb ed="#A" n="16"/>in altum, captiuam duxit captiuitatem, dedit dona
+          homi<lb ed="#A" n="17" break="no"/>nibus.
+        </p>
+        <p xml:id="ho8ccf-a1h6eg-d1e133">
+          Quoniam vero &amp; illud credere necessarium est ei,
+          <lb ed="#A" n="18"/>qui saluus esse velit, tres personas vnum esse Deum, sanctis
+          <lb ed="#A" n="19"/>sunae quoque Trinitati festum diem dicauit: quo non
+          so<lb ed="#A" n="20" break="no"/>lum admoneri populus eius rei, verum etiam e superiori
+          <lb ed="#A" n="21"/>loco doceri posset. Recte autem octauo die post, quam
+          spi<lb ed="#A" n="22" break="no"/>ritus sanctus esset missus recolitur, festum hoc instituit,
+          <lb ed="#A" n="23"/>Nam antequam datus esset spiritus sanctus, confessio
+          Tri<lb ed="#A" n="24" break="no"/>nitatis celebrata non est, quod sine dono sancti spiritus, fi
+          <lb ed="#A" n="25"/>des illius haberi non potest: Quanuis sanctos Patriarchas
+          <lb ed="#A" n="26"/>&amp; Prophetas spiritu sancto afflatos, non omnino latuisse
+          <lb ed="#A" n="27"/>mysterium hoc Trinitatis, e multis scripturae locis
+          mani<lb ed="#A" n="28" break="no"/>festum est. Quo magis autem illud imprimeretur
+          menti<lb ed="#A" n="29" break="no"/>bus hominum, ita vt elabi facile non possit, instituit fideles eo
+          <lb ed="#A" n="30"/>clesia iam inde a pueris, simul vt essent e somno
+          expergefa<lb ed="#A" n="31" break="no"/>cti, vt surgentes e lecto, se cruce signarent, ac verba haec
+          <lb ed="#A" n="32"/>proferrent: In nomine patris, &amp; filii, &amp; spiritus sanctis
+          <lb ed="#A" n="33"/>quod ipsum similiter facerent cubitum euntes. Cum
+          dice<lb ed="#A" n="34" break="no"/>rent in nomine, non autem in nominibus,
+          admoneren<lb ed="#A" n="35" break="no"/>tur vnius Dei, qui quanuis trinus in personis, vnus tamen
+          <lb ed="#A" n="36"/>est in substantia: simul &amp; eius rei commonefierent, quod
+          <lb ed="#A" n="37"/>salutem nostram, quae crucis beneficio nobis obtigit, tota
+          <lb ed="#A" n="38"/>Trinitas est operata. Nam inseparabilia sunt opera
+          Tri<lb ed="#A" n="39" break="no"/>nitatis. Pater filio, sicut ipse filius testatur, calicem
+          passio<lb ed="#A" n="40" break="no"/>nis dedit, &amp; ipse filius animae suae in potestate sua
+          propi<lb ed="#A" n="41" break="no"/>nauit, sicut ipse ait: Potestatem habeo ponendi animam
+          mean<lb ed="#A" n="42" break="no"/>oblatus est enim quia ipse voluit: Et spiritus sanctus illi
+          <pb ed="#A" n="9-v"/>
+          <lb ed="#A" n="1"/>propinari fecit, Apostolo teste, qui dicit: quod Christus per
+          <lb ed="#A" n="2"/>spintum sanctum semet ipsum obtulit immaculatum Deo
+          <lb ed="#A" n="3"/>Haec est fides Catholica, quam vt paulo ante diximus, no
+          <lb ed="#A" n="4"/>scribendo neque praedicando modo, verumetiam annum ver
+          <lb ed="#A" n="5"/>tentem ita distribuendo, dies vt certi constituerentur, qui
+          <lb ed="#A" n="6"/>bus quasi ordine singuli articuli eorum praecipuus, quae de
+          <lb ed="#A" n="7"/>Christo cognoscenda sunt, non tam auribus, quam oculis
+          <lb ed="#A" n="8"/>fidelium exponerentur, sitiens nostrae salutis mater
+          eccle<lb ed="#A" n="9" break="no"/>sia, nos fideliter docere semper est conata, quod in eo
+          salu<lb ed="#A" n="10" break="no"/>tem nostram agi sciret,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

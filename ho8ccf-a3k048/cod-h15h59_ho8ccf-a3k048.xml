@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 80</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 80</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="272-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3k048"><!-- c80 -->
+        <head xml:id="ho8ccf-a3k048-Hd1e99">Caput 80</head>
+        <head xml:id="ho8ccf-a3k048-Hd1e101" type="question-title">De quarto praecepto</head>
+        <p xml:id="ho8ccf-a3k048-d1e104">
+          <lb ed="#A" n="27"/>CAPVT XXI.
+          <lb ed="#A" n="28"/>De quarto Praecepto
+        </p>
+        <p xml:id="ho8ccf-a3k048-d1e111">
+          <lb ed="#A" n="29"/><milestone ed="#A" unit="p" rend="initial"/> EDocti sumus in prima tabula, quemadmodum
+          di<lb ed="#A" n="30" break="no"/>ligere, pieque colere Deum &amp; ea fugere, quae a vero
+          <lb ed="#A" n="31"/>ipsius cultu auocare possent, oporteat: In poste
+          <lb ed="#A" n="32"/>riore, quomodo sit proximus diligendus, docemur
+          <lb ed="#A" n="33"/>Proximum autem existimare debemus omnem hominem
+          <lb ed="#A" n="34"/>sicut praeter alios a Basilio quoque legimus annotatum: Si
+          <lb ed="#A" n="35"/>quidem omnes inuicem proximi sumus, omnes cognatis
+          <lb ed="#A" n="36"/>fratres omnes ex eodem patre prognati sumus omnes. S.
+          <lb ed="#A" n="37"/>spiritualem quaeris, pater noster ille est, quem vno ore in
+          <lb ed="#A" n="38"/>uocantes dicimus omnes: Pater noster qui es in coelis.
+          Si<lb ed="#A" n="39" break="no"/>autem terrenam quaeris originem, Pater noster Addam,
+          ma<lb ed="#A" n="40" break="no"/>ter nostra terra est, ex eodem luto fabricati sumus omnes
+          <lb ed="#A" n="41"/>Itaque natura fratres sumus secundum carnem: sed &amp;
+          secun<lb ed="#A" n="42" break="no"/>dum spiritum fratres nati, vel potius regenerati sumus,
+          <pb ed="#A" n="273-r"/>
+          <lb ed="#A" n="1"/>rundem a primo homine sanguinem ducimus, eandem
+          <lb ed="#A" n="2"/>li Domino gratiam accipimus. Quae cum ita sint, non ea
+          <lb ed="#A" n="3"/>quae nostra sunt singuli, sed ea quae sunt aliorum consyde
+          <lb ed="#A" n="4"/>rare, non quod nobis ipsis, verum quod multis est vtile
+          quae<lb ed="#A" n="5" break="no"/>fere debemus. Reputet homo secum nomen suum vnde
+          <lb ed="#A" n="6"/>traxerit, ab humo vtique, quae nihil cuique accipit, sed omnia
+          <lb ed="#A" n="7"/>largitur omnibus, non hominibus modo, verum &amp;
+          bru<lb ed="#A" n="8" break="no"/>tis, dum in vsum omnium animantium diuersos fructus
+          <lb ed="#A" n="9"/>ministrat. Inde appellata humanitas, specialis &amp;
+          domesti<lb ed="#A" n="10" break="no"/>ca virtus, quam vel ipsa nos docere debet nostri corporis
+          <lb ed="#A" n="11"/>forma, membrorumque vsus. Nam &amp; nos omnes vnum con
+          <lb ed="#A" n="12"/>pus sumus in Christo, singuli autem alter alterius membra.
+          <lb ed="#A" n="13"/>Sicut igitur ipsa pro se inuicem solicita sunt membra, ad
+          <lb ed="#A" n="14"/>non modo non laedit vnum alterum, verumetiam pro
+          vi<lb ed="#A" n="15" break="no"/>rili sua succurrere laeso conatur. Sic &amp; nos alterum pro
+          al<lb ed="#A" n="16" break="no"/>tero solicitos esse, ac quoties necessitas postulat, inuicem
+          <lb ed="#A" n="17"/>subuenire oportet. Omnes itaque diligendi sunt, sed
+          quo<lb ed="#A" n="18" break="no"/>niam copiae singulorum paruae sunt, eorum autem qui iis
+          <lb ed="#A" n="19"/>egent, infinita est multitudo, delectus habendus est eorum,
+          <lb ed="#A" n="20"/>quibus benigne facias. Nam vt quisque nobis fuerit
+          coniun<lb ed="#A" n="21" break="no"/>ctissimus, ita plurimum est in eum benignitatis
+          conferen<lb ed="#A" n="22" break="no"/>dum. Quapropter hanc probandam esse putat
+          liberalita<lb ed="#A" n="23" break="no"/>tem Ambrosius, vt proximos seminis tui ne despicias, si
+          <lb ed="#A" n="24"/>egere cognoscas. Melius est enim, inquit, vt ipse subuenias
+          <lb ed="#A" n="25"/>tis, quibus pudor est ab aliis sumptum deposcere, aut
+          ali<lb ed="#A" n="26" break="no"/>cui postulare subsidium necessitati. Paulus quoque: Si quis,
+          <lb ed="#A" n="27"/>inquit, suorum &amp; maxime domesticorum curam non
+          ha<lb ed="#A" n="28" break="no"/>bet, fidem negauit, &amp; est infideli deterior. Inter suos autem
+          <lb ed="#A" n="29"/>&amp; domesticos iure suo primum locum, sibi parentes
+          ven<lb ed="#A" n="30" break="no"/>dicant, per quos factum est, vt lucem hanc aspiceremus.
+          <lb ed="#A" n="31"/>In hos ergo cumprimis nos esse beneficos oportet, vt gra
+          <lb ed="#A" n="32"/>tos nos, quae ab illis accepimus, beneficiorum esse
+          decla<lb ed="#A" n="33" break="no"/>remus. Et hoc est quod praecipit Dominus, dicens:
+          Ho<lb ed="#A" n="34" break="no"/>nora patrem tuum &amp; matrem tuam, vt sis longaeuus super
+          <lb ed="#A" n="35"/>terram, quam Dominus Deus dabit tibi. Quo quidem
+          <lb ed="#A" n="36"/>praecepto, non solum vt parentes debita veneratione
+          pro<lb ed="#A" n="37" break="no"/>sequamur, &amp; eis dicto simus audientes, admonemur:
+          ve<lb ed="#A" n="38" break="no"/>rumetiam si quibus rebus opus habuerint, vt illis benigne
+          <lb ed="#A" n="39"/>suppeditemus, &amp; eos vicissim alamus, quorum cura singu
+          <lb ed="#A" n="40"/>lari nutriti sumus &amp; educati, iubemur. Honos enim in
+          <lb ed="#A" n="41"/>scripturis, quod annotauit etiam Hieronymus, non ille
+          so<lb ed="#A" n="42" break="no"/>lum intelligitur, qui in salutationibus &amp; officiis deferendis,
+          <pb ed="#A" n="273-v"/>
+          <lb ed="#A" n="1"/>verum &amp; ille, qui consistit in elecmosynis ac munerum
+          <lb ed="#A" n="2"/>oblationibus: vt honorare sit idem, quod liberalitate
+          pro<lb ed="#A" n="3" break="no"/>sequi. Sic in Prouerbiis legimus. Honora Dominum de
+          <lb ed="#A" n="4"/>tua substantia. Et apud Tobiam. Cum ex his quibus
+          ho<lb ed="#A" n="5" break="no"/>noratus fuerat a rege, habuisset decem talenta. Et apud
+          <lb ed="#A" n="6"/>Paulum: Viduas honora, quae vere viduae sunt. Ac paulo
+          <lb ed="#A" n="7"/>post: Qui bene praesunt presbyteri, duplici honore digni
+          <lb ed="#A" n="8"/>habeantur, hoc est, non solum illis debita veneratio
+          prae<lb ed="#A" n="9" break="no"/>stari, verum etiam vitae necessaria debent suppeditari.
+          Pa<lb ed="#A" n="10" break="no"/>rentum autem nomine, non ii solum accipiendi sunt, ex
+          <lb ed="#A" n="11"/>quibus prognati secundum carnem sumus, verumetiam
+          <lb ed="#A" n="12"/>omnes qui praesunt, siue sint pastores &amp; Episcopi, siue
+          Re<lb ed="#A" n="13" break="no"/>ges &amp; Principes, aut quicunque tandem alii magistratus
+          <lb ed="#A" n="14"/>Omnis enim potestas a Deo est, &amp; qui resistit potestati,
+          <lb ed="#A" n="15"/>Dei ordinationi resistit.
+        </p>
+        <p xml:id="ho8ccf-a3k048-d1e273">
+          Quamobrem vtrique potestati
+          du<lb ed="#A" n="16" break="no"/>plex hic honos debetur, &amp; venerationis &amp; subsidii. Cui
+          <lb ed="#A" n="17"/>tributum, tributum, dicit Paulus, cui vectigal,
+          vectigal<lb ed="#A" n="18" break="no"/>cui timorem, timorem, cui honorem, honorem: nemini
+          <lb ed="#A" n="19"/>quicquam debeatis, nisi vt inuicem diligatis. Peccant
+          igi<lb ed="#A" n="20" break="no"/>tur contra praeceptum hoc, qui vel decimas negant Episco
+          <lb ed="#A" n="21"/>pis &amp; Pastoribus, vel tributis &amp; vectigalibus Principes
+          <lb ed="#A" n="22"/>suos fraudant, vel vtrisque dicto audientes non sunt, quum
+          <lb ed="#A" n="23"/>etiam illis discolis obedire Petrus iubeat. Magis etiam
+          pec<lb ed="#A" n="24" break="no"/>cant, qui non ipsi modo non honorant, verum &amp; alios ab
+          <lb ed="#A" n="25"/>honorandis illis auocant, dum illos iudicant, a quibus
+          ip<lb ed="#A" n="26" break="no"/>sos iudicatos oportuit, dum eorum existimationi
+          detra<lb ed="#A" n="27" break="no"/>hunt, dum falsis etiam plerunque criminationibus famam
+          <lb ed="#A" n="28"/>eorum proscindunt &amp; lacerant, dum quicquid ab illis
+          sta<lb ed="#A" n="29" break="no"/>tuitur, id secus interpretantur, &amp; quae non intelligunt, ea
+          <lb ed="#A" n="30"/>saepe reprehendunt, neque ferre possunt si qui cum potestate
+          <lb ed="#A" n="31"/>versantur, fuerint in aliquo delicto prae occupati, cum si ipsi
+          <lb ed="#A" n="32"/>eodem loco essent, multo fortasse grauiora patrarent.
+          Fe<lb ed="#A" n="33" break="no"/>renda sunt a subditis, eorum qui praesunt errata: Non est
+          <lb ed="#A" n="34"/>ab oue iudicandus pastor diuino pleraque iudicio sunt
+          re<lb ed="#A" n="35" break="no"/>seruanda: Dominus enim est, cui stat aut cadit, Multo gra
+          <lb ed="#A" n="36"/>uissime vero peccant contra praeceptum hoc, qui eos, ex
+          qui<lb ed="#A" n="37" break="no"/>bus interrogare sunt iussi de semiris antiquis, cum ipsi con
+          <lb ed="#A" n="38"/>temnunt, tum in aliorum contemptum adducere
+          conan<lb ed="#A" n="39" break="no"/>tur: quicquid sancitum ab illis, &amp; tot seculorum vsu in Ec
+          <lb ed="#A" n="40"/>cles a Dei receptum est, &amp; approbatum id vno traditionum
+          <lb ed="#A" n="41"/>humanarum nomine reiiciendum esse docent. Sanctos pa
+          <lb ed="#A" n="42"/>tres omnes pro nihilo ducunt, sibiipsis nihil non tribuunt,
+          <pb ed="#A" n="274-r"/>
+          <lb ed="#A" n="1"/>illis contra nihil non detrahunt. Rident ieiunia, rident ve
+          <lb ed="#A" n="2"/>ra, rident sacrificia, quin &amp; ipsa ludibrio sunt Sacramenta.
+          <lb ed="#A" n="3"/>Denique quaecunque mille quingentis annis &amp; deinceps, per
+          <lb ed="#A" n="4"/>Apostolos, &amp; eorum successores, &amp; per oecumenica
+          Con<lb ed="#A" n="5" break="no"/>cilia pie sunt instituta, cachinnis omnia prosequuntur.
+        </p>
+        <p xml:id="ho8ccf-a3k048-d1e348">
+          <lb ed="#A" n="6"/>Atqui non ita nos docet scriptura. Interroga, inquit, pa
+          <lb ed="#A" n="7"/>trem tuum, &amp; annuntiabit tibi, maiores tuos &amp; dicent tibi:
+          <lb ed="#A" n="8"/>Ne transgrediaris terminos, quos posuerunt patres tui,
+          <lb ed="#A" n="9"/>Qui dissipat sepem, mordebit eum coluber. Quam grauiter
+          <lb ed="#A" n="10"/>autem istos momordit coluber, qui dissipare spem, hoc est
+          <lb ed="#A" n="11"/>omnia Ecclesiae dogmata, omnes institutiones ab
+          Aposto<lb ed="#A" n="12" break="no"/>lis &amp; Apostolicis viris fundatas, conuellere sunt &amp; labefa
+          <lb ed="#A" n="13"/>ctare conati, qui pleraque non aliam ob causam contemnunt
+          <lb ed="#A" n="14"/>&amp; reiiciunt, quam quod ita sunt a sanctis patribus quamuis
+          <lb ed="#A" n="15"/>summa ratione constituta? verbi gratia: visum est patribus
+          <lb ed="#A" n="16"/>&amp; ab ipsis etiam Apostolis institutum, vt sextis feriis a car
+          <lb ed="#A" n="17"/>nibus abstineretur, quo grata fieret eius rei recordatio,
+          <lb ed="#A" n="18"/>quomodo verbum caro pro nobis factum, sexta feria gra
+          <lb ed="#A" n="19"/>uae crucis pertulit supplicium, &amp; mortem acerbissimam
+          op<lb ed="#A" n="20" break="no"/>periuit. Illi in contemptum patrum, nulla prorsus
+          necessi<lb ed="#A" n="21" break="no"/>tate cogente, eo die carnibus vescuntur. Denique quicquid
+          <lb ed="#A" n="22"/>a sanctis patribus, quacunque tandem de re, quamlibet pie
+          <lb ed="#A" n="23"/>constitutum est, contra id omne pedibus &amp; manibus
+          ob<lb ed="#A" n="24" break="no"/>nixe venire conantur. Quid est, si hoc non est grauissimo
+          <lb ed="#A" n="25"/>contra praeceptum istud peccare, quo patrem &amp; matrem
+          <lb ed="#A" n="26"/>honorare iubemur? Audi fili mi, dicit Spiritus Dei,
+          dis<lb ed="#A" n="27" break="no"/>ciplinam patris tui, &amp; ne dimittas legem matris tuae,
+          <lb ed="#A" n="28"/>Pater noster Deus est, huius disciplinam vt audiamus
+          <lb ed="#A" n="29"/>praecipit.
+        </p>
+        <p xml:id="ho8ccf-a3k048-d1e403">
+          Sed nunquid hoc satis fuerit, si nos diligere
+          <lb ed="#A" n="30"/>Deum, si praeceptis eius obtemperare, si disciplinam eius
+          <lb ed="#A" n="31"/>audire dicamus? Minime gentium, Mater nostra
+          Eccle<lb ed="#A" n="32" break="no"/>sia est: huius legem si dimiserimus, si morem illi non
+          ges<lb ed="#A" n="33" break="no"/>serimus, si nos ab illius vnitate segregauerimus, frustra
+          <lb ed="#A" n="34"/>nos audiuisse patris disciplinam gloriabimur. Erimus enim
+          <lb ed="#A" n="35"/>ii, quos vocat Propheta filios desertores, de quibus etiam
+          <lb ed="#A" n="36"/>alio loco scriptum est: Filii alieni mentiti sunt mihi: Nam
+          <lb ed="#A" n="37"/>talia omnia, sic hoc quoque praeclare Cyprianus:
+          Ec<lb ed="#A" n="38" break="no"/>clesia, inquit est, quae nos Deo seruat, quae filios
+          regno<lb ed="#A" n="39" break="no"/>quos generauit, assignat: quisquis ab Ecclesia
+          segrega<lb ed="#A" n="40" break="no"/>tus adulterae iungitur, a promissis Ecclesiae separatur nec
+          <lb ed="#A" n="41"/>pertinet ad Christi praemia qui relinquit Ecclesiam
+          Chri<lb ed="#A" n="42" break="no"/>sti. Alienus est, prophanus est, hostis est, habere iam non
+          <pb ed="#A" n="274-v"/>
+          <lb ed="#A" n="1"/>potest Deum patrem, qui Ecclesiam non habet matrem.
+          <lb ed="#A" n="2"/>Sic igitur patrem nostrum Deum honoremus, vt suo
+          ma<lb ed="#A" n="3" break="no"/>trem Ecclesiam honore non fraudemus. Sic patris nos
+          <lb ed="#A" n="4"/>disciplinam audiamus, vt matris quoque legem ne
+          dimitta<lb ed="#A" n="5" break="no"/>mus: Quam qui non audit, cum Deus haberi vult
+          tan<lb ed="#A" n="6" break="no"/>quam Ethnicum &amp; Publicanum, non agnoscit cum pro
+          <lb ed="#A" n="7"/>filio, qui quam sibi sanguine suo mundatam copulauit,
+          <lb ed="#A" n="8"/>sponsae suae Ecclesiae non obtemperat, cuius contemptus,
+          <lb ed="#A" n="9"/>ad patris contemptum redundat. Sic enim loquitur Deus
+          <lb ed="#A" n="10"/>Qui vos audit, ine audit: qui vos spernit, me spernit. Et
+          <lb ed="#A" n="11"/>ad Samuelem: Non te spreuerunt, sed me, ne regem super
+          <lb ed="#A" n="12"/>illos. Nunquam a disciplina patris, lex matris, nunquam
+          <lb ed="#A" n="13"/>a lege matris disciplina patris dissidet. Non est
+          Euange<lb ed="#A" n="14" break="no"/>lium vbi non est Ecclesia: Non est Ecclesia, vbi non est
+          <lb ed="#A" n="15"/>Euangelium. Non quod scriptura non haberi possit extra
+          <lb ed="#A" n="16"/>Ecclesiam, de qua ludos gloriatos, cuius testimonio
+          Dia<lb ed="#A" n="17" break="no"/>bolum &amp; membra eius haereticos &amp; schismaticos, ita
+          fre<lb ed="#A" n="18" break="no"/>quenter vsos legimus, vt eam eiusque sanum intellectum
+          <lb ed="#A" n="19"/>sibi solis proprie vendicare conati fuerint:
+        </p>
+        <p xml:id="ho8ccf-a3k048-d1e477">
+          Sed quod
+          vi<lb ed="#A" n="20" break="no"/>uum Euangelium ipsa est Ecclesia, extra quam pelles
+          ha<lb ed="#A" n="21" break="no"/>beri, siue chartae possunt, atramentum haberi potest, litere
+          <lb ed="#A" n="22"/>siue characteres quibus conscriptum est Euangelium,
+          ha<lb ed="#A" n="23" break="no"/>beri possunt: caeterum ipsum Euangelium extra Ecclesiam
+          <lb ed="#A" n="24"/>non habetur, nec haberi potest. Quae causa est, quod
+          Apo<lb ed="#A" n="25" break="no"/>stoli Spiritu sancto pleni, cum symbolum tradidissent,
+          nus<lb ed="#A" n="26" break="no"/>quam proposuerunt: credo sancta Biblia, aut sanctum Euan
+          <lb ed="#A" n="27"/>gelium, sed credo dixerunt sanctam Ecclesiam. In ea sunt
+          <lb ed="#A" n="28"/>Biblia, in ea est Euangelium, in ea sanus est Euangelii
+          in<lb ed="#A" n="29" break="no"/>tellectus, quin ipsa potius est Euangelium scriptum non
+          <lb ed="#A" n="30"/>atramento. sed Spiritu Dei viui: non in tabulis lapideis,
+          <lb ed="#A" n="31"/>sed in tabulis cordis canalibus: Hoc est illud verbum
+          <lb ed="#A" n="32"/>Domini, quod Propheta manere dixit in aeternum, de
+          <lb ed="#A" n="33"/>quo Christus loquitur: Coelum &amp; terra transibunt,
+          ver<lb ed="#A" n="34" break="no"/>ba autem mea non transibunt: Nam quae calamo sunt in
+          <lb ed="#A" n="35"/>charta scripta, transire possunt, possunt aliquo casu
+          peri<lb ed="#A" n="36" break="no"/>re: quemadmodum libros legis Dei combustos legimus,
+          <lb ed="#A" n="37"/>quos tamen Esdras postea, qui eodem spiritu quo
+          an<lb ed="#A" n="38" break="no"/>te scripti fuerant, plenus fuit, resutuit, sicut a Eusebius
+          <lb ed="#A" n="39"/>b Chrysostomus, c. Augustinus, d. Peda, &amp; alii memoria
+          <lb ed="#A" n="40"/>prodiderunt. Quae vero scripta sunt Spiritu Dei
+          viui<lb ed="#A" n="41" break="no"/>non in tabulis lapideis, vel in chartis papyraceis, aut
+          pe<lb ed="#A" n="42" break="no"/>conis, verum in tabulis cordis canalibus, ea nulla
+          ra<pb ed="#A" n="275-r"/><lb ed="#A" n="1" break="no"/>tione possunt interire.
+        </p>
+        <p xml:id="ho8ccf-a3k048-d1e533">
+          Quamobrem honoremus patrem
+          <lb ed="#A" n="2"/>nostrum Deum, honoremus &amp; matrem nostram
+          Eccle<lb ed="#A" n="3" break="no"/>siam, vtrique morem geramus, vtrique dicto simus audientes,
+          <lb ed="#A" n="4"/>Etenim cum Dei filio, carnem nostram induto, corpus
+          <lb ed="#A" n="5"/>vnum Ecclesia mater nostra facta est. Quare qui non
+          au<lb ed="#A" n="6" break="no"/>dit hanc, Deum non audit, Deo detrahit, quisquis illi de
+          <lb ed="#A" n="7"/>trahit: si quidem duo sunt in carne vna, Christus &amp;
+          Ec<lb ed="#A" n="8" break="no"/>clesia. Mentitur quisquis audire se patris disciplinam
+          ia<lb ed="#A" n="9" break="no"/>ctat, si matris legem dimittit: nam nisi doctus a matre fue
+          <lb ed="#A" n="10"/>rit Ecclesia, quae patris disciplina sit, ignorabit. Teneamus
+          <lb ed="#A" n="11"/>igitur illam, quae firmamentum est, &amp; columna veritatis,
+          <lb ed="#A" n="12"/>neque cuiusquam authoritate nos ab ea auelli patiamur.
+          <lb ed="#A" n="13"/>quamlibet is sibi cautus &amp; prudens videatur, quamlibet
+          <lb ed="#A" n="14"/>etiam multa scripturarum proferat oracula, quae non in
+          <lb ed="#A" n="15"/>legendo, sed in intelligendo consistunt. Sahanae sunt illae
+          <lb ed="#A" n="16"/>voces: Deponite quicquid armaturae suppeditant.
+          Ortho<lb ed="#A" n="17" break="no"/>doxi veteres, Theologorum scholae, authoritas
+          concilio<lb ed="#A" n="18" break="no"/>rum &amp; pontificum, consensus tot seculorum, ac totius
+          po<lb ed="#A" n="19" break="no"/>puli Christiani nihil recipimus, nisi scripturas sed sic, vt
+          <lb ed="#A" n="20"/>penes nos solos sit certa authoritas interpretandi: quod
+          <lb ed="#A" n="21"/>nos interpretamur, hoc sensit Spiritus sanctus, quod
+          ad<lb ed="#A" n="22" break="no"/>ferunt alii, quamuis magni, quamuis multi, a spiritu
+          Sa<lb ed="#A" n="23" break="no"/>thanae &amp; alienata mente profectum est? Quod
+          Ortho<lb ed="#A" n="24" break="no"/>doxi docuerunt, quod authoritas Ecclesiae tradidit, quod
+          <lb ed="#A" n="25"/>populus Christianus ampletus est, quod scholae
+          defen<lb ed="#A" n="26" break="no"/>dunt, exitiabile venenum est Sathanae, quod ego doceo
+          <lb ed="#A" n="27"/>spiritus est vitae: Credite in scripturis nihil prorsus esse
+          <lb ed="#A" n="28"/>obscuritas, vel quod egeat iudice: aut vt omnes
+          caecu<lb ed="#A" n="29" break="no"/>tiant, ego non caecutio, nam conscius mihi sum me
+          habe<lb ed="#A" n="30" break="no"/>re Spiritum Christi, quo possum de omnibus iudicare,
+          <lb ed="#A" n="31"/>nemo de me? Nolo indicium, sed requiro obsequium:
+          <lb ed="#A" n="32"/>Neque quenquam vel tantillum moueat multitudo,
+          ma<lb ed="#A" n="33" break="no"/>gnitudo, latitudo, profunditas, miracula sanctitas,
+          Eccle<lb ed="#A" n="34" break="no"/>siae sanctorum, omnes perierunt, si senserunt vt scripserunt,
+          <lb ed="#A" n="35"/>nisi qui forte resipuerunt ante supremum vite diem: Qui
+          <lb ed="#A" n="36"/>meis probationibus diffidunt, aut caret sensu communi,
+          <lb ed="#A" n="37"/>aut blasphemiam committunt in Spiritum sanctum. Et
+          <lb ed="#A" n="38"/>tamen per quod idolum hec Sathanas loquutus est, non
+          <lb ed="#A" n="39"/>continua quidem oratione, sed sparsim in multis locis, in
+          <lb ed="#A" n="40"/>illo omni impiae doctrinae genere referto libello, De
+          ser<lb ed="#A" n="41" break="no"/>uo arbitrio, illud nunc pro Deo colit magna pars
+          Germa<lb ed="#A" n="42" break="no"/>nis: quod ille sentit, Dei verbum &amp; purum Euangelium vocatur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

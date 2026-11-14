@@ -1,0 +1,2094 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 41</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 41</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="92-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2ipct"><!-- c41 -->
+        <head xml:id="ho8ccf-a2ipct-Hd1e99">Caput 41</head>
+        <head xml:id="ho8ccf-a2ipct-Hd1e101" type="question-title">Quod hoc sacramentum recte dicatur sacrificium</head>
+        <p xml:id="ho8ccf-a2ipct-d1e104">
+          <lb ed="#A" n="30"/>CAPVT XLI
+          <lb ed="#A" n="31"/>Quod hoc sacramentum recte dicatur sacriftium.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e111">
+          <lb ed="#A" n="32"/>INter omnia Sacramenta nullum est hoc vno
+          Eucha<lb ed="#A" n="33" break="no"/>risiae Sacramento excellentius: quam etiam ob
+          cau<lb ed="#A" n="34" break="no"/>sam a Dionysio Sacramentum, Sacramentorum &amp; ho
+          <lb ed="#A" n="35"/>sua vocatur hostiarum. Nam cum ta sunt, quibus rite
+          <lb ed="#A" n="36"/>Deus colitur, fides, spes, &amp; charitas, baptismus fidei, ab
+          co<lb ed="#A" n="37" break="no"/>enim fideles appellamur: confirmatio spei, per illud enim
+          <lb ed="#A" n="38"/>erigitur spes nostra, tutore nobis dato spiritu sancto:
+          Eu<lb ed="#A" n="39" break="no"/>charistia vero charitatis est Sacramentum, quod in eo
+          re<lb ed="#A" n="40" break="no"/>colimus, quanta fuerit charitas Dei &amp; domini nostri Iesu
+          <lb ed="#A" n="41"/>Christi erga nos, qui dilectam animam suam dedit in ma
+          <pb ed="#A" n="92-v"/>
+          <lb ed="#A" n="1"/>nus inimicorum suorum, ac semet ipsum tradidit
+          oblatio<lb ed="#A" n="2" break="no"/>nem &amp; hostiam Deo patri pro nobis, vt sanguine suo nos
+          <lb ed="#A" n="3"/>emundaret ab operibus mortuis, ac vicissim charitate
+          er<lb ed="#A" n="4" break="no"/>ga tam pium &amp; beneficum seruatorem nostrum
+          accendi<lb ed="#A" n="5" break="no"/>mur, omnia &amp; facere, &amp; pati parati, dum gratos nos &amp;
+          me<lb ed="#A" n="6" break="no"/>mores tanti beneficii praestare possimus. Quare quanto
+          <lb ed="#A" n="7"/>est excellentior charitas, quam sit fides &amp; spes, tanto
+          prae<lb ed="#A" n="8" break="no"/>stat hoc Sacramentum aliis omnibus, quod non modo
+          <lb ed="#A" n="9"/>significat &amp; confert gratiam sicut alia Sacramenta, sed
+          <lb ed="#A" n="10"/>eum ipsum, qui fons est &amp; largitor omnis gratiae vere in
+          <lb ed="#A" n="11"/>se continet, dominum nostrum Iesum Christum.
+          Intelli<lb ed="#A" n="12" break="no"/>git hoc Satanas, quod nullius Sacramenti dignitas maior
+          <lb ed="#A" n="13"/>est vel vtilitas: proinde nusquam etiam grauius quam in
+          <lb ed="#A" n="14"/>hoc Sacramento fideles tentat, quod aut sublatum ex om
+          <lb ed="#A" n="15"/>ni hominum memoria, aut certe debito honore spoliatum
+          <lb ed="#A" n="16"/>ac prorsus contemptum esse cupit. Qua tamen in re, vt
+          <lb ed="#A" n="17"/>paulo ante diximus, nihil agit festinanter, sed illud
+          moli<lb ed="#A" n="18" break="no"/>tur ante omnia, vt a Christo, &amp; ab eius corpore Ecclesia
+          <lb ed="#A" n="19"/>segreget homines, quo segregatos facilius eo quo
+          cogi<lb ed="#A" n="20" break="no"/>tat perducat.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e181">
+          Itaque primum iniicit altercationem de
+          spe<lb ed="#A" n="21" break="no"/>ciebus, vt persuadeat hominibus, non hoc amplectendum
+          <lb ed="#A" n="22"/>esse, quod visum est Ecclesiae vniuersae, neque illius, sed
+          pri<lb ed="#A" n="23" break="no"/>uato sensu scripturas interpretari oportere: quod postea
+          <lb ed="#A" n="24"/>quam obtinuit, iam reliqua minore negotio persuadet,
+          <lb ed="#A" n="25"/>Nihil autem aeque conatibus eius obstat, atque iugis
+          recorda<lb ed="#A" n="26" break="no"/>tio sacrificii illius, quo semet ipsum patri suo coelesti
+          Chri<lb ed="#A" n="27" break="no"/>stus in ara crucis hostiam obtulit pro peccatis nostris:
+          vi<lb ed="#A" n="28" break="no"/>det illius virtuti se resistere nequaquam posse, quamobrem
+          <lb ed="#A" n="29"/>illud oppugnat maxime: Neque tamen aperte, verum astute
+          <lb ed="#A" n="30"/>prorsus &amp; callid. Praedicationem illius permittit, a reprae
+          <lb ed="#A" n="31"/>sentatione tamen abstineri prorsus vult, quod ea sublata,
+          <lb ed="#A" n="32"/>fore intelligit, vt praedicatio quoque succedente tempore
+          lan<lb ed="#A" n="33" break="no"/>guescat.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e213">
+          Quamobrem hic neruos suos omnes exerit: neque
+          <lb ed="#A" n="34"/>satis habet omnia dixisse, quibus persuadeat non esse:
+          <lb ed="#A" n="35"/>Christo aut Sacerdotium, aut sacrificium vllum institutum,
+          <lb ed="#A" n="36"/>verum affingit Ecclesiae multa, quasi ea sentiat &amp; doceat
+          <lb ed="#A" n="37"/>de hoc tremedo sacrificio, quae ne cogitare quidem illi in
+          <lb ed="#A" n="38"/>mentem venit vnquam. Quare quae sit Ecclesiae hac de re
+          sen<lb ed="#A" n="39" break="no"/>tentia, &amp; quam multa, quam falso illi per membra suam
+          Sa<lb ed="#A" n="40" break="no"/>tanas impingat, de eo nonnihil disserendum esse
+          putaui<lb ed="#A" n="41" break="no"/>mus. Illud itaque scire inprimis oportet, quod cum diuersae
+          <lb ed="#A" n="42"/>sint res, quarum per hoc Sacramentum admonemur,
+          di<pb ed="#A" n="93-r"/><lb ed="#A" n="1" break="no"/>uersae sunt etiam illius appellationes. Nam quorum
+          admo<lb ed="#A" n="2" break="no"/>nemur, partim praeterita sunt, partim praesentia, partim fu
+          <lb ed="#A" n="3"/>tura Admonemur praeteritae Christi passionis, quae fuit
+          <lb ed="#A" n="4"/>longe gratissimum Deo sacrificium, quo nos illi Deo
+          pa<lb ed="#A" n="5" break="no"/>tri suo reconciliauit, pro peccatis nostris morte sua satisfe
+          <lb ed="#A" n="6"/>scit, ac non modo remissionem peccatorum nostrorum
+          no<lb ed="#A" n="7" break="no"/>bis meruit, verumetiam dignos nos fecit in sortem partis
+          <lb ed="#A" n="8"/>sanctorum, dignos fecit, qui in filios eius &amp; haeredes ad
+          <lb ed="#A" n="9"/>optaremur. Atque hac ratione vocatur hoc Sacramentum
+          <lb ed="#A" n="10"/>sacrificium. Sic enim a Cypriano dictum est. Passio Christi,
+          <lb ed="#A" n="11"/>est sacrificium quod offerimus. Vocatur etiam Eucharistia
+          <lb ed="#A" n="12"/>hoc est gratiarum actio, quod in hoc sacrificio grata quadam
+          <lb ed="#A" n="13"/>recordatione prosequimur, cum alia omnia, tum praesertim
+          <lb ed="#A" n="14"/>immensum illud redemptionis nostrae beneficium.
+          Admo<lb ed="#A" n="15" break="no"/>nemur praesentis vnitatis, quam hoc Sacramentum efficit,
+          <lb ed="#A" n="16"/>atque ita vocatur Synaxis graece, latine communio, quod per
+          <lb ed="#A" n="17"/>illud, sicat a Damasceno traditum est, Christo
+          communi<lb ed="#A" n="18" break="no"/>camus, carnis eius &amp; diuinitatis participes efficimur, ac
+          si<lb ed="#A" n="19" break="no"/>cut cum illo, ita ipsi etiam inter nos vnum reddimur, vt
+          <lb ed="#A" n="20"/>simus omnes vnum corpus sub vno capite Christo, iuxta
+          <lb ed="#A" n="21"/>illud quod a Paulo dictum est: Vnum corpus, vnus panis
+          <lb ed="#A" n="22"/>multi sumus, qui de vno pane participamus.
+          Admone<lb ed="#A" n="23" break="no"/>mur postremo eius quod futurum est, quod sicut in hoc
+          <lb ed="#A" n="24"/>Sacramento Christo coniungimur &amp; eo fruimur, non in
+          <lb ed="#A" n="25"/>sua, sed in panis &amp; vini specie, ita posteaquam qui non ha
+          <lb ed="#A" n="26"/>bemus hic manentem ciuitatem, verum aduenae sumus a
+          <lb ed="#A" n="27"/>peregrini, ex huius vitae diuersorio in coelestem illam
+          pa<lb ed="#A" n="28" break="no"/>triam, ad quam anhelamus, peruenerimus, non iam
+          am<lb ed="#A" n="29" break="no"/>plius per speculum &amp; in aenigmate, sed facie ad faciem
+          vi<lb ed="#A" n="30" break="no"/>debimus eum sicuti est, atque illius aspectu satiabimur, iux
+          <lb ed="#A" n="31"/>ta illud quod scriptum est, Satiabor cum apparuerit
+          glo<lb ed="#A" n="32" break="no"/>ria tua. Hac ratione vocatur viaticum, quod viam nobi
+          <lb ed="#A" n="33"/>praebet eo perueniendi, quandoquidem in se vere
+          conti<lb ed="#A" n="34" break="no"/>net cum, qui via nostra est, dominum nostrum Iesum
+          <lb ed="#A" n="35"/>Christum: Qui etiam est ostium illud, per quod solum
+          <lb ed="#A" n="36"/>&amp; non per aliud, ad coelestem illam gloriam ingressus
+          no<lb ed="#A" n="37" break="no"/>bis patet. Vt autem intelligi possit qua ratione
+          sacrifi<lb ed="#A" n="38" break="no"/>cium vocetur, paucis non capitis nostri somnia, neque
+          <lb ed="#A" n="39"/>cordis nostri visiones, verum quae doctissimis
+          grauissi<lb ed="#A" n="40" break="no"/>misque viris iam inde a tot seculis ea de re visa sunt,
+          enar<lb ed="#A" n="41" break="no"/>rabimus. Inter quos quum Principem locum teneat
+          Au<lb ed="#A" n="42" break="no"/>gustinus, is vbi sacrificium definit, in haec verba scribit:
+          <pb ed="#A" n="93-v"/>
+          <lb ed="#A" n="1"/>Sacrificium visibile, inuisibilis sacrissen Sacramentum, id
+          <lb ed="#A" n="2"/>est sacrum signum est.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e334">
+          Quoniam vero erant ipsius quoque
+          <lb ed="#A" n="3"/>seculo, qui nullum externum &amp; visibile sacrificium esse
+          <lb ed="#A" n="4"/>oportere in Ecclesia Dei dicerent, contra hos quoque his
+          <lb ed="#A" n="5"/>verbis loquitur: Qui vero putant haec visibilia sacrificia
+          <lb ed="#A" n="6"/>diis aliis congruere, illi vero tanquam inuisibili
+          inuisibi<lb ed="#A" n="7" break="no"/>lia, &amp; maiori maiora, meliorique meliora, qualia sunt purae
+          <lb ed="#A" n="8"/>mentis &amp; bonae voluntatis officia: profecto nesciunt haec
+          <lb ed="#A" n="9"/>ita esse signa illorum, sicut verba sonantia signa sunt
+          re<lb ed="#A" n="10" break="no"/>rum. Quocirca sicut orantes atque laudantes, ad eum
+          diri<lb ed="#A" n="11" break="no"/>gimus significantes voces, cui res ipsas in corde quas sig
+          <lb ed="#A" n="12"/>nificamus offerimus: ita sacrificantes non alteri visibile
+          <lb ed="#A" n="13"/>sacrificium offerendum esse nouerimus, quam illi, cuius
+          <lb ed="#A" n="14"/>in cordibus nostris inuisibile sacrificium nos ipsi esse
+          de<lb ed="#A" n="15" break="no"/>bemus. Ac paulo post, de nostro sacrificio mentionem fa
+          <lb ed="#A" n="16"/>ciens: Verus, inquit, ille mediator (in quantum formam
+          <lb ed="#A" n="17"/>serui accipiens mediator effectus est Dei &amp; hominum
+          ho<lb ed="#A" n="18" break="no"/>mo Christus Iesus) quum in forma Dei sacrificium cum
+          <lb ed="#A" n="19"/>patre sumat, cum quo &amp; vnus Deus est, tamen in forma
+          <lb ed="#A" n="20"/>serui sacrificium maluit esse, quam sumere per hoc &amp;
+          Sa<lb ed="#A" n="21" break="no"/>cerdos est, ipse offerens, ipse &amp; oblatio: cuius rei Sacramen
+          <lb ed="#A" n="22"/>tum quotidianum esse voluit Ecclesiae sacrificium: quum
+          <lb ed="#A" n="23"/>ipsius corporis ipse sit caput, &amp; ipsius capitis ipsa sit
+          cor<lb ed="#A" n="24" break="no"/>pus, tam ipsa per ipsum, quam ipse per ipsam succus of
+          <lb ed="#A" n="25"/>ferri. Huius veri sacrificii multiplicia vanaque signa erant
+          <lb ed="#A" n="26"/>sacrificia prisca sanctorum, cum hoc vnum per multa
+          fi<lb ed="#A" n="27" break="no"/>guraretur, tanquam multis verbis res vna diceretur, vt
+          si<lb ed="#A" n="28" break="no"/>ne fastidio multum commendaretur. Huic summo veroque
+          <lb ed="#A" n="29"/>sacrificio, cuncta sacrificia falsa cesserunt.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e395">
+          Ex his Augusti
+          <lb ed="#A" n="30"/>ni verbis docemur, quale sit hoc Ecclesiae sacrificium, de
+          <lb ed="#A" n="31"/>quo nunc disserimus. Est enim Sacramentum, hoc est
+          sa<lb ed="#A" n="32" break="no"/>crum signum, illius nunc quidem nobis inuisibilis
+          sacri<lb ed="#A" n="33" break="no"/>ficii, quo Christus in cruce semet ipsum visibiliter obtulit
+          <lb ed="#A" n="34"/>hostiam Deo in odorem suauitatis. Hoc est quod apertius
+          <lb ed="#A" n="35"/>alio loco scribit idem Augustinus: Hebri, inquit, in
+          victi<lb ed="#A" n="36" break="no"/>mis pecorum, quas offerebant Deo, multis &amp; variis modis
+          <lb ed="#A" n="37"/>sicut re tanta dignum erat, prophetiam celebrabant,
+          futu<lb ed="#A" n="38" break="no"/>rae victimae quam Christus obtulit: vnde iam Christiani,
+          <lb ed="#A" n="39"/>peracti eiusdem sacrificii memoriam celebrabant,
+          facro<lb ed="#A" n="40" break="no"/>sancta oblatione &amp; participatione corporis &amp; sanguinis
+          <lb ed="#A" n="41"/>Christi. Ac apertius etiam paulo post, discrimen ostendit
+          <lb ed="#A" n="42"/>inter sacrificia Iudeor, &amp; quod in cuice Christus obtulis.
+          <pb ed="#A" n="94-r"/>
+          <lb ed="#A" n="1"/>&amp; quod ex illius institutione nunc offertur in Ecclesia:
+          Lo<lb ed="#A" n="2" break="no"/>quens enim de eo: Huius, inquit, sacrificii caro &amp; sanguis
+          <lb ed="#A" n="3"/>ante aduentum Christi per victimas similitudinum
+          pro<lb ed="#A" n="4" break="no"/>mittebatur, in passione Christi per ipsam veritatem
+          redde<lb ed="#A" n="5" break="no"/>batur: post ascensum Christi per Sacramentum memoriae
+          <lb ed="#A" n="6"/>celebratur. Quod ergo per figuras fuit significatum &amp;
+          pro<lb ed="#A" n="7" break="no"/>missum, &amp; naturae &amp; legis tempore, hoc in cruce redditum
+          <lb ed="#A" n="8"/>in altari nunc repraesentatur, &amp; oculis nostris subiicitur,
+          <lb ed="#A" n="9"/>vt iugis tanti beneficii fit memoria. Sacrificia priscorum
+          <lb ed="#A" n="10"/>figura tantum fuerunt &amp; adumbrario quaedam: in cruce
+          <lb ed="#A" n="11"/>vera fuit in mortem oblata pro nobis victima nostra, Domi
+          <lb ed="#A" n="12"/>nus noster Iesus Christus: qui posteaquam in caelum ascen
+          <lb ed="#A" n="13"/>dit, nihil nunc aliud fit in Ecclesia, quam illius oblationis
+          <lb ed="#A" n="14"/>quae in cruce facta est, memoria quaedam &amp;
+          repraesenta<lb ed="#A" n="15" break="no"/>tio.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e460">
+          Hinc intelligimus quale sit sacrificium hoc de quo nunc
+          <lb ed="#A" n="16"/>agimus. Est enim sacrum signum quo admonemur illius
+          <lb ed="#A" n="17"/>sacrificii, quod non videmus, quod in cruce pro nobis
+          per<lb ed="#A" n="18" break="no"/>actum est. Docemur praeterea ex iis, quae ex Augustino
+          <lb ed="#A" n="19"/>adduximus, quod ita demum sacrificium hoc visibile recte
+          <lb ed="#A" n="20"/>Deo offertur, cum illius in cordibus nostris inuisibile
+          sa<lb ed="#A" n="21" break="no"/>crificium ipsi facti fuerimus. Qua de re, qui fuit
+          quadrin<lb ed="#A" n="22" break="no"/>ventis plus minus annis Augustino posterior Amalarius
+          <lb ed="#A" n="23"/>Treucrensis Archiepiscopus, his verbis admonet. Illud
+          in<lb ed="#A" n="24" break="no"/>tendendum est, inquit, in omnibus officiis immolationis
+          <lb ed="#A" n="25"/>tali nomine censendum esse visibile altare, quale est cor
+          <lb ed="#A" n="26"/>offerentium. Quare falsum est quod fingunt inimici
+          cru<lb ed="#A" n="27" break="no"/>cis Christi, docere ecclesiam, quod ceremonia missae ex
+          ope<lb ed="#A" n="28" break="no"/>re operato sine fide nos Deo reconciliat. Quin quod a Bu
+          <lb ed="#A" n="29"/>cero scriptum fuit aliquando priusquam segregasset
+          se<lb ed="#A" n="30" break="no"/>metipsum, id docuit, docet, &amp; docebit semper Ecclesia,
+          <lb ed="#A" n="31"/>quod missa ex opere operato, id est, ex eo quod institum
+          <lb ed="#A" n="32"/>domini est, id quod geritur, non ex opere operantis, hoc
+          <lb ed="#A" n="33"/>est ex merito ministri prodest, sed his qui in illa
+          commu<lb ed="#A" n="34" break="no"/>nieant per fidem &amp; charitatem. Hoc est quod ex Augusti
+          <lb ed="#A" n="35"/>no adduximus, Sacramentum quotidianum in cruce per
+          <lb ed="#A" n="36"/>acti sacrificii, esse sacrificium ecclesiae, cum ipsius corporis
+          <lb ed="#A" n="37"/>pse sit caput Christus, &amp; ipsius capitis ipsa sit corpus, tam
+          <lb ed="#A" n="38"/>ipsa per ipsum, quam ipse per ipsam suctus offerri. Quo in
+          <lb ed="#A" n="39"/>loco non obscure illud indicat, &amp; ecclesiam per Christum:
+          <lb ed="#A" n="40"/>&amp; Christum offerri per ecclesiam: quae nisi capiti suo
+          Chri<lb ed="#A" n="41" break="no"/>sto fide sit &amp; charitate connexa, ex ea oblatione cuius
+          re<lb ed="#A" n="42" break="no"/>praesentatio fit in altari, fructus percipi potest nullus,
+          <pb ed="#A" n="94-v"/>
+          <lb ed="#A" n="1"/>Sacrificium itaque nostrum non est aliud quam illud, de quo
+          <lb ed="#A" n="2"/>dicit Paulus. Pascha nostrum immolatus est Christus
+          <lb ed="#A" n="3"/>Nam quod Paschae nomine non solum illa dici
+          solenni<lb ed="#A" n="4" break="no"/>tas, verum &amp; agnus ille significatus fuerit, qui tum iuxta
+          <lb ed="#A" n="5"/>ritum legis immolabatur, &amp; immolatus manducabatur.
+          <lb ed="#A" n="6"/>indicare videtur ille Marci locus, vbi vis eamus &amp; pare
+          <lb ed="#A" n="7"/>mus, vt manduces pascha? Et alius apud Lucam, Venit
+          <lb ed="#A" n="8"/>dies aximorum, in quo necesse erat occidi pascha. Pascha
+          <lb ed="#A" n="9"/>itaque nostrum est ipsemet Dei filius: Hic est ille agnus, de
+          <lb ed="#A" n="10"/>quo dixerat Hieremias: Ego quasi agnus mansuetus, qui
+          <lb ed="#A" n="11"/>portatur ad victimam: de quo praedixerat Esaias: Sicut
+          <lb ed="#A" n="12"/>ouis ad occisionem ducetur, &amp; sicut agnus coram tondente
+          <lb ed="#A" n="13"/>se obmutescet, &amp; non aperiet os suum: Hic est ille agnus
+          <lb ed="#A" n="14"/>quem venientem ad se quasi digito Ioannes Baptista
+          de<lb ed="#A" n="15" break="no"/>monstrabat dicens: Ecce agnus Dei, ecce qui tollit peccata
+          <lb ed="#A" n="16"/>mundi. Hic est ille agnus immaculatus, cuius pretioso san
+          <lb ed="#A" n="17"/>guine nos redemptos esse scribit Petrus: quem in
+          Apoca<lb ed="#A" n="18" break="no"/>vpsi ab origine mundi occisum esse legimus. Quotquot
+          <lb ed="#A" n="19"/>enim ab origine mundi salutem consequuti sunt, quotquot
+          <lb ed="#A" n="20"/>deinceps etiam ad finem vsque seculi salutem consequentur.
+          <lb ed="#A" n="21"/>non per alium consequuti sunt &amp; consequentur, quam per
+          <lb ed="#A" n="22"/>agnum hunc pro nobis immolatum, qui peccata nostra
+          <lb ed="#A" n="23"/>ipse perrulit in corpore suo super lignum. Agnus innocens
+          <lb ed="#A" n="24"/>pro nocentibus, iustus pro iniustis fudit sanguinem suum,
+          <lb ed="#A" n="25"/>crudelemque &amp; ignominiosam crucis mortem obiuit, atque
+          <lb ed="#A" n="26"/>isto corporis &amp; sanguinis sui sacrificio mundum Deo
+          re<lb ed="#A" n="27" break="no"/>conciliauit. Hoc est illud sacrificium, illud inquam vnicum
+          <lb ed="#A" n="28"/>&amp; singulare sacrificium, quod adumbrabant, cuius figuram
+          <lb ed="#A" n="29"/>gerebant, varia illa patrum sacrificia, quae &amp; naturae, &amp; le
+          <lb ed="#A" n="30"/>gis tempore fuerunt, incipiendo ab Abel iusto, deinde
+          <lb ed="#A" n="31"/>per Noe, Melchisedech, Abraham, ad sacrificia legalia
+          <lb ed="#A" n="32"/>Aron &amp; filiorum eius transeundo: quibus non aliud
+          <lb ed="#A" n="33"/>actum est, quam vt fixum hoc in hominum memoria
+          <lb ed="#A" n="34"/>permaneret, quod a mundi exordio nulli salus aliter.
+          <lb ed="#A" n="35"/>quam per huius hostiae, quam illa sacrificia figurabant,
+          <lb ed="#A" n="36"/>fiduciam, contigerit. Sicut autem illa sacrificia Deus
+          pa<lb ed="#A" n="37" break="no"/>tribus tradiderat, vt per ea magni huius quod futurum
+          <lb ed="#A" n="38"/>expectabant, sacrificii memoriam in animis suis
+          renoua<lb ed="#A" n="39" break="no"/>rent, fidem confirmarent, &amp; credendo atque orando
+          fru<lb ed="#A" n="40" break="no"/>ctum eius in se transferrent, ac per eorum oblationem
+          <lb ed="#A" n="41"/>Dei beneficia, grata recordatione persequerentur: sic
+          ec<lb ed="#A" n="42" break="no"/>clesiae suae Chistus mundam &amp; salutarem sui corporis &amp;
+          <pb ed="#A" n="95-r"/>
+          <lb ed="#A" n="1"/>sanguinis oblationem sub speciebus panis &amp; vini
+          commen<lb ed="#A" n="2" break="no"/>dauit, quae corporis eius in cruce pro nobis appensi &amp; effusi
+          <lb ed="#A" n="3"/>sanguinis memoriam in animis nostris subinde
+          renoua<lb ed="#A" n="4" break="no"/>remus, &amp; fructum illius oblationis in cruce factae
+          percipe<lb ed="#A" n="5" break="no"/>remus, eam nobis applicantes.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e627">
+          Caeterum quod obiicitur
+          <lb ed="#A" n="6"/>ab inimicis crucis Christi, nusquam praecepisse Christum
+          <lb ed="#A" n="7"/>offerri, sed manducari tantum carnem, &amp; bibi sanguinem
+          <lb ed="#A" n="8"/>suum iussiisse, ac idololatriam esse extra verbum &amp; sine
+          ver<lb ed="#A" n="9" break="no"/>bo cultus insutuere. Si verum est quod ab illis dicitur,
+          er<lb ed="#A" n="10" break="no"/>go idololatra fuit Abel. Quod enim praeceptum habuit
+          <lb ed="#A" n="11"/>de suis primogenitis &amp; eorum adipibus offerendis? &amp;
+          ta<lb ed="#A" n="12" break="no"/>men dicit scriptura, Quod respexit Deus ad Abel &amp; ad
+          <lb ed="#A" n="13"/>munera eius: Idololatra fuit Noc: Nam &amp; ille quod
+          prae<lb ed="#A" n="14" break="no"/>ceptum, aut quod habuit Dei verbum de altari
+          aedifican<lb ed="#A" n="15" break="no"/>do, &amp; holiocaustis in eo offerendis? Idololatra fuit
+          Abra<lb ed="#A" n="16" break="no"/>nam, idololatra fuit Iob, idololatrae fuerunt &amp; alii nonnul
+          <lb ed="#A" n="17"/>li, quos obtulisse Deo sacrificia, atque ea illi grata &amp; accepta
+          <lb ed="#A" n="18"/>fuisse legimus. Quod dicere quam sit absurdum, quis non
+          <lb ed="#A" n="19"/>intelligat? Quam falsum autem est, idololatriam &amp;
+          im<lb ed="#A" n="20" break="no"/>pium atque ingratum Deo cultum esse, qui sine certo &amp;
+          ex<lb ed="#A" n="21" break="no"/>presso Dei mandato sit institurus, tam falsum est, eum
+          cul<lb ed="#A" n="22" break="no"/>tum, quem vocamus missae sacrificium, sine verbo Dei &amp;
+          <lb ed="#A" n="23"/>citra mandatum eius institutum esse: Clarum enim est &amp;
+          <lb ed="#A" n="24"/>apertum Dei verbum, Hoc facite in meam
+          commemora<lb ed="#A" n="25" break="no"/>tionem: quo non illud modo praecipit Deus, vt
+          distribua<lb ed="#A" n="26" break="no"/>tur sacramentum corporis &amp; sanguinis eius, verum etiam
+          <lb ed="#A" n="27"/>vt benedicatur siue consecretur, ac deinde immoletur, im
+          <lb ed="#A" n="28"/>molatum vero manducetur. Habet autem hoc Hebraeorum
+          <lb ed="#A" n="29"/>idioma, vt facere pro offerre dicat: sicut etiam a Marone
+          <lb ed="#A" n="30"/>legimus vsurpatum. Sic facere agnos anniculos in Exodo:
+          <lb ed="#A" n="31"/>facere hircum pro peccato in Leuitico: facere turtures in
+          <lb ed="#A" n="32"/>Numeris, facere hoedum in libro Iudicum: facere
+          holo<lb ed="#A" n="33" break="no"/>caustum in libris Regum: facere septem arietes &amp; septem
+          <lb ed="#A" n="34"/>vitulos in Ezechiele legimus. Quod vsque eo non eunt
+          <lb ed="#A" n="35"/>inficias illi ipsi, qui missam sacrificium esse negant, vt cum
+          <lb ed="#A" n="36"/>aliter elabi se non posse videant, hoc genere cauilli vtam
+          <lb ed="#A" n="37"/>tur. Esse quidem apud Hebraeos idem facere quod offerre,
+          <lb ed="#A" n="38"/>sed cum additamento, sicut dictum est, facere holocaustum
+          <lb ed="#A" n="39"/>facere hircum, facere hoedum: Quasi vero non legatur
+          <lb ed="#A" n="40"/>apud Lucam: vt facerent pro eo iuxta legis praescriptum
+          <lb ed="#A" n="41"/>sine additamento.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e708">
+          Sed demus hoc illis, quod non aliter
+          <lb ed="#A" n="42"/>apud Hebraeos facere significet quam offerre, cum
+          addita<pb ed="#A" n="95-v"/><lb ed="#A" n="1" break="no"/>mento. Quid hoc ad eam rem facit, de qua nunc est
+          ser<lb ed="#A" n="2" break="no"/>mo? Nunquid hic additamentum non est cum dicitur; Hoc
+          <lb ed="#A" n="3"/>facit. praemiserat: hoc est corpus meum, quod pro vobis
+          <lb ed="#A" n="4"/>datur, subiunxit cuestigio: hoc facit, corpus meum offerte
+          <lb ed="#A" n="5"/>Qua de re ergo quiritaris? cum additamentum videas
+          <lb ed="#A" n="6"/>Porro nemini dubium est, fuisse Christum sacerdotem
+          secun<lb ed="#A" n="7" break="no"/>dum ordinem Melchisedech, quod &amp; Paulus testatur, &amp;
+          an<lb ed="#A" n="8" break="no"/>te illum Propheta dicens: Tu es sacerdos in aeternum
+          se<lb ed="#A" n="9" break="no"/>cundum ordinem Melchisedech. Vbi autem hoc sacerdotio
+          <lb ed="#A" n="10"/>functus sit, in Euangelio nusquam reperimus, praeterquam in
+          <lb ed="#A" n="11"/>nouissima illa coena. Nam quale fuit sacerdotium, quale
+          <lb ed="#A" n="12"/>sacrificium Melchisedech Scribitur in Genesi quod
+          pa<lb ed="#A" n="13" break="no"/>nem &amp; vinum obtulerat, erat enim sacerdos altissimi.
+          Non<lb ed="#A" n="14" break="no"/>ne Melchisedech Christum sacerdotem adumbrabat? qui
+          <lb ed="#A" n="15"/>&amp; ipse sub speciebus panis &amp; vini corpus &amp; sanguinem suum
+          <lb ed="#A" n="16"/>obtulit, in qua oblatione se sacerdotem esse secundum or
+          <lb ed="#A" n="17"/>dinem Melchisedech declarauit. Nam in ea oblatione, quae
+          <lb ed="#A" n="18"/>facta est in ara crucis, magis fuisse videtur sacerdos
+          secun<lb ed="#A" n="19" break="no"/>dum ordinem Aaron, quam secundum ordinem
+          Melchi<lb ed="#A" n="20" break="no"/>sedechtibi enim cruentam victimam obtulit, &amp; semetipsum
+          <lb ed="#A" n="21"/>vere morti tradidit: Tales autem victimas offerrebant
+          sa<lb ed="#A" n="22" break="no"/>cerdotes secundum ordinem Aaron. At in nouissima
+          coe<lb ed="#A" n="23" break="no"/>na eandem illam hostiam corporis sui &amp; sanguinis
+          obtu<lb ed="#A" n="24" break="no"/>lit, sed sub iis quae Melchisedech obtulerat antea, panis &amp;
+          <lb ed="#A" n="25"/>vini speciebus. Nihil aliud Melchisedech, quam panem
+          <lb ed="#A" n="26"/>ipsum &amp; vinum: at Christus corpus et sanguinein suum sub
+          <lb ed="#A" n="27"/>panis &amp; vini speciebus obtulit. Et sicut in ara crucis, qui
+          <lb ed="#A" n="28"/>finis legis est Christus, sacrificiis quae sacerdotes Aaron os
+          <lb ed="#A" n="29"/>ferebant, finem imposuit, ita in nouissima coena nouum
+          sa<lb ed="#A" n="30" break="no"/>cerdotium, nouum sacrificium instituit secundum ordinem
+          <lb ed="#A" n="31"/>Melchisedech. Constat etiam, quod in illa crna pascha cum
+          <lb ed="#A" n="32"/>uis discipulis manducabat: pascha autem non veruecinum,
+          <lb ed="#A" n="33"/>sed multo praestantissimum: Quemadmodum etiam
+          Ter<lb ed="#A" n="34" break="no"/>tullianus testatur dicens: Professus, inqua, Christus se
+          con<lb ed="#A" n="35" break="no"/>cupiscentia concupisse edere pascha vt sium, indignum
+          <lb ed="#A" n="36"/>enim vt quid alienum concupisceret Deus: Acceptum
+          pa<lb ed="#A" n="37" break="no"/>nem &amp; distributum discipulis, corpus suum illum fecit. Si
+          <lb ed="#A" n="38"/>autem quod in confesso est pascha cum sus discipulis cele
+          <lb ed="#A" n="39"/>brabat, proculdubio, qui non venerat soluere legem sed
+          <lb ed="#A" n="40"/>implere, iuxta ritum legis celebrabat, iuxta quem
+          immola<lb ed="#A" n="41" break="no"/>batur prius agnus, deinde comedebatur. Quare vt figurae
+          <lb ed="#A" n="42"/>veritas responderet, necesse fuit vt quod pascha cum
+          disci<pb ed="#A" n="96-r"/><lb ed="#A" n="1" break="no"/>pulis fuis manducaret Christus, prius offerret corpus suum
+          <lb ed="#A" n="2"/>&amp; sanguinem Deo patri, postea vero manducandum
+          trade<lb ed="#A" n="3" break="no"/>ret. Nam &amp; illud certum est &amp; indubitatum, agnus ille
+          <lb ed="#A" n="4"/>paschalis in veten lege figura fuit agni incontaminati
+          do<lb ed="#A" n="5" break="no"/>mini nostri Iesu Christi, qui semet ipsum in ara crucis
+          ob<lb ed="#A" n="6" break="no"/>laturus erat hostiam Deo patri.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e820">
+          Atqui ea figura non omni
+          <lb ed="#A" n="7"/>ex parte respondet rei gestae in ara crucis, sed magis ei quae
+          <lb ed="#A" n="8"/>gesta est in caena. Nam agnum ab Hebraeis immolatum
+          le<lb ed="#A" n="9" break="no"/>gimus in reconciliationem eius beneficii, quo liberatus
+          <lb ed="#A" n="10"/>erat populus Israel de seruitute Pharaonis, &amp; eductus de
+          <lb ed="#A" n="11"/>Aegypto: ac immolatio agni innaculati, qua semet ipsum
+          <lb ed="#A" n="12"/>obtulit hosciam pro nobis in ara crucis, non fuit facta in
+          re<lb ed="#A" n="13" break="no"/>cordationem alicuius beneficii, sed fuit ipsum beneficium,
+          <lb ed="#A" n="14"/>fuit ipsa liberatio a peccatis: fuit ipsa redemptio de duris,
+          <lb ed="#A" n="15"/>simo iugo diabolicae captiuitatis.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e842">
+          Quamobrem necesse
+          <lb ed="#A" n="16"/>fuit, vt per illam immolationem agni paschalis, alia
+          quae<lb ed="#A" n="17" break="no"/>dam praeter illam in cruce peractam immolatio
+          significa<lb ed="#A" n="18" break="no"/>retur, quae per Christum in nouissima caena facta est, quam
+          <lb ed="#A" n="19"/>etiam a sacerdotibus fieri deinceps in suam
+          commemora<lb ed="#A" n="20" break="no"/>tionem, in passionis &amp; mortis recordationem instituit.
+          Prae<lb ed="#A" n="21" break="no"/>cepit Deus, cum essent agnum illum immolaturi Iudaei,
+          fi<lb ed="#A" n="22" break="no"/>lios vt suos doceret, quid sibi vellet haec immolatio. Cum
+          <lb ed="#A" n="23"/>dixerint, inquit, vobis filii vestri, quae est ista religio?
+          dice<lb ed="#A" n="24" break="no"/>tis eis, Victima transitus domini est, quando transiuit
+          su<lb ed="#A" n="25" break="no"/>per domos filiorum Israel in Aegypto, percutiens Aegyptios,
+          <lb ed="#A" n="26"/>&amp; domos nosuas liberans. Huius beneficii sui perpetuam
+          <lb ed="#A" n="27"/>memoriam in immolatione illa celebrarii Deus voluit. Non
+          <lb ed="#A" n="28"/>dissimile quoddam fit in hoc altaris sacrificio. Nam &amp; hic
+          <lb ed="#A" n="29"/>interrogentur filii Isiael (non secundum carnem, sed
+          secun<lb ed="#A" n="30" break="no"/>dum promissionem) quaenam est ista religio? quid sibi
+          <lb ed="#A" n="31"/>vult quod sacrosanctum corpus &amp; sanguis Christi sub pa
+          <lb ed="#A" n="32"/>nis &amp; vini speciebus offertur in Missa? recte respondere
+          <lb ed="#A" n="33"/>possunt? Grata quaedam fit commemoratio immensi illius bo
+          <lb ed="#A" n="34"/>neficii, quo Dei filius homo factus, corpus suum ex virgine
+          <lb ed="#A" n="35"/>assumptum pro nobis in mortem tradidit, sanguinem suum
+          <lb ed="#A" n="36"/>in cruce fudit, vt mundum vniuersum a peccato, &amp; ab
+          aeter<lb ed="#A" n="37" break="no"/>na damnatione liberaret. Hic videre licet agni
+          immola<lb ed="#A" n="38" break="no"/>tionem, magis repraesentare eam quae fit in altari, quam
+          <lb ed="#A" n="39"/>quae facta est in cruce. Nam sicut in paschate Iudaeorum, ita
+          <lb ed="#A" n="40"/>&amp; hic praeterite redemptionis fit recordatio. Quod etiam
+          <lb ed="#A" n="41"/>Chrysostomus indicat, enarrans illa verba, Hoc facite in
+          <lb ed="#A" n="42"/>meam cominemorationem. Vides, inquit, quomodo ab
+          <pb ed="#A" n="96-v"/>
+          <lb ed="#A" n="1"/>Iudaicis abducit &amp; auocat moribus? Nam sicut illud in
+          <lb ed="#A" n="2"/>rememorationem miraculorum, quae in Aegypto patres
+          <lb ed="#A" n="3"/>vestri viderunt, faciebatis, sic &amp; hoc in meam facite
+          com<lb ed="#A" n="4" break="no"/>memorationem.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e914">
+          Quamobrem cum &amp; mandatum
+          Chri<lb ed="#A" n="5" break="no"/>sti habeamus dicentis, hoc facite in meam
+          commemora<lb ed="#A" n="6" break="no"/>tionem, &amp; constet Christum sacerdotem fuisse secundum
+          <lb ed="#A" n="7"/>ordinem Melchisedech, neque reperiatur in scripturis, vb
+          <lb ed="#A" n="8"/>sit fructus hoc sacerdotio, praeterquam in coena: illud
+          <lb ed="#A" n="9"/>praeterea manifestum sit, quod in illa coena pascha cum
+          <lb ed="#A" n="10"/>discipulis manducauerit, quod offerri priusquam
+          mandu<lb ed="#A" n="11" break="no"/>cari iuxta ritum Iudaeorum consueuerat, quis est qui
+          dice<lb ed="#A" n="12" break="no"/>re iam audeat, sine Dei verbo cultum hunc institutum esse?
+          <lb ed="#A" n="13"/>quem non in his modo scripturae testimoniis, verumetiam
+          <lb ed="#A" n="14"/>Prophetarum oraculis astrui legimus. Apud Malachiam
+          <lb ed="#A" n="15"/>Prophetam ad sacerdotes Iudaeorum loquitur Dominus
+          <lb ed="#A" n="16"/>Non est mihi voluntas in vobis, &amp; munus non suscipiam
+          <lb ed="#A" n="17"/>de manu vestra: ab ortu enim solis vsque ad occasum
+          ma<lb ed="#A" n="18" break="no"/>gnum est nomen meum in gentibus: &amp; in omni loco
+          sa<lb ed="#A" n="19" break="no"/>crificatur &amp; offertur nomini meo oblatio munda. Quibus
+          <lb ed="#A" n="20"/>in verbis tria nobis consyderanda veniunt. Primum, quod
+          <lb ed="#A" n="21"/>abolitum Deus voluerit vetus illud sacerdotium, quod
+          <lb ed="#A" n="22"/>erat secundum ordinem Aaron, quo solus vtebatur popu
+          <lb ed="#A" n="23"/>lus Israel. Deinde, quod illi succedere voluerit nouum &amp;
+          <lb ed="#A" n="24"/>aeternum sacerdotium secundum ordinem Melchisedech
+          <lb ed="#A" n="25"/>non ex vna Aaron familia, sed ex omnibus gentibus
+          eli<lb ed="#A" n="26" break="no"/>gendum. Tertio, quod oblatio per sacerdotes nouos of
+          <lb ed="#A" n="27"/>ferenda, futura erat munda, &amp; quae in omni orbis totius
+          <lb ed="#A" n="28"/>loco offerretur.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e969">
+          Si quis prophetae locum hunc ad eam, quae
+          <lb ed="#A" n="29"/>in cruce facta est, oblationem referre velit, constat, nec
+          in<lb ed="#A" n="30" break="no"/>ter gentes, nec in omni orbis loco, sed in vna Iudaea
+          Chri<lb ed="#A" n="31" break="no"/>stum in mortem semetipsum obtulisse: vt hic sensus ei
+          pro<lb ed="#A" n="32" break="no"/>phetae loco quadrare non possit. Si autem de contriti &amp;
+          <lb ed="#A" n="33"/>humiliati cordis sacrificio, deque purae mentis &amp; bonae
+          vo<lb ed="#A" n="34" break="no"/>luntatis officiis intelligendum existimet, quae in omni
+          o<lb ed="#A" n="35" break="no"/>bis loco offerri Deo dubium non est: ne id quidem
+          proce<lb ed="#A" n="36" break="no"/>det. Etsi enim dubium non est, huius generis sacrificia Deo
+          <lb ed="#A" n="37"/>accepta esse, quis tamen erit, qui gloriari possit se mundum
+          <lb ed="#A" n="38"/>cor habere, atque illius oblationem mundam esse? cum om
+          <lb ed="#A" n="39"/>nes iustitias nostras esse dixerit alius propheta velut
+          pan<lb ed="#A" n="40" break="no"/>num menstruatae, nulla vt alia munda oblatio recte
+          intel<lb ed="#A" n="41" break="no"/>ligi possit, praeter illam quae semel in cruce oblata est,
+          cu<lb ed="#A" n="42" break="no"/>ius in ecclesia iugis fit commemoratio. Deinde cordis con
+          <pb ed="#A" n="97-r"/>
+          <lb ed="#A" n="1"/>riti sacrificium non magis huius ecclesiae quae sequuta est
+          <lb ed="#A" n="2"/>Christi passionem &amp; mortem, quam illius quae praecessit,
+          <lb ed="#A" n="3"/>proprium esse videtur, vt aeque in lege atque nunc offern
+          <lb ed="#A" n="4"/>potuerit. Quin etiam non ad sacerdotes magis eiusmodi
+          <lb ed="#A" n="5"/>platio pertinet, quam ad alios cuiuscunque tandem
+          or<lb ed="#A" n="6" break="no"/>dinis fideles. Iam &amp; iuge sacrificium illud, quod
+          nouissi<lb ed="#A" n="7" break="no"/>mis temporibus per Antichristum sublatum iri Daniel
+          prae<lb ed="#A" n="8" break="no"/>dixit, quid aliud intelligi recte potest, quam istud Christi
+          <lb ed="#A" n="9"/>corporis &amp; sanguinis sub speciebus panis &amp; vini
+          sacrifi<lb ed="#A" n="10" break="no"/>tium? quod vsque ad consumationem seculi duraturum esse,
+          <lb ed="#A" n="11"/>dubitandum non est, quantumlibet nunc etiam illud per
+          <lb ed="#A" n="12"/>uos praecursores oppugnare conatur Antichristus.
+          Habe<lb ed="#A" n="13" break="no"/>mus itaque iam ita clara &amp; aperta scripturae testimonia,
+          <lb ed="#A" n="14"/>de quotidiano hoc Christi corporis &amp; sanguinis sub
+          pa<lb ed="#A" n="15" break="no"/>nis &amp; vini speciebus Ecclesiae sacrificio, nihil vt magis
+          per<lb ed="#A" n="16" break="no"/>picue dici scribiue potuerit. Facit nihilominus omnia
+          Sa<lb ed="#A" n="17" break="no"/>tanas, vt clarum etiam scripturarum intellectum obscuret,
+          <lb ed="#A" n="18"/>ac pretium redemptionis nostrae ex omni hominum
+          me<lb ed="#A" n="19" break="no"/>moria deleat. Ac primum quidem quod ad Melchisedech
+          <lb ed="#A" n="20"/>attinet, aiunt ministri Satanae, Apostolum, vbi de sacerdo
+          <lb ed="#A" n="21"/>tio illius tractat, singula accurate ac propemodum scrupu
+          <lb ed="#A" n="22"/>lose excutere: nomen hominis: sedem regnis
+          perpetuita<lb ed="#A" n="23" break="no"/>tem vitae: nus decimarum: benedictionem persequi, in
+          <lb ed="#A" n="24"/>quibus omnibus minus momenti sit, quam in oblatione
+          <lb ed="#A" n="25"/>panis &amp; vimi, de qua tamen verbum nullum fecerit.
+          Nun<lb ed="#A" n="26" break="no"/>quid existimandum sit obliuione lapsum esse Dei spiritum,
+          <lb ed="#A" n="27"/>vt dum rebus minutis immoratur, quod erat praecipuum,
+          <lb ed="#A" n="28"/>&amp; ad causam maxime valebat, id omiserit? Quam
+          inep<lb ed="#A" n="29" break="no"/>tum autem hoc est argumentandi genus? non scripsit
+          <lb ed="#A" n="30"/>Paulus, ergo non est? Non scripsit in tota illa epistola
+          es<lb ed="#A" n="31" break="no"/>se Christum concoeptum de spiritu sancto, esse natum ex
+          <lb ed="#A" n="32"/>Maria virgine, nunquid ideo negabimus ita esse? Non
+          <lb ed="#A" n="33"/>est obliuione lapsus Dei spiritus &amp; Satana, quin eo potius
+          <lb ed="#A" n="34"/>vsus est consilio, quo Christus olim, cum diceret: Adhuc
+          <lb ed="#A" n="35"/>multa habeo vobis dicere, sed non potestis ea portare
+          mo<lb ed="#A" n="36" break="no"/>do. Clare hoc ipsa Pauli verba indicant, statim enim vt
+          <lb ed="#A" n="37"/>fecit Melchisedech mentionem: De quo nobis, inquit,
+          <lb ed="#A" n="38"/>giandis sermo, &amp; ininterpretabilis ad dicendum, quoniam
+          <lb ed="#A" n="39"/>imbecilles facti estis ad audiendum. Illorum itaque
+          imbe<lb ed="#A" n="40" break="no"/>cillitas in causa fuit, quod lacte adhuc opus habebant, nec
+          <lb ed="#A" n="41"/>solido cibo vti poterant, quod non omnia ea praesertim
+          <lb ed="#A" n="42"/>quae captum illorum excedebant, de Melchisedech,
+          Apo<pb ed="#A" n="97-v"/><lb ed="#A" n="1" break="no"/>stolus fuit persequutus. Quod etiam testatur his verbis
+          <lb ed="#A" n="2"/>Hieronymus: Super quo multus nobis sermo est &amp;
+          in<lb ed="#A" n="3" break="no"/>interpretabilis. Non quia Apostolus ron potuerit id
+          in<lb ed="#A" n="4" break="no"/>terpretari; sed quia illius temporis non fuerit. Hebraeis
+          <lb ed="#A" n="5"/>enim, id est Iudaeis persuadebat non iam fidelibus, quibus
+          <lb ed="#A" n="6"/>passim proderet sacramentum. Verumetiam, si vas
+          ele<lb ed="#A" n="7" break="no"/>ctionis stupet ad mysterium, &amp; de quodisputat meffabile
+          <lb ed="#A" n="8"/>confitetur, quanto magis nos vermicul &amp; culices, solam
+          <lb ed="#A" n="9"/>debemus sententiam inscitiae confitem, &amp; amplissimam
+          <lb ed="#A" n="10"/>domum paruo quasi foramine ostendes: vt dicamus
+          duo<lb ed="#A" n="11" break="no"/>sacerdotia inter se ab Apostolo comparari, prioris
+          popu<lb ed="#A" n="12" break="no"/>li, &amp; posterioris: &amp; hoc agit tota disputatione, vt ante
+          <lb ed="#A" n="13"/>Leui &amp; Aaron sacerdos fuerit Melchisedech ex gentibus,
+          <lb ed="#A" n="14"/>cuius tantum praedicat meritum, vt futuris sacerdotibus
+          <lb ed="#A" n="15"/>Iudaeorum lumbis benediceret Abraham, totumque quod
+          <lb ed="#A" n="16"/>sequitur in landes Melchisedech ad Christi typum
+          refer<lb ed="#A" n="17" break="no"/>ri, cuius profectus ecclesiae sacramenta sunt. Extat
+          ora<lb ed="#A" n="18" break="no"/>tio Gregorii Nazianzeni, digna quae teratur manibus
+          <lb ed="#A" n="19"/>omnium, in qua praeclare de eo dissent, quod non om
+          <lb ed="#A" n="20"/>nia, nec omnibus, nec ab omnibus, nec omni loco &amp;
+          tem<lb ed="#A" n="21" break="no"/>pore dici oporteat. Tum enim vnaquaeque res bona
+          dici<lb ed="#A" n="22" break="no"/>tur, si bene fiat. Neque tam est rectum aliquid, quod si
+          <lb ed="#A" n="23"/>desit prudentia, non aeque pernitiosum euadat; atque
+          sa<lb ed="#A" n="24" break="no"/>pienter administratum futurum fuerat salutare. Docere
+          <lb ed="#A" n="25"/>nos hoc vel Christi potest exemplum: qui de sua morte,
+          <lb ed="#A" n="26"/>qua vna re nihil esse potuit humano generi vniuerso
+          sa<lb ed="#A" n="27" break="no"/>lubrius, verba facturus, eam cum discipulis tantum
+          scor<lb ed="#A" n="28" break="no"/>sum communicandam esse putauit, quod vulgo
+          myste<lb ed="#A" n="29" break="no"/>rium hoc recte committi non possit. Permultum in eo
+          <lb ed="#A" n="30"/>positum est, quam opportuno loco &amp; tempore fiat
+          ali<lb ed="#A" n="31" break="no"/>quid: cum etiam Deum ipsum si quis consyderet
+          diligen<lb ed="#A" n="32" break="no"/>tius, opportunitatem quandoque spectasse videamus,
+          prae<lb ed="#A" n="33" break="no"/>sertim dum se mortalibus aperire, dum luce suae veritatis
+          <lb ed="#A" n="34"/>mentes eorum illustrare conatur. Nonne vetus
+          Testa<lb ed="#A" n="35" break="no"/>mentum patrem aperte praedicauit, de filio vero loquue
+          <lb ed="#A" n="36"/>tum est obscurius? At non lex Deum filium palam est
+          <lb ed="#A" n="37"/>professa: sancti vero spiritus diuinitatem non ita late
+          pa<lb ed="#A" n="38" break="no"/>tentibus argumentis explicauit: quae postea tamen
+          intel<lb ed="#A" n="39" break="no"/>lecta &amp; ipsa est.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1181">
+          Neque vero non maxima ratione id ita
+          <lb ed="#A" n="40"/>factum est: sicut a Gregorio quoque Nazianzeno legimus
+          <lb ed="#A" n="41"/>annotatum. Nam nondum patres diuinitate confessa, ma
+          <lb ed="#A" n="42"/>nifeste filium Deum praedicare: ac rursus nondum Deo
+          <pb ed="#A" n="98-r"/>
+          <lb ed="#A" n="1"/>filio declarato, spiritui sancto diuinitatem aperte
+          tri<lb ed="#A" n="2" break="no"/>buere, quid futurum erat aliud, quam infantibus lacte alendis
+          <lb ed="#A" n="3"/>solidum cibum manducandum dare? fecit itaque
+          Pau<lb ed="#A" n="4" break="no"/>lus quod Propheta faciendum admonet, disposuit sermo
+          <lb ed="#A" n="5"/>nes suos in iudicio, vt ea tantum proferret, quae
+          profutu<lb ed="#A" n="6" break="no"/>ta putaret. Caetera quanuis cognitu dignissima atque adeo
+          <lb ed="#A" n="7"/>accessaria in tempus aliud magis opportunum
+          reserua<lb ed="#A" n="8" break="no"/>ret. Quod idem fecisse legitur, cum sermonem apud
+          <lb ed="#A" n="9"/>Athenienses habuisset. Neque enim statim a primo
+          de<lb ed="#A" n="10" break="no"/>struendas putauit ceremonias idolorum, statim nanque ser
+          <lb ed="#A" n="11"/>nonem eius aures gentilium respuissent: verum ab vno
+          <lb ed="#A" n="12"/>Deo operatore mundi incipit dicens: Deus qui fecit
+          mun<lb ed="#A" n="13" break="no"/>dum, &amp; cuncta quae sunt in co. Negare non potuerant
+          <lb ed="#A" n="14"/>vnum operatorem esse mundi, vnum Deum, vnum
+          om<lb ed="#A" n="15" break="no"/>nium creatorem. Adiunxit eo quod coeli &amp; terrae
+          Domi<lb ed="#A" n="16" break="no"/>nus in manufactis non dignetur habitare. Deinde quod
+          <lb ed="#A" n="17"/>intra auri argentique cassam materiam, nequaquam
+          verisi<lb ed="#A" n="18" break="no"/>mile sit artificio hominis vim diuinitatis includi: erroris
+          <lb ed="#A" n="19"/>remedium docens esse studium penitendi. Tunc venit ad
+          <lb ed="#A" n="20"/>Christum, nec tamen Deum maluit quam hominem nur
+          <lb ed="#A" n="21"/>cupare, dicens: In viro quo definierit omnibus fidem,
+          susci<lb ed="#A" n="22" break="no"/>tans eum ab inferis. Qui enim tractat, inquit Ambrosius,
+          <lb ed="#A" n="23"/>debet audientium consyderare personas, ne prius
+          irridea<lb ed="#A" n="24" break="no"/>tur quam audiatur. Quando enim Athenienses crederent, quia
+          <lb ed="#A" n="25"/>verbum caro factum est, &amp; de spiritu virgo concepit, qui
+          <lb ed="#A" n="26"/>irridebant quia resurrectionem audierant mortuorum?
+          <lb ed="#A" n="27"/>Tamen &amp; Dionysius Areopagites credidit, &amp; alii credide
+          <lb ed="#A" n="28"/>runt in virum, vt in Deum crederent. Qui interest quo
+          <lb ed="#A" n="29"/>quisque credat ordine? Non in principiis perfecta
+          quaerun<lb ed="#A" n="30" break="no"/>tur, sed de principiis ad ea quae perfecta sunt peruenitur.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1257">
+          <lb ed="#A" n="31"/>Neque vero Paulus modo, verum &amp; alii Apostoli, sicut a
+          Basi<lb ed="#A" n="32" break="no"/>lio scriptum legimus, mysteriorum reuerentiam &amp;
+          autho<lb ed="#A" n="33" break="no"/>ritatem silentio conseruandam esse putauerunt, ne si vulgo
+          <lb ed="#A" n="34"/>essent omnibus cognita, in contemptum venirent. Inde
+          <lb ed="#A" n="35"/>etiam vocata sunt mysteria, quod ea occulta esse, neque in
+          vul<lb ed="#A" n="36" break="no"/>gus prodi oporteret. Quae etiam causa fuit, quod literis
+          <lb ed="#A" n="37"/>non mandabantur, sed per manus tantum tradebantur:
+          <lb ed="#A" n="38"/>sicut de hoc ipso sacrificio loquens dicit Basilius.
+          Inuoca<lb ed="#A" n="39" break="no"/>tionis, inquit, verba, dum Eucharistiae panis ostenditur
+          <lb ed="#A" n="40"/>&amp; poculum benedictionis, quis sanctorum scripto nobis
+          <lb ed="#A" n="41"/>reliquit? Quin etiam illum locum explicans, Tu es
+          sa<lb ed="#A" n="42" break="no"/>cerdos in aeternum, Augustinus: Vident Iudaei periisse
+          <pb ed="#A" n="98-v"/>
+          <lb ed="#A" n="1"/>iam sacerdotium secundum ordinem Aaron, &amp; non
+          agno<lb ed="#A" n="2" break="no"/>scunt sacerdotium secundum ordinem Melchiisedech. Tu
+          <lb ed="#A" n="3"/>es sacerdos in aeternum secundum ordinem Melchisedech
+          <lb ed="#A" n="4"/>Fidelibus loquor: si qui non intelligunt cathecumeni,
+          au<lb ed="#A" n="5" break="no"/>ferant pigritiam, fesunent ad notitiam. Non ergo opus
+          <lb ed="#A" n="6"/>est mysteria promere: scripturae vobis intiment, quid est
+          sa<lb ed="#A" n="7" break="no"/>crificium secundum ordinem Melchisedech. Si
+          Augusti<lb ed="#A" n="8" break="no"/>nus non putauit omnibus prodenda mysteria, quo
+          tempo<lb ed="#A" n="9" break="no"/>re terrarum orbis magna ex parte Christum agnoscebat.
+          <lb ed="#A" n="10"/>quantominus id factum oportuit a Paulo, quum ad eos
+          <lb ed="#A" n="11"/>qui recens ad fidem Christi conuersi fuerant, neque
+          tan<lb ed="#A" n="12" break="no"/>ta mysteria capere adhuc poterant, scriberet. Non recte
+          ita<lb ed="#A" n="13" break="no"/>que colligitur, non meminit sacrificii panis &amp; vini
+          Pau<lb ed="#A" n="14" break="no"/>lus, male igitur ad Christi sacrificium refertur. Quod
+          <lb ed="#A" n="15"/>vero dicunt, Melchisedech panem &amp; vinum obtulisse non
+          <lb ed="#A" n="16"/>Deo, sed Abraham, &amp; comitibus eius ad eos reficiendos,
+          <lb ed="#A" n="17"/>Hebraeorum opinionem sequuti: si fidem illis habendam
+          <lb ed="#A" n="18"/>putant potius, quam toti coetui sanctorum Ecclesiae
+          do<lb ed="#A" n="19" break="no"/>ctorum, qui Deo dicunt oblatum in sacrificium, non
+          <lb ed="#A" n="20"/>Abrahae in refectionem: credant eisdem affirmantibus,
+          <lb ed="#A" n="21"/>quod Abraham susceperit a Melchisedech decimas
+          diui<lb ed="#A" n="22" break="no"/>tiarum eius, non Melchisedech ab Abraham decimas
+          spo<lb ed="#A" n="23" break="no"/>liorum: &amp; incogitantiae damnent Dei spiritum, a quo
+          <lb ed="#A" n="24"/>non fuit hoc animaduersum. Saltem verisimile aliquid
+          <lb ed="#A" n="25"/>comminiscerentur: Nam quod aut Abraham post
+          deui<lb ed="#A" n="26" break="no"/>ctos hostes &amp; opima spolia deportata, necesse habuerit pa
+          <lb ed="#A" n="27"/>nem &amp; vinum mendicare, vt se suosque reficeret, aut
+          sa<lb ed="#A" n="28" break="no"/>cerdos Melchisedech tantum panis &amp; vini in promptu
+          <lb ed="#A" n="29"/>habuerit, quantum ad alendos trecentos decem &amp; octo
+          <lb ed="#A" n="30"/>sufficere posset, nullam habet verisimilitudinem.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1354">
+          Quam<lb ed="#A" n="31" break="no"/>obrem commentum hoc non succedit, Quemadmodum
+          <lb ed="#A" n="32"/>nec illud, quod adferunt ex epistola ad Hebraeos. Neque vt
+          <lb ed="#A" n="33"/>saepe offerat semetipsum, alioqui oportebat eum
+          frequen<lb ed="#A" n="34" break="no"/>ter pati: semel oblatus est ad exhaurienda multorum
+          pe<lb ed="#A" n="35" break="no"/>cata: vna oblatione consummauit in aeternum sanctificatos
+          <lb ed="#A" n="36"/>Nam quod a Paulo dictum est, libenter accipimus: quod
+          <lb ed="#A" n="37"/>vero per haec verba Satanas intelligi vult, reiiciendum
+          <lb ed="#A" n="38"/>esse putamus. Quotquot enim sanctifican &amp;
+          iustifican<lb ed="#A" n="39" break="no"/>sunt aut erunt, per vnam oblationem illam in ara crucis
+          <lb ed="#A" n="40"/>factam, sanctificatos non obscure ferimus: quin illi
+          ve<lb ed="#A" n="41" break="no"/>terum omnia sacrificia cessisse, quae typum huius
+          immo<lb ed="#A" n="42" break="no"/>lationis gesserunt, &amp; vmbram eius fuisse, ab Ecclesia
+          do<pb ed="#A" n="99-r"/><lb ed="#A" n="1" break="no"/>cti confitemur. Siquidem oblatione, hoc est morte sua Chri
+          <lb ed="#A" n="2"/>tus illud ipsum perfecit &amp; consummauit, quod hostiae,
+          vi<lb ed="#A" n="3" break="no"/>ctimae, sacrificia veterum promittebant. Promittebant au
+          <lb ed="#A" n="4"/>tem fore, vt aliquando Dei filius in assumpta carne
+          mor<lb ed="#A" n="5" break="no"/>te sua &amp; profuso pretioso sanguine suo, genus humanum
+          <lb ed="#A" n="6"/>redimeret: quod vna illa oblatione perfectum est, quae
+          <lb ed="#A" n="7"/>quanuis peracta semel, semper viget nihilominus: adeoque
+          <lb ed="#A" n="8"/>perpetua est, quo ad efficaciam, atque illius virtute
+          nun<lb ed="#A" n="9" break="no"/>quam excidit, aeternum Chrisi sacerdotium, quo
+          mini<lb ed="#A" n="10" break="no"/>stros etiam suos fungi voluit, fulcitur.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1405">
+          Quamobrem cum
+          <lb ed="#A" n="11"/>Ioanne Chrysostomo vnam hanc esse dicimus hostiam
+          <lb ed="#A" n="12"/>cum illa quae in cruce peracta est: vnum sacrificium &amp; no
+          <lb ed="#A" n="13"/>aliud, nisi quod offerendi modus non est idem. Ibi facta
+          <lb ed="#A" n="14"/>est oblatio in mortem, hic fit in mortis recordationem: il
+          <lb ed="#A" n="15"/>a fuit immolatio sanguinea, haec vero est incruenta,
+          si<lb ed="#A" n="16" break="no"/>enim appellatur non modo a Gregorio Naxianzeno,
+          Cy<lb ed="#A" n="17" break="no"/>rillo in interpretatione anathematismi decimi, Eusebio,
+          <lb ed="#A" n="18"/>Athanasio, verumetiam a patribus in sacrosancto
+          conci<lb ed="#A" n="19" break="no"/>lio Ephesino congregatis, tum ab Ischirione diacono in
+          <lb ed="#A" n="20"/>Chalcedonensi concilio. Quod si quid loquantur vetusti
+          scri<lb ed="#A" n="21" break="no"/>ptores, ministri satanae morari se negant: minus morari
+          no<lb ed="#A" n="22" break="no"/>debemus, quid ipsi heri &amp; nudiustertius, quod aiunt, nari bli
+          <lb ed="#A" n="23"/>terrent.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1436">
+          Neque vero secus August. sensit Latinus, quam Chryso
+          <lb ed="#A" n="24"/>stomus Graecus, Cuius haec verba legimus: Saepe ita
+          loqui<lb ed="#A" n="25" break="no"/>mur, vt pascha propinquante dicamus, crastinam vel perer
+          <lb ed="#A" n="26"/>dinam esse domini passionem, quum ille ante tam multos
+          an<lb ed="#A" n="27" break="no"/>nos passus est, nec omnino nisi semel illa passio facta sit,
+          <lb ed="#A" n="28"/>Nempe ipso die dominico dicimus: Hodie Dominus
+          re<lb ed="#A" n="29" break="no"/>surrexit: quum ex quo resurrexit, tot anni transierint.
+          <lb ed="#A" n="30"/>Cur nemo tam ineptus est, vt nos ita loquentes arguat,
+          <lb ed="#A" n="31"/>esse mentitos? nisi quia istos dies secundum illorum,
+          qui<lb ed="#A" n="32" break="no"/>bus haec gesta sunt, similitudinem nuncupamus, vt
+          dica<lb ed="#A" n="33" break="no"/>tur ipse dies, qui non est ipse, sed reuolutione temporis
+          <lb ed="#A" n="34"/>similis eius: &amp; dicatur illo die fieri propter sacramenti
+          ce<lb ed="#A" n="35" break="no"/>lebrationem, quod non illo die, sed iam olim factum est,
+          <lb ed="#A" n="36"/>Nonne semel immolatus est Christus in seipso? &amp; tamen
+          <lb ed="#A" n="37"/>in sacramento non solum per omnes Paschae
+          solennita<lb ed="#A" n="38" break="no"/>tes, sed omni die populis immolatur: Nec vtique
+          menti<lb ed="#A" n="39" break="no"/>tur, qui interrogatus responderit eum immolari.
+          Pascha<lb ed="#A" n="40" break="no"/>sius inquit: Iteratur autem haec oblatio in conspectu
+          pa<lb ed="#A" n="41" break="no"/>tris, intercessione pro peccatis nostris filii eius, summi ad
+          <lb ed="#A" n="42"/>veri pontificis, quotidie: licet Christus semel passus in
+          ca<pb ed="#A" n="99-v"/><lb ed="#A" n="1" break="no"/>ne, per vnam eandemque mortis passionem semel
+          saluaue<lb ed="#A" n="2" break="no"/>rit mundum, ex qua morte idem resurgens ad vitam, iam
+          <lb ed="#A" n="3"/>non moritur, mors illi vltra non dominabitur. Quia
+          pro<lb ed="#A" n="4" break="no"/>fecto sapientia Dei patris pro multis causis necessarium hoc
+          <lb ed="#A" n="5"/>prouidit. In eandem sententiam scripsit propemodum
+          <lb ed="#A" n="6"/>aequalis Paschas, vel qui paulo eum praecessit Rabanus
+          <lb ed="#A" n="7"/>quique subsequutus est postea Algerus. Ex eo facile
+          colligi<lb ed="#A" n="8" break="no"/>mus, quale sit hoc sacrificium de quo tractamus. Est enim
+          <lb ed="#A" n="9"/>idem cum eo, quod in cruce peractum est, nisi quod non
+          <lb ed="#A" n="10"/>eodem modo fit: In cruce cruento modo oblatus est
+          Do<lb ed="#A" n="11" break="no"/>minus noster Iesus Christus: in altari incruento: Ibi passi
+          <lb ed="#A" n="12"/>bilis &amp; mortalis: hic impassibilis &amp; immortalis: ibi
+          visibi<lb ed="#A" n="13" break="no"/>lis, hic inuisibilis: ibi in humana specie, hic sub speciebus
+          <lb ed="#A" n="14"/>panis &amp; vini: ibi oblatus, credentibus omnibus
+          remissio<lb ed="#A" n="15" break="no"/>nem peccatorum, &amp; plenam redemptionem obtinuit, hic
+          <lb ed="#A" n="16"/>non vt peccatorum remissionem, &amp; animarum salutem iam
+          <lb ed="#A" n="17"/>primum ex eo quod per sacerdotem fit promereamur, sed
+          <lb ed="#A" n="18"/>vt pridem promeritam per Christum in cruce pendentem.
+          <lb ed="#A" n="19"/>per hoc sacrificium quod passionem &amp; mortem eius
+          re<lb ed="#A" n="20" break="no"/>praesentat, ac memonam eius nobis refricat, fide &amp;
+          deuo<lb ed="#A" n="21" break="no"/>tione nobis applicemus.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1526">
+          Quamobrem extremo hoc, quod
+          <lb ed="#A" n="22"/>in Ecclesia celebratur, sacrificio non modo non
+          obscura<lb ed="#A" n="23" break="no"/>tur illud quod in cruce peractum est, verumetiam illustra
+          <lb ed="#A" n="24"/>tur magis. Neque enim alio confugimus, quam ad vni
+          <lb ed="#A" n="25"/>cum illud, quo defunctus est pontifex noster Christus in
+          <lb ed="#A" n="26"/>cruce, quo corpus suum tradidit in mortem, per quam
+          <lb ed="#A" n="27"/>nos, qui inimici eramus, Deo patri suo reconciliauit: quo
+          <lb ed="#A" n="28"/>sanguinem suum fudit in remissionem peccatorum
+          nostro<lb ed="#A" n="29" break="no"/>rum. Hic iterum obganniunt isti, Si credis te
+          reconcilia<lb ed="#A" n="30" break="no"/>tum, peccataque tibi per sacrificium in cruce peractum esse
+          <lb ed="#A" n="31"/>remissa, quid ergo denuo te reconciliari, peccataque tibi
+          re<lb ed="#A" n="32" break="no"/>mitti postulas, ac Deum iratum fingis, quem credere
+          po<lb ed="#A" n="33" break="no"/>tius oportuit filii morte placatum? an illa tibi parum
+          suf<lb ed="#A" n="34" break="no"/>ficiens videtur oblatio: aut de promissis Christi dubitas?
+          <lb ed="#A" n="35"/>Minime vero dubitamus: quin illud potius libenter cum
+          <lb ed="#A" n="36"/>Paulo confitemur, quod omnis homo mendax, Deus
+          au<lb ed="#A" n="37" break="no"/>tem verax, atque adeo veritas ipsa: Neque potest quicquam
+          <lb ed="#A" n="38"/>esse certius, quam quod ab illo dictum aut promissum est.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1565">
+          <lb ed="#A" n="39"/>Caeterum qui dixit, hoc est corpus meum quod pro
+          vo<lb ed="#A" n="40" break="no"/>bis tradetur, nimirum in redemptionem vestram: idem
+          <lb ed="#A" n="41"/>dixit, Si vis ad vitam ingredi, serua mandata. Quoniam
+          <lb ed="#A" n="42"/>vero conscii nobis sumus nos ea saepe transgressos esse
+          <pb ed="#A" n="100-r"/>
+          <lb ed="#A" n="1"/>facie peccatorum nostrorum non est nobis pax, &amp; a
+          fa<lb ed="#A" n="2" break="no"/>de irae eius spiritum timoris concipimus, &amp; cum
+          Prophe<lb ed="#A" n="3" break="no"/>ta a iudiciis eius timentes, qui reddit vnicuique iuxta,
+          <lb ed="#A" n="4"/>opera sua, etiam de verbo otioso rationem exacturus,
+          illi<lb ed="#A" n="5" break="no"/>reconciliari postulamus per Iesum Christum, quem
+          po<lb ed="#A" n="6" break="no"/>suit propitiatorem pro peccatis nostris per fidem, in
+          san<lb ed="#A" n="7" break="no"/>guine eius.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1594">
+          Quamobrem profusi sanguinis illius &amp;
+          corpo<lb ed="#A" n="8" break="no"/>ris pro nobis traditi memoriam subinde renouamus: ac
+          <lb ed="#A" n="9"/>quam ille obtulit in cruce hostiam, eam patri sistimus,
+          su<lb ed="#A" n="10" break="no"/>plices orantes, vt illius contemplatione nobis placatus &amp;
+          <lb ed="#A" n="11"/>propitius esse, suaeque promissionis, ac fructus illius quem
+          il<lb ed="#A" n="12" break="no"/>la mundo attulit vniuerso, nos participes esse velit.
+          Scili<lb ed="#A" n="13" break="no"/>cet ignorabat Christus remissionem omnium totius
+          mun<lb ed="#A" n="14" break="no"/>di peccatorum sacrificium illud crucis allaturum? &amp;
+          ta<lb ed="#A" n="15" break="no"/>men, etiam post obtentam illam suae mortis beneficio, cun
+          <lb ed="#A" n="16"/>ctos orare docuit, Dimitte nobis debita nostra. Quod
+          <lb ed="#A" n="17"/>quorsum attinebat petere secundum istos, quandoquidem
+          <lb ed="#A" n="18"/>semel illam per sacrificium crucis remissio nobis est
+          ob<lb ed="#A" n="19" break="no"/>tenta?
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1624">
+          Deinde vero, ignorabat Paulus per sacrificium
+          il<lb ed="#A" n="20" break="no"/>lud in ara crucis oblatum, esse mundum Deo
+          reconcilia<lb ed="#A" n="21" break="no"/>tum? &amp; tamen clamat ad Corinthios, obsecramus pro
+          <lb ed="#A" n="22"/>Christo, reconciliamini Deo. An ille parum illi in cruce
+          <lb ed="#A" n="23"/>factae reconciliationi fidebat? Imo vero fidebat plurimum
+          <lb ed="#A" n="24"/>sicut &amp; nos omnem &amp; fiduciam nostram non alia in
+          re<lb ed="#A" n="25" break="no"/>quam in vnica illa oblatione collocamus, per quam Deo
+          <lb ed="#A" n="26"/>mundum Christus reconciliauit.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1642">
+          Caeterum intelligebat
+          <lb ed="#A" n="27"/>ille spiritu Dei plenus, adferri aliquid a nobis oportere,
+          <lb ed="#A" n="28"/>quo fructum illius consequi possemus. Quamobrem non
+          <lb ed="#A" n="29"/>sunt audiendi, qui dicunt: oblatus est semel Christus ad
+          <lb ed="#A" n="30"/>exhaurienda peccata nostra, &amp; fuit illa oblatio sufficiens
+          <lb ed="#A" n="31"/>pretium redemptionis nostrae, non est igitur vlla in
+          eccle<lb ed="#A" n="32" break="no"/>sia deinceps oblatio facienda. Nam ad eundem modum
+          <lb ed="#A" n="33"/>argumentarii licebit. Orauit pro nobis Christus, &amp; fuit
+          <lb ed="#A" n="34"/>eius oratio sufficiens ad obtinenda omnia ad salutem
+          no<lb ed="#A" n="35" break="no"/>bis necessaria, nam exauditus est pro sua reuerentia,
+          ni<lb ed="#A" n="36" break="no"/>hil itaque necesse est nos orare: tulit crucem Christus pro
+          <lb ed="#A" n="37"/>nobis, nihil opus est vt nos crucem feramus. Quae quam
+          <lb ed="#A" n="38"/>sit absurda collectio, quis non intelligit?
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1671">
+          Verum vt
+          pla<lb ed="#A" n="39" break="no"/>num fiat omnibus, quid illi semel in cruce peracto, quid
+          <lb ed="#A" n="40"/>huic quotidiano sacrificio tribuat ecclesia, paucis de eo
+          <lb ed="#A" n="41"/>disseremus: Sic enim rem accipi volumus. In
+          CHRI<lb ed="#A" n="42" break="no"/>To latere, quod in cruce pro nobis apertum est,
+          <pb ed="#A" n="100-v"/>
+          <lb ed="#A" n="1"/>fontem esse aquae vitalis salientis in vitam aeternam. Ex
+          <lb ed="#A" n="2"/>hoc fonte quisquis haurit, quisquis aqua illius abluitur, ab
+          <lb ed="#A" n="3"/>omnibus iniquitatibus suis mundatur: per hunc enim
+          fon<lb ed="#A" n="4" break="no"/>tem abluti, per hunc sanctificari, per hunc redempti, per
+          <lb ed="#A" n="5"/>hunc vitam aeternam sumus consequuti.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1695">
+          Caeterum qui vult
+          <lb ed="#A" n="6"/>hoc fonte irrigari, &amp; quae salus ex eo permaneat ad
+          om<lb ed="#A" n="7" break="no"/>nes, eius particeps fieri, ad eum accedat necesse est. Pater
+          <lb ed="#A" n="8"/>hic quidem fons omnibus, &amp; est ita copiosus, vt ad
+          ablu<lb ed="#A" n="9" break="no"/>endas sordes omnium, ad salutem omnibus conferendam
+          <lb ed="#A" n="10"/>abunde sufficiat. Sed nisi accedas ad illum, nisi haurias
+          <lb ed="#A" n="11"/>ex illo, nihil est quod alicui vsui fore tibi speres. Quam
+          <lb ed="#A" n="12"/>multi sunt Turci, quam multi haeretici &amp; infideles, quam
+          <lb ed="#A" n="13"/>multi mali Christiani, quos neque abluit fons iste, neque
+          salu<lb ed="#A" n="14" break="no"/>tem illis adfert.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1717">
+          Atqui apertus est omnibus. Gustauit
+          <lb ed="#A" n="15"/>enim Christus mortem pro omnibus: dedit redemptionem
+          <lb ed="#A" n="16"/>semet ipsum pro omnibus: factus est saluator omnium:
+          fa<lb ed="#A" n="17" break="no"/>ctus est propitiatio pro peccatis nostris, non pro nostris au
+          <lb ed="#A" n="18"/>tem tantum, sed etiam pro totius mundi: Interea tamen
+          <lb ed="#A" n="19"/>pereunt multi, non solum infideles, verumetiam mali
+          fi<lb ed="#A" n="20" break="no"/>deles, qui confitentur quidem se nosse deum, sed factis ab
+          <lb ed="#A" n="21"/>negant, Vident mensam apparatam: vident delicatissimis
+          <lb ed="#A" n="22"/>epulis instructam: vident fontem aquae salientis in vitam
+          <lb ed="#A" n="23"/>aeternam, fame nihilominus &amp; siti moriuntur. Quam eius
+          <lb ed="#A" n="24"/>rei causam esse dicemus? quam aliam? Nisi quod non
+          attin<lb ed="#A" n="25" break="no"/>gunt id quod non vident, non eo fruuntur.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1743">
+          Quamobrem
+          <lb ed="#A" n="26"/>confitemur, &amp; quidem libenter cum ecclesia dei
+          confite<lb ed="#A" n="27" break="no"/>mur, quod solus Christus per illud in ara crucis oblatum
+          <lb ed="#A" n="28"/>sacrificium Deo patri suo cumulate satisfecit: peccatorum
+          <lb ed="#A" n="29"/>nostrorum remissionem: cum Deo patre reconciliationem
+          <lb ed="#A" n="30"/>filiorum eius adoptionem: regni celestis haereditatem no
+          <lb ed="#A" n="31"/>bis sufficienter promeruit. Addimus &amp; hoc, quod ad haec
+          <lb ed="#A" n="32"/>omnia denuo promerenda, nullis sacramentis, nullis sacri
+          <lb ed="#A" n="33"/>ficiis, nullis operibus nostris opus nobis est: quod haec om
+          <lb ed="#A" n="34"/>nia, tradens semet ipsum pro nobis hostiam &amp; oblationem
+          <lb ed="#A" n="35"/>Deo in odorem suauitatis, abunde nobis Christus prome
+          <lb ed="#A" n="36"/>ruit: Haec est clara &amp; aperta confessio nostra. Dicet hic
+          ali<lb ed="#A" n="37" break="no"/>quis e Satanae ministris. Ergo tu sententiam nostram con
+          <lb ed="#A" n="38"/>firmas: neque vlla est eius pro quo tantopere pugnas
+          sa<lb ed="#A" n="39" break="no"/>crificii vtilitas? Absit a nobis vt impiam Satanae &amp;
+          mini<lb ed="#A" n="40" break="no"/>strorum eius sententiam confirmemus: verum hoc
+          dici<lb ed="#A" n="41" break="no"/>mus: Non in hoc aut sacramentis, aut hoc tremendo sacri
+          <lb ed="#A" n="42"/>ficio nos vti, quod noui aliquid nos promereri per hunc vsum
+          <pb ed="#A" n="101-r"/>
+          <lb ed="#A" n="1"/>persuasum habeamus: verum vt quod pridem promeruit
+          <lb ed="#A" n="2"/>Christus in ara crucis, id in nos transferre, &amp; eius fructum
+          <lb ed="#A" n="3"/>nobis applicare possimus. Hanc ad rem opus est nobis
+          ope<lb ed="#A" n="4" break="no"/>ribus: ocius est nobis sacramentis: opus est nobis
+          quotidi<lb ed="#A" n="5" break="no"/>anno sacrificio quod in ecclesia celebratur. Quo magis
+          au<lb ed="#A" n="6" break="no"/>tem intellligi possit quod dicimus, exemplo id
+          illustrabi<lb ed="#A" n="7" break="no"/>mus. Esst fons in medio ciuitatis collocatus, omnibus
+          ex<lb ed="#A" n="8" break="no"/>positus, a quo nemo arcetur quin eo libere vti possit: tam
+          <lb ed="#A" n="9"/>est autem copiosus &amp; redundans, vt ad sordes omnium
+          <lb ed="#A" n="10"/>abluendas, ad sitim omnium sedandam, ad reliquas neces
+          <lb ed="#A" n="11"/>sitates omnium explendas, abunde sufficiat. Num ideo tu
+          <lb ed="#A" n="12"/>sitim tuam expleuisti, aut sordes abluisti, quod hic fons
+          <lb ed="#A" n="13"/>est in medio omnibus expositus tam copiosus? Certe nisi
+          <lb ed="#A" n="14"/>ad eum accesseris, nisi ex eo hauseris, neque sordes ablueris,
+          <lb ed="#A" n="15"/>neque sitim sedaueris, neque vllum ex eo fructum
+          perce<lb ed="#A" n="16" break="no"/>peris, quamlibet sit copiosus &amp; redundans. Proinde qui
+          <lb ed="#A" n="17"/>vult ex eo fonte fructum capere, non spectat illum
+          otio<lb ed="#A" n="18" break="no"/>sus, ac illlius tantum copiam &amp; abundantiam admiratur.
+          <lb ed="#A" n="19"/>verum illlud agit, vt quod videt omnibus communicatum,
+          <lb ed="#A" n="20"/>eius ad se quoque partem aliquam deriuet: fistulas admouet.
+          <lb ed="#A" n="21"/>siue tubos aut canales, per quas communem aquam in
+          su<lb ed="#A" n="22" break="no"/>um quoque priuatum &amp; proprium vsum transferat. Non
+          <lb ed="#A" n="23"/>dissimilus est ratio fontis huius vitae perennis, qui in
+          late<lb ed="#A" n="24" break="no"/>re Christi in cruce pendentis apertus est. Est fons perennis,
+          <lb ed="#A" n="25"/>fons copiosus &amp; redundans, qui ad abluenda totius
+          mun<lb ed="#A" n="26" break="no"/>di peccata ad salutem omnibus mortalibus conferendam
+          <lb ed="#A" n="27"/>prorsus sufficit.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1844">
+          Sed si vis vsum aliquem huius fontis
+          ha<lb ed="#A" n="28" break="no"/>bere, si vis fructum ex eo consequi, necesse est vt ad
+          Chri<lb ed="#A" n="29" break="no"/>sti latus in cruce pendentis fistulam applices, &amp; per eam
+          <lb ed="#A" n="30"/>qui solus peccata nostra abluit, salutemque nobis confert.
+          <lb ed="#A" n="31"/>Christi sanguinem ad te deriues atque attrahas: vt per eum
+          <lb ed="#A" n="32"/>ablutus &amp; sanctificatus, aeternam beatitudinem adipisci
+          <lb ed="#A" n="33"/>queas: non ipsius fistulae siue canalis, verum Christi
+          san<lb ed="#A" n="34" break="no"/>guinis te per canalem irrigantis, virtute. Hinc videre
+          li<lb ed="#A" n="35" break="no"/>cet, quod omnia quaecunque ad salutem nostram
+          perti<lb ed="#A" n="36" break="no"/>nent, non nisi illi soli sacrificio in cruce peracto, non nisi
+          <lb ed="#A" n="37"/>fonti qui apertus est in Christi latere, tribuuntur: verum
+          <lb ed="#A" n="38"/>fructum ex illo fonte capere non possumus, nisi qui fusus
+          <lb ed="#A" n="39"/>est ex Christi latere, sacrosanctus Christi sanguis, eum
+          <lb ed="#A" n="40"/>per instrumenta, &amp; quasi canales quasdam ad nos deriue
+          <lb ed="#A" n="41"/>mus. Ejusmodi canalis est baptismus: eiusmodi canalis
+          <lb ed="#A" n="42"/>est quotidianum hoc sacrificium, quam vocamus Missam,
+          <pb ed="#A" n="101-v"/>
+          <lb ed="#A" n="1"/>per quam illius in cruce peracti sacrificii, &amp; fusi pro
+          no<lb ed="#A" n="2" break="no"/>bis pretiosi sanguinis fructum in nos transferimus,
+          no<lb ed="#A" n="3" break="no"/>bis applicamus &amp; appropriamus. Falso itaque nobis
+          im<lb ed="#A" n="4" break="no"/>pingunt Satanae ministri, quod per quotidianum hoc
+          sa<lb ed="#A" n="5" break="no"/>trificium, illud in cruce peractum obscuretur, quum
+          illu<lb ed="#A" n="6" break="no"/>stretur magis. An non absurde facere censeretur, si quis
+          ba<lb ed="#A" n="7" break="no"/>ptizare se volentem insimularet, quod is per baptismum
+          <lb ed="#A" n="8"/>obscurare velit redemptionis beneficium in cruce nobis
+          <lb ed="#A" n="9"/>obtentae? &amp; redemptionem suam in aqua baptismi
+          col<lb ed="#A" n="10" break="no"/>locare potius, quam in Christi sanguine, quo solo
+          re<lb ed="#A" n="11" break="no"/>dempti sumus? cum baptismo nihil aliud agatur, quam
+          <lb ed="#A" n="12"/>vt redemptionis in cruce nobis obtentae particeps fieri
+          <lb ed="#A" n="13"/>qui baptizatur, &amp; eius fructum in se transferre queat.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1909">
+          At<lb ed="#A" n="14" break="no"/>qui non minus absurde faciunt qui nobis obiiciunt, quod
+          <lb ed="#A" n="15"/>per quotidianum istud sacrificium, illud quod in ara
+          cru<lb ed="#A" n="16" break="no"/>cis peractum est, obscuremus, &amp; eius dignitati ac incrito
+          <lb ed="#A" n="17"/>detrahamus: cum nihil aliter agatur, nihil aliud quaeratur
+          <lb ed="#A" n="18"/>a nobis in hoc quotidiano sacrificio, quam vt quod
+          Chri<lb ed="#A" n="19" break="no"/>stus nobis promeruit vnica illa oblatione in cruce facta,
+          <lb ed="#A" n="20"/>id in nos transferre, &amp; eo ad salutem nostram vti
+          quea<lb ed="#A" n="21" break="no"/>mus.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e1929">
+          Caeterum ne quis existimet nos cordis nostri visiones
+          <lb ed="#A" n="22"/>loqui, quae fuerit patrum de hoc sacrifice sententia,
+          pau<lb ed="#A" n="23" break="no"/>cis adscribendum esse putauimus. Ac primum quidem,
+          <lb ed="#A" n="24"/>quod his verbis, hoc facite in meam commemorationem.
+          <lb ed="#A" n="25"/>Christus hoc in Ecclesia fieri sacrificium praeceperit,
+          testa<lb ed="#A" n="26" break="no"/>tur Ioannes Chrysostomus, epistolam ad Hebraeos
+          ena<lb ed="#A" n="27" break="no"/>rans, quemadmodum antea commemorauimus. Ac
+          vetu<lb ed="#A" n="28" break="no"/>stior etiam illo Cyprianus. Si Iesus Christus, inquit,
+          do<lb ed="#A" n="29" break="no"/>minus &amp; Deus noster ipse est summus sacerdos dei patris,
+          <lb ed="#A" n="30"/>&amp; sacrificium Deo patri ipse primum obtulit, &amp; hoc fieri
+          <lb ed="#A" n="31"/>in sui commemorationem praecepit, vtique ille sacerdos
+          <lb ed="#A" n="32"/>vice Christi vere fungitur, qui id quod Christus fecit,
+          imi<lb ed="#A" n="33" break="no"/>tatur. Et sacrificium verum &amp; plenum tunc offert in
+          Ec<lb ed="#A" n="34" break="no"/>clesia Deo patri, si sic incipiat offerre, secundum quod
+          ip<lb ed="#A" n="35" break="no"/>sum Christum videat obtulisse. Ac vtroque vetustior
+          Irre<lb ed="#A" n="36" break="no"/>naeus. Suis, inquit, discipulis dans consilium primitias
+          <lb ed="#A" n="37"/>Deo offerre ex suis creaturis, non quasi indigenti, sed vt
+          <lb ed="#A" n="38"/>ipsi nec infructuosi, nec ingrati sint, cum qui ex creatura
+          <lb ed="#A" n="39"/>panis est accepit, &amp; gratias egit dicens, hoc est meum con
+          <lb ed="#A" n="40"/>pus: &amp; calicem similiter, qui est ex ea creatura, quae est
+          se<lb ed="#A" n="41" break="no"/>cundum nos, suum sanguinem confessus est, &amp; noui
+          Te<lb ed="#A" n="42" break="no"/>stamenti nouam docuit oblationem, quam Ecclesia ab
+          <pb ed="#A" n="102-r"/>
+          <lb ed="#A" n="1"/>Apostolis accipiens, in vniuerso mundo offert Deo, ei qui
+          <lb ed="#A" n="2"/>alimenta nobis praestat primitias suorum munerum in
+          no<lb ed="#A" n="3" break="no"/>uo Testamento: de quo in duodecim prophetis
+          Mala<lb ed="#A" n="4" break="no"/>chias sic praesignificauit. Non est mihi voluntas in vobis,
+          <lb ed="#A" n="5"/>dicit Dominus omnipotens, &amp; sacrificium non accipiam
+          <lb ed="#A" n="6"/>de manibus vestris: quoniam ab ortu solis vsque ad
+          occa<lb ed="#A" n="7" break="no"/>sum nomen meum glorificatur inter gentes, &amp; in
+          omni<lb ed="#A" n="8" break="no"/>loco incensum offertur nomini meo, &amp; sacrificium purum:
+          <lb ed="#A" n="9"/>quoniam magnum est nomen meum in gentibus, dicit
+          Do<lb ed="#A" n="10" break="no"/>minus omnipotens: manifestissime significans per haec,
+          <lb ed="#A" n="11"/>quoniam prior quidem populus cessauit offerre Deo: omni
+          <lb ed="#A" n="12"/>autem loco sacrificium offertur ei, &amp; hoc purum. Eusebius
+          <lb ed="#A" n="13"/>quoque Post omnia quasi mirabilem quandam victimam
+          sa<lb ed="#A" n="14" break="no"/>crificiumque eximium patri suo operatus, pro nostra
+          om<lb ed="#A" n="15" break="no"/>nium salute obtulit, eiusque rei memoriam vt nos ipsi Deo
+          <lb ed="#A" n="16"/>pro sacrificio offerremus instituit. His autem omnibus pau
+          <lb ed="#A" n="17"/>lo posterior Leo: Iesus, inquit, discumbentibus secum
+          disci<lb ed="#A" n="18" break="no"/>pulis ad edendam mysticam caenam corporis &amp; sanguinis
+          <lb ed="#A" n="19"/>sui ordinans sacramentum, docebat qualis hostia debere
+          <lb ed="#A" n="20"/>offerri Deo. Et qui sequutus est eum Theophylactus,
+          ma<lb ed="#A" n="21" break="no"/>nifestum esse scribit, quod Christus tunc immolauerit
+          se<lb ed="#A" n="22" break="no"/>ipsum, ex quo tradidit discipulis corpus suum: tunc enim
+          <lb ed="#A" n="23"/>functus est sacerdotio secundum ordinem Melchisedech
+          <lb ed="#A" n="24"/>Testatur hoc Hieronymus, dicens: Postquam typicum
+          <lb ed="#A" n="25"/>pascha fuerat impletum, &amp; agni carnes cum Apostolis
+          co<lb ed="#A" n="26" break="no"/>mederat, assumit panem qui confortat cor hominis, &amp; ad
+          <lb ed="#A" n="27"/>verum Paschae transgreditur sacramentum: vt quomodo
+          <lb ed="#A" n="28"/>in praefiguratione eius Melchisedech summi Dei sacerdos
+          <lb ed="#A" n="29"/>panem &amp; vinum offerens fecerat, ipse quoque veritatem sui
+          <lb ed="#A" n="30"/>corporis &amp; sanguinis repraesentaret: Testatur Augusti,
+          <lb ed="#A" n="31"/>nus cum ait: Tunc benedictus est a Melchisedech, qui
+          <lb ed="#A" n="32"/>erat sacerdos Dei excelsi, de quo in episiola, quae
+          inscribi<lb ed="#A" n="33" break="no"/>tur ad Hebraeos, multa &amp; magna conscripta sunt. Ibi quip
+          <lb ed="#A" n="34"/>pe primum apparuit sacrificium, quod nunc a Christianis
+          <lb ed="#A" n="35"/>offertur Deo toto orbe terrarum: impleturque illud quod
+          <lb ed="#A" n="36"/>longe post hoc factum per Prophetam dicitur ad Christum,
+          <lb ed="#A" n="37"/>qui fuerat venturus in carnem, Tu es sacerdos in aeternum
+          <lb ed="#A" n="38"/>secundum ordinem Melchisedech: non scilicet secundum
+          <lb ed="#A" n="39"/>ordinem Aaron, qui ordo fuerat auferendus,
+          illucescenti<lb ed="#A" n="40" break="no"/>bus rebus, quae illis vmbris praenotabantur. Complura sunt
+          <lb ed="#A" n="41"/>autem Augustini loca, in quibus figuram fuisse docet Mel
+          <lb ed="#A" n="42"/>chisedech sacrificium, eius quod nunc offertur in ecclesia
+          <pb ed="#A" n="102-v"/>
+          <lb ed="#A" n="1"/>Verum adducere singula longum foret, neque necessarium.
+          <lb ed="#A" n="2"/>Vtroque autem vetustior Eusebius: Et sane oraculi exitu
+          <lb ed="#A" n="3"/>admirabilis, ei qui contempletur, quemadmodum
+          salua<lb ed="#A" n="4" break="no"/>tor noster Iesus, qui est Christus Dei, ipsius Melchisedech
+          <lb ed="#A" n="5"/>ritu, ea quae ad sacerdotium in hominibus gerendum
+          spe<lb ed="#A" n="6" break="no"/>stat, per suos ministros perficiat. Nam quemadmodum
+          il<lb ed="#A" n="7" break="no"/>le qui sacerdos gentium erat, nusquam videtur sacrificiis
+          <lb ed="#A" n="8"/>corporalibus functus, sed vino solo &amp; pane dum ipsi
+          Abra<lb ed="#A" n="9" break="no"/>ham benedicit: ita sane primus ipse saluator ac dominus
+          <lb ed="#A" n="10"/>noster, deinde qui ab ipso profecti sunt sacerdotes in
+          om<lb ed="#A" n="11" break="no"/>nibus gentibus, spirituale secundum Ecclesiasticas sancti
+          <lb ed="#A" n="12"/>ones sacerdotii munus obeuntes, vino ac pane &amp;
+          corpo<lb ed="#A" n="13" break="no"/>ris illius, &amp; salutaris sanguinis mysteria repraesentat: quae
+          <lb ed="#A" n="14"/>sane mysteria Melchisedech tanto ante spiritu diuino
+          co<lb ed="#A" n="15" break="no"/>gnouerat, &amp; rerum futurarum imaginibus vsus fuerat.
+          <lb ed="#A" n="16"/>sicut etiam Moysi scriptura testificatur, vbi ait: Et Melchi
+          <lb ed="#A" n="17"/>sedech rex Salem protulit panem &amp; vinum: Erat autem
+          <lb ed="#A" n="18"/>sacerdos Dei altissimi. Vide eundem libro octauo, capite
+          <lb ed="#A" n="19"/>secundo. Epiphanius. Visum est vt in veteri sacerdotio
+          sa<lb ed="#A" n="20" break="no"/>cerdotalis dignitas ne constituatur, verum ad id, quod ante
+          <lb ed="#A" n="21"/>Leui, &amp; ante Aaron fuit secundum ordinem Melchisedech
+          <lb ed="#A" n="22"/>sacerdotem transferatur: quod sane nunc in ecclesia viget
+          <lb ed="#A" n="23"/>a Christo &amp; hucusque Ioannes quoque Chrysostomus
+          Mel<lb ed="#A" n="24" break="no"/>chisedech typum gessisse scribit nostri sacerdotii Ioanne.
+          <lb ed="#A" n="25"/>Damascenus. Pane &amp; vino suscepit Melchisedech
+          Abra<lb ed="#A" n="26" break="no"/>ham ex caede alienigenarum reuertentem, qui erat
+          sacer<lb ed="#A" n="27" break="no"/>dos Dei altissimi: illa causa, hanc mysticam praefigurauit
+          <lb ed="#A" n="28"/>mensam: sacerdos ille, Christi veri sacerdotis figuram prae
+          <lb ed="#A" n="29"/>se ferebat &amp; imaginem. Tu es, inquit, sacerdos in aeternum
+          <lb ed="#A" n="30"/>secundum ordinem Melchisedech. Arnobius ante
+          mille<lb ed="#A" n="31" break="no"/>trecentos annos, explicans illum locum, Tu es sacerdos
+          <lb ed="#A" n="32"/>in aeternum, ita de Christo loquitur. Hic qui per mysticam
+          <lb ed="#A" n="33"/>panis ac vini sacerdos factus est in aeternum secundum
+          or<lb ed="#A" n="34" break="no"/>dinem Melchisedech, qui panem &amp; vinum solus obtulit
+          <lb ed="#A" n="35"/>in sacerdotibus, dum Abraham victor reuerteretur de
+          prae<lb ed="#A" n="36" break="no"/>lio. Qui vero praecessit hos omnes Cyprianus:
+          Significa<lb ed="#A" n="37" break="no"/>ta, inquit, olim a tempore Melchisedech prodeunt
+          sacra<lb ed="#A" n="38" break="no"/>menta, &amp; filiis Abrahae facientibus opera eius, summus
+          sa<lb ed="#A" n="39" break="no"/>cerdos panem profert &amp; vinum. Hoc est, inquit, corpus
+          <lb ed="#A" n="40"/>meum: Ex recentioribus Rupertus. At vero Christus rex
+          <lb ed="#A" n="41"/>Salem, id est pacis, rex inquam idemque Pontifex magnus, il
+          <lb ed="#A" n="42"/>lorum talium hominum diebus natus, sacerdotio suo functus
+          <pb ed="#A" n="103-r"/>
+          <lb ed="#A" n="1"/>est secundum ordinein Melchisedech: protulit enim
+          pa<lb ed="#A" n="2" break="no"/>nem &amp; vinum dicens, hoc est corpus meum, hic est sanguis
+          <lb ed="#A" n="3"/>meus: &amp; sic obtulit semet ipsum pro fideli Abraham
+          ver<lb ed="#A" n="4" break="no"/>sacrificium. Ac ne Iudaeorum quoque testimonia deesse
+          pu<lb ed="#A" n="5" break="no"/>rentur. Ante quingentos quinquaginta annos scripsit
+          Rab<lb ed="#A" n="6" break="no"/>bi Samuel ad Isaac in haec verba: Secundum quod Dauid
+          <lb ed="#A" n="7"/>dicit de eo (Christum intelligit) ipse est ille, cuius
+          sacer<lb ed="#A" n="8" break="no"/>dotium in aeternum erit secundum ordinem Melchisedech,
+          <lb ed="#A" n="9"/>qui fuit rex &amp; sacerdos Dei altissimi ante Aaron. Et
+          atten<lb ed="#A" n="10" break="no"/>de domine mi, quanta sit differentia inter sacerdotium
+          a<lb ed="#A" n="11" break="no"/>ron, &amp; domini iusti illius. Dixit dominus domino meo,
+          <lb ed="#A" n="12"/>tu es sacerdos in aeternum. Sacrificium Aaron fuerunt
+          car<lb ed="#A" n="13" break="no"/>nes: &amp; sacrificium istius iusti domini, fuit panis &amp; vinum,
+          <lb ed="#A" n="14"/>quod est secundum ordinem Melchisedech. In quibus verbis
+          <lb ed="#A" n="15"/>Deus per Prophetam manifeste ostendit, quod sacrificium
+          <lb ed="#A" n="16"/>fineretur quando inciperet istud sacrificium in aeternum
+          <lb ed="#A" n="17"/>&amp; ordinatio sacrificandi secundum ordinem Aaron ex toto
+          <lb ed="#A" n="18"/>cessaret, quando inciperet sacrificium in pane &amp; vino
+          aeter<lb ed="#A" n="19" break="no"/>naliter duraturum. Malachiae quoque locum quem adduximus
+          <lb ed="#A" n="20"/>de hoc sacrificio interpretatur, praeter antiquissimum
+          re<lb ed="#A" n="21" break="no"/>neum, Augustinus his verbis: Haec quippe ecclesia est Is
+          <lb ed="#A" n="22"/>rael secundum spiritum, a quo distinguitur ille Israel
+          secun<lb ed="#A" n="23" break="no"/>dum carnem, qui seruiebat in vmbris sacrificiorum, quibus
+          <lb ed="#A" n="24"/>significabatur singulare sacrificium quod nunc offert
+          Israe<lb ed="#A" n="25" break="no"/>secundum spiritum, cui dictum atque praedictum est, Audi
+          <lb ed="#A" n="26"/>populus meus, &amp; loquar tibi, Israel &amp; testificabor tibi, &amp;
+          <lb ed="#A" n="27"/>caetera, quae iam supra commemoraui. De huius enim domo
+          <lb ed="#A" n="28"/>non accipit vitulos, neque de gregibus eius hircos. Iste
+          im<lb ed="#A" n="29" break="no"/>molat Deo sacrificium laudis non secundum ordinem
+          a<lb ed="#A" n="30" break="no"/>ron, sed secundum ordinem Melchisedech. De eo enim
+          <lb ed="#A" n="31"/>dictum est, iurauit dominus, &amp; non poenitebit eum, tu es
+          <lb ed="#A" n="32"/>sacerdos in aeternum secundum ordinem Melchisedech.
+          <lb ed="#A" n="33"/>Nouerunt qui legunt quid protulerit Melchisedech quando
+          <lb ed="#A" n="34"/>benedixit Abraham, &amp; si iam sunt participes eius, vident,
+          <lb ed="#A" n="35"/>tale sacrificium nunc offerri Deo toto orbe terrarum: Dei
+          <lb ed="#A" n="36"/>autem iuratio, incredulorum est increpatio, &amp; quod Deum
+          <lb ed="#A" n="37"/>non poenitebit, significatio est, quia hoc sacerdotium non
+          <lb ed="#A" n="38"/>mutabit. Mutauit quippe sacerdotium secundum ordinem
+          <lb ed="#A" n="39"/>Aaron:
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e2250">
+          Vnde alius Propheta dicit ad eum qui carnaliter
+          <lb ed="#A" n="40"/>est Israel. Non est mihi voluntas in vobis dicit dominus
+          <lb ed="#A" n="41"/>omnipotens, &amp; hostiam non accipiam de manibus vestris,
+          <lb ed="#A" n="42"/>Ecce quod est secundum ordinem Aron. Cur autem hoc
+          <pb ed="#A" n="103-v"/>
+          <lb ed="#A" n="1"/>accipiat, addit &amp; dicit: quia ab ortu solis vsque ad occasum
+          <lb ed="#A" n="2"/>glorificatum est nomen meum in gentibus, &amp; in omni loco
+          <lb ed="#A" n="3"/>offertur incensum nomini meo, &amp; hostia pura, Ecce quod
+          <lb ed="#A" n="4"/>est secundum ordinem Melchisedech. Eusebius. Haec om
+          <lb ed="#A" n="5"/>nia quae ab initio diuinitus praedicta sunt in praesenti
+          tem<lb ed="#A" n="6" break="no"/>pore per Euangelicam Saluatoris nostri doctrinam, ab
+          <lb ed="#A" n="7"/>omnibus gentibus celebrantur, propheticae voci
+          testimo<lb ed="#A" n="8" break="no"/>nium afferente veritate, per quam vocem Deus Mosaicis
+          <lb ed="#A" n="9"/>reiectis sacrificiis, quod futurum erat, nostrum ipsorum
+          <lb ed="#A" n="10"/>institutum nuntiat dicens: Quoniam ab ortu solis vsque
+          <lb ed="#A" n="11"/>ad occasum nomen meum glorificatum est in gentibus
+          <lb ed="#A" n="12"/>&amp; in omni loco offertur incensum nomini meo, &amp; hostia
+          <lb ed="#A" n="13"/>munda. Sacrificamus igitur Deo altissimo sacrificium
+          <lb ed="#A" n="14"/>laudis: sacrificamus Deo plenum, &amp; odorem afferens, &amp;
+          <lb ed="#A" n="15"/>sacrosanctum sacrificium: sacrificamus nouo more
+          secun<lb ed="#A" n="16" break="no"/>dum nouum Testamentum, hostiam mundam. Ac paulo
+          <lb ed="#A" n="17"/>post: Sacrificamus &amp; incendimus alias quidem memoriam
+          <lb ed="#A" n="18"/>magni illius sacrificii, secundum ea quae ab ipso tradita
+          <lb ed="#A" n="19"/>sunt mysteria celebrantes, &amp; gratias Deo pro salute
+          no<lb ed="#A" n="20" break="no"/>stra agentes. Ioannes quoque Chrysostomus hunc ipsum
+          <lb ed="#A" n="21"/>Malachiae locum adferens: Vides quam luculenter, quamque
+          <lb ed="#A" n="22"/>dilucide mysticam interpretatus est mensam, quae est
+          in<lb ed="#A" n="23" break="no"/>cruenta hostia. Ac paulo post: Vides quod vbique concessum
+          <lb ed="#A" n="24"/>est angelicum illud sacrificium inclarescere: vides nullis
+          <lb ed="#A" n="25"/>finibus circunscriptum: neque altare, neque canticum: non in
+          <lb ed="#A" n="26"/>omni loco thimiama offertur nomini ineo. Est igitur
+          ho<lb ed="#A" n="27" break="no"/>stia pura prima quidem mystica mensa, coeleste summineque
+          <lb ed="#A" n="28"/>venerandum sacrificium. Copiosius etiam ac magis
+          di<lb ed="#A" n="29" break="no"/>serte in secunda contra Iudaeos oratione, cum eundem
+          <lb ed="#A" n="30"/>Prophetae locum adduxisset. Quando, inquit, haec
+          eue<lb ed="#A" n="31" break="no"/>nerunt. Quando, inquit, haec cuenerunt Iudae?
+          Quan<lb ed="#A" n="32" break="no"/>do in omni loco incensum oblatum est Deo? Quando
+          sa<lb ed="#A" n="33" break="no"/>crificium purum? Non possis aliud tempus proferre, quam
+          <lb ed="#A" n="34"/>hoc, posteaquam Christus aduenit. Quod nisi de hoc tem
+          <lb ed="#A" n="35"/>pore praedixit, nisi de nostro sacrificio vaticinatus est, sed
+          <lb ed="#A" n="36"/>de Iudaico, etiam legi repugnat prophetia Nam cum
+          Mo<lb ed="#A" n="37" break="no"/>ses vetet vllo alio in loco sacrificium fieri, praeterquam
+          <lb ed="#A" n="38"/>quem elegit dominus Deus, quumque ille in vnum locum
+          sa<lb ed="#A" n="39" break="no"/>crificia illa concluserit: nimirum Propheta dicens, quod
+          <lb ed="#A" n="40"/>in omni loco incensum adolendum sit, ac sacrificium
+          pu<lb ed="#A" n="41" break="no"/>rum, aduersatur ac repugnat Mosi.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e2350">
+          Verum nulla est inter
+          <lb ed="#A" n="42"/>eos pugna, neque dissentio. Ille de alio loquutus est
+          sa<pb ed="#A" n="104-r"/><lb ed="#A" n="1" break="no"/>crificio, &amp; hic de alio post vaticinatus est. Vnde hoc
+          decla<lb ed="#A" n="2" break="no"/>ratur? Tum ex his quae dicta sunt, tum ex aliis plurimis
+          <lb ed="#A" n="3"/>signis. Ac primum ex ipso loco. Non enim in vna
+          ciui<lb ed="#A" n="4" break="no"/>tate, quemadmodum sub Iudaeis, sed ab exortu solis vsque
+          <lb ed="#A" n="5"/>ad occasum praedixit hanc culturam esse celebrandam. Prae
+          <lb ed="#A" n="6"/>terea ex sacrificiis modo, siquidem puram illam
+          appel<lb ed="#A" n="7" break="no"/>ans, declarauit de qua loqueretur. Denique a personis of
+          <lb ed="#A" n="8"/>ferentium. Non enim dixit, in Israel, sed in gentibus. Ac
+          <lb ed="#A" n="9"/>ne putares, quod in vna duabusue aut tribus ciuitatibus
+          <lb ed="#A" n="10"/>hoc culturae genus instaurandum esset, non simpliciter
+          <lb ed="#A" n="11"/>dixit in omni loco: sed ab ortu solis vsque ad occasum:
+          <lb ed="#A" n="12"/>demonstrans quod quantum sol terrae aspicit, tantundem
+          <lb ed="#A" n="13"/>Euangelium esset occupaturum. Purum autem dicit
+          sacri<lb ed="#A" n="14" break="no"/>ficium, quasi prius illud fuisset impurum, non quidem suapte
+          <lb ed="#A" n="15"/>natura, sed iuxta voluntatem offerentium. Et ideo dixit:
+          <lb ed="#A" n="16"/>Incensum abominatio est mihi. Quanquam &amp; alioqui si
+          <lb ed="#A" n="17"/>quis ipsum hoc sacrificium conferat cum illo, ingens
+          dis<lb ed="#A" n="18" break="no"/>crimen inueniet, vt iuxta comparationis rationem solum
+          <lb ed="#A" n="19"/>hoc purum dici mereatur. Quodque de lege &amp; gratia dixit
+          <lb ed="#A" n="20"/>Paulus, ne glorificatum quidem fuit, quod erat
+          glorifica<lb ed="#A" n="21" break="no"/>tum propter eminentem gloriam: idem &amp; hic iure
+          dixeri<lb ed="#A" n="22" break="no"/>mus, videlicet quod hoc sacrificium cum illo collatum
+          so<lb ed="#A" n="23" break="no"/>lum dici debeat purum. Non enim per fumum ac nidorem,
+          <lb ed="#A" n="24"/>non per sanguinem ac redemptionis pretia, sed per
+          spiri<lb ed="#A" n="25" break="no"/>tus gratiam offertur. Remigius Antisiodorensis
+          Episco<lb ed="#A" n="26" break="no"/>pus ante septingentos prope annos locum hunc explicans.
+          <lb ed="#A" n="27"/>Mundam oblationem esse dixit sacrificium, quod nunc
+          <lb ed="#A" n="28"/>trequentat Ecclesia. Rupertus similiter eum locum
+          enar<lb ed="#A" n="29" break="no"/>rans. Et offerent, inquit, nomini meo oblationem
+          mun<lb ed="#A" n="30" break="no"/>dam, oblationem panis &amp; vini, sacramentum corporis &amp;
+          <lb ed="#A" n="31"/>sanguinis redemptoris sui. Haec oblatio sic est munda, vt
+          <lb ed="#A" n="32"/>exterius nullum habeat cruoris horrorem, &amp; interius siue
+          <lb ed="#A" n="33"/>inuisibiliter mundet cruentam omnis peccati
+          pollutio<lb ed="#A" n="34" break="no"/>nem.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e2429">
+          Itaque in gentibus talem oblationem offerentibus
+          <lb ed="#A" n="35"/>magnum est nomen meum, &amp;c. Rabbi Samuel ad Isaac
+          <lb ed="#A" n="36"/>scribens cap. xx. Timeo domine mi, quod Deus
+          elonga<lb ed="#A" n="37" break="no"/>uit nos a se, &amp; sacrificium nostrum: sed &amp; acceptauit
+          sa<lb ed="#A" n="38" break="no"/>crificium gentium, sicut ipse dicit per os Malachiae
+          pro<lb ed="#A" n="39" break="no"/>phetae: Non est mihi voluntas in vobis dicit Deus,
+          ne<lb ed="#A" n="40" break="no"/>que recipiam sacrificium vestrum, quoniam ab ortu solis
+          <lb ed="#A" n="41"/>vsque ad occasum eius, magnum est nomen meum in gen
+          <lb ed="#A" n="42"/>tibus, quae offerunt nomini meo sacrificium mundum.
+          <pb ed="#A" n="104-v"/>
+          <lb ed="#A" n="1"/>Ergo apud Deum sacrificium gentium est mundius, quam
+          <lb ed="#A" n="2"/>sacrificium nostrum. Et insuper quia Deus puauit nos
+          <lb ed="#A" n="3"/>omni sacrificio, &amp; mundo sacrificio, vt alios doceret
+          Chri<lb ed="#A" n="4" break="no"/>stianos, vt ipsi vitarent nos, vt non contaminarentur, sicut
+          <lb ed="#A" n="5"/>nos vitamus gentes omni tempore, quo sacrificium
+          no<lb ed="#A" n="6" break="no"/>strum fuit mundum apud Deum &amp; acceptum.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e2465">
+          Sed quid
+          <lb ed="#A" n="7"/>opus est omnium ea de re sententias adferre? cum veterum
+          <lb ed="#A" n="8"/>scriptorum plenae sint omnes paginae. In sacrosancto
+          Ni<lb ed="#A" n="9" break="no"/>caeno concilio, simul &amp; in Ephesino, quae non minoris
+          au<lb ed="#A" n="10" break="no"/>thoritatis habita sunt, quam ipsa Euangelia, fieri
+          sacrifici<lb ed="#A" n="11" break="no"/>huius mentionem legimus. In illo enim haec verba
+          repe<lb ed="#A" n="12" break="no"/>riuntur: Peruenit ad sanctum concilium, quod in locis
+          qui<lb ed="#A" n="13" break="no"/>busdam &amp; ciuitatibus presbyteris sacramenta Diaconi
+          por<lb ed="#A" n="14" break="no"/>rigant. Hoc neque regula, neque consuetudo tradidit, vt
+          <lb ed="#A" n="15"/>ii qui offerendi sacrificii non habent potestatem, his qui
+          <lb ed="#A" n="16"/>offerunt corpus Christi porrigant. Ex Ephesino vero
+          scri<lb ed="#A" n="17" break="no"/>bunt ad Nestorium patres concilii: Annuntiantes ei sicut
+          <lb ed="#A" n="18"/>secundum carnem mortem vnigeniti filii Dei, id est Iesu
+          <lb ed="#A" n="19"/>Christi &amp; resurrectionem eius, &amp; in coelos ascensionem pa
+          <lb ed="#A" n="20"/>riter confitentes, incruentam celebramus in ecclesiis sacri
+          <lb ed="#A" n="21"/>ficii seruitutem: sic etiam ad mysticas benedictiones
+          acce<lb ed="#A" n="22" break="no"/>dimus, &amp; sanctificamur, participes sancti corporis &amp;
+          pre<lb ed="#A" n="23" break="no"/>tiosi sanguinis Christi, omnium nostrum redemptoris
+          <lb ed="#A" n="24"/>effecti. Fuerunt Augustini temporibus, qui non putarent
+          <lb ed="#A" n="25"/>visibilia Deo sacrificia offerenda. Centum annis post fue
+          <lb ed="#A" n="26"/>runt haeretici, qui sacrificium hoc corporis &amp; sanguinis
+          <lb ed="#A" n="27"/>Christi, quod in ecclesia celebratur, soli patri
+          immolan<lb ed="#A" n="28" break="no"/>dum existimarent. Quorum sententiam ad Monimum
+          <lb ed="#A" n="29"/>scribens grauiter Fulgentius confutauit. Et qui videtur
+          <lb ed="#A" n="30"/>eum praecessisse Idacius Clarus aduersus Varimundum
+          Arria<lb ed="#A" n="31" break="no"/>num scribens, vbi docet, quod sicut patri, ita etiam filio non
+          <lb ed="#A" n="32"/>solum Christianis temporibus, verumetiam a prisci
+          tem<lb ed="#A" n="33" break="no"/>poris sacerdotibus multis variisque modis sacrificium fuerit
+          <lb ed="#A" n="34"/>oblatum. Prolatisque ex Daniele, ex Psalmis, &amp; Euangelio
+          <lb ed="#A" n="35"/>Matthaei testimoniis, tandem ita concludit. Sacrificium
+          <lb ed="#A" n="36"/>itaque quod a Christianis sacris altaribus admouetur, non
+          <lb ed="#A" n="37"/>solum Deo patri, sed etiam filio communi deuotione of
+          <lb ed="#A" n="38"/>fertur, quoniam nec patri sine filio potest offerri, nec a filio
+          <lb ed="#A" n="39"/>sine patre sanciri. Ante quadringentos vero annos, fuerunt,
+          <lb ed="#A" n="40"/>quemadmodum antea meminimus, Henriciani &amp; Petro
+          <lb ed="#A" n="41"/>brusiani, qui &amp; veritatem corporis &amp; sanguinis Christi
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e2543">
+          <lb ed="#A" n="42"/>in Eucharistia negarent, &amp; missam nihil esse, nec celebran
+          <pb ed="#A" n="105-r"/>
+          <lb ed="#A" n="1"/>debere contenderent. Contra quos quae scripta sunt a
+          Pe<lb ed="#A" n="2" break="no"/>tro Abbate Clumiacensi, viro &amp; eruditione, &amp; vitae
+          san<lb ed="#A" n="3" break="no"/>ctimonia praestanti, quoniam digna sunt quae legantur
+          <lb ed="#A" n="4"/>ab omnibus, visum est paulo altius repetita inserere:
+          Lo<lb ed="#A" n="5" break="no"/>quens enim de sacrificio in cruce peracto. Hoc est, inquit,
+          <lb ed="#A" n="6"/>nostrum sacrificium, hoc legis Euangelicae, hoc noui
+          Te<lb ed="#A" n="7" break="no"/>stamenti, hoc noui populi holocaustum, quod tunc
+          seme<lb ed="#A" n="8" break="no"/>in cruce a Dei &amp; hominis filio Deo oblatum est, &amp; quod
+          <lb ed="#A" n="9"/>semper in altari ab ipsius populo offerendum, ab eodem
+          <lb ed="#A" n="10"/>praeceptum &amp; institutum est. Non enim aliud tunc
+          obla<lb ed="#A" n="11" break="no"/>tum, aliud nunc offertur: sed quod (vt dictum est) semel
+          <lb ed="#A" n="12"/>Christus obtulit, hoc semper Ecclesiae suae offerendum
+          re<lb ed="#A" n="13" break="no"/>liquit. Et quia iam expeditior via se praebuit per quam
+          li<lb ed="#A" n="14" break="no"/>berior sermo ad ostendendum &amp; confutandum
+          stultissi<lb ed="#A" n="15" break="no"/>inum errorem decurrat audite, non me, sed dominum:
+          <lb ed="#A" n="16"/>non Christianum, sed Christum non hominem tantum
+          <lb ed="#A" n="17"/>sed Deum: audite eum, quem qui non audierit,
+          extermi<lb ed="#A" n="18" break="no"/>nabitur de populo suo. Dic domine Iesu, Deus noster,
+          sal<lb ed="#A" n="19" break="no"/>uator noster, sacerdos noster, hostia nostra: die: responde
+          <lb ed="#A" n="20"/>aduersariis Testamenti tui, qui volunt rescindere quod
+          <lb ed="#A" n="21"/>statuisti, eradicare quod plantasti, destruere quod
+          consti<lb ed="#A" n="22" break="no"/>tuisti: Dic, forsan acquiescent tibi, qui ecclesiae tuae resistunt,
+          <lb ed="#A" n="23"/>verebuntur faciem tuam, qui tuis irreuerenter obuiant,
+          <lb ed="#A" n="24"/>mandatis, &amp; si oues tuae sunt, vocem tuam audient. Ignosce
+          <lb ed="#A" n="25"/>&amp; mihi praesumptuose interroganti, sed tamen pro
+          eccle<lb ed="#A" n="26" break="no"/>sia tua, columba tua, sponsa tua, quam isti violare conantur
+          <lb ed="#A" n="27"/>celanti. Plane isti redemptorem te negant, qui pretium
+          <lb ed="#A" n="28"/>redemptionis humanae, quod nobis &amp; pro nobis
+          dedisti<lb ed="#A" n="29" break="no"/>(corpus dico tuum) redemptis auferre contendunt.
+          Vo<lb ed="#A" n="30" break="no"/>lunt rursum vincire a te olim solutum nodum
+          captiuita<lb ed="#A" n="31" break="no"/>stis, dum largitorem respuunt libertatis. Dic ergo
+          domi<lb ed="#A" n="32" break="no"/>ne, testator noui &amp; aeterni Testamenti, vtrum
+          Testamen<lb ed="#A" n="33" break="no"/>tum hoc vnius diei, sicut isti dicunt, esse volueris, an
+          po<lb ed="#A" n="34" break="no"/>tius aeternum esse decreueris. Audiant isti, non me, sed
+          te<lb ed="#A" n="35" break="no"/>vt conuertantur non ad me, sed ad te.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e2626">
+          Quid ergo? In
+          <lb ed="#A" n="36"/>coena vltima quam cum discipulis tuis vetus pascha
+          no<lb ed="#A" n="37" break="no"/>suo commutans celebrasti, accepisti panem, gratias egisti
+          <lb ed="#A" n="38"/>fregisti, dedisti discipulis tuis. Sed quid dixisti? Accipite,
+          <lb ed="#A" n="39"/>hoc est corpus meum, quod pro vobis tradetur. Et quid
+          <lb ed="#A" n="40"/>addidisti? Hoc facite in meam commemorationem.
+          Si<lb ed="#A" n="41" break="no"/>militer &amp; calicem postquam coenasti dicens: Hic est
+          san<lb ed="#A" n="42" break="no"/>guis meus noui Testamenti, qui pro vobis &amp; pro multis
+          <pb ed="#A" n="105-v"/>
+          <lb ed="#A" n="1"/>effundetur in remissionem peccatorum. Audistis? Nolite
+          <lb ed="#A" n="2"/>fieri simulachra, quae oculos habent &amp; non vident, aures
+          <lb ed="#A" n="3"/>habent &amp; non audiunt. Auditis hoc non a quolibet
+          do<lb ed="#A" n="4" break="no"/>ctore, sed ab illo, de quo pater clamans praecipit: ipsum
+          <lb ed="#A" n="5"/>audite. Auditis eundem dantem corpus:
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e2657">
+          Sed quod
+          cor<lb ed="#A" n="6" break="no"/>pus? Sunt enim corpora coelestia &amp; terrestria, &amp; quicquid
+          <lb ed="#A" n="7"/>visui, auditui, olfactui, gustui, tactui hic subiacet, corpus
+          <lb ed="#A" n="8"/>est: vnde ne quis putare animalis cuiuslibet, aut hominis
+          <lb ed="#A" n="9"/>cuiuslibet hoc esse corpus, ad excludendum omne aliud
+          <lb ed="#A" n="10"/>sensibile vel insensibile corpus, postquam dixit, accipite
+          <lb ed="#A" n="11"/>hoc est corpus, adiunxit meum. Suum ergo non alterius
+          <lb ed="#A" n="12"/>corpus discipulis dedit. Rursum, ne forte alicui cogitatio
+          <lb ed="#A" n="13"/>occulta subreperet: Potuisse creare in manibus corpus
+          <lb ed="#A" n="14"/>quod suum quidem esset, sed tamen quod ipse erat non esset, addi
+          <lb ed="#A" n="15"/>dit, quod pro vobis tradetur. Ac si diceret: Nolite dubitare,
+          <lb ed="#A" n="16"/>nolite hoc vel illud vobis fingere, nolite illud &amp; aliud
+          co<lb ed="#A" n="17" break="no"/>gitare: quia hoc est corpus, non alterum, non alterius, sed
+          meum<lb ed="#A" n="18" break="no"/>non permutatum vel nouiter creatum, sed quod pro vobis tradet
+          <lb ed="#A" n="19"/>pro vobis crucifigetur, pro vobis morietur. Sic &amp; de
+          cali<lb ed="#A" n="20" break="no"/>ce. Hic est, ait, sanguis. Non bouis aut arietis, non agni aut
+          <lb ed="#A" n="21"/>cuiuslibet hominis, sed meus: non alius, vel noua
+          creatio<lb ed="#A" n="22" break="no"/>ne productus, sed qui pro vobis fundetur, flagellis
+          prouo<lb ed="#A" n="23" break="no"/>catus, clauis extortus, lancea excussus. Quid ad
+          demon<lb ed="#A" n="24" break="no"/>strandam veritatem corporis &amp; sanguinis domini dici
+          po<lb ed="#A" n="25" break="no"/>tuit clarius, lucidius, manifestius?. Nonne &amp; longe ante
+          <lb ed="#A" n="26"/>passionem commendans magnificum &amp; salutare sacra
+          <lb ed="#A" n="27"/>mentum discipulis &amp; Iudaeis saepe dicebat: Nisi manduca
+          <lb ed="#A" n="28"/>ueritis carnem filii hominis, &amp; biberitis eius sanguinem,
+          <lb ed="#A" n="29"/>non habebitis vitam in vobis. Et: Panis quem ego
+          dabo<lb ed="#A" n="30" break="no"/>caro mea est. Et: Caro mea vere est cibus, &amp; sanguis meus
+          <lb ed="#A" n="31"/>vere est potus. Hoc quare? Vt dum nomine corporis circa
+          <lb ed="#A" n="32"/>diuersa corpora cogitando vagaris, audito carnis
+          nomi<lb ed="#A" n="33" break="no"/>ne, ab innumera corporum multiplicitate reuoceris:
+          Rur<lb ed="#A" n="34" break="no"/>sum audito nomine filii hominis, non alterius alicuius
+          can<lb ed="#A" n="35" break="no"/>nem existimes, nisi illius, qui cum esset dei filius,
+          singula<lb ed="#A" n="36" break="no"/>gratia, solitana operatione factus est hominis filius.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e2727">
+          Vnde
+          <lb ed="#A" n="37"/>quia tenacissime recolendum, quia amice
+          complecten<lb ed="#A" n="38" break="no"/>dum est tantum tantae misericordiae opus, tacito saepe ne
+          <lb ed="#A" n="39"/>mine filii dei, quod pro se est, nomen filij hominis
+          frequen<lb ed="#A" n="40" break="no"/>tat, quod pro nobis est. Idcirco vocat carnem, ne
+          quod<lb ed="#A" n="41" break="no"/>libet corpus putetur: idcirco filii hominis, ne alterius
+          <lb ed="#A" n="42"/>quam sua existimetur. Ac paginis aliquot interiectis,
+          <pb ed="#A" n="106-r"/>
+          <lb ed="#A" n="1"/>quibus transubstantiationem probat, quod panis in
+          car<lb ed="#A" n="2" break="no"/>nem, vinum commutetur in sanguinem, postquam de
+          iu<lb ed="#A" n="3" break="no"/>gi quoque sacrificio multa praeclara dixerat, de iteratione
+          <lb ed="#A" n="4"/>illius his verbis vtitur. Iam illud quod non modo ab
+          in<lb ed="#A" n="5" break="no"/>credulis apponitur, sed &amp; a fidelibus quaeritur, cur hoc
+          <lb ed="#A" n="6"/>sacrificium toties iteratur, quum Christus semel in cruce
+          <lb ed="#A" n="7"/>oblatus ad tollenda totius mundi peccata sufficiat,
+          maxi<lb ed="#A" n="8" break="no"/>me quum non hic aliud, &amp; ibi aliud, sed hic &amp; ibi idem
+          <lb ed="#A" n="9"/>prorsus sacrificium, hoc est, idem Christus offeratur,
+          vi<lb ed="#A" n="10" break="no"/>dendum est: Si enim illud in cruce sufficit, superfluum
+          <lb ed="#A" n="11"/>hoc in altari videtur.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e2769">
+          Sed non est superfluum: quia
+          cer<lb ed="#A" n="12" break="no"/>ta de causa a Dei filio, qui est iuxta Apostolum Dei
+          sapi<lb ed="#A" n="13" break="no"/>entia, factum &amp; traditum est, quae sapientia quia sumine
+          <lb ed="#A" n="14"/>rationabilis, imo totius rationis fons &amp; perfectio est,
+          ni<lb ed="#A" n="15" break="no"/>hil agere, nihil iubere irrationabiliter potuit. Vnde quum
+          <lb ed="#A" n="16"/>hoc dixit, quum hoc sacramentum suis tradidit, non
+          abs<lb ed="#A" n="17" break="no"/>ue certa ratione vt certum est fecit, quae sola omnibus
+          ra<lb ed="#A" n="18" break="no"/>tio satisfacit, quicunque Christum huius sacramenti
+          au<lb ed="#A" n="19" break="no"/>thorem Deum &amp; Dei esse sapientiam credunt. Placuit
+          ta<lb ed="#A" n="20" break="no"/>men largitori tanti muneris causam reddere tantae
+          largi<lb ed="#A" n="21" break="no"/>tionis, quam causam dando ipsum sacramentum aperuit.
+          <lb ed="#A" n="22"/>Nam postquam dixit, Hoc facite, statim addidit, in meam
+          <lb ed="#A" n="23"/>commemorationem. Haec est ergo causa sacramenti,
+          com<lb ed="#A" n="24" break="no"/>memoratio Chrisi: Nouerat Saluator quid fecerat, quid
+          <lb ed="#A" n="25"/>facturus erat propter hominem: nouerat singulare opus
+          <lb ed="#A" n="26"/>quod gesserat induendo hominem: nouerat stupendum quod
+          <lb ed="#A" n="27"/>gesturus erat moriendo propter hominem: Sciebat se opere
+          <lb ed="#A" n="28"/>saluaturum hominem, sed absque huius operis dilectione
+          <lb ed="#A" n="29"/>nullum saluari posse hominem. Sciebat quia humanita:
+          <lb ed="#A" n="30"/>tis &amp; mortis suae opus, sicut super omnia opera sua
+          sum<lb ed="#A" n="31" break="no"/>me celebratum, sic mortalibus pro quibus fiebat, summe
+          <lb ed="#A" n="32"/>erat commendandum. Commendandum erat, vtpote
+          <lb ed="#A" n="33"/>cuius caro pro illis torquebatur, cuius anima pro isus tri
+          <lb ed="#A" n="34"/>stabatur, cuius nouissime mors, illorum vitae
+          ministra<lb ed="#A" n="35" break="no"/>batur. Hoc certe solenniter commendandum erat, vt
+          <lb ed="#A" n="36"/>CMRISTVS diligeretur, dilectus haberetur,
+          ha<lb ed="#A" n="37" break="no"/>bitus nunquam perderetur.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e2829">
+          Sed haec eius dilectio ab
+          ho<lb ed="#A" n="38" break="no"/>minibus seruari non poterat, memoria pereunt, nec
+          fu<lb ed="#A" n="39" break="no"/>gax memoria diu retineri valebat, nisi signo congruo
+          ap<lb ed="#A" n="40" break="no"/>parente. Ne igitur a corde fugeret quod maxime cordi
+          <lb ed="#A" n="41"/>inesse oportebat, signo rei congruente, veluti fune
+          insolu<lb ed="#A" n="42" break="no"/>bili, colligata est cordi memoria, qua fortiter vinciente,
+          <pb ed="#A" n="106-v"/>
+          <lb ed="#A" n="1"/>semper redemptus redemptionis pretium cogitaret, indeque
+          <lb ed="#A" n="2"/>redemptori agens gratias, fide quae per dilectionem
+          ope<lb ed="#A" n="3" break="no"/>ratur, nequaquam se ingratum tantae gratiae
+          demonstra<lb ed="#A" n="4" break="no"/>ret. Et posset quidem mentibus humanis huius rei
+          vtcun<lb ed="#A" n="5" break="no"/>que absque signo visibili inesse memoria, sicut multarum
+          <lb ed="#A" n="6"/>rerum tam diuinarum quam humanarum recordatio,
+          fa<lb ed="#A" n="7" break="no"/>ma, lectione, doctrina, in eis aut gignitur, aut conseruatur
+          <lb ed="#A" n="8"/>sed quia iuxta quendam, Segnius irritant animos demissi
+          <lb ed="#A" n="9"/>per aurem, quam quae sunt oculis subiecta fidelibus: &amp;
+          <lb ed="#A" n="10"/>res tanta erat, vt ad eam cogitandam, amandam,
+          ample<lb ed="#A" n="11" break="no"/>ctendam, non segniter, sed insigniter humani animi
+          mo<lb ed="#A" n="12" break="no"/>uendi essent, dignum &amp; iustum fuit, vt humanitatis &amp;
+          mor<lb ed="#A" n="13" break="no"/>tis Christi memoria non tantum auditu per aures, sed
+          <lb ed="#A" n="14"/>etiam visu per oculos iuuaretur. Ea de causa signum hoc
+          <lb ed="#A" n="15"/>a Christo propositum est, quod ita signum est, vt sit tam
+          <lb ed="#A" n="16"/>idem quod signat. Hoc autem contra veteris
+          sacrifici<lb ed="#A" n="17" break="no"/>multiplicitatem, quae in nullo crat idem quod signabat
+          <lb ed="#A" n="18"/>praeter hoc, quod illud sacrificium erat, &amp; istud sacrificium
+          <lb ed="#A" n="19"/>est: &amp; illud Deo offerebatur, &amp; istud eidem Deo
+          offer<lb ed="#A" n="20" break="no"/>tur: Signabat vero (addo illud hoc, nostrum nostri tem
+          <lb ed="#A" n="21"/>poris sacrificium, sed non erat hoc, quod istud quia
+          il<lb ed="#A" n="22" break="no"/>lud vmbra, hoc corpus: illud figura, hoc veritas: illud
+          <lb ed="#A" n="23"/>de cadaueribus &amp; cruore animalium, hoc de corpore &amp;
+          <lb ed="#A" n="24"/>sanguine filii Dei. Idcirco non erat idem quod signabat:
+          <lb ed="#A" n="25"/>sed istud nostri sacrificii signum non aliud, sed ipsum est
+          <lb ed="#A" n="26"/>quod signat. Ita vero est idem quod signat, vt quantum
+          <lb ed="#A" n="27"/>ad corpus, id est ad veritatem carnis &amp; sanguinis
+          Chri<lb ed="#A" n="28" break="no"/>sti pertinet, sit idem quod signat. Neque enim ibi
+          Chri<lb ed="#A" n="29" break="no"/>stus vt olim dolorem &amp; mortem patitur, quum tamen
+          <lb ed="#A" n="30"/>immolari dicatur. Dicitur autem immolari, quum licet
+          <lb ed="#A" n="31"/>inuiolabiliter in altari frangitur, diuiditur, comeditur,
+          <lb ed="#A" n="32"/>cum iis &amp; quibusdam aliis signis, in quantum fieri potest,
+          <lb ed="#A" n="33"/>mors domini maxime repraesentatur.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e2916">
+          Vnde, sicut dixi,
+          <lb ed="#A" n="34"/>quantum ad veritatem corporis &amp; sanguinis Christi per
+          <lb ed="#A" n="35"/>tinet, est idem quod signat, quam tamen maxime signat,
+          <lb ed="#A" n="36"/>maxime autem dixi, quia hoc apertissime Apostolus
+          di<lb ed="#A" n="37" break="no"/>cit in versu quem supra commemoraui: Quotiescunque
+          <lb ed="#A" n="38"/>ait, manducabitis panem hunc, &amp; calicem bibetis, mortem
+          <lb ed="#A" n="39"/>domini annuntiabitis. Quare hoc? Quare non
+          simili<lb ed="#A" n="40" break="no"/>ter &amp; Apostole Dei dixisti, incarnationem domini,
+          na<lb ed="#A" n="41" break="no"/>uitatem domini, circuncisionem domini, baptismum
+          do<lb ed="#A" n="42" break="no"/>mini, vel quod magis videretur resurrectionem domini,
+          <pb ed="#A" n="107-r"/>
+          <lb ed="#A" n="1"/>ascensionem domini? Quando dixisti mortem domini
+          <lb ed="#A" n="2"/>quare illa quae gloriosa videntur dimisisti, &amp; quod erat
+          <lb ed="#A" n="3"/>gnominiosius elegisti? Vt, inquit, ostenderem, in
+          mor<lb ed="#A" n="4" break="no"/>te domini singulariter constare salutem mundi: vt
+          osten<lb ed="#A" n="5" break="no"/>derem istud opus eius praeponderare omnibus operibus
+          <lb ed="#A" n="6"/>rius: vt ostenderem tormento illo requiem, ignominia
+          <lb ed="#A" n="7"/>illa gloriam, morte illa mortuis redditam vitam. Ita
+          pla<lb ed="#A" n="8" break="no"/>ne &amp; iuxta Apostolum, quando manducatur panis
+          do<lb ed="#A" n="9" break="no"/>mini, hoc est corpus domini: quando bibitur calix
+          do<lb ed="#A" n="10" break="no"/>mini, id est sanguis domini, annuntiatur, hoc est
+          reprae<lb ed="#A" n="11" break="no"/>entatur mors domini, quam passa est in cruce, non alia,
+          <lb ed="#A" n="12"/>sed eadem quae est praesens, caro domini: qua fusus est
+          <lb ed="#A" n="13"/>non alius, sed idem qui sumitur sanguis domini. Quod
+          <lb ed="#A" n="14"/>quum sit, ad hoc vtique fit, vt mens longe vehementius
+          ex<lb ed="#A" n="15" break="no"/>citata corporis domini susceptione, quam possit excitari
+          <lb ed="#A" n="16"/>verbi domini admonitione, in amorem eius, quem non
+          <lb ed="#A" n="17"/>tantum audit, sed etiam videt &amp; suscipit, inardescat, &amp; vi
+          <lb ed="#A" n="18"/>dens verbum carnem factum vt habitaret in nobis,
+          ha<lb ed="#A" n="19" break="no"/>bitans etiam corporaliter &amp; in se obliuisci iam nullare
+          <lb ed="#A" n="20"/>nus posset, quem fide credit, amore amplectitur, manu
+          <lb ed="#A" n="21"/>contrectat, ore suscipit, quem quondam pro se mortuum
+          <lb ed="#A" n="22"/>ipsa susceptione recolens, &amp; morte illa vitam sibi paratam
+          <lb ed="#A" n="23"/>agnoscens, a mortis operibus abstineat, &amp; sic eidem
+          Chri<lb ed="#A" n="24" break="no"/>sto domino suo immortaliter iam viuenti in sempiter
+          <lb ed="#A" n="25"/>num conuiuat. Hoc igitur ecclesiae sacramentum,
+          quo<lb ed="#A" n="26" break="no"/>niam sic assidua sui repraesentatione memoriam innouat,
+          <lb ed="#A" n="27"/>fidem auget, spem roborat, charitatem confirmat, non
+          super<lb ed="#A" n="28" break="no"/>fluum sed valde necessarium est. Ea propter vt dictum est,
+          <lb ed="#A" n="29"/>dominus hoc in sui commemorationem fieri iussit, ea
+          <lb ed="#A" n="30"/>de causa mortem domini isto sacramento denuntiari
+          Apo<lb ed="#A" n="31" break="no"/>stolus docuit, vt Christi &amp; mortis eius memoria auelli de
+          <lb ed="#A" n="32"/>cordibus humanis nulla mundi inquietudine, nulla
+          tem<lb ed="#A" n="33" break="no"/>porum prolixitate valeret. Quae memoria amorem
+          exci<lb ed="#A" n="34" break="no"/>tans de animi recessibus mala omnia effugeret,
+          virtuti<lb ed="#A" n="35" break="no"/>bus vniuersa repleret, sicque quotidie per hoc sacramentum
+          <lb ed="#A" n="36"/>innouans redemptionem, quotidianam poenitentibus
+          pec<lb ed="#A" n="37" break="no"/>catorum gigneret remissionem. Soluit quidem &amp; plene
+          <lb ed="#A" n="38"/>collit peccata mundi agnus Dei in cruce immolatus, nec
+          <lb ed="#A" n="39"/>tamen idcirco, vt dixi, superfluus est in altari oblatus. Et
+          <lb ed="#A" n="40"/>vt in te ipso, a te ipso hoc discas, aduerte quicunque haec
+          le<lb ed="#A" n="41" break="no"/>gis, teque ipsum interroga, quando magis mouearis
+          (sita<lb ed="#A" n="42" break="no"/>men quod profiteris firmiter credis) vtrum quando dicitur
+          <pb ed="#A" n="107-v"/>
+          <lb ed="#A" n="1"/>Christus olim inter homines apparuit, aut quando dicitur
+          <lb ed="#A" n="2"/>Christus nunc inter homines conuersatur? quando
+          dici<lb ed="#A" n="3" break="no"/>tur, olim in cruce pependit, an quando dicitur, nunc in
+          al<lb ed="#A" n="4" break="no"/>tan offertur? Vtrum, inquam, te magis moueat, &amp; ad
+          ad<lb ed="#A" n="5" break="no"/>mirandum, &amp; amandum accendat, eius praedicata
+          absen<lb ed="#A" n="6" break="no"/>tia, an demonstrata praesentia?
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3046">
+          Sed scio, quia non diffiteris
+          <lb ed="#A" n="7"/>quod verum est, magis humana corda moueri praesentibus
+          <lb ed="#A" n="8"/>quam absentibus rebus: mouetur igitur magis ad
+          praesen<lb ed="#A" n="9" break="no"/>tem quam ad absentem, mouetur magis ad visum, quam
+          <lb ed="#A" n="10"/>ad auditum Christum, mouetur ad admirandum,
+          moe<lb ed="#A" n="11" break="no"/>tur ad amandum, quo amore amanti generatur remissio
+          <lb ed="#A" n="12"/>peccatorum. Cui quantus erga Christum amor est, tanta
+          <lb ed="#A" n="13"/>est &amp; indulgentia, ipso domino attestante, qui de
+          peccatri<lb ed="#A" n="14" break="no"/>ce Maria sic ait: Dimissa sunt ei peccata multa, quoniam di
+          <lb ed="#A" n="15"/>lexit multum. Et cum rursus scriptum sit: Charitas
+          ope<lb ed="#A" n="16" break="no"/>rit multitudinem peccatorum. Quantam multitudinem
+          <lb ed="#A" n="17"/>peccatorum operit charitas in Christum, si tantum operit
+          <lb ed="#A" n="18"/>charitas in proximum? Non est ergo, vt dictum est,
+          super<lb ed="#A" n="19" break="no"/>fluum Christi corporis &amp; sanguinis sacramentum, quo
+          vi<lb ed="#A" n="20" break="no"/>uacior memoria excitatur, quo feruentior dilectio prouo
+          <lb ed="#A" n="21"/>tatur, quo plenior peccatorum remissio comparatur. Non
+          <lb ed="#A" n="22"/>est superfluum, quia non tantum per id quod Deus est, sed
+          <lb ed="#A" n="23"/>etiam per id quod homo est, nobiscum est vsque ad consum
+          <lb ed="#A" n="24"/>mationem saeculi. Non est superfluum, quia qui per corpus
+          <lb ed="#A" n="25"/>suum redemit nos, per idem corpus suum reficit nos, vt
+          <lb ed="#A" n="26"/>redempti per corpus eius, &amp; refecti corpore eius, nutriamur
+          <lb ed="#A" n="27"/>&amp; pascamur humanitate eius, donec satiemur deitate &amp;
+          <lb ed="#A" n="28"/>gloria eius. Hactenus Petrus Cluniacensis. Quid autem
+          <lb ed="#A" n="29"/>dici potuit magis pie, magis religiose, magis etiam diserte
+          <lb ed="#A" n="30"/>vel ad rationem huius Sacramenti &amp; sacrificii explicandam
+          <lb ed="#A" n="31"/>vel ad immensum illud redemptionis nostrae beneficium
+          <lb ed="#A" n="32"/>illustrandum, vel ad mentes hominum amore tam beneficii
+          <lb ed="#A" n="33"/>redemptoris inflammandas, quam quod ab hoc
+          venerabi<lb ed="#A" n="34" break="no"/>li patre spiritu Dei pleno dictum est? Ex cuius nos libello
+          <lb ed="#A" n="35"/>propterea tam multa describenda, atque huic loco
+          inse<lb ed="#A" n="36" break="no"/>renda curauimus, vt quae fuerit Ecclesiae fides de hoc
+          Sa<lb ed="#A" n="37" break="no"/>cramento ante quadringentos annos, planum omnibus
+          <lb ed="#A" n="38"/>fieret: simul intelligi posset, quam impudens commentum
+          <lb ed="#A" n="39"/>sit eorum, qui quadringentis iis &amp; amplius annis
+          extin<lb ed="#A" n="40" break="no"/>ctam Euangelii lucem in Ecclesia Dei, Christique beneficia
+          <lb ed="#A" n="41"/>omnia obseruata esse, literarum monumentis prodere
+          ve<lb ed="#A" n="42" break="no"/>riti non sunt: Cum si vnquam antea, illo tempore vel
+          <pb ed="#A" n="108-r"/>
+          <lb ed="#A" n="1"/>maxime, clara, aperta, testatae fuerint omnibus:
+          quemad<lb ed="#A" n="2" break="no"/>modum ex eorum scriptis videre licet, qui vixerunt illo
+          <lb ed="#A" n="3"/>saeculo, quod ferax doctissimorum hominum fuisse
+          con<lb ed="#A" n="4" break="no"/>stat. Nam intra centum annorum spacium tulit aeras illa
+          <lb ed="#A" n="5"/>viros insignes Anselmum &amp; Lantfrancum
+          Canthuarien<lb ed="#A" n="6" break="no"/>ses Archiepiscopos, Guimundum Episcopum Auersanum,
+          <lb ed="#A" n="7"/>Algerum Presbyterum, &amp; Petrum Abbatem in
+          monaste<lb ed="#A" n="8" break="no"/>rio Cluniacensi, Bernardum Claraenallensem,
+          Hugo<lb ed="#A" n="9" break="no"/>nem de sancto Victore, Richardum de sancto Victore,
+          <lb ed="#A" n="10"/>Petrum Lombardum fratrem eius, Gratianum, &amp; alios
+          <lb ed="#A" n="11"/>nonnullos non doctrina magis, quam vitae sanctitate
+          cla<lb ed="#A" n="12" break="no"/>ros &amp; illustres.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3155">
+          Atqui horum omnium, &amp; cum ea quae
+          <lb ed="#A" n="13"/>praecessit, quae fuit ab ipsis Apostolis, &amp; eorum
+          successori<lb ed="#A" n="14" break="no"/>bus, &amp; cum ea quae sequuta est Ecclesia, vsque ad haec
+          no<lb ed="#A" n="15" break="no"/>stra tempora, cum de rebus aliis omnibus, tum de
+          iuge<lb ed="#A" n="16" break="no"/>hoc sacrificio mirus concentus, &amp; incredibilis quaedam est
+          <lb ed="#A" n="17"/>consensio. Nam quod Arnobio, Cypriano, Augustino,
+          <lb ed="#A" n="18"/>Fulgentio in Aphrica, idem visum fuit Ireneo, Religio
+          <lb ed="#A" n="19"/>Antisiodorensi, &amp; Petro Cluniacensi in Gallia; idem
+          pa<lb ed="#A" n="20" break="no"/>tribus in sacrosanctis Niceno, &amp; Ephesino conciliis, ex
+          <lb ed="#A" n="21"/>toto orbe Christiano congregaris, idem Ambrosio in
+          <lb ed="#A" n="22"/>Italia, Chrysostomo in Thracia, Theophylacto in
+          Moe<lb ed="#A" n="23" break="no"/>sia, Hieronymo &amp; Ioanni Damasceno in Syria, Cyrillo
+          <lb ed="#A" n="24"/>in Aegypto, Eusebio in Palestina, Lantfranco in Anglia,
+          <lb ed="#A" n="25"/>Epiphanio in Cypro, Amalario, Rabano,
+          Bertramo<lb ed="#A" n="26" break="no"/>&amp; Ruperto Tuitiensi in Germania, Adalberto Gnesnensi
+          <lb ed="#A" n="27"/>Archiepiscopo, &amp; Staniao Cracouiensi Episcopo, qui
+          <lb ed="#A" n="28"/>nostrae gentis Apostoli fuerunt in Polonia, qui Euange,
+          <lb ed="#A" n="29"/>lium sanguine suo signatum nobis reliquerunt. Quod
+          <lb ed="#A" n="30"/>ergo isti omnes, &amp; qui eos vsque ad haec nostra tempora
+          se<lb ed="#A" n="31" break="no"/>quuti sunt, vnanimiter senserunt, praedicauerunt, literis
+          <lb ed="#A" n="32"/>etiam consignauerunt, atque ad nos transmiserunt, vicissim
+          <lb ed="#A" n="33"/>a nobis ad posteros nostros transmittendum: isti inquam
+          <lb ed="#A" n="34"/>omnes in tam diuersis regionibus commorati, tanto &amp;
+          lo<lb ed="#A" n="35" break="no"/>corum &amp; saeculorum interuallo disiuncti, quod nos
+          tan<lb ed="#A" n="36" break="no"/>to consensu docuerunt, non hominum hanc magis, quam
+          <lb ed="#A" n="37"/>Dei per os Ecclesiae suae loquentis, doctrinam existimare
+          de<lb ed="#A" n="38" break="no"/>bemus. Quominus ferendus est inflatus ille sensu carnis
+          <lb ed="#A" n="39"/>suae, qui nihil morari se scribit, quid tanto consensu
+          loquan<lb ed="#A" n="40" break="no"/>tur vetusti scriptores. Scilicet tu ille es incircuncisus
+          Phili<lb ed="#A" n="41" break="no"/>steus, qui exprobrare audes aciei Dei viuentis? qui
+          Eccle<lb ed="#A" n="42" break="no"/>liam vniuersam, quae columna est &amp; firmamentum veritatis,
+          <pb ed="#A" n="108-v"/>
+          <lb ed="#A" n="1"/>erroris arguere: qui grauissimum etiam idololatriae
+          cri<lb ed="#A" n="2" break="no"/>men illi impingere non vereris?
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3229">
+          Sed qua alia ratione
+          agno<lb ed="#A" n="3" break="no"/>sci posset illius minister, qui dixit: In caelum conscendam,
+          <lb ed="#A" n="4"/>super astra Dei exaltabo solium meum, ascendam super a
+          <lb ed="#A" n="5"/>titudinem nubium, &amp; ero similis altissimo: Qui postea
+          <lb ed="#A" n="6"/>ad infernum detractus est in profundum laci. Nisi quod
+          <lb ed="#A" n="7"/>impius hic non vult esse similis altissimo, sed vult esse
+          su<lb ed="#A" n="8" break="no"/>pra altissimum. Altissimus enim promisit se missurum
+          spi<lb ed="#A" n="9" break="no"/>ritum suum, qui doceret Ecclesiam suam &amp; cum ea
+          mane<lb ed="#A" n="10" break="no"/>ret in aeternum: &amp; iste nescio quis Satanista audet
+          altissi<lb ed="#A" n="11" break="no"/>mum arguere mendacii, dum tot seculis Ecclesiam spiritu
+          <lb ed="#A" n="12"/>Dei destitutam, ac in idololatria versatam esse
+          impuden<lb ed="#A" n="13" break="no"/>ter asserit. Percurre Ecclesiam totius orbis vniuersam,
+          <lb ed="#A" n="14"/>Italiam, Hispaniam, Galliam, Germaniam, Poloniam,
+          Vn<lb ed="#A" n="15" break="no"/>gariam, Boemiam, Insulas in mari Oceano, Angliam, Sco
+          <lb ed="#A" n="16"/>tiam, Hiberniam, Suetiam, Noruegiam, deinde quae sunt
+          <lb ed="#A" n="17"/>mediterranei maris, Siciliam, Cretam, Cyprum, Rhodum,
+          <lb ed="#A" n="18"/>Sardiniam, Corsicam. Adde Graecos, Ruthenos, Moschos,
+          <lb ed="#A" n="19"/>tametsi iam schismaticos: adde quotquot in Syria &amp;
+          Ar<lb ed="#A" n="20" break="no"/>menia Christi nomen profitentur: adde postremo
+          nume<lb ed="#A" n="21" break="no"/>rosissimos Indiae populos, toto propemodum orbe a
+          no<lb ed="#A" n="22" break="no"/>bis disiunctos: in omnibus iis regnis &amp; prouinciis
+          (prae<lb ed="#A" n="23" break="no"/>terquam si qui alicubi se viginti aut triginta his annis a
+          <lb ed="#A" n="24"/>Christo &amp; ab eius corpore segregauerunt) iuge hoc
+          sa<lb ed="#A" n="25" break="no"/>crificium corporis &amp; sanguinis Christi, &amp; nunc
+          Sacerdo<lb ed="#A" n="26" break="no"/>tes celebrare, &amp; ex quo tempore omnes isti populi
+          Chri<lb ed="#A" n="27" break="no"/>stum cognouerunt, nunquam celebrare intermisisse
+          repe<lb ed="#A" n="28" break="no"/>ries: quod a Christo vt diximus institutum, ab eius
+          Apo<lb ed="#A" n="29" break="no"/>stolis per longam Sacerdotum &amp; Episcoporum
+          successio<lb ed="#A" n="30" break="no"/>nem, per manus traditum, &amp; obseruatum in Ecclesia fuit
+          <lb ed="#A" n="31"/>ad haec vsque tempora, &amp; non prius intermittetur, quam
+          fi<lb ed="#A" n="32" break="no"/>nis mundi aduenerit. Et huic totius orbis Christiani
+          con<lb ed="#A" n="33" break="no"/>sensui vnius alicuius hominis fanatici, nihil sibi non arro
+          <lb ed="#A" n="34"/>gantis, omnia sanctis patribus detrahentis, omnem
+          om<lb ed="#A" n="35" break="no"/>nium conciliorum authoritatem eleuantis, sensum
+          ante<lb ed="#A" n="36" break="no"/>ponemus? O Christe qui es via nostra, veritas nostra,
+          vi<lb ed="#A" n="37" break="no"/>ta nostra, prius fortunas nostras omnes, prius vitam hanc
+          <lb ed="#A" n="38"/>nostram mortalem, prius omnia quae sunt in hoc seculo
+          <lb ed="#A" n="39"/>mortalibus charissima nobis eripe, quam in hanc nos
+          men<lb ed="#A" n="40" break="no"/>tem impelli patiaris. Nullum est tantum discrimen, quod
+          <lb ed="#A" n="41"/>non alacriter subire: nulla tanta difficultas, quam non con
+          <lb ed="#A" n="42"/>stanter perferre: nullum tantum certamen, cui non
+          intre<pb ed="#A" n="109-r"/><lb ed="#A" n="1" break="no"/>pide nos prius offerre summus, &amp; esse parati debemus, etiam
+          <lb ed="#A" n="2"/>si eundem illum gustare nos calicem oporteat, quem tu pro
+          <lb ed="#A" n="3"/>nobis amarissimum bibere dignatus es, te vires
+          suppedi<lb ed="#A" n="4" break="no"/>tante non modo non fugiendum nobis, verum etiam
+          ex<lb ed="#A" n="5" break="no"/>petendum esse putamus, priusquam id faciamus, quod nos
+          <lb ed="#A" n="6"/>unpii isti facere iubent, vt te redemptorem negemus, vt
+          <lb ed="#A" n="7"/>redemptionis nostrae pretium sacrosancti corporis &amp;
+          san<lb ed="#A" n="8" break="no"/>guinis tui iuge sacrificium per Satanam &amp; ministros eius
+          <lb ed="#A" n="9"/>auferri nobis patiamur.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3339">
+          Verum quod saepe monuimus,
+          <lb ed="#A" n="10"/>nihil est hoc virulento serpente callidius. Nam verbo
+          qui<lb ed="#A" n="11" break="no"/>dem ille redemptionis nostrae pretium auferre se negat.
+          <lb ed="#A" n="12"/>quin illud potius praedicari velle simulat, cum tamen re
+          <lb ed="#A" n="13"/>ipsa nihil agat aliud, neque alia in re curas suas &amp;
+          cogita<lb ed="#A" n="14" break="no"/>tiones consumat omnes, quam vt omnem tanti beneficii
+          <lb ed="#A" n="15"/>memoriam sempiterna quadam obliuione prorsus obruat.
+          <lb ed="#A" n="16"/>Contendere quidem primum illud modo videtur, vt ne
+          <lb ed="#A" n="17"/>sit externum vllum sacrificium: scriptum est enim: Vna
+          <lb ed="#A" n="18"/>oblatione consumauit in aeternum sanctificatos.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3362">
+          Verum
+          <lb ed="#A" n="19"/>posteaquam hoc obtinuerit, serpet euestigio longius,
+          si<lb ed="#A" n="20" break="no"/>mul &amp; praedicationem externam abolendam esse docebit.
+          <lb ed="#A" n="21"/>Scriptum est enim in eadem epistola, &amp; ex Propheta
+          cita<lb ed="#A" n="22" break="no"/>tum, Non docebit vnusquisque proximum suum, &amp;
+          vnus<lb ed="#A" n="23" break="no"/>quisque fratrem suum, dicens, cognosce dominum: quoniam
+          <lb ed="#A" n="24"/>omnes scient me, a minore vsque ad maiorem. Sed
+          fana<lb ed="#A" n="25" break="no"/>tici tibi videntur, qui per hunc scripturae locum externum
+          <lb ed="#A" n="26"/>verbi ministerium abolere conantur?
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3382">
+          Atqui eadem hoc
+          <lb ed="#A" n="27"/>authoritate, qua tu, faciunt, &amp; aeque tu fanaticus videri
+          de<lb ed="#A" n="28" break="no"/>bes, qui per ea, quae &amp; in hoc &amp; in proxime insequenti
+          ca<lb ed="#A" n="29" break="no"/>pite scripta sunt, &amp; Sacerdotium, &amp; sacrificium externum
+          <lb ed="#A" n="30"/>abrogare niteris: vnde occasionem isti sumpserunt, idem
+          <lb ed="#A" n="31"/>de externa quam vos in Ecclesia solam esse vultis
+          praedi<lb ed="#A" n="32" break="no"/>tatione sentiendi. Qui magis autem vobis vestro, quam
+          <lb ed="#A" n="33"/>illis, quos merito fanaticos vocatis, suo iudicio scriptura,
+          <lb ed="#A" n="34"/>interpretari licebit? Estis autem vtrique fanatici, qui vos
+          <lb ed="#A" n="35"/>a Christo &amp; ab eius corpore Ecclesia segregastis, atque ideo
+          <lb ed="#A" n="36"/>tanta errorum caligine oppressi estis.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3406">
+          Verum est enim
+          <lb ed="#A" n="37"/>quod vt diceres dum fanaticos istos insectaris, ipsa abs te
+          <lb ed="#A" n="38"/>nuito veritas extorsit, sanae intelligentiae lucem Ecclesiae
+          <lb ed="#A" n="39"/>promitti ac recte admones peculiariter id notandum esse
+          <lb ed="#A" n="40"/>Non est enim extra illam sanae intelligentiae scripturarum
+          <lb ed="#A" n="41"/>lux, cui promissus &amp; missus est spiritus sanctus, a qua cum
+          <lb ed="#A" n="42"/>ultro ipse te praecideris, mirandum non est, si sanae
+          intelli<pb ed="#A" n="109-v"/><lb ed="#A" n="1" break="no"/>gentiae lux a te recessit. Scit satanas, quemadmodum ab
+          <lb ed="#A" n="2"/>Augustino quoque scriptum legimus, extremum sacrificium
+          <lb ed="#A" n="3"/>Deo deberi, atque hoc vno signo diuinam seruitutem ab
+          <lb ed="#A" n="4"/>humanis obsequiis discerni. Nam obsequia caetera quae
+          di<lb ed="#A" n="5" break="no"/>uinitati debentur, ausi sunt sibi etiam superbiae fastu
+          ho<lb ed="#A" n="6" break="no"/>mines arrogare, rarissimi autem commemorantur, qui sibi
+          <lb ed="#A" n="7"/>vt sacrificaretur, cum potestate possent, ausi fuerint
+          impe<lb ed="#A" n="8" break="no"/>rare: quicunque tamen ausi sunt, per hoc se deos haberi
+          vo<lb ed="#A" n="9" break="no"/>luerunt.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3442">
+          Quamobrem vt ne quod esset discrimen inter
+          <lb ed="#A" n="10"/>diuinam maiestatem, &amp; inter mundi principes, vt nullus
+          <lb ed="#A" n="11"/>peculiaris illi cultus tribueretur, hoc summo studio
+          con<lb ed="#A" n="12" break="no"/>tendit &amp; elaborat, vt externum tollat sacrificium, quo
+          nul<lb ed="#A" n="13" break="no"/>sa vnquam aetas ab orbe condito caruit, etiamsi nunc apud
+          <lb ed="#A" n="14"/>plures, nunc apud pauciores vsus eius fuerit: quo sic
+          tan<lb ed="#A" n="15" break="no"/>dem dicat impius, dicat insipiens in corde suo, non est Deus
+          <lb ed="#A" n="16"/>Hic est scopus ad quem tendit Satanas, cuius si nouam hanc
+          <lb ed="#A" n="17"/>doctrinam de externo sacrificio abrogando, (quod pro
+          <lb ed="#A" n="18"/>sua misericordia procul Deus auertere dignabitur)
+          mun<lb ed="#A" n="19" break="no"/>dus exaudiat, faciet, quod nunquam fecerat, &amp; more capti
+          <lb ed="#A" n="20"/>uitati illius populi sedebit absque Lege, absque Rege, absque
+          <lb ed="#A" n="21"/>Sacerdotio, absque Ephot &amp; Theraphin: cumque Deo
+          sa<lb ed="#A" n="22" break="no"/>crificare cessauerit, &amp; ipse Dei esse cessabit. Erit iis
+          tempo<lb ed="#A" n="23" break="no"/>ribus gratiae, quod nunquam fuit nec tempore irae, vt
+          <lb ed="#A" n="24"/>Christianis Deo sacrificare cessantibus, cultus qui semper
+          <lb ed="#A" n="25"/>in mundo fuerat, omnino de mundo pereat: &amp; qui Deum
+          <lb ed="#A" n="26"/>ritu suo colens, Deo subditus esse probatur, cultum eius
+          <lb ed="#A" n="27"/>abiiciens absque aliquo Deo prorsus esse videatur. Cum
+          <lb ed="#A" n="28"/>itaque detectae iam sint satanae fraudes, cum quorsum ter
+          <lb ed="#A" n="29"/>dat serpens hic astutus planum &amp; manifestum factum sit
+          <lb ed="#A" n="30"/>neque enim aliud illi propositum est externo sacrificio
+          <lb ed="#A" n="31"/>abolendo, quam vt redemptorem, vt redemptionis
+          no<lb ed="#A" n="32" break="no"/>strae pretium auferat, denique vt nos sine Deo esse faciat,
+          <lb ed="#A" n="33"/>viriliter illius conatibus resistamus, ac quanto magis ille
+          <lb ed="#A" n="34"/>cultum hunc Deo debitum, &amp; ab ipso Deo institutum
+          <lb ed="#A" n="35"/>oppugnare fuerit adortus tanto nos eum maiore pietate
+          <lb ed="#A" n="36"/>frequentemus, tanto crebrius iuge sacrificium hoc, per
+          <lb ed="#A" n="37"/>quod reconciliationem in cruce factam, &amp; peccatorum
+          <lb ed="#A" n="38"/>nostrorum remissionem ibidem nobis obtentam, in
+          no<lb ed="#A" n="39" break="no"/>transferre conamur, in Ecclesia celebremus. Neque
+          mo<lb ed="#A" n="40" break="no"/>ueat quenquam, quod non ea lingua peragatur, quae ab
+          <lb ed="#A" n="41"/>omnibus intelligi possit. Iam enim anter satis docuisse
+          <lb ed="#A" n="42"/>videmur, non in eo quantum intelligamus, sed in eo quam
+          <pb ed="#A" n="110-r"/>
+          <lb ed="#A" n="1"/>pie Deum colamus, salutem nostram positam esse. An
+          exi<lb ed="#A" n="2" break="no"/>stimandum est, intellexisse pueros Hebraeorum quid
+          age<lb ed="#A" n="3" break="no"/>rent, cum in templo clamarent, sanna filio Dauid:
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3525">
+          Atqui
+          <lb ed="#A" n="4"/>adeo non fuit haec eorum quamlibet imperitorum
+          pieta<lb ed="#A" n="5" break="no"/>ingrata Christo adeo non aspernatus est non
+          intelligen<lb ed="#A" n="6" break="no"/>tium laudem, vt cum Principes Sacerdotum &amp; Scribe
+          in<lb ed="#A" n="7" break="no"/>dignati dixissent, audis quid isti dicunt? non obscure
+          tule<lb ed="#A" n="8" break="no"/>rit, se laude eorum delectari, ac iam pridem a propheta fuisse
+          <lb ed="#A" n="9"/>praedictum admonuerit: Ex ore infantium &amp; lactentium
+          per<lb ed="#A" n="10" break="no"/>fecisti laudem. Qui vel solus scripturae locus docere nos
+          po<lb ed="#A" n="11" break="no"/>test, non quae ab eorum supercilio proficiscitur, qui sibi nihil
+          <lb ed="#A" n="12"/>non arrogant, sed infantium &amp; lactentium laudem gratam
+          <lb ed="#A" n="13"/>esse Deo.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3549">
+          Iam vero quotusquisque fuit in populo Israel, qui
+          <lb ed="#A" n="14"/>quid sibi vellent ritus, ceremonia; sacrificia veteris legis
+          <lb ed="#A" n="15"/>erspectum habere? Certe praeter Sacerdotes, Scribas, &amp;
+          <lb ed="#A" n="16"/>Pharissos, vix millesimus quisque, quid ca sibi vellent
+          asse<lb ed="#A" n="17" break="no"/>quebatur, vt non temere dictum fuerit a Phariseis: Turba
+          <lb ed="#A" n="18"/>haec quae non nouit legem, maledicti sunt. Et tamen ex
+          <lb ed="#A" n="19"/>hac turba quae legem ignorare visa est, non ex sapientibus
+          <lb ed="#A" n="20"/>secundum carnem, elegit Christus, per quos Euangelii sui
+          <lb ed="#A" n="21"/>luce mundum illustraret: cum interea qui de verbo
+          Dei<lb ed="#A" n="22" break="no"/>de scripturarum, de legis peritia tantopere gloriabantur,
+          <lb ed="#A" n="23"/>&amp; sibi solis earum intelligentiam arrogabant, sibi cum
+          <lb ed="#A" n="24"/>sua arrogantia relicti, filii gehennae facti sunt. Non
+          scisci<lb ed="#A" n="25" break="no"/>tabantur curiose qui fuerant e turba, quid in sacrificiis
+          <lb ed="#A" n="26"/>istis fieret illud scire contenti erant, venturum aliquando
+          <lb ed="#A" n="27"/>mediatorem, per quem salutem ipsis consequi liceret:
+          il<lb ed="#A" n="28" break="no"/>lum expectabant, illum coli, &amp; adumbrari sacrificiis istis
+          <lb ed="#A" n="29"/>persuasum habebant. In caeteris omnibus, maiorum
+          suo<lb ed="#A" n="30" break="no"/>rum, hoc est eorum, ex quorum ore legem requirere iussi
+          <lb ed="#A" n="31"/>fuerant, fidem sequebantur, in qua non pauciores
+          procul<lb ed="#A" n="32" break="no"/>dubio ex imperita multitudine &amp; simplici plebecula, quam
+          <lb ed="#A" n="33"/>ex illis, qui diuinae legis prae caeteris esse periti
+          videban<lb ed="#A" n="34" break="no"/>tur, salui facti sunt. Non alia ratio existimanda est
+          eo<lb ed="#A" n="35" break="no"/>rum, qui Christum sequuti sunt, etiam si non omnia
+          vul<lb ed="#A" n="36" break="no"/>gus intelligat, quae geruntur in hoc altariis sacrificio, saltem
+          <lb ed="#A" n="37"/>nouerit Iesum Christum, &amp; hunc crucifixum, atque illud
+          sa<lb ed="#A" n="38" break="no"/>crificium quo semetipsum in cruce Christus obtulit
+          ho<lb ed="#A" n="39" break="no"/>stiam Deo in odorem suauitatis, in altari repraesentari
+          in<lb ed="#A" n="40" break="no"/>telligat, tum facile, ac facilius etiam in hac sua simplici fide
+          <lb ed="#A" n="41"/>saluari poterit, quam qui anxie disputant, vtrum ea iustitia
+          <lb ed="#A" n="42"/>qua Christus ipse iustus est, an ca quam nobiscum
+          com<pb ed="#A" n="110-v"/><lb ed="#A" n="1" break="no"/>municat, &amp; suo modo nostram facit, nobis eam imputans,
+          <lb ed="#A" n="2"/>an (quae est Ecclesiae sana doctrina) ea quae Christi
+          meri<lb ed="#A" n="3" break="no"/>to nobis communicata, nobis inhaeret, ius efficiamur.
+          <lb ed="#A" n="4"/>Cum locum illum produxisset Origenes ex Paulo, in quo
+          <lb ed="#A" n="5"/>spiritum in nobis ita orare docet, vt sensus sine fructu sit,
+          <lb ed="#A" n="6"/>intellige, inquit, ex hoc, quia fit aliquando noster quidem
+          <lb ed="#A" n="7"/>sensus fine fructu. Spiritus autem, id est, virtutes illae quae
+          <lb ed="#A" n="8"/>animae nostrae in adiutorium datae sunt, pascuntur &amp;
+          refi<lb ed="#A" n="9" break="no"/>ciuntur ex auditu animae sanctae, velut ex diuinis &amp;
+          ra<lb ed="#A" n="10" break="no"/>tionabilibus cibis. Quid dico quia diuinae scriptura
+          <lb ed="#A" n="11"/>proferamus ex ore, ipse Dominus noster Iesus Christus
+          <lb ed="#A" n="12"/>si nos inueniat his vacantes, non solum pasci &amp; refici
+          di<lb ed="#A" n="13" break="no"/>gnatur in nobis, verumetiam si has epulas apud nos
+          vide<lb ed="#A" n="14" break="no"/>rit apparatas, patrem secum dignatur adducere. Ac
+          pau<lb ed="#A" n="15" break="no"/>cis interiectis: Etiam malignorum virtutum insidias
+          ef<lb ed="#A" n="16" break="no"/>fugari sermonibus eiusmodi docet, haud aliter atque pre
+          <lb ed="#A" n="17"/>cationibus sopitus serpens portatur in manibus. Si legis,
+          <lb ed="#A" n="18"/>inquit, scripturam quam non intelligis, interim hanc
+          pri<lb ed="#A" n="19" break="no"/>mam suscipe vtilitatem, quod solo auditu velut in
+          canta<lb ed="#A" n="20" break="no"/>tione quadam noxiarum virtutum quae tibi insidiantur,
+          <lb ed="#A" n="21"/>virtus depellitur. Et iterum post pauca: Haec idcirco
+          di<lb ed="#A" n="22" break="no"/>ximus, ne fastidium capiamus audientes scripturas, etiam
+          <lb ed="#A" n="23"/>si non intelligimus, sed fiat nobis secundum fidem
+          no<lb ed="#A" n="24" break="no"/>stram credentibus, quia omnis scriptura diuinitus
+          inspi<lb ed="#A" n="25" break="no"/>rata vtilis est, etiam si non sentiamus vtilitatem, credere
+          <lb ed="#A" n="26"/>tamen debemus quia vtilis est. Solent medici praebere
+          <lb ed="#A" n="27"/>interdum cibum aliquem vel potum (verbi gratia) ad
+          <lb ed="#A" n="28"/>discutiendam caliginem visus: nec tamen in edendo siue
+          <lb ed="#A" n="29"/>potando sentimus quia vtile est &amp; prodest oculis, sed
+          <lb ed="#A" n="30"/>cum transierit visum, cibi illius aut potus virtus,
+          paula<lb ed="#A" n="31" break="no"/>tim purgat aspectum, &amp; tum demum sentire incipimus,
+          <lb ed="#A" n="32"/>quia cibus ille aut potus profuit oculis. Hoc ergo modo
+          <lb ed="#A" n="33"/>credendum est etiam de scriptura sancta, quia vtilis est,
+          <lb ed="#A" n="34"/>&amp; animae prodest, etiam si sensus noster ad praesens in
+          <lb ed="#A" n="35"/>telligentiam non capit, quoniam vt diximus, &amp; bona
+          <lb ed="#A" n="36"/>virtutes reficiuntur, &amp; malae torpescunt &amp; effugantur.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3695">
+          <lb ed="#A" n="37"/>Quamobrem recte populum institutum fuisse videmus.
+          <lb ed="#A" n="38"/>a maioribus nostris, cum Eucharistiam Sacerdos eleuat,
+          <lb ed="#A" n="39"/>quod est sacrificii signum (nam &amp; in lege quaecunque
+          sacri<lb ed="#A" n="40" break="no"/>ficabantur, eleuarii consueuisse docemur ex Leuitico) vi
+          <lb ed="#A" n="41"/>in genua procidentes, Christum in Eucharistia
+          praesen<lb ed="#A" n="42" break="no"/>tem adorent: simul in memoriam redeant illius sacrificii
+          <pb ed="#A" n="111-r"/>
+          <lb ed="#A" n="1"/>quo ille in crucem sublatus, se pro nobis hostiam obtulit deo
+          <lb ed="#A" n="2"/>Recogitent etiam secum, quam acerbos cruciatus, quam
+          <lb ed="#A" n="3"/>gnominiosam mortem sustinuit, quodque his illius tam
+          gra<lb ed="#A" n="4" break="no"/>uibus suppliciis non nisi peccata nostra causam dederunt.
+          <lb ed="#A" n="5"/>Quare iustum de commissis illis dolorem concipiant,
+          at<lb ed="#A" n="6" break="no"/>que modis omnibus ea sibi odio esse, seque vel maxime
+          ca<lb ed="#A" n="7" break="no"/>detestari declarent, &amp; pectorum tunsionibus, &amp;
+          quibus<lb ed="#A" n="8" break="no"/>cunque rebus aliis externis.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3730">
+          Quoniam vero tam pretiosa
+          <lb ed="#A" n="9"/>morte sua pro peccatis nostris omnibus Christus plene
+          sa<lb ed="#A" n="10" break="no"/>tisfecit, nulla vt esse possint flagitia tanta, quae per illam
+          <lb ed="#A" n="11"/>abolita non sint, concepta inde fiducia, adeant ad thronum
+          <lb ed="#A" n="12"/>gratiae dei, &amp; cum nostra merita non habeamus, quae
+          alle<lb ed="#A" n="13" break="no"/>gare possimus, allegent Christi merita, hoc ipsum corpus
+          <lb ed="#A" n="14"/>quod pro nobis in cruce pependit, hunc ipsum sanguinem
+          <lb ed="#A" n="15"/>qui fusus est in remissionem peccatorum nostrorum, Deo
+          <lb ed="#A" n="16"/>patri sistentes: ac supplices illum precentur qui
+          protecto<lb ed="#A" n="17" break="no"/>noster est, vt auertat faciem suam a peccatis suis, &amp;
+          respi<lb ed="#A" n="18" break="no"/>ciat in faciem Christi filii sui vnigeniti: qui cum esset
+          spe<lb ed="#A" n="19" break="no"/>ciosus forma prae filiis hominum, factus est nostra causa
+          <lb ed="#A" n="20"/>despectus, &amp; nouissimus virorum, vir dolorum, &amp; sciens
+          <lb ed="#A" n="21"/>infirmitatem, &amp; quasi absconditus vultus eius &amp; despectus;
+          <lb ed="#A" n="22"/>Ipse languores nostros tulit, ipse dolores nostros portauit,
+          <lb ed="#A" n="23"/>ipse vulneratus est, propter iniquitates nostras, attritus est
+          <lb ed="#A" n="24"/>propter scelera nostra ipse oblatus est quia ipse voluit, &amp;
+          <lb ed="#A" n="25"/>non aperuit os suum: Sicut ouis ad occisionem ductus est
+          <lb ed="#A" n="26"/>&amp; quasi agnus coram tondente se obmutuit. In huius
+          ita<lb ed="#A" n="27" break="no"/>que faciem respiciat, huius merito peccata remittat: atque
+          <lb ed="#A" n="28"/>concedat, vt quem fructum crucis illud sacrificium quod
+          <lb ed="#A" n="29"/>in altari repraesentatur, toti mundo attulit, eum in se trans
+          <lb ed="#A" n="30"/>ferre queant. Sic a maioribus nostris vulgus fuit
+          institu<lb ed="#A" n="31" break="no"/>tum.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3782">
+          Quod si nihil praeterea de hoc sacrificio intelligeret,
+          <lb ed="#A" n="32"/>vel hoc solum intellexisse satis illi foret ad salutem.
+          Quo<lb ed="#A" n="33" break="no"/>niam tamen hoc istorum temporum ratio postulat,
+          dabi<lb ed="#A" n="34" break="no"/>tur a nobis opera, vt e superiore loco doceatur populus
+          <lb ed="#A" n="35"/>de omnibus iis, quae ad Missae sacrificium pertinere
+          vide<lb ed="#A" n="36" break="no"/>buntur. De quo conscripti sunt sermones aliquot viri
+          <lb ed="#A" n="37"/>cumprimis docti &amp; pli, vereque Catholici Michaelis episco
+          <lb ed="#A" n="38"/>pi Mersburgensis, quos interim omnibus commendatos
+          <lb ed="#A" n="39"/>esse atque manibus omnium teri cuperemus, quod pro eo
+          <lb ed="#A" n="40"/>vt haec tempora postulabant, nemo diligentius est omnia
+          <lb ed="#A" n="41"/>quae ad hoc argumenti genus pertinent persequutus.
+          Ne<lb ed="#A" n="42" break="no"/>que tamen existimet aliquis temere ac sine causa factum
+          <pb ed="#A" n="111-v"/>
+          <lb ed="#A" n="1"/>esse, quod vna &amp; sola latina lingua in occidentali
+          Eccle<lb ed="#A" n="2" break="no"/>sia sacra peraguntur, in qua sicut vna est fides, ita visum est
+          <lb ed="#A" n="3"/>aequum, vt vna esset quasi Catholica lingua communis
+          <lb ed="#A" n="4"/>omnium gentium &amp; nationum, qua res diuina fieret,
+          pe<lb ed="#A" n="5" break="no"/>quam vnitas etiam fidei retineretur. Non est in orbe
+          Chri<lb ed="#A" n="6" break="no"/>stiano gens vlla, qua non multos reperire liceat, ex iis
+          <lb ed="#A" n="7"/>praesertim, qui sunt liberalius educati, qui linguam
+          lati<lb ed="#A" n="8" break="no"/>nam si minus exacte, vtcunque tamen calleant. Ac si qua
+          <lb ed="#A" n="9"/>gens alia, nostra praecipue permultos habet eius linguae
+          <lb ed="#A" n="10"/>non omnino rudes: quum etiam colonos &amp; agricolas
+          re<lb ed="#A" n="11" break="no"/>perire liceat in Ecclesia laudes Deo decantantes, ac verba
+          <lb ed="#A" n="12"/>latina vtcunque sonantes, eaque praesertim, quae cantantur
+          <lb ed="#A" n="13"/>in Missae sacrificio intelligentes. Quam pulchrum autem
+          <lb ed="#A" n="14"/>&amp; decorum est, quum peregrinus venerit aliquis, si ea
+          lin<lb ed="#A" n="15" break="no"/>gua sacra peragi audiat, cuius &amp; ipse rudis non sit cum
+          ca<lb ed="#A" n="16" break="no"/>quasi propria sit gentis Christianae: si vnanimes, vno ore,
+          <lb ed="#A" n="17"/>vna etiam lingua glorificantes omnes Deum &amp; patre
+          do<lb ed="#A" n="18" break="no"/>mini nostri Iesu Christi, si eosdem ritus, qusdem
+          ceremo<lb ed="#A" n="19" break="no"/>nias obseruantes videat: vt vel ea res documento esse
+          que<lb ed="#A" n="20" break="no"/>at, totius quae est in orbe Christiano multitudinis
+          creden<lb ed="#A" n="21" break="no"/>tium, esse cor vnum, &amp; animam vnam: Cum longe
+          diuer<lb ed="#A" n="22" break="no"/>sum cernere liceat apud eos, qui ab Ecclesia, discesserunt,
+          <lb ed="#A" n="23"/>apud quos sicut fides instabilis est neque vna, sic ritus
+          quo<lb ed="#A" n="24" break="no"/>que &amp; ceremoniae, quae cum doctrina simul quotannis
+          va<lb ed="#A" n="25" break="no"/>riantur. Neque tamen suis locis &amp; temporibus etiam in
+          tem<lb ed="#A" n="26" break="no"/>plis vernacula lingua cantari prolubuit Ecclesia. Iam
+          an<lb ed="#A" n="27" break="no"/>tea commemotamus, quemadmodum etiam
+          vulga<lb ed="#A" n="28" break="no"/>bus cantilenis, quam maxime, voluent, inculcata nobis
+          <lb ed="#A" n="29"/>Christi beneficia sitiens nostrae, salutis mater Ecclesia: quod
+          <lb ed="#A" n="30"/>in festis Christi natalitus, festis etiam Paschae, &amp;
+          Penteco<lb ed="#A" n="31" break="no"/>stes dudum recepto more fieri videmus, vt hac quam noui
+          <lb ed="#A" n="32"/>tate mentes, hominum magis etiam excitentur ad
+          spiri<lb ed="#A" n="33" break="no"/>tualem laetitiam, &amp; cuius beneficii fit in Ecclesia
+          comme<lb ed="#A" n="34" break="no"/>moratio, eius memoria tenacius eorum animis infigatur.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3884">
+          <lb ed="#A" n="35"/>Caeterum illud ferendum non est, priuatus vt aliquis, cur
+          <lb ed="#A" n="36"/>nulla mandata est authoritas, quin decet eum potius, et
+          <lb ed="#A" n="37"/>qui potestatem hanc a Deo concessam habet in omnibus
+          <lb ed="#A" n="38"/>dicto esse audientem, is hoc sibi sumat, aliquid vt in
+          Eccle<lb ed="#A" n="39" break="no"/>sia suo iudicio mutare, aut ritus nouos, nouas etiam
+          can<lb ed="#A" n="40" break="no"/>tilenas inducere licere sibi putet, quum ne ipsis quidem
+          Epi<lb ed="#A" n="41" break="no"/>scopis eius rei plena potestas concessa sit. Vel Ozae regis
+          <lb ed="#A" n="42"/>exemplum deterrere prophanos debet, ne quid eiusmodi
+          <pb ed="#A" n="112-r"/>
+          <lb ed="#A" n="1"/>tibi arrogent. Longum autem foret omnia persequi, quae
+          <lb ed="#A" n="2"/>ad Misiae sacrificium explicandum pertinere videntur,
+          ne<lb ed="#A" n="3" break="no"/>que est hoc praesentis instituti.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3913">
+          Quamobrem hic finem
+          fa<lb ed="#A" n="4" break="no"/>ciemus. Quoniam vero quaerunt hoc tempore multi, num
+          <lb ed="#A" n="5"/>dei verbum e superiore loco praedicantem, an sacris
+          ope<lb ed="#A" n="6" break="no"/>rantem sacerdotem audire praestet: vicissim ab illis recte
+          <lb ed="#A" n="7"/>quaeri potest, scire ne praestet an facere voluntatem
+          domi<lb ed="#A" n="8" break="no"/>ni? Non auditores, dicit Paulus, sed factores legis
+          iustifi<lb ed="#A" n="9" break="no"/>cabuntur. Seruus qui cognouit voluntatem domini sui,
+          <lb ed="#A" n="10"/>dicit Christus, &amp; non fecit secundum voluntatem eius,
+          va<lb ed="#A" n="11" break="no"/>pulabit plagis multis: qui autem non cognouit &amp; fecit
+          di<lb ed="#A" n="12" break="no"/>gna plagas, vapulubit paucis.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e3935">
+          Porro cum sacerdotem
+          au<lb ed="#A" n="13" break="no"/>dis e superiore loco scripturas enarrantem, fit vt intelligas
+          <lb ed="#A" n="14"/>quae sit voluntas Domini, vt autem facias, id ab eo
+          praesta<lb ed="#A" n="15" break="no"/>ri non potest, qui praedicat: sed neque tu quicquam potes
+          <lb ed="#A" n="16"/>viribus auis solius, opus est eius auxilio, a quo tanquam
+          <lb ed="#A" n="17"/>a fonte quodam perenni manat quicquid est rerum bona
+          <lb ed="#A" n="18"/>rum. Nam neque qui plantat est aliquid, neque qui rigat,
+          <lb ed="#A" n="19"/>sed qui incrementum dat Deus. Hoc est quod ille dixit
+          Sa<lb ed="#A" n="20" break="no"/>piens: vt sciui, quoniam aliter non possem esse continens,
+          <lb ed="#A" n="21"/>nisi Deus det, &amp; hoc ipsum erat summa sapientia, scire
+          cu<lb ed="#A" n="22" break="no"/>ius esset hoc donum, adii dominum &amp; deprecatus suum
+          il<lb ed="#A" n="23" break="no"/>lum. Hujus exemplum diuinitus inspirata sequi nos
+          do<lb ed="#A" n="24" break="no"/>cuit Ecclesia, simul vt cognouissemus e superiore loco
+          vo<lb ed="#A" n="25" break="no"/>luntatem domini, statim vt adiremus ad dominum, ac
+          de<lb ed="#A" n="26" break="no"/>precaremur illum, quo tempore illius in cruce factae
+          obla<lb ed="#A" n="27" break="no"/>tionis fit repraesentatio, vt eam explendi facultatem
+          no<lb ed="#A" n="28" break="no"/>bis concederet: cum Augustino dicentes, Da quod iubes,
+          <lb ed="#A" n="29"/>&amp; iube quod vis: Da non nostro merito, sed eius qui
+          cor<lb ed="#A" n="30" break="no"/>pus suum pro nobis tradere, qui sanguinem suum pro no
+          <lb ed="#A" n="31"/>bis fundere dignatus est, cuius rei nunc repraesentatio fit
+          <lb ed="#A" n="32"/>in altari. Huius meritis concede nobis, vt iuxta
+          volun<lb ed="#A" n="33" break="no"/>tatem tuam, quam e sacerdote verbum tuum annuntiante
+          <lb ed="#A" n="34"/>cognouimus, vitam nostram instituere, &amp; quem fructum
+          acer<lb ed="#A" n="35" break="no"/>ba mors tua toti mundo attulit, eius participes esse
+          quea<lb ed="#A" n="36" break="no"/>mus. Sic olim factitatum est in ecclesia dei, non vt hoc
+          infe<lb ed="#A" n="37" break="no"/>lici seculo nostro, quo simul vt audita est concio, siatim pro
+          <lb ed="#A" n="38"/>ruunt omnes e templo, quasi vel sufficiat nosse voluntatem
+          dei<lb ed="#A" n="39" break="no"/>neque facere sit necesse, vel si necesse sit facere, quasi ipse ex se
+          <lb ed="#A" n="40"/>satis virium habeat homo ad faciendum, nec opem diuinam
+          <lb ed="#A" n="41"/>implorare oporteat. Libet hic adscribere verba, quae
+          se<pb ed="#A" n="112-v"/><lb ed="#A" n="1" break="no"/>cit ad populum hac de re Ioannes Chrysostomus.
+          Ingen<lb ed="#A" n="2" break="no"/>tem, ait, &amp; pene inauditam hanc populi multitudinem, quae
+          <lb ed="#A" n="3"/>modo affluxit, tantaque cum attentione sermonem
+          audi<lb ed="#A" n="4" break="no"/>meum, saepenumero tempore illo perhorrendo requisiui,
+          <lb ed="#A" n="5"/>&amp; tamen nunquam videre potui, atque ita me vehemens
+          <lb ed="#A" n="6"/>coepit suspirium, quod cum ego disputo vester conseruus,
+          <lb ed="#A" n="7"/>studium adhibetis &amp; ingenium, contenditis animum,
+          al<lb ed="#A" n="8" break="no"/>ter alterum impellit &amp; iactat, vt ipse propius adsit, frequentes
+          <lb ed="#A" n="9"/>ad finem vsque dicendi patientissime perseueratis. Cum
+          <lb ed="#A" n="10"/>autem ipse Christus communis magister &amp; dominus,
+          se<lb ed="#A" n="11" break="no"/>met in sacris mysteriis ostensurus est, vacua desertaque
+          eccle<lb ed="#A" n="12" break="no"/>sia redditur. Proh fidem hominum Christianorum, quo
+          <lb ed="#A" n="13"/>pacto isthaec veniam consequantur? Facit profecto vestra
+          <lb ed="#A" n="14"/>ista siue desidia, siue negligentia, vt laudem studii
+          auscul<lb ed="#A" n="15" break="no"/>tandi illius omnem amittatis. Quis enim non tam vos,
+          <lb ed="#A" n="16"/>quam me damnet ac reprobet, cum fructum omnem audi
+          <lb ed="#A" n="17"/>endi delapsum cernat &amp; vanidum?
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e4039">
+          Nam si cum diligentia
+          <lb ed="#A" n="18"/>his quae docuissem attenderitis, facto palam studium
+          face<lb ed="#A" n="19" break="no"/>retis vestrum, non verbis tenus, corde habere
+          monstrare<lb ed="#A" n="20" break="no"/>ris. Sed quod statim cum audistis disceditis, &amp; fugam
+          qua<lb ed="#A" n="21" break="no"/>si vos hostis insectaretur arripitis: coniectari omnino
+          li<lb ed="#A" n="22" break="no"/>cet, nihil vos recepisse &amp; recondisse animo vtilitatis. Nam
+          <lb ed="#A" n="23"/>si quae praeposita sunt, recondita in animis vestris
+          seruaren<lb ed="#A" n="24" break="no"/>tur: prorsus vos illa in templo tenerent, &amp; ad rem horribi
+          <lb ed="#A" n="25"/>lem maiore cum deuotione hortarentur &amp; mouerent.
+          <lb ed="#A" n="26"/>Nunc vero quasi fidicinam audiretis aliquam, sic omni vti
+          <lb ed="#A" n="27"/>litate vacui, simul ac factus finis dicendi est, disceditis. Sed
+          <lb ed="#A" n="28"/>o frigidam excusandi rationem, quam a compluribus red
+          <lb ed="#A" n="29"/>di audio. Orare vel domi possumus, dicunt, sed homiliam
+          <lb ed="#A" n="30"/>doctrinamque audire non nisi in Ecclesia possumus. Te
+          ho<lb ed="#A" n="31" break="no"/>mo decipis, &amp; magno in errore versaris. Nam si &amp;
+          domi<lb ed="#A" n="32" break="no"/>quoque datur orandi facultas, tamen fieri non potest, vt
+          <lb ed="#A" n="33"/>domi tam bene ores quam in Ecclesia, vbi tot patres, vbi
+          <lb ed="#A" n="34"/>clamor felici societate excitus, ad Deum immortalem
+          re<lb ed="#A" n="35" break="no"/>fertur, non pariter exoras cum solus dominum obsecras,
+          <lb ed="#A" n="36"/>atque tuis cum fratribus. Est enim in hoc plus aliquid,
+          vi<lb ed="#A" n="37" break="no"/>delicet concordia, conspiratio, copula amoris &amp;
+          charita<lb ed="#A" n="38" break="no"/>tis, sacerdotum clamores: praesunt enim ob eam rem sacer
+          <lb ed="#A" n="39"/>dotes, vt populi orationes, quae infirmiores per se sunt,
+          va<lb ed="#A" n="40" break="no"/>lidiores illas complexae simul in coelum euehantur. Adde
+          <lb ed="#A" n="41"/>quod nihil fructus capi ex homilia potest, nisi oratio
+          ad<lb ed="#A" n="42" break="no"/>iungatur.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e4096">
+          Porro sermoni oratio debet anteire. Sic
+          Apo<pb ed="#A" n="113-r"/><lb ed="#A" n="1" break="no"/>stoli dicunt. Nos in oratione &amp; sermonis doctrina
+          perse<lb ed="#A" n="2" break="no"/>uerabimus. Sic Paulus facit, quum in exordiis suarum
+          epi<lb ed="#A" n="3" break="no"/>stolarum oret, vt perinde quasi lumen lucernae, lux ipsa
+          <lb ed="#A" n="4"/>orationis regat sermonem ac dirigat. Profecto si orare cum
+          <lb ed="#A" n="5"/>diligentia insuescas, nihil est quod doctrinam tui conseruus
+          <lb ed="#A" n="6"/>desideres, quum ipse Deus sine vllo interprete, mentem
+          tu<lb ed="#A" n="7" break="no"/>am abunde luce afficiat. Quod si omnis oratio tantam vim
+          <lb ed="#A" n="8"/>habeat, longe magis eam, quae ore multorum proueniat
+          <lb ed="#A" n="9"/>valere consentaneum est. Plus enim neruorum in ea est,
+          <lb ed="#A" n="10"/>&amp; multo audientia maior, quam in domestica illa &amp;
+          pri<lb ed="#A" n="11" break="no"/>uata. Vnde id constet, Paulum ipsum dicentem audis. Qui
+          <lb ed="#A" n="12"/>ex tantis periculis eripuit nos, &amp; eruit, etiam speramus
+          <lb ed="#A" n="13"/>quod adhuc eripiet, vobis quoque in oratione pro nobis
+          <lb ed="#A" n="14"/>subuenientibus, vt dono in vos collato, a multis personis
+          <lb ed="#A" n="15"/>gratiae agantur pro nobis. Sic etiam Petrus carcerem
+          eua<lb ed="#A" n="16" break="no"/>it. Oratio enim pro eo ab Ecclesia sedulo agebatur ad de
+          <lb ed="#A" n="17"/>um. Quod si Petro oratio Ecclesiae profuit, &amp; columnam
+          <lb ed="#A" n="18"/>illam ac stabilimen nostrae religionis carcere liberauit:
+          <lb ed="#A" n="19"/>cur eius vim tu contemnis &amp; negligis? qua re possis
+          pur<lb ed="#A" n="20" break="no"/>gare ratione? Deum quoque dicentem audi, quam
+          popu<lb ed="#A" n="21" break="no"/>o cum beneuolentia inuocante placetur, &amp; parcat. Quip
+          <lb ed="#A" n="22"/>pe qui se excusans apud lonam prophetam, fruticis
+          argu<lb ed="#A" n="23" break="no"/>mento cucurbitae, verba ad hunc modum faciat: Tu doles
+          <lb ed="#A" n="24"/>super cucurbita, in qua non laborasti, neque fecisti vt
+          cre<lb ed="#A" n="25" break="no"/>sceret. Ego non parcam Niniue ciuitati meae magnae, in
+          <lb ed="#A" n="26"/>qua habitant plures quam centum viginti millia hominum
+          <lb ed="#A" n="27"/>Non sine re, amplum populi numerum proponit, sed vt
+          <lb ed="#A" n="28"/>intelligas plurimum eam pollere orationem, quae cum con
+          <lb ed="#A" n="29"/>sensu agitur, &amp; iugi concordia plurium hominum. Quod
+          <lb ed="#A" n="30"/>exemplo quoque rei humanae libet explanare. Nam decem
+          <lb ed="#A" n="31"/>ante hos annos capti nonnulli sunt, tyramidem appeten
+          <lb ed="#A" n="32"/>res, cuius rei vos etiam meminisse arbitror. Fuit inter eos
+          <lb ed="#A" n="33"/>quidam, dignitate ac principatu praeditus, qui quum dam
+          <lb ed="#A" n="34"/>natus capite ad supplicium duceretur, populus motus
+          mi<lb ed="#A" n="35" break="no"/>sericordia, vniuersus praetorem adiit, &amp; deprecandi
+          commu<lb ed="#A" n="36" break="no"/>ni opera efficere potuit, vt reus ille venia nulla dignus,
+          li<lb ed="#A" n="37" break="no"/>beraretur ab ira Imperatoris? Quod si cum iram terreni
+          <lb ed="#A" n="38"/>Imperatoris velitis extinguere, vniuersi cum liberis &amp;
+          vxo<lb ed="#A" n="39" break="no"/>ribus festinatis: cur quoties ad coelestem illum
+          Imperato<lb ed="#A" n="40" break="no"/>rem platandum, reddendumque propitium ire pergitis, vt
+          <lb ed="#A" n="41"/>eius irae eximatis non vnum, vt tunc nec duos, aut tres, aut
+          <lb ed="#A" n="42"/>centum, sed omnes orbis terrarum peccantores, omnes
+          de<pb ed="#A" n="113-v"/><lb ed="#A" n="1" break="no"/>mone agitatos, a flagello liberetis diaboli: foris sedetis,
+          <lb ed="#A" n="2"/>non vniuersi concurritis, &amp; ecclesiam penetratis, vt Deus
+          <lb ed="#A" n="3"/>vestram reueritus atque exosculatus concordiam, &amp; illis
+          <lb ed="#A" n="4"/>ponam dimittat, &amp; vobis peccata absoluat: Si in
+          nego<lb ed="#A" n="5" break="no"/>tiis necessariis non omni leone vehementius, disruptis
+          om<lb ed="#A" n="6" break="no"/>nibus vinculis, curriculo is &amp; te confers ad supplicationem
+          <lb ed="#A" n="7"/>communem, quam spem habere possis salutis, ni ita facias?
+          <lb ed="#A" n="8"/>Tempore illo mi frater charissime, non solum homines
+          <lb ed="#A" n="9"/>clamorem illum horribilem reddunt, sed etiam angeli
+          do<lb ed="#A" n="10" break="no"/>mino genu flectunt, &amp; archangeli rogant, habent sibi
+          tem<lb ed="#A" n="11" break="no"/>pus id idoneum, habent sacram illam oblationem in fauo
+          <lb ed="#A" n="12"/>re.
+        </p>
+        <p xml:id="ho8ccf-a2ipct-d1e4218">
+          Itaque vt homines ramos olearum gerentes, mouere
+          <lb ed="#A" n="13"/>Reges consueuerunt, eoque arboris genere misericordiam
+          <lb ed="#A" n="14"/>commemorant &amp; humanitatem: sic angeli tunc pro ramis
+          <lb ed="#A" n="15"/>oleaginis, corpus domini ipsum protendentes, rogant pro
+          <lb ed="#A" n="16"/>genere humano, quasi dicant: Pro his domine rogamus,
+          <lb ed="#A" n="17"/>quos tu adeo dilexisti, vt pro eorum salute mortem
+          obi<lb ed="#A" n="18" break="no"/>res, animam cruce efflares: pro his supplicamus, pro
+          qui<lb ed="#A" n="19" break="no"/>bus ipse tuum largitus es sanguinem, pro his oramus, pro
+          <lb ed="#A" n="20"/>quibus corpus hoc immolasti. Agitatos quoque ob eam
+          <lb ed="#A" n="21"/>rem Diaconus tempore illo adducit, &amp; iubet caput
+          incli<lb ed="#A" n="22" break="no"/>nare. Cum eos vna cum fratribus orare non liceat,
+          addu<lb ed="#A" n="23" break="no"/>cit eos, vt tu miseratus, &amp; quia tam acerbe vexantur: &amp; quia
+          <lb ed="#A" n="24"/>vocem reddere nequeunt, tua facultate ad eorum vtaris
+          <lb ed="#A" n="25"/>defensionem &amp; auxilium. Et alio loco: Haec ego dixerim
+          <lb ed="#A" n="26"/>ad eos, inquit, qui sanctorum communionem &amp;
+          congrega<lb ed="#A" n="27" break="no"/>tionem relinquunt, &amp; sub horum terribilis mysticae
+          men<lb ed="#A" n="28" break="no"/>sae in vaniloquentiae conuenticulis occupati sunt. Quid
+          <lb ed="#A" n="29"/>facis homo? Non promisisti sacerdoti qui dixit: Surium
+          <lb ed="#A" n="30"/>mentem &amp; corda, Et dixisti, habemus ad dominum? Non
+          <lb ed="#A" n="31"/>reuereris &amp; erubescis? Et illa ipsa hora mendax inueniris.
+          <lb ed="#A" n="32"/>Pape, mensa mysteriis instructa est, &amp; agnus dei pro te
+          im<lb ed="#A" n="33" break="no"/>molatur, sacerdos pro te angitur, sanguis spiritualis ex
+          sa<lb ed="#A" n="34" break="no"/>cra mensa refluit. Seraphim adstant sex alis faciem
+          tegen<lb ed="#A" n="35" break="no"/>tia, omnes incorporeae virtutes pro te cum sacerdote inter
+          <lb ed="#A" n="36"/>cedunt: ignis spiritualis de coelo descendit, sanguis in
+          cra<lb ed="#A" n="37" break="no"/>tere in tuam purificationem ex immaculato latere
+          hau<lb ed="#A" n="38" break="no"/>stus est. Et non erubescis? non reuereris? non
+          confunde<lb ed="#A" n="39" break="no"/>ris? neque Deum tibi propitium facis? non conscientia
+          <lb ed="#A" n="40"/>tua te iudicat &amp; homo? Centum sexaginta horas habente
+          <lb ed="#A" n="41"/>hebdomada, vnam &amp; solam horam sibi ipsi segregauit
+          <lb ed="#A" n="42"/>Deus, &amp; hanc in opera secularia, &amp; in ridicula, &amp; in con
+          <pb ed="#A" n="114-r"/>
+          <lb ed="#A" n="1"/>uenticula insummis: cum qua postea fiducia ad mysteria
+          ac<lb ed="#A" n="2" break="no"/>tedes? &amp; quam polluta conscientia. Et paulo post: Quocir
+          <lb ed="#A" n="3"/>ta fratres oro vos &amp; obsecro, ne absimus ab Ecclesius,
+          ne<lb ed="#A" n="4" break="no"/>que in aliis colloquiis occupati simus. Stemus trementes
+          <lb ed="#A" n="5"/>&amp; timidi, demissis oculis, renata autem anima, gementes
+          <lb ed="#A" n="6"/>sine voce, iubilantes corde, &amp;c. Ante mille &amp; centum
+          an<lb ed="#A" n="7" break="no"/>nos in Agathensi concilio fuit sancitum, vt missas die
+          do<lb ed="#A" n="8" break="no"/>minico seculares audirent, &amp; ante benedictionem sacerdo
+          <lb ed="#A" n="9"/>tis egredi populus ne praesumeret: Quod si fecissent, al
+          <lb ed="#A" n="10"/>piscopo publice confunderentur. Quod ipsum etiam in
+          <lb ed="#A" n="11"/>Aurelianensi Concilio tertio paulo post fuit repetitum,
+          <lb ed="#A" n="12"/>Ac fuerunt illo tempore &amp; auditores &amp; factores legis
+          plu<lb ed="#A" n="13" break="no"/>rimi nunc auditores multos, factores raros admodum
+          vi<lb ed="#A" n="14" break="no"/>dere licet, quod ad eum non confugitur, qui solus faciendi
+          <lb ed="#A" n="15"/>quod audimus, vires suppeditat. Verum de his satis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 90</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 90</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="296-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3uc89"><!-- c90 -->
+        <head xml:id="ho8ccf-a3uc89-Hd1e99">Caput 90</head>
+        <head xml:id="ho8ccf-a3uc89-Hd1e101" type="question-title">De caeremoniis quae sumuntur a loco</head>
+        <p xml:id="ho8ccf-a3uc89-d1e104">
+          <lb ed="#A" n="29"/>CAPVT XC.
+          <lb ed="#A" n="30"/>De caeremoniis quae sumuntur a loco.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e111">
+          <lb ed="#A" n="31"/><milestone ed="#A" unit="p" rend="initial"/> A Loco quoque sumuntur caeremoniae: nam
+          oraturi<lb ed="#A" n="32" break="no"/>ad templa conuenimus, quae sunt aedes Deo
+          solen<lb ed="#A" n="33" break="no"/>ni ritu consecratae: Quin &amp; corpora nostra, non
+          <lb ed="#A" n="34"/>nisi in templis, aut certe in caemitteriis, quae &amp; ipsa
+          <lb ed="#A" n="35"/>consecrantur, sepeliri volumus. Praecipue vero, tremendum
+          <lb ed="#A" n="36"/>illud sacrificium alibi quam in aede domino sacrata,
+          pera<lb ed="#A" n="37" break="no"/>gi, per sanctorum patrum Canones non licet.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e130">
+          Neque vero
+          <lb ed="#A" n="38"/>nouum hoc est institutum: nam praeterquam quod in
+          vete<lb ed="#A" n="39" break="no"/>quoque lege, tabernaculi per Moysen, ac templi per
+          Salomo<lb ed="#A" n="40" break="no"/>nem constructi fuit vsus: etiam Petrum &amp; Ioannem, in tem
+          <lb ed="#A" n="41"/>plum Hierosolymitanum ascendisse legimus, ad horam
+          ora<pb ed="#A" n="297-r"/><lb ed="#A" n="1" break="no"/>tionis nonam. Quibus autem in locis Euangelium
+          Apo<lb ed="#A" n="2" break="no"/>stoli praedicabant, nominatim autem in Asiae, Syriae,
+          Aethio<lb ed="#A" n="3" break="no"/>piae &amp; Indiae ciuitatibus, quin &amp; apud ipsos
+          Anthropo<lb ed="#A" n="4" break="no"/>phagos, Philippum, Bartholomeum, Thomam, Matthaeum
+          <lb ed="#A" n="5"/>&amp; Andream, templa &amp; quidem maxima construxisse
+          tra<lb ed="#A" n="6" break="no"/>dit Nicephorus, quos eadem illa consecrasse quoque dubium
+          <lb ed="#A" n="7"/>non est, vt in alios vsus ea transferri fas non fuerit: etiam
+          <lb ed="#A" n="8"/>si primus Higinus referente Gratiano, &amp; ante eum
+          suo<lb ed="#A" n="9" break="no"/>ne, templum, vel vt ipse vocat Basilicarum consecrationis
+          <lb ed="#A" n="10"/>mentionem facere videatur, qui fuit octauus a Petro Pon
+          <lb ed="#A" n="11"/>tifex Romanus, iuxta supputationem Eusebii in
+          Chro<lb ed="#A" n="12" break="no"/>nicorum libro, vt Apostolicum hoc institutum fuisse
+          mi<lb ed="#A" n="13" break="no"/>nime sit ambigendum. Philo quoque, qui fuit Apostolorum
+          <lb ed="#A" n="14"/>aequalis, scribit hoc de viris Apostolicis, quod habuerint
+          <lb ed="#A" n="15"/>sacra domicilia, quae semnia, siue monasteria vocabant, in
+          <lb ed="#A" n="16"/>quibus manentes, honestae ac sanctae vitae mysteria
+          cele<lb ed="#A" n="17" break="no"/>brabant, nihil illo inferentes, nec potum, nec cibum, nec
+          <lb ed="#A" n="18"/>aliud quicquam eorum, quae ad corporis sustentationem
+          <lb ed="#A" n="19"/>necessaria sunt, sed leges &amp; oracula Prophetarum &amp; hym
+          <lb ed="#A" n="20"/>nos, ac reliqua eiusmodi, quibus scientia &amp; pietas
+          auges<lb ed="#A" n="21" break="no"/>cunt &amp; consumantur. Ac illud quidem dubium non est,
+          <lb ed="#A" n="22"/>quantum ad ipsum deum attinet, nihil referre, quo in
+          lo<lb ed="#A" n="23" break="no"/>co colatur: qui cum sit corporis expers, nullis finibus
+          cir<lb ed="#A" n="24" break="no"/>cumscribitur, nec loco clauditur vllo: quod nec ille
+          igno<lb ed="#A" n="25" break="no"/>rabat, qui templum illi fabricatus: Si coelum, inquit, &amp; co
+          <lb ed="#A" n="26"/>li coelorum te capere non possunt: quanto magis domus
+          <lb ed="#A" n="27"/>haec quam aedificaui tibi:
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e202">
+          Caeterum quod in templis
+          po<lb ed="#A" n="28" break="no"/>tius orationes, praesertim vero sacrificia peraguntur:
+          homi<lb ed="#A" n="29" break="no"/>num id causa constitutum est, quorum ingenium est, eorum
+          <lb ed="#A" n="30"/>praesertim qui sunt de vulgo, quae peruulgata sunt,
+          mino<lb ed="#A" n="31" break="no"/>rem vt eorum rationem habeant: quin ea despicatui
+          du<lb ed="#A" n="32" break="no"/>cunt. Si quae vero solenni ritu, proprie diuinae rei
+          facien<lb ed="#A" n="33" break="no"/>dae, dicata sunt, &amp; consecrata: nescio quomodo maiore qua
+          <lb ed="#A" n="34"/>dam habentur a multis in veneratione. Sic videmus ad
+          <lb ed="#A" n="35"/>regum &amp; principum venerationem permultum facere, si
+          <lb ed="#A" n="36"/>domus habitent, quam reliqua multitudo,
+          magnificentio<lb ed="#A" n="37" break="no"/>res: si vestes etiam induti sint splendidiores. Visum est
+          <lb ed="#A" n="38"/>igitur ad multitudinis maiorem erga Deum reuerentiam
+          <lb ed="#A" n="39"/>excitandam, non parum interesse, vt aedes certae
+          constitue<lb ed="#A" n="40" break="no"/>rentur, in quibus res alia nulla fieret, praeterquam quae
+          <lb ed="#A" n="41"/>ad colendum Deum pertineret: quin &amp; vasa, quemadmo
+          <lb ed="#A" n="42"/>dum antea commemorauimus, &amp; vestes, &amp; ministri quoque
+          <pb ed="#A" n="297-v"/>
+          <lb ed="#A" n="1"/>peculiares ei rei designati sunt.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e241">
+          Deinde vero quum praeci
+          <lb ed="#A" n="2"/>puus Dei cultus, in eo charitate prosequendo consistat (ni
+          <lb ed="#A" n="3"/>hil autem amatur, nisi cognitum, sicut ab Augustino quo
+          <lb ed="#A" n="4"/>que scriptum legimus) omni certe studio laboratum
+          <lb ed="#A" n="5"/>oportuit, vt clarum omnibus &amp; illustre Dei nomen
+          red<lb ed="#A" n="6" break="no"/>deretur, vt ne quem latere posset quantis ille beneficiis
+          <lb ed="#A" n="7"/>mortalium genus affecerit, quo sic illis commemorandis
+          <lb ed="#A" n="8"/>ad colendum, hoc est amandum Deum, facilius homines
+          <lb ed="#A" n="9"/>accenderentur. Postulabat itaque ratio, locus vt aliquis
+          de<lb ed="#A" n="10" break="no"/>signaretur, in quo beneficia Dei, quam maxime clara
+          te<lb ed="#A" n="11" break="no"/>stataque cunctis redderentur, cui rei non alia domus visa est
+          <lb ed="#A" n="12"/>magis idonea, quam ea ipsa, quae rebus diuinis faciendis
+          <lb ed="#A" n="13"/>esset dicata, quarum non postrema pars est verbi Dei
+          prae<lb ed="#A" n="14" break="no"/>dicatio. Neque dubitandum est, quin gratiores Dei sint
+          pre<lb ed="#A" n="15" break="no"/>ces, &amp; ad impetrandum quod velis efficatiores, quae fiunt
+          <lb ed="#A" n="16"/>in templo Deo consecrato: non solum propter loci
+          reue<lb ed="#A" n="17" break="no"/>rentiam: sicut Salomon quoque petiuisse Deum legitur:
+          <lb ed="#A" n="18"/>Sint oculi tui aperti nocte ac die, super domum de qua
+          <lb ed="#A" n="19"/>dixisti. Erit nomen meum ibi: vt exaudias orationem
+          se<lb ed="#A" n="20" break="no"/>ui tui, &amp; populi tui Israel, in loco isto: verumetiam quod
+          <lb ed="#A" n="21"/>cum coit coetus omnis, &amp; aggregatur ad Deum, quum
+          <lb ed="#A" n="22"/>quasi manu facta precationibus ambiunt orantes, grata est
+          <lb ed="#A" n="23"/>haec vis Deo, sicut scribit Tertullianus: quodque singulis
+          pe<lb ed="#A" n="24" break="no"/>tentibus negaturus forte fuerat, multorum vnanimitati
+          <lb ed="#A" n="25"/>precantium fere tribuit. Fieri namque dicit Ambrosius
+          Eccle<lb ed="#A" n="26" break="no"/>siae contemplatione, vt quod alicui dominus negare
+          pos<lb ed="#A" n="27" break="no"/>set, ignoscat, certum vt sit, quod maiore cum fructu Deo
+          <lb ed="#A" n="28"/>supplicatur in Ecclesia, quam quouis in alio priuato loco,
+          <lb ed="#A" n="29"/>quod iis etiam verbis testatur Ioannes Chrysostomus. Et
+          <lb ed="#A" n="30"/>domi quidem orari potest, sic autem vt in Ecclesia non
+          po<lb ed="#A" n="31" break="no"/>test, vbi tanta patrum multitudo, vbi clamor ad Deum
+          vna<lb ed="#A" n="32" break="no"/>nimiter emittitur: non ita dominum per te solus orans
+          au<lb ed="#A" n="33" break="no"/>dieris, vt cum fratribus tuis: hic enim majus aliquid est,
+          <lb ed="#A" n="34"/>puta vnanimitas &amp; consonantia, charitatisque vinculum &amp;
+          <lb ed="#A" n="35"/>sacerdotum orationes. Propterea namque sacerdotes
+          pro<lb ed="#A" n="36" break="no"/>positi sunt, vt multitudinis orationes quum sint
+          infirmi<lb ed="#A" n="37" break="no"/>ores, hisce potentiores adiungentes, pariter cum illis in
+          coe<lb ed="#A" n="38" break="no"/>lum ascendant. Si namque Petrum Ecclesiae adiuuit oratio,
+          <lb ed="#A" n="39"/>&amp; illam ex carcere columnam eduxit: quomodo tu ipsius
+          <lb ed="#A" n="40"/>potentiam contemnis? Quin &amp; alio loco, vbi tractat de
+          <lb ed="#A" n="41"/>incomprehensibili Dei natura, fieri non posse dicit, vt
+          do<lb ed="#A" n="42" break="no"/>mi tam bene quis oret, quam in Ecclesia: quod pluribus
+          <pb ed="#A" n="298-r"/>
+          <lb ed="#A" n="1"/>etiam verbis inibi persuadere conatur. Beatus quoque
+          Ba<lb ed="#A" n="2" break="no"/>silius aequalis eius, eadem de re disserens. Nobis quoque
+          pe<lb ed="#A" n="3" break="no"/>riculum est, inquit, male obiti mandati, si loci rationem
+          <lb ed="#A" n="4"/>neglexerimus, maxime si sacerdotii mysteria in locis
+          pro<lb ed="#A" n="5" break="no"/>phanis celebrauerimus: propterea quod ea res indicium
+          <lb ed="#A" n="6"/>haberet contemptus in celebrante, offendiculum quoque
+          <lb ed="#A" n="7"/>generaret pro varietate affectionum multifaria, propter
+          <lb ed="#A" n="8"/>variam multorum, in rerum diuinarum scientia,
+          infirmi<lb ed="#A" n="9" break="no"/>tatem. Si vero quisquam obiiciat.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e354">
+          Quid igitur est quod
+          <lb ed="#A" n="10"/>Apostolus dixit: Volo viros precari in quouis loco, ob id
+          <lb ed="#A" n="11"/>quod dominus ipse potestatem dedit orandi Deum in
+          om<lb ed="#A" n="12" break="no"/>ni loco, vbi dixit. Neque Hierosolymis posthac, neque in
+          mon<lb ed="#A" n="13" break="no"/>te isto adorabitur pater: hoc dicendum est, quod illud in
+          <lb ed="#A" n="14"/>omni loco, non comprehendit eos locos, qui humanis
+          vsi<lb ed="#A" n="15" break="no"/>bus, rebusque immundis &amp; prophanis deputati sunt, sed
+          di<lb ed="#A" n="16" break="no"/>latat ac deducit ad orationem Dei, ab arcto
+          Hierosolym<lb ed="#A" n="17" break="no"/>ambitu, in omnem totius orbis locum. His verbis
+          indica<lb ed="#A" n="18" break="no"/>re Basilius videtur, non sic accipiendum illud esse, quod
+          <lb ed="#A" n="19"/>dicit Paulus in omni loco, quasi passim in prophanis
+          qui<lb ed="#A" n="20" break="no"/>busque locis Deus adorandus, deoque sacrificia sint offerenda,
+          <lb ed="#A" n="21"/>quod tamen vbique mente fieri potest: sed quod non solum
+          <lb ed="#A" n="22"/>in templo Hierosolymitano, aut in monte Garizin, verum
+          <lb ed="#A" n="23"/>in quouis alio loco, ad colendum Deum proprie
+          designa<lb ed="#A" n="24" break="no"/>to, preces, supplicationes et sacrificia fieri possint, vt quod
+          <lb ed="#A" n="25"/>a Christo dictum est: Venit hora, quando neque in monte
+          <lb ed="#A" n="26"/>hoc, nec Hierosolymis adorabitis patrem, &amp;: Veri
+          adora<lb ed="#A" n="27" break="no"/>tores, adorabunt patrem in spiritu &amp; veritate, nequaquam
+          <lb ed="#A" n="28"/>per haec verba templa Deo deprecando dicata, videantur
+          <lb ed="#A" n="29"/>exclusa: sed cum Iudaei contenderent, nusquam adorari
+          <lb ed="#A" n="30"/>Deum oportere praeterquam Hierosolymis in templo, quast
+          <lb ed="#A" n="31"/>Deus alibi non audiret vota depraecantium: contra
+          Sama<lb ed="#A" n="32" break="no"/>ritani negarent eum vsquam adorandum nisi in monte
+          Ga<lb ed="#A" n="33" break="no"/>rizin, quod iis locus a Moyse decretus esset, vbi patriarchae
+          <lb ed="#A" n="34"/>benedicerent populo seruanti mandata Dei, hoc dicere
+          vo<lb ed="#A" n="35" break="no"/>luisse Christus intelligendus sit: futurum non ita multo post,
+          <lb ed="#A" n="36"/>vt &amp; Samaritanorum impius cultus aboleretur, &amp; Iudaeorum
+          <lb ed="#A" n="37"/>carnalis religio transferretur, ac antiquatis vtrisque, pius &amp;
+          <lb ed="#A" n="38"/>verus cultus, nempe spiritualis, in eorum locum
+          succede<lb ed="#A" n="39" break="no"/>ret, quo non in hoc monte, quasi conclusus in eo credatur,
+          <lb ed="#A" n="40"/>qui non solum huius montis, verum etiam totius orbis Deus
+          <lb ed="#A" n="41"/>est, &amp; dominus: nec Hierosolymis, quasi non alius ad ado
+          <lb ed="#A" n="42"/>randum patrem sit locus aptus &amp; idoneus, verum quam longe,
+          <pb ed="#A" n="298-v"/>
+          <lb ed="#A" n="1"/>quamque late pateat orbis vniuersus, in omnibus terrarum
+          <lb ed="#A" n="2"/>locis, templa Deo pie colendo fabricarentur, in quibus ipsi
+          <lb ed="#A" n="3"/>pii templa Deo facti, non iam in externis tantum ritibus,
+          <lb ed="#A" n="4"/>quemadmodum a Iudaeis est factitatum, verum spiritu
+          <lb ed="#A" n="5"/>Deum &amp; veritate sint adoraturi, nimirum fide vera,
+          cha<lb ed="#A" n="6" break="no"/>ritateque non ficta: vt quicquid externorum rituum
+          adhi<lb ed="#A" n="7" break="no"/>bitum fuerit, ii nihil aliud, quam certa quaedam indicia
+          <lb ed="#A" n="8"/>sint huius fidei, charitatisque futuri. Est quidem ita quod
+          <lb ed="#A" n="9"/>in omni loco Deum adorare fas est, qui non locum, sed
+          <lb ed="#A" n="10"/>mentem requirit feruidam. Sic Hieremiam in coeno, sic
+          Da<lb ed="#A" n="11" break="no"/>nielem in lacum, sic Iob in sterquilinio iacentem, sic lonam
+          <lb ed="#A" n="12"/>in ventre ceti, sic latronem in cruce pendentem, sic Ezechiam
+          <lb ed="#A" n="13"/>in lectulo decumbentem, sic Paulum in carcere clausum.
+          <lb ed="#A" n="14"/>Deum deprecatos, &amp; ab eo legimus exauditos. Sed si illam
+          <lb ed="#A" n="15"/>ipsam mentem feruidam ad locum sanctum, ad
+          congregatio<lb ed="#A" n="16" break="no"/>nem sanctam attuleris: certum est &amp; indubitarum, quod ex
+          <lb ed="#A" n="17"/>tali mente profectae preces, multo tum Deo gratiores, &amp; ad
+          <lb ed="#A" n="18"/>quiduis impetrandum futurae sint efficatiores.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e469">
+          Quamob<lb ed="#A" n="19" break="no"/>rem facere prorsus oportet hominem non Cyclopicuum, vt
+          <lb ed="#A" n="20"/>vel festis saltem diebus templa Deo consecrata ingressus,
+          <lb ed="#A" n="21"/>ad sanctorum se coetum aggreget, &amp; cum illis puras manus
+          <lb ed="#A" n="22"/>leuet, Deumque tum sibi, tum Ecclesiae vniuersae propitium
+          <lb ed="#A" n="23"/>reddere conetur, ac quae sit illius voluntas, ex ore
+          sacerdo<lb ed="#A" n="24" break="no"/>tis accipiat:
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e485">
+          Neque vero sine causa, loca eiusmodi Deo
+          conse<lb ed="#A" n="25" break="no"/>crata, vocantur Ecclesiae. Etsi enim quae proprie dicitur
+          Ec<lb ed="#A" n="26" break="no"/>clesia, constat ex viuis lapidibus, ex hominibus in Deum
+          cre<lb ed="#A" n="27" break="no"/>dentibus: idem enim graece sonat vox haec, quod latine
+          cae<lb ed="#A" n="28" break="no"/>tus vocatorum: tamen quoniam in eum locum conueniunt.
+          <lb ed="#A" n="29"/>qui vocati sunt ad spem coelestis haereditatis consequendae;
+          <lb ed="#A" n="30"/>locum ipsum eodem nomine, quo coelum in eo congregari
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e501">
+          <lb ed="#A" n="31"/>solitum, appellare visum est. Quisquis igitur ex vocatis esse
+          <lb ed="#A" n="32"/>vult, aedes eas vt frequentet necesse est, in quas conuenire vo
+          <lb ed="#A" n="33"/>catos videt, vt ad eandem vocationem se quoque pertinere
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e511">
+          <lb ed="#A" n="34"/>testatum omnibus faciat. Quoniam vero non est quod
+          quis<lb ed="#A" n="35" break="no"/>quam speret fore, vt inter electos censeatur, qui non sit e caetu
+          <lb ed="#A" n="36"/>vocatorum: vel hoc ipso nomine facere quisque debet, vt
+          li<lb ed="#A" n="37" break="no"/>benter in hoc vocatorum coetu versetur, quo possit in
+          ele<lb ed="#A" n="38" break="no"/>ctorum numerum aggregari: cum praesertim coetus in ter
+          <lb ed="#A" n="39"/>ris adhuc militantium, ad agendas Deo gratias, &amp; laudes
+          <lb ed="#A" n="40"/>illius praedicandas coactus, imago quaedam sit, illius
+          iucun<lb ed="#A" n="41" break="no"/>dissimae, &amp; eius quidem sempiternae consolationis
+          beato<lb ed="#A" n="42" break="no"/>rum spirituum, in coelo triumphantium, &amp; absque vlla
+          inte<pb ed="#A" n="299-r"/><lb ed="#A" n="1" break="no"/>missione Deum laudantium, vt qui ad eam peruenire vult,
+          <lb ed="#A" n="2"/>caetum hunc in terris agentium frequentare opus habeat,
+          <lb ed="#A" n="3"/>atque hic illud incipiat meditari, quod erit illic sine fine
+          fa<lb ed="#A" n="4" break="no"/>ciendum.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e543">
+          Porro congressus istos non est existimandum
+          <lb ed="#A" n="5"/>tantum ad Euangelium audiendum fieri oportere, vt eo
+          <lb ed="#A" n="6"/>audito, subito quisque e templo se proripiat, neque sibi
+          quic<lb ed="#A" n="7" break="no"/>quam praeterea in eo negotii esse putet: sed sic
+          Euange<lb ed="#A" n="8" break="no"/>lium audiendum est, vt simul orationi vacetur, cui rei
+          ma<lb ed="#A" n="9" break="no"/>gis etiam, quam audiendo Euangelio, templa dicata
+          vi<lb ed="#A" n="10" break="no"/>dentur. Domus mea, dicit Dominus, domus orationis
+          vo<lb ed="#A" n="11" break="no"/>cabitur: non praedicationis aut auditionis. Hinc est quod
+          <lb ed="#A" n="12"/>Graeci quoque templa vocant Euchiria, latine dicere possis
+          <lb ed="#A" n="13"/>oratoria, non praedicatoria vel auditoria. Non quod non recte
+          <lb ed="#A" n="14"/>praedicetur &amp; audiatur in illis Dei verbum, sed quod
+          ora<lb ed="#A" n="15" break="no"/>tionibus Deo placando proprie sunt destinata.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e569">
+          Verum est
+          <lb ed="#A" n="16"/>quod a veritate dictum est, quod vnus est magister noster
+          <lb ed="#A" n="17"/>in coelis. Quos enim hic magister spiritus sanctus intus
+          <lb ed="#A" n="18"/>non docet, indocti remanent: siquidem forinsecus
+          magi<lb ed="#A" n="19" break="no"/>steria, sicut ab Augustino scriptum legimus, adiutoria
+          quae<lb ed="#A" n="20" break="no"/>dam sunt, &amp; admonitiones: cathedram in coelo habet, qui
+          <lb ed="#A" n="21"/>corda docet, qui nisi loquatur nobis intus, frustra foris
+          <lb ed="#A" n="22"/>verba perstrepunt, quae haud aliter se habent ad mentem
+          <lb ed="#A" n="23"/>hominis, quam quemadmodum ad arborem agricola.
+          Fo<lb ed="#A" n="24" break="no"/>rinsecus is operatur, adhibet aquam &amp; culturae
+          diligen<lb ed="#A" n="25" break="no"/>tiam: verum adhibeat ille forinsecus quaecunque velit,
+          nun<lb ed="#A" n="26" break="no"/>quid poma format? nunquid nuditatem lignorum vestit
+          <lb ed="#A" n="27"/>vmbra foliorum? nunquid tale aliquid intrinsecus agit:
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e598">
+          <lb ed="#A" n="28"/>Sed quis agit hoc? docet nos Apostolus dicens: Ego
+          plan<lb ed="#A" n="29" break="no"/>taui, Apollo rigauit, sed Deus incrementum dedit: neque
+          <lb ed="#A" n="30"/>qui plantat est aliquid neque qui rigat, sed qui incrementum
+          <lb ed="#A" n="31"/>dat, Deus, Cum itaque sonos fantum verborum, ab
+          homi<lb ed="#A" n="32" break="no"/>ne magistro percipiamus, res autem ipsas veritate intus
+          <lb ed="#A" n="33"/>docente cognoscamus: quid aliud faciendum nobis
+          re<lb ed="#A" n="34" break="no"/>stat? quam vt ad illum qui cathedram habet in coelo, con
+          <lb ed="#A" n="35"/>fugiamus, illum, vt nos intus doceat, precibus fatigemus,
+          <lb ed="#A" n="36"/>quo &amp; cognoscere voluntatem illius, &amp; eam cognitam
+          ex<lb ed="#A" n="37" break="no"/>plere simul queamus. Quam autem causam esse dicemus
+          <lb ed="#A" n="38"/>aliam, quamobrem parentum nostrorum memoria
+          mul<lb ed="#A" n="39" break="no"/>tos videre licuerit, non magis ad audiendum promptos,
+          <lb ed="#A" n="40"/>quam ad obtemperandum Dei mandatis paratos, cum nunc
+          <lb ed="#A" n="41"/>adiutores plurimi, factores vero prope nulli reperiantur:
+          <lb ed="#A" n="42"/>nisi quod illi, cum sonum verborum hominis, e superiore
+          <pb ed="#A" n="299-v"/>
+          <lb ed="#A" n="1"/>loco Dei voluntatem in ecclesia annuntiantis, percepissent,
+          <lb ed="#A" n="2"/>nequaquam ea vna re contenti fuerint, verum sicut antea
+          <lb ed="#A" n="3"/>quoque commemoratum a nobis est, ad eum qui
+          cathe<lb ed="#A" n="4" break="no"/>dram in coelo collocatam habens intus docet, supplices con
+          <lb ed="#A" n="5"/>fugerunt, eiusque fidem implorarunt, vt &amp; sanum eorum,
+          <lb ed="#A" n="6"/>quae a ministro verbi dicta essent, intellectum praestaret, &amp;
+          <lb ed="#A" n="7"/>ad explendam Dei voluntatem vires suppeditaret, illud
+          <lb ed="#A" n="8"/>quod ab Augustino in locis aliquot scriptum est, subinde
+          <lb ed="#A" n="9"/>repetentes: Da quod iubes, &amp; iube quod vis. Atque vt alibi
+          <lb ed="#A" n="10"/>quam in templo preces ad Deum recte fundi possint:
+          pro<lb ed="#A" n="11" break="no"/>banda tamen est illa Foelicis Papae sanctio, ante mille
+          an<lb ed="#A" n="12" break="no"/>nos lata, quod sicut non alij quam sacrati domino
+          sacer<lb ed="#A" n="13" break="no"/>dotes debent Missas cantare, nec sacrificia super altare
+          of<lb ed="#A" n="14" break="no"/>ferre, sic nec in aliis quam in sacratis locis, Missas cantare,
+          <lb ed="#A" n="15"/>aut sacrificia offerre licebit. Ac paulo superius: Satius est,
+          <lb ed="#A" n="16"/>inquit, Missam non cantare, aut non audire, quam in illis
+          <lb ed="#A" n="17"/>locis vbi fieri non oportet: nisi vt saepe dictum est, pro
+          sum<lb ed="#A" n="18" break="no"/>ma contingat necessitate; quoniam necessitas non habet
+          <lb ed="#A" n="19"/>legem.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e676">
+          Vnde scriptum est: Vide ne offeras holocausta tua
+          <lb ed="#A" n="20"/>in omni loco quem videris, sed in loco, quem elegerit de
+          <lb ed="#A" n="21"/>minus Deus tuus. Quem qui praecessit eiusdem nominis
+          <lb ed="#A" n="22"/>Pontifex prope ducentis annis. Mandamus, inquit, vt
+          su<lb ed="#A" n="23" break="no"/>per memorias martyrum Missae celebrentur, ne memoria
+          <lb ed="#A" n="24"/>eorum a talibus extingui, aut veneratio possit prohiberi.
+          <lb ed="#A" n="25"/>Quod in Concilio quoque Laodicensi inter hos duos
+          <lb ed="#A" n="26"/>Pontifices interiecto, ad eundem modum constitutum
+          le<lb ed="#A" n="27" break="no"/>gimus, &amp; postea in Concilio Cabilonensi, vbi eiusdem
+          <lb ed="#A" n="28"/>Laodicensis Concilii fit mentio. In suis quoque
+          contractio<lb ed="#A" n="29" break="no"/>ribus regulis Basilius: Quemadmodum, inquit, ratio non
+          <lb ed="#A" n="30"/>admittit, vt commune vas in sancta loca inferatur: ita
+          ne<lb ed="#A" n="31" break="no"/>que permittit, vt sacra in prophanis aedibus celebrentur:
+          <lb ed="#A" n="32"/>Veteri instrumento aperte ex praecepto Dei nihil tale
+          fier<lb ed="#A" n="33" break="no"/>permittente dominoque dicente. Templo majus quid est
+          <lb ed="#A" n="34"/>hic. Et Apostolo: An domos non habetis ad
+          manducan<lb ed="#A" n="35" break="no"/>dum &amp; bibendum? Quid dicam vobis, laudabone vos,
+          <lb ed="#A" n="36"/>in hac causa non laudabo: &amp; quae sequuntur. Nec
+          commu<lb ed="#A" n="37" break="no"/>ne conuiuium in ecclesiam conferendum, neque
+          domini<lb ed="#A" n="38" break="no"/>cam coenam in priuatis edibus contemptui exponendam
+          <lb ed="#A" n="39"/>esse, ex his docemur, nisi quis in articulo necessitatis dele
+          <lb ed="#A" n="40"/>gerit puriorem locum, aut domum tempore accommodo
+          <lb ed="#A" n="41"/>sine peccato celebrationem fieri vix posse.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e726">
+          Quamobrem
+          <lb ed="#A" n="42"/>qui nulla necessitate adacti, in illis ipsis locis vbi potatur
+          <pb ed="#A" n="300-r"/>
+          <lb ed="#A" n="1"/>saepe, saltatur, pergraecatur, sacrificium hoc tremendum
+          pera<lb ed="#A" n="2" break="no"/>gi iubent, nulla ratione iustam reprehensionem effugere
+          <lb ed="#A" n="3"/>possunt. Qui si hunc honorem habendum deo non putant,
+          <lb ed="#A" n="4"/>vt domum dei, domum orationis conueniant, quae non alii
+          <lb ed="#A" n="5"/>rei, quam deo placando sacrata est, neque submissum pii
+          Centu<lb ed="#A" n="6" break="no"/>rionis illius animum imitari volunt, qui se iudicabat
+          indi<lb ed="#A" n="7" break="no"/>gnum, sub cuius tectum Christus intraret, sed quasi pro
+          im<lb ed="#A" n="8" break="no"/>perio Christum ad se venire iubent: multo rectius facerent
+          <lb ed="#A" n="9"/>si ab audienda Missa abstinerent, quae prophana certe vi
+          <lb ed="#A" n="10"/>detur, cum in prophanis aedibus extra necessitatem
+          celebra<lb ed="#A" n="11" break="no"/>tur. Excuterent isti pigritiam fastumque suum abiicerent
+          po<lb ed="#A" n="12" break="no"/>tius, ac quantacunque dignitate praediti sint, ita tamen se su
+          <lb ed="#A" n="13"/>periorem esse deum sibi persuaderent, vt cum illo comparati
+          <lb ed="#A" n="14"/>ne sint quidem, aut si quid sint, cinis &amp; puluis sint. Qui
+          <lb ed="#A" n="15"/>hanc animi submissionem ad orandum deum non adfert,
+          <lb ed="#A" n="16"/>inane sacrificium, inanis est illius omnis oratio. Ad quam
+          <lb ed="#A" n="17"/>vt inuitarentur homines, illud quoque moribus est receptum,
+          <lb ed="#A" n="18"/>&amp; iam inde a multis saeculis obseruatum, vt pro foribus
+          <lb ed="#A" n="19"/>templorum eos qui variis morbis confecti, membris etiam
+          <lb ed="#A" n="20"/>suis mutilati, ac ad extremam egestatem redacti sunt,
+          col<lb ed="#A" n="21" break="no"/>locarent, qui quasi communes quidam hominum
+          praecepto<lb ed="#A" n="22" break="no"/>res essent, per quos vt nec secundis rebus efferentur, nec
+          <lb ed="#A" n="23"/>aduersis frangerentur, admoneri possent. Nihil aeque Deus
+          <lb ed="#A" n="24"/>odit atque superbiam, quam si secum aliquis, templum
+          in<lb ed="#A" n="25" break="no"/>grediens, adferat, tantum abest, vt placatum sibi deum
+          red<lb ed="#A" n="26" break="no"/>dat, maiorem etiam vt illius indignationem prouocet.
+          <lb ed="#A" n="27"/>Assident igitur isti foribus diuinarum aedium, vt cum
+          <lb ed="#A" n="28"/>oculos in eos nostros defixerimus, admoneamur
+          fragilita<lb ed="#A" n="29" break="no"/>tis nostrae, nos iisdem quibus illos casibus obnoxios esse
+          re<lb ed="#A" n="30" break="no"/>cordemur. Placet sibi quisquam, quod aetate florenti, quod
+          <lb ed="#A" n="31"/>forma praestanti, quod valetudine sit firma: cum in hos
+          <lb ed="#A" n="32"/>aspexerit in vestibulis temporum iacentes, fieri non potest,
+          <lb ed="#A" n="33"/>quin cristas demittat illico, animo secum repetens, ex iis
+          <lb ed="#A" n="34"/>fuisse quosdam, quos cum aeque Deus iisdem corporis
+          bo<lb ed="#A" n="35" break="no"/>nis aliquando cumulauerit, nunc tamen squalidi sint,
+          de<lb ed="#A" n="36" break="no"/>formes, &amp; grauibus totius corporis doloribus,
+          miseran<lb ed="#A" n="37" break="no"/>dum in modum oppressi. Tumet aliquis diuitiis &amp;
+          poten<lb ed="#A" n="38" break="no"/>tia: fortasse inter eosdem reperiet aliquem, qui cum &amp;
+          <lb ed="#A" n="39"/>ipse locuples aliquando fuerit, neque secundas res moderate
+          <lb ed="#A" n="40"/>ferre potuerit, co tandem calamitatis recidit miser, vt
+          men<lb ed="#A" n="41" break="no"/>dicare stipem cogatur.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e823">
+          Itaque vicissitudinis rerum
+          humana<lb ed="#A" n="42" break="no"/>rum commonefactus, de fastu suo permultum remittet,
+          <pb ed="#A" n="300-v"/>
+          <lb ed="#A" n="1"/>dum quod huic accidit, sibi quoque euenire posse putabit.
+          <lb ed="#A" n="2"/>Atque haec quidem doctrinae cuiusdam sunt &amp;
+          admonitio<lb ed="#A" n="3" break="no"/>nis: sed &amp; consolationis ex illis plurimum capere licet.
+          <lb ed="#A" n="4"/>Accidit cuipiam praeter voluntatem aliquid. At quam leue
+          <lb ed="#A" n="5"/>est illud, si cum istius casu, stipem pro foribus templi
+          mendi<lb ed="#A" n="6" break="no"/>cantis, conferatur. Non est eo loco quo velis valetudo
+          tua<lb ed="#A" n="7" break="no"/>at huius miseri morbus prorsus est incurabilis. Facultatum
+          <lb ed="#A" n="8"/>tuarum grauem aliquam iacturam fecisti: at huius est
+          mul<lb ed="#A" n="9" break="no"/>to grauior, qui ne panem quidem habet, quo vitam susten
+          <lb ed="#A" n="10"/>tare queat, nisi tua benignitate sit adiutus, non murmurat
+          <lb ed="#A" n="11"/>tamen, non maledicit, non aliquod impatientis animi
+          si<lb ed="#A" n="12" break="no"/>gnum dat, sed aerumnam suam aequo fert animo. Nunquid
+          <lb ed="#A" n="13"/>ea res non magnam dolori nostro leuationem adfert, si
+          <lb ed="#A" n="14"/>quem ex rebus contra voluntatem nostram fluentibus
+          ac<lb ed="#A" n="15" break="no"/>cepimus? Ac nos ad agendas Deo gratias excitat? qui
+          <lb ed="#A" n="16"/>quamuis pro paterno suo in nos animo, castigandos nos
+          es<lb ed="#A" n="17" break="no"/>se putauerit, suae tamen misericordiae non est oblitus, neque
+          <lb ed="#A" n="18"/>nos extrema illa calamitate afficere voluerit, qua miseros
+          <lb ed="#A" n="19"/>istos, pro foribus iacentes ecclesiae, premi videmus.
+          Admo<lb ed="#A" n="20" break="no"/>net praeterea nos calamitosorum hic aspectus, vt &amp; ipsi
+          pro<lb ed="#A" n="21" break="no"/>penso simus ad misericordiam animo, &amp; singularem
+          De<lb ed="#A" n="22" break="no"/>misericordiam ac benignitatem admiremur. Nam si Deus
+          <lb ed="#A" n="23"/>istos non aspernatur, neque pudet eum ipsorum, quod sua
+          <lb ed="#A" n="24"/>domus vestibulis assident, multo minus te fas est carnem
+          <lb ed="#A" n="25"/>tuam &amp; membra tua despicere, neque eis qua possis ratione
+          <lb ed="#A" n="26"/>subuenire velle. Simul consydera, quam sit longe diuersa
+          <lb ed="#A" n="27"/>ratio eius, quam possidet rex mortalis, &amp; eius aulae, quam
+          <lb ed="#A" n="28"/>sibi consecratam habet immortalis ille rex regum, &amp;
+          do<lb ed="#A" n="29" break="no"/>minus dominantium. Illic omnia factus, hic humilitas
+          <lb ed="#A" n="30"/>omnia: non licet illic videre, nisi auro &amp; gemmis ornatos
+          <lb ed="#A" n="31"/>&amp; pretiosis vestibus indutos: huius contra aulici pannos
+          <lb ed="#A" n="32"/>sunt, situ squaloreque obducti, quorum sedes &amp; collectio
+          mo<lb ed="#A" n="33" break="no"/>do non admonitio quaedam est ad hominum genus,
+          prae<lb ed="#A" n="34" break="no"/>clatam illam vocem aedens: nihil humana sunt omnia,
+          fu<lb ed="#A" n="35" break="no"/>mus &amp; vmbra sunt. Si bonum essent diuitiae, Deus ante
+          ve<lb ed="#A" n="36" break="no"/>stibula sua pauperes non collocasset, quos propter eam
+          cau<lb ed="#A" n="37" break="no"/>sam ibi collocasse videtur, vt quemadmodum qui ad
+          homi<lb ed="#A" n="38" break="no"/>nem regem adire vult, prius se in alicuius, qui sit ex illius
+          <lb ed="#A" n="39"/>comitatu, familiaritatem insinuat, &amp; eum officiis, obsequiis,
+          <lb ed="#A" n="40"/>liberalitateque sua sibi demereri conatur, quo per cum &amp; aditus
+          <lb ed="#A" n="41"/>faciles, &amp; aures principis benignas habere queat: sic qui
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e919">
+          <lb ed="#A" n="42"/>vult in Dei domum ingredi, ac orationem ab illo suam ex
+          <pb ed="#A" n="301-r"/>
+          <lb ed="#A" n="1"/>audiri, prius aulicos ipsius, qui pro foribus eius assident,
+          <lb ed="#A" n="2"/>sibi conciliet, ac memor illius quod scriptum est: Non
+          ap<lb ed="#A" n="3" break="no"/>parebis in conspectu meo vacuus, eos muneribus deliniat,
+          <lb ed="#A" n="4"/>certo persuasum habens, quod sibi factum Deus
+          interpre<lb ed="#A" n="5" break="no"/>tatur, quicquid ex minimis isus vni factum fuerit: ac
+          deli<lb ed="#A" n="6" break="no"/>nitis illis tum primum accedat cum fiducia ad thronum
+          <lb ed="#A" n="7"/>gratiae Dei, qui cum dixerit: Beati misericordes, quoniam
+          <lb ed="#A" n="8"/>ipsi misericordiam consequentur: non potest quod
+          promi<lb ed="#A" n="9" break="no"/>sit non praestare.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e945">
+          Caeterum frustra misericordiam expectat a
+          <lb ed="#A" n="10"/>Deo, qui prior in proximum vsus ea non fuerit erga quem
+          <lb ed="#A" n="11"/>qualem se quisque praestiterit, talem Deum erga se vicissim
+          <lb ed="#A" n="12"/>experietur, qui misericordiam se velle non sacrificium diser
+          <lb ed="#A" n="13"/>tis verbis pronuntiat. Quisquis igitur quod vult Deus,
+          <lb ed="#A" n="14"/>Deo negat, quod ipse desiderat, a Deo sibi vult negari. Est
+          <lb ed="#A" n="15"/>in caelis misericordia, quemadmodum a Propheta dictum
+          <lb ed="#A" n="16"/>est: Domine in coelo misericordia tua: ad hanc non nisi
+          <lb ed="#A" n="17"/>per terrenas misericordias peruenitur. Vocat igitur
+          Chri<lb ed="#A" n="18" break="no"/>sostomus, eos qui pro foribus Ecclesiae sedent, stipem a
+          no<lb ed="#A" n="19" break="no"/>bis mendicantes, medicos vulnerum nostrorum, non
+          so<lb ed="#A" n="20" break="no"/>lum quod fastui plerunque nostro medentur, quod graue
+          <lb ed="#A" n="21"/>vulnus est animae, quodque si quem ex rebus aduersis
+          dolo<lb ed="#A" n="22" break="no"/>rem accepimus, ei consolationem adferunt: verumetiam
+          <lb ed="#A" n="23"/>quod per eos peccatorum nostrorum remissionem
+          consequu<lb ed="#A" n="24" break="no"/>ti, grauibus eorum morbis liberamur. Verba
+          Chrysosto<lb ed="#A" n="25" break="no"/>mi haec sunt: Nisi essent pauperes, peccatorum difficile
+          sa<lb ed="#A" n="26" break="no"/>cinam poneres, medici illi sunt vulnerum tuorum,
+          ma<lb ed="#A" n="27" break="no"/>nus eorum tibi medicamenta praestant. Non ita medicus,
+          <lb ed="#A" n="28"/>vt medicamenta imponat, extendens manum curationem
+          <lb ed="#A" n="29"/>exhibet, sicut pauper abs te, vt accipiat porrigens manum.
+          <lb ed="#A" n="30"/>Dedisti pecuniam &amp; pecunia simul exuisti. Ad eundem
+          <lb ed="#A" n="31"/>modum Petrus quoque Chrysologus: Manus, inquit,
+          pau<lb ed="#A" n="32" break="no"/>peris est gazophilacium Christi quia quicquid pauper
+          ac<lb ed="#A" n="33" break="no"/>cipit, Christus acceptat. Da ergo homo pauperi terram,
+          <lb ed="#A" n="34"/>vt accipias coelum, da nummum, vt accipias regnum, da
+          <lb ed="#A" n="35"/>micam, vt accipias totum.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e1004">
+          Sed quid horum opus est
+          pro<lb ed="#A" n="36" break="no"/>ferre testimonia, quibus referti sunt sanctorum omnium
+          <lb ed="#A" n="37"/>libri? Dixit ipse Christus: Date eleemosynam, &amp;
+          ecce<lb ed="#A" n="38" break="no"/>omnia munda sunt vobis. Omnia, inquit Basilius locum
+          <lb ed="#A" n="39"/>hunc enarrans, quae per rapinam &amp; auaritiae studium
+          pec<lb ed="#A" n="40" break="no"/>camus, &amp; male agimus. Addit paulo post: Non quod per
+          <lb ed="#A" n="41"/>se ista ad mundationem sufficiant: cum principaliter
+          <lb ed="#A" n="42"/>opus sit misericordia Dei &amp; sanguine Christi, in quo &amp;
+          <pb ed="#A" n="301-v"/>
+          <lb ed="#A" n="1"/>aliorum omnium redemptionem habemus, si in vno quoque
+          <lb ed="#A" n="2"/>dignos resipiscentiae fructus fecerimus. Fructus autem
+          re<lb ed="#A" n="3" break="no"/>sipiscentiae dignos intelligi vult idem in eodem libro
+          Ba<lb ed="#A" n="4" break="no"/>silius, opera iustitiae, peccato opposita, verbi gratia,
+          Rapui<lb ed="#A" n="5" break="no"/>sti aliena, non modo rapere deinceps desine, verumetiam
+          <lb ed="#A" n="6"/>cum Zachaeo dic: Ecce dimidium bonorum meorum
+          do<lb ed="#A" n="7" break="no"/>mine do pauperibus, &amp; si quid aliquem defraudaui, reddo
+          <lb ed="#A" n="8"/>quadruplum. Est igitur eleemosyna cumprimis ad id quod
+          <lb ed="#A" n="9"/>velis impetrandum necessaria: scriptum est enim:
+          Bona<lb ed="#A" n="10" break="no"/>est oratio cum ieiunio &amp; eleemosyna. Oratio pulsat,
+          ie<lb ed="#A" n="11" break="no"/>iunium impetrat, eleemosyna accipit. Haec tria vnum sunt,
+          <lb ed="#A" n="12"/>ac sibi inuicem vitam dant. Orationis anima: ieiunium,
+          <lb ed="#A" n="13"/>ieiunii vita est, eleemosyna, siue misericordia: ita sibi
+          con<lb ed="#A" n="14" break="no"/>nexa haec sunt, vt recte separari non possint.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e1054">
+          Quamob<lb ed="#A" n="15" break="no"/>rem repraehendendi merito sunt, qui, per quos ad
+          miserri<lb ed="#A" n="16" break="no"/>cordiam prouocamur, pauperes &amp; calamitosos homines,
+          <lb ed="#A" n="17"/>a templi, quae domus est &amp; aula Dei, foribus procul arcere
+          <lb ed="#A" n="18"/>conantur: cum non hanc ex illis vtilitatem tantum
+          ca<lb ed="#A" n="19" break="no"/>piamus, quod nos ad praestandam misericordiam, quam
+          <lb ed="#A" n="20"/>praestari nobis a Deo velimus, inuitant: verumetiam &amp; vi
+          <lb ed="#A" n="21"/>cissitudinis rerum humanarum, casuumque, quibus
+          subie<lb ed="#A" n="22" break="no"/>cti sumus, admonemur, &amp; in rebus aduersis non parum ex
+          <lb ed="#A" n="23"/>eorum aspectu consolationis capiamus. Retinendus est
+          <lb ed="#A" n="24"/>igitur laudatus Ecclesiae mos, vt pro foribus domus Dei
+          <lb ed="#A" n="25"/>pauperes excubent, atque ibi misericordiam ab iis qui
+          <lb ed="#A" n="26"/>Deum sui misereri cupiunt, expectent. Et quamuis recte
+          <lb ed="#A" n="27"/>quouis in loco preces ad Deum funduntur, recte tamen
+          <lb ed="#A" n="28"/>&amp; illud creditur, quod quae cum reliquo caetu piorum in
+          <lb ed="#A" n="29"/>sacris aedibus fiunt orationes, multo sunt efficatiores.
+          Re<lb ed="#A" n="30" break="no"/>cte &amp; illud a sanctis patribus constitutum obseruatur, vt
+          <lb ed="#A" n="31"/>tremendum sacrificium non alibi, quam in Deo sacratis
+          <lb ed="#A" n="32"/>templis offeratur, ad quod celebrandum, &amp; homines &amp;
+          ve<lb ed="#A" n="33" break="no"/>stes &amp; vasa &amp; locus requiritur sacer, vt nihil ibi sit, quod
+          <lb ed="#A" n="34"/>non verbo Dei sanctificatum sit, quo sic maiore in venera
+          <lb ed="#A" n="35"/>tione sacrificium inter omnia maxime venerandum, a
+          po<lb ed="#A" n="36" break="no"/>pulo haberi possit. Est quidem ita, quod vbique Deus est:
+          ve<lb ed="#A" n="37" break="no"/>rum non vbique tamen aequaliter operatur. Misericordia
+          <lb ed="#A" n="38"/>domini plena est terra. Sed in scripturis tamen legimus.
+          <lb ed="#A" n="39"/>quod certa loca suis operationibus delegerit: exauditioni
+          <lb ed="#A" n="40"/>templum Hierosolymitanum: arcam miraculis: piscinam
+          <lb ed="#A" n="41"/>probaticam aegrorum solatio. Templum quidem eo
+          di<lb ed="#A" n="42" break="no"/>gnatus est honore, vt si quis etiam exul ad illud versa
+          fa<pb ed="#A" n="302-r"/><lb ed="#A" n="1" break="no"/>cie oraret, exaudiretur, quod priuilegium nulli alii loco
+          <lb ed="#A" n="2"/>concessum esse legimus. Arcae porro tantam virtutem esse
+          <lb ed="#A" n="3"/>voluit, vt ea praesente funderentur hostes, Hiericho
+          corrue<lb ed="#A" n="4" break="no"/>ret, &amp; lordanis retrorsum conuerteretur. Piscinae vero pro
+          <lb ed="#A" n="5"/>baticae praerogatiuam hanc fuisse, nobis Euangelium
+          in<lb ed="#A" n="6" break="no"/>dicat, vt qui primus in eam descendisset, quocunque tandem
+          <lb ed="#A" n="7"/>affectus esset morbo, statim ab eo liberatus discederet.
+          <lb ed="#A" n="8"/>Nunquid parem vim ad sanandum aliae quoque vulgares
+          <lb ed="#A" n="9"/>aquae habuerunt? Sic Deus cuius misericordia pleni caeli,
+          <lb ed="#A" n="10"/>plena est &amp; terra, nullo vt loco circunscribatur, certa
+          ta<lb ed="#A" n="11" break="no"/>men loca esse voluit, in quibus manifestius virtutem suam
+          <lb ed="#A" n="12"/>declararet. In templo Deus olim responsa dabat, in
+          tem<lb ed="#A" n="13" break="no"/>plis angelos videre licuit, quos inibi etiam habitare vel
+          il<lb ed="#A" n="14" break="no"/>lud nobis esse documento potest, quod a Iosepho
+          memo<lb ed="#A" n="15" break="no"/>riae proditum est, cum iam iam Hierosolymitanum excidium
+          <lb ed="#A" n="16"/>instaret, angelos auditos esse qui dicerent: Recedamus ex
+          <lb ed="#A" n="17"/>iis aedibus.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e1155">
+          Sed haec dicet aliquis veteris Testamenti
+          fuis<lb ed="#A" n="18" break="no"/>se, nec ad nouum pertinere quicquam, in quo
+          Samaritan<lb ed="#A" n="19" break="no"/>disertis verbis dictum legimus: Mulier, crede mihi, veniet
+          <lb ed="#A" n="20"/>hora, quando neque in monte hoc, neque Hierosolymis
+          ado<lb ed="#A" n="21" break="no"/>rabitis patrem.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e1167">
+          Atqui ille ipse qui haec dixit, noui
+          Testa<lb ed="#A" n="22" break="no"/>menti mediator &amp; auctor, templo tantum honoris habuit,
+          <lb ed="#A" n="23"/>vt cum eiiceret ex eo vendentes &amp; ementes, domum illud
+          <lb ed="#A" n="24"/>sui patris vocauerit. Nunquid non totus mundus domus
+          <lb ed="#A" n="25"/>est illius, qui dixit: coelum &amp; terram ego impleo. Coelum
+          <lb ed="#A" n="26"/>sedes mea, terra autem scabellum pedum meorum. Et
+          ta<lb ed="#A" n="27" break="no"/>men domum sui patris peculiari modo quodam, templum
+          <lb ed="#A" n="28"/>Christus appellauit. Quin &amp; in ipsis templis arcano
+          quo<lb ed="#A" n="29" break="no"/>dam &amp; inperscrutabili Dei iudicio fieri videmus, hoc ipso
+          <lb ed="#A" n="30"/>gratiae tempore vt terribiliora in vno sint, quam in alio
+          <lb ed="#A" n="31"/>Dei opera. Sic ab Augustino factum legimus, cum quidam
+          <lb ed="#A" n="32"/>ex eius sodalicio iuuenis graue quoddam presbytero
+          cri<lb ed="#A" n="33" break="no"/>men intentasset, nec res euidentibus argumentis aut
+          refel<lb ed="#A" n="34" break="no"/>li posset, aut coargui, quod iusserit ambos ad locum
+          san<lb ed="#A" n="35" break="no"/>ctum (iis enim verbis vtitur) peregrinari, nimirum eum
+          <lb ed="#A" n="36"/>vbi beati Faelicis Nolensis corpus conditum erat, vt ibi ad
+          <lb ed="#A" n="37"/>confessionem, vel paenae miraculo vel timore
+          compelle<lb ed="#A" n="38" break="no"/>rentur. Ac mox ea verba subiicit Augustinus: Vbique
+          qui<lb ed="#A" n="39" break="no"/>dem Deus est, &amp; nullo continetur vel includitur loco, qui
+          <lb ed="#A" n="40"/>condidit omnia, &amp; eum a veris adoratoribus in spiritu &amp;
+          <lb ed="#A" n="41"/>veritate oportet adorare, vt in occulto exaudiens, in
+          oc<lb ed="#A" n="42" break="no"/>culto etiam iustificet, &amp; coronet: verum tamen ad ista, quae
+          <pb ed="#A" n="302-v"/>
+          <lb ed="#A" n="1"/>hominibus visibiliter nota sunt, quis potest eius
+          consili<lb ed="#A" n="2" break="no"/>um perscrutari, quare in aliis locis haec miracula fiant, in
+          <lb ed="#A" n="3"/>aliis non fiant? Multis enim notissima est sanctitas loci,
+          <lb ed="#A" n="4"/>vbi beati Felicis Nolensis corpus conditum est &amp;c. Ac pau
+          <lb ed="#A" n="5"/>cis interiectis, mentione facta de miraculis, quae
+          Mediola<lb ed="#A" n="6" break="no"/>ni fierent, apud memoriam sanctorum, Nunquid, inquit,
+          <lb ed="#A" n="7"/>non &amp; Africa sanctorum martyrum corporibus plena est:
+          <lb ed="#A" n="8"/>&amp; tamen nusquam hic scimus talia fieri. Sicut enim, quod
+          <lb ed="#A" n="9"/>Apostolus dicit, Non omnes sancti habent dona
+          curatio<lb ed="#A" n="10" break="no"/>num, nec omnes habent diiudicationem spirituum, ita nec
+          <lb ed="#A" n="11"/>in omnibus memoriis sanctorum ista fieri voluit, qui
+          di<lb ed="#A" n="12" break="no"/>uidit vnicuique propria prout vult.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e1243">
+          Quare minime nouum
+          <lb ed="#A" n="13"/>ac iam inde a multis seculis in orbe Christiano receptum
+          <lb ed="#A" n="14"/>est, quod propter admirabiliores dei operationes, vnus
+          lo<lb ed="#A" n="15" break="no"/>cus alio sanctior habitus, &amp; a piis hominibus magis est
+          <lb ed="#A" n="16"/>frequentatus. Qui scripserunt Ecclesiasticam Historiam,
+          <lb ed="#A" n="17"/>Eusebius, Socrates, Zozomenus, Theodoritus &amp; alii ante
+          <lb ed="#A" n="18"/>mille ducentos, quin &amp; ante mille trecentos &amp; amplius
+          <lb ed="#A" n="19"/>annos, &amp; Hierosolymam &amp; ad martyrum sepulchra,
+          reli<lb ed="#A" n="20" break="no"/>gionis ergo peregrinationes etiam ex voto susceptas esse,
+          <lb ed="#A" n="21"/>memoriae prodiderunt. Quas adeo non contemnendas
+          <lb ed="#A" n="22"/>putauit Ioannes quoque Chrysostomus, vt diceret, quum
+          <lb ed="#A" n="23"/>in vinculorum, quibus ligatus erat Paulus, laudem
+          eru<lb ed="#A" n="24" break="no"/>pisset: vellem nunc locis in illis versari, quibus vincula
+          il<lb ed="#A" n="25" break="no"/>la manent, &amp; cathenas videre, quas timuerunt quidem
+          <lb ed="#A" n="26"/>daemones, &amp; horrent, &amp; angeli venerantur. Si
+          Ecclesiasti<lb ed="#A" n="27" break="no"/>cis curis essem vacuus, corpusque robustum haberem, nequaquam
+          <lb ed="#A" n="28"/>peregrinationem tantam facere recusarem, quo cathenas
+          <lb ed="#A" n="29"/>saltem viderem, &amp; carcerem, quo Paulus vinctus est. Ante
+          <lb ed="#A" n="30"/>annos plus minus septingentos, fuit Claudius quidam qui
+          <lb ed="#A" n="31"/>peregre proficiscentes ad sepulchra sanctorum martyrum
+          <lb ed="#A" n="32"/>ridebat, eum in eorum quos de cultu scripsit imaginum
+          li<lb ed="#A" n="33" break="no"/>bro tertio grauiter confutauit vir doctus lonas episcopus
+          <lb ed="#A" n="34"/>Aurelianensis, verum in hoc genere, non tam labor ipse
+          pe<lb ed="#A" n="35" break="no"/>regrinationis attenditur a Deo, quam affectus.
+          Quemad<lb ed="#A" n="36" break="no"/>modum dicit ille: Affectus tuus operi tuo nomen
+          impo<lb ed="#A" n="37" break="no"/>nit. Si quis charitate erga sanctum aliquem inflammatus,
+          <lb ed="#A" n="38"/>&amp; virtutum illius amore ardens, visat reliquias illius, &amp;
+          <lb ed="#A" n="39"/>exosculetur: non potest hic affectus Deo gratus non esse.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e1304">
+          <lb ed="#A" n="40"/>Sed haec obiter. De Christianorum templis siue Basilicis
+          <lb ed="#A" n="41"/>refert Augustinus, &amp; in Ecclesiastica quoque Historia
+          scri<lb ed="#A" n="42" break="no"/>ptum legimus, quod etiam ab immanibus barbaris
+          tan<pb ed="#A" n="303-r"/><lb ed="#A" n="1" break="no"/>tus olim illis honor habitus fuerit, vt quisquis ad ea
+          con<lb ed="#A" n="2" break="no"/>fugisset, is ab hostium insultu liber esset. Nunc
+          miseran<lb ed="#A" n="3" break="no"/>dum in modum ea prophanari passim cernimus, nec in
+          <lb ed="#A" n="4"/>horrea modo pleraque commutata, verum &amp; equorum ex
+          <lb ed="#A" n="5"/>eis stabula facta, &amp; in quoscunque tandem vsus, Deo
+          dica<lb ed="#A" n="6" break="no"/>tas domos conuersas: quodque etiam dictu horrendum est,
+          <lb ed="#A" n="7"/>neque facile creditura posteritas videatur, in eo ipso loco
+          <lb ed="#A" n="8"/>vbi tremendum Deo sacrificium non ita pridem oblatum
+          <lb ed="#A" n="9"/>fuit, furcam crectam videre licuit, ab iis qui Euangelici
+          <lb ed="#A" n="10"/>quam Christiani dici malunt. Hi sunt fructus praeclari, si
+          <lb ed="#A" n="11"/>diis placet, istius Euangelii. Sed hoc fortassis offendit
+          non<lb ed="#A" n="12" break="no"/>nullos, quod templa diuis eriguntur.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e1340">
+          Verum hi cui
+          tem<lb ed="#A" n="13" break="no"/>pla constituerentur, vel ex Innocentio tertio, Pontifice
+          <lb ed="#A" n="14"/>Romano discere potuerunt, Cuius haec verba sunt: Duae
+          <lb ed="#A" n="15"/>sunt species seruitutis: vna quae debetur soli Deo creatori
+          <lb ed="#A" n="16"/>&amp; dicitur latria: &amp; altera, quae creaturis impenditur, &amp;
+          di<lb ed="#A" n="17" break="no"/>citur dulia. Vtramque speciem determinat Dominus
+          di<lb ed="#A" n="18" break="no"/>cens, Reddite quae sunt Caesaris, Caesari, &amp; quae sunt Dei,
+          <lb ed="#A" n="19"/>Deo. Ad latriam pertinent, templa, altaria, sacerdotia,
+          sa<lb ed="#A" n="20" break="no"/>crificia, &amp; huiusmodi, quae sunt soli Deo exhibenda, qui
+          <lb ed="#A" n="21"/>glorificatur in concilio sanctorum, magnus &amp;
+          metuen<lb ed="#A" n="22" break="no"/>dus super omnes, qui in circuitu eius sunt. Non enim san
+          <lb ed="#A" n="23"/>ctis ad honorem dei, sed Deo potius ad honorem
+          sancto<lb ed="#A" n="24" break="no"/>rum dedicantur templa, consecrantur altaria, sacerdotia
+          <lb ed="#A" n="25"/>statuuntur, sacrificia offeruntur: ne forte si secus agatur,
+          <lb ed="#A" n="26"/>non Theosebia, sed Idololatria committatur. Quem qui
+          <lb ed="#A" n="27"/>multis praecessit seculis Augustinus, quum ad eundem
+          mo<lb ed="#A" n="28" break="no"/>dum, sicut nunc fieri cernimus, idololatriae Christianos
+          <lb ed="#A" n="29"/>argui videret, quod ad monumenta martyrum plerique
+          <lb ed="#A" n="30"/>omnes confugerent maximo concursu, atque illorum
+          in<lb ed="#A" n="31" break="no"/>tercessione se facile quae petiuissent impetraturos a Deo
+          <lb ed="#A" n="32"/>confiderent. Nec tamen, inquit, nos iisdem martyribus,
+          <lb ed="#A" n="33"/>templa, sacerdotia, sacra, &amp; sacrificia constituimus,
+          quoni<lb ed="#A" n="34" break="no"/>am non ipsi, sed eorum Deus, nobis est Deus. Honoramus
+          <lb ed="#A" n="35"/>sane memorias eorum, tanquam sanctorum hominum
+          <lb ed="#A" n="36"/>dei, qui vsque ad mortem suorum corporum, pro veritate
+          <lb ed="#A" n="37"/>certarunt, vt innotesceret vera religio, falsis religionibus
+          <lb ed="#A" n="38"/>fictisque conuictis.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e1399">
+          Itaque videre licet passim apud
+          Augu<lb ed="#A" n="39" break="no"/>stinum, quod non alio fere martyrum templa, quam
+          me<lb ed="#A" n="40" break="no"/>moriarum nomine dignatur: cuius etiam haec verba
+          le<lb ed="#A" n="41" break="no"/>guntur alicubi. Nonne si templum alicui sancto angelo
+          <lb ed="#A" n="42"/>excellentissimo de lapidibus &amp; ligni faceremus,
+          anathe<pb ed="#A" n="303-v"/><lb ed="#A" n="1" break="no"/>matizaremur a veritate Christi, &amp; ab Ecclesia dei? qui cre
+          <lb ed="#A" n="2"/>aturae exhiberemus ad seruitutem, quae vni tantum
+          debe<lb ed="#A" n="3" break="no"/>tur Deo. Sed quod nimia quadam religione dicere non
+          <lb ed="#A" n="4"/>fuit ausus Augustinus, dixit ante eum Ioannes
+          Chrysosto<lb ed="#A" n="5" break="no"/>mus, dixit natu grandior Hieronymus, dixere qui fuerunt
+          <lb ed="#A" n="6"/>eius aequales, Socrates, Zozomenus, nec ita multo
+          poste<lb ed="#A" n="7" break="no"/>rior Euagrius, ac alii multi, apud quos templa martyrum,
+          <lb ed="#A" n="8"/>Basilicas Apostolorum &amp; martyrum, Ecclesiam
+          Apo<lb ed="#A" n="9" break="no"/>stolorum, Ecclesiam Theonae, Ecclesiam Dionis,
+          sa<lb ed="#A" n="10" break="no"/>crum Eufemiae martyris templum, &amp; aliorum
+          sancto<lb ed="#A" n="11" break="no"/>rum legere licet.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e1435">
+          Quid igitur? num ignorabant isti
+          om<lb ed="#A" n="12" break="no"/>nes, quod ex diuino praecepto sciebat Augustinus, non esse
+          <lb ed="#A" n="13"/>creaturae seruitutem eam exhibendam, quae soli Deo
+          debe<lb ed="#A" n="14" break="no"/>tur creatori? Minime gentium: aeque illi hoc atque
+          Augu<lb ed="#A" n="15" break="no"/>stinus sciebant, neque secus faciebant, sed in verbo nihil
+          fu<lb ed="#A" n="16" break="no"/>isse periculi iudicabant. Quis enim nescit, etiam si templum
+          <lb ed="#A" n="17"/>Petri &amp; Pauli, vel cuiuscunque sancti tandem esse dicatur,
+          <lb ed="#A" n="18"/>non propterea Petro vel Paulo, sed soli Deo dicatum esse,
+          <lb ed="#A" n="19"/>solique Deo sacrificia in illo offerri, etiamsi Petri, vel Pauli,
+          <lb ed="#A" n="20"/>vel alterius cuiusquam sanctificat in eo memoria: vt recte
+          <lb ed="#A" n="21"/>Augustinus memorias martyrum, recte caeteri quoque
+          tem<lb ed="#A" n="22" break="no"/>pla, siue Basilicas, aut Ecclesias martyrum eiusmodi
+          loca<lb ed="#A" n="23" break="no"/>vocauerint. Nam proprie quidem solius dei templa sunt,
+          <lb ed="#A" n="24"/>quoniam vero vel sunt in illis apostolorum aut martyrum,
+          <lb ed="#A" n="25"/>reliquiae, vel eorum frequens fit commemoratio: recte
+          mar<lb ed="#A" n="26" break="no"/>tyrum quoque, in quibus Deus habitabat, templa
+          vocan<lb ed="#A" n="27" break="no"/>tur. Quanquam extat liber de Ecclesiasticis dogmatibus,
+          <lb ed="#A" n="28"/>qui Augustino inscribitur, in quo haec verba leguntur: San
+          <lb ed="#A" n="29"/>ctorum corpora, &amp; praecipue beatorum martyrum reliqui
+          <lb ed="#A" n="30"/>as, ac si Christi membra, syncerissime honoranda, &amp; basi
+          <lb ed="#A" n="31"/>licas eorum nominibus appellatas, velut loca sancta,
+          diui<lb ed="#A" n="32" break="no"/>no cultui mancipata, affectu piissimo, &amp; deuotione fidelis
+          <lb ed="#A" n="33"/>sima adeundas credimus. Si quis contra hanc sententiam
+          <lb ed="#A" n="34"/>venerit, non Christianus, sed Eunomianus &amp;
+          Vigilantia<lb ed="#A" n="35" break="no"/>nus creditur. Sunt igitur, quemadmodum ex hoc
+          Augu<lb ed="#A" n="36" break="no"/>stini loco licet colligere, basilicae siue templa dei, sed appel
+          <lb ed="#A" n="37"/>lantur tamen sanctorum nominibus, haud aliter, quam
+          <lb ed="#A" n="38"/>nos fideles, quum &amp; ipsi templa dei simus, suo tamen
+          quis<lb ed="#A" n="39" break="no"/>que proprio nomine vocamur. Quanquam in eo quoque
+          <lb ed="#A" n="40"/>libro, qui sine controuersia Augustini est, quem inscripsit
+          <lb ed="#A" n="41"/>de cura pro mortuis gerenda, iis ille verbis vtitur: Mater
+          <lb ed="#A" n="42"/>filii defuncti corpus desiderauit in basilicam
+          martyri<pb ed="#A" n="304-r"/><lb ed="#A" n="1" break="no"/>poni. Fuit ante mille ducentos &amp; amplius annos
+          Eusta<lb ed="#A" n="2" break="no"/>tius quidam haereticus, qui loca sanctorum martyrum,
+          <lb ed="#A" n="3"/>vel basilicas contemneret, &amp; omnes qui illuc conuenirent
+          <lb ed="#A" n="4"/>&amp; sacramenta conficerent, reprehenderet. Contra eum
+          <lb ed="#A" n="5"/>in Gangrensi Synodo, quae fuit Nicenae proxima, in haec
+          <lb ed="#A" n="6"/>verba pronuntiatum est. Si quis per superbiam, tanquam
+          <lb ed="#A" n="7"/>perfectum se existimans, conuentus, qui per loca, &amp;
+          basili<lb ed="#A" n="8" break="no"/>cas sanctorum martyrum fiunt, vel accusauerit, vel etiam
+          <lb ed="#A" n="9"/>oblationes, quae ibidem celebrantur, spernendas esse
+          cre<lb ed="#A" n="10" break="no"/>diderit, memoriasque sanctorum contemnendas, anathema
+          <lb ed="#A" n="11"/>sit. Hic quoque dixere patres, loca &amp; basilicas sanctorum.
+          <lb ed="#A" n="12"/>Zozomenus vero etiam ad honorem Stephani
+          protho<lb ed="#A" n="13" break="no"/>martyris, &amp; in honorem Thyrsi martyris, &amp; aliorum,
+          aedi<lb ed="#A" n="14" break="no"/>ficatas Ecclesias scribere veritus non est. Non quod
+          nesci<lb ed="#A" n="15" break="no"/>ret ad honorem dei constructas, qui sacrificiis in illis
+          Ec<lb ed="#A" n="16" break="no"/>clesiis colebatur, sed quod suus quoque honos in eis
+          Ste<lb ed="#A" n="17" break="no"/>phano &amp; Thyrso tribueretur, dum &amp; res ab eis gestae
+          re<lb ed="#A" n="18" break="no"/>citantur, &amp; ad eorum imitationem homines
+          accendun<lb ed="#A" n="19" break="no"/>tur, &amp; Deo gratiae aguntur, cuius dona fuerunt ea
+          om<lb ed="#A" n="20" break="no"/>nia, quibus in hac vita excelluerunt.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e1550">
+          Neque vero Deo
+          <lb ed="#A" n="21"/>tantum precibus &amp; sacrificiis placando, verum &amp;
+          corpo<lb ed="#A" n="22" break="no"/>ribus hominum sepeliendis templa sunt &amp; coemiteria con
+          <lb ed="#A" n="23"/>secrata, quod qui corpora sua viuentes Deo templa
+          di<lb ed="#A" n="24" break="no"/>cassent, eos mortuos, non nisi in sacris locis recondi,
+          <lb ed="#A" n="25"/>aequum est putatum. Ac verum quidem illud est, quod
+          <lb ed="#A" n="26"/>vbicunque sepeliamur, Domini est terra &amp; plenitudo eius
+          <lb ed="#A" n="27"/>quodque sepultura optima est, optima vita, sicut a Ioan.
+          <lb ed="#A" n="28"/>ne Chrysostomo traditum legimus: Sed interea tamen
+          <lb ed="#A" n="29"/>etiam antiquorum iustorum funera, officiosa pietate
+          cu<lb ed="#A" n="30" break="no"/>rata, exequias celebratas, sepulturas prouisas, ipsosque
+          <lb ed="#A" n="31"/>dum viuerent de sepeliendis, vel etiam transferendis
+          <lb ed="#A" n="32"/>corporibus suis filiis mandasse legimus. Et Tobias
+          se<lb ed="#A" n="33" break="no"/>peliendo mortuos, Deum promeruisse, teste Angelo,
+          com<lb ed="#A" n="34" break="no"/>mendatur. Ipse quoque Dominus die tertio resurrectu
+          <lb ed="#A" n="35"/>rus religiosae mulieris bonum opus praedicat,
+          praedican<lb ed="#A" n="36" break="no"/>dumque commendat, quod vnguentum pretiosum, super
+          <lb ed="#A" n="37"/>membra eius effuderit, atque hoc ad eum sepeliendum
+          fe<lb ed="#A" n="38" break="no"/>cerit. Et laudabiliter commemorantur in Euangelio, qui
+          <lb ed="#A" n="39"/>corpus eius de cruce acceptum, diligenter atque honori
+          <lb ed="#A" n="40"/>fice tegendum sepeliendumque curarunt. Ioannes quoque
+          Chri<lb ed="#A" n="41" break="no"/>sostomus, cum laude quadam commemorat, quod
+          Constan<lb ed="#A" n="42" break="no"/>tinopoli reges magnam gratiam putant, non si prope
+          <pb ed="#A" n="304-v"/>
+          <lb ed="#A" n="1"/>Apostolos, sed si vel extra eorum vestibula corpora sua se
+          <lb ed="#A" n="2"/>peliantur, fiantque piscatorum officiarii reges neque hic in
+          <lb ed="#A" n="3"/>morte confunduntur, sed honestantur, &amp; ipsi, &amp; eorum
+          ne<lb ed="#A" n="4" break="no"/>potes, &amp; pronepotes. Et in alia quadam Homilia, quum
+          <lb ed="#A" n="5"/>docuisset quomodo ipse, qui purpuram indutus est
+          Impe<lb ed="#A" n="6" break="no"/>rator, accedit seruorum crucifixi complexurus sepulchra,
+          <lb ed="#A" n="7"/>&amp; fastu deposito stat sanctis supplicaturus, vt pro se apud
+          <lb ed="#A" n="8"/>Deum intercedant, &amp; scenarum fabrum, &amp; piscatorem eti
+          <lb ed="#A" n="9"/>am mortuos &amp; protectores orat, qui diademate
+          redimi<lb ed="#A" n="10" break="no"/>tus incedit, mox subiungit. Audebis igitur quaeso eorum
+          <lb ed="#A" n="11"/>dominum appellare mortuum, cui serui vel motui
+          terra<lb ed="#A" n="12" break="no"/>rum orbis sunt protectores? Nec hoc tantum Romae quis
+          <lb ed="#A" n="13"/>fieri viderit, verum &amp; Constantinopoli. Nam &amp; hic
+          Con<lb ed="#A" n="14" break="no"/>stantinum Magnum ipsius filius honore magno censuit
+          <lb ed="#A" n="15"/>haberi, si pro foribus piscatoris paternum corpus
+          colloca<lb ed="#A" n="16" break="no"/>ret: &amp; quod in regiis sunt ianitores regibus, hoc sunt in
+          <lb ed="#A" n="17"/>monumento piscatoribus reges. Zozomenus quoque non
+          <lb ed="#A" n="18"/>reprehendit mulierem quandam Eusebiam, quod iuxta
+          <lb ed="#A" n="19"/>eum locum, in quo reliquiae quadraginta militum fuerunt
+          <lb ed="#A" n="20"/>conditae, iuramenti religione obstrictis monachis, se
+          quo<lb ed="#A" n="21" break="no"/>que condi curauerit? A Paulino quoque religiosa quaedam
+          <lb ed="#A" n="22"/>vidua Flora petiuisse legitur, vt in beatissimi Felicis
+          con<lb ed="#A" n="23" break="no"/>fessoris Basilica, defuncti filis eius corpus poneretur, qui
+          <lb ed="#A" n="24"/>cum ea de re ad Augustinum retulisset, hoc ab eo
+          respon<lb ed="#A" n="25" break="no"/>sum tulit: Prouisus sepeliendis corporibus apud
+          memori<lb ed="#A" n="26" break="no"/>am sanctorum locus, bonae affectionis humanae est erga
+          <lb ed="#A" n="27"/>funera suorum: quoniam si nonnulla religio est, vt
+          sepeli<lb ed="#A" n="28" break="no"/>antur, non potest nulla esse, quando vbi sepeliantur, atten
+          <lb ed="#A" n="29"/>ditur.
+        </p>
+        <p xml:id="ho8ccf-a3uc89-d1e1665">
+          Sed cum talia viuorum solatio requiruntur, quibus
+          <lb ed="#A" n="30"/>eorum pius in suos animus appareat: non video quae sunt
+          <lb ed="#A" n="31"/>adiumenta mortuorum, nisi ad hoc, vt dum recolunt, vbi
+          <lb ed="#A" n="32"/>sunt posita, eorum quos diligunt corpora, eisdem sanctis
+          <lb ed="#A" n="33"/>illos, tanquam patronis susceptos, apud dominum
+          adiu<lb ed="#A" n="34" break="no"/>uandos orando commendent. Quod quidem facere
+          pos<lb ed="#A" n="35" break="no"/>sent, etiamsi talibus locis eos humare non possent. Sed
+          <lb ed="#A" n="36"/>non ob aliud vel memoriae, vel monumenta dicuntur, ea
+          <lb ed="#A" n="37"/>quae insignita fiunt sepulchra mortuorum, nisi quia eos,
+          <lb ed="#A" n="38"/>qui viuentium oculis morte subtracti sunt, ne obliuione
+          <lb ed="#A" n="39"/>etiam cordibus subtrahantur, in memoriam reuocant, &amp;
+          <lb ed="#A" n="40"/>admonendo faciunt cogitari. Cum itaque recolit animus,
+          <lb ed="#A" n="41"/>vbi sepultum sit charissimi corpus, &amp; occurrit locus
+          nomi<lb ed="#A" n="42" break="no"/>ne martyris venerabilis, eidem martyri animam dilectam
+          <pb ed="#A" n="305-r"/>
+          <lb ed="#A" n="1"/>commendat recordantis &amp; precantis affectus, qui cum
+          de<lb ed="#A" n="2" break="no"/>functis a fidelibus charissimis exhibetur, eum prodesse non
+          <lb ed="#A" n="3"/>dubium est iis, qui cum in corpore viuerent, talia sibi post
+          <lb ed="#A" n="4"/>hanc vitam prodesse meruerunt. Nam quos peccata grauia
+          <lb ed="#A" n="5"/>deprimunt, non ad solutionem potius, quam ad maiorem
+          <lb ed="#A" n="6"/>damnationis cumulum, eorum corpora in ecclesiis
+          poni<lb ed="#A" n="7" break="no"/>scribit Gregorius. Non enim eos sacra loca liberant, sed cui
+          <lb ed="#A" n="8"/>pa magis temeritatis accusat, id quod productis etiam ex
+          <lb ed="#A" n="9"/>emplis planum facit. Et propterea sacra Canonibus cau
+          <lb ed="#A" n="10"/>tum, &amp; in Ecclesia videmus obseruatum, quod qui sibi ipsi
+          ma<lb ed="#A" n="11" break="no"/>nus intulerunt, qui facultatibus alienis per fanus expilatis,
+          <lb ed="#A" n="12"/>rem suam auxerunt, qui sine poenitentia ex hac vita
+          exces<lb ed="#A" n="13" break="no"/>serunt, qui vel cum graue scelus aliquod patrassent, e
+          con<lb ed="#A" n="14" break="no"/>piorum sententia iudicis eiecti, atque a Christi corpore
+          prae<lb ed="#A" n="15" break="no"/>cisi sunt, vel qui seipsos vltro praeciderunt, quales sunt
+          schi<lb ed="#A" n="16" break="no"/>matici &amp; haeretici, eorum corpora in sacris locis humam
+          <lb ed="#A" n="17"/>non permittuntur: quod, quemadmodum ad Rusticum
+          Na<lb ed="#A" n="18" break="no"/>bonensem Episcopum scribit vere magnus ille Pontifex
+          <lb ed="#A" n="19"/>Leo, quibus viuentibus non communicauimus, eis mortuis
+          <lb ed="#A" n="20"/>quoque communicare non possumus. Non est cum iis ne
+          mo<lb ed="#A" n="21" break="no"/>tuis quidem commune quicquam habendum, qui
+          doctri<lb ed="#A" n="22" break="no"/>nis variis &amp; peregrinis abducti, suo ipsorum iudicio sunt
+          <lb ed="#A" n="23"/>condemnati, dum quod iudicis fuerant sententia passuri,
+          <lb ed="#A" n="24"/>id vltro ipsi fecerunt, seque a Christi corpore praeciderunt, &amp;
+          <lb ed="#A" n="25"/>e coetu fidelium exterminarunt, atque ab eorum
+          communio<lb ed="#A" n="26" break="no"/>ne separarunt. Sed haec de sepultura deque sepulchris dicta
+          <lb ed="#A" n="27"/>sufficiant; neque enim omnia nobis persequi propositum est,
+          <lb ed="#A" n="28"/>quae fusius ab aliis tractata sunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

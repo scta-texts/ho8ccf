@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 85</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 85</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="282-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3mya3"><!-- c85 -->
+        <head xml:id="ho8ccf-a3mya3-Hd1e99">Caput 85</head>
+        <head xml:id="ho8ccf-a3mya3-Hd1e101" type="question-title">De nono et decimo praeceptis</head>
+        <p xml:id="ho8ccf-a3mya3-d1e104">
+          <lb ed="#A" n="38"/>CAPVT LXXXV.
+          <lb ed="#A" n="39"/>De nono &amp; decimo praeceptis.
+        </p>
+        <p xml:id="ho8ccf-a3mya3-d1e111">
+          <pb ed="#A" n="282-v"/>
+          <lb ed="#A" n="1"/><milestone ed="#A" unit="p" rend="initial"/> HVmanarum &amp; diuinarum legum inter alia
+          discri<lb ed="#A" n="2" break="no"/>men &amp; hoc esse putatur, quod illis aut facta puni
+          <lb ed="#A" n="3"/>untur, vt furta caedesque: aut dicta, vt conuitia, &amp;
+          <lb ed="#A" n="4"/>in fide aduocationes: aut scripta, vt falsa charta,
+          <lb ed="#A" n="5"/>&amp; famosi libelli: aut consilia, vt coniurationes &amp;
+          conscien<lb ed="#A" n="6" break="no"/>tiae latronum.
+        </p>
+        <p xml:id="ho8ccf-a3mya3-d1e130">
+          Caeterum cogitationis poenam nemo
+          pari<lb ed="#A" n="7" break="no"/>tur, modo suis terminis ea sit contenta. Deus vero de
+          ma<lb ed="#A" n="8" break="no"/>lis etiam cogitatis poenas persequitur. Siquidem homo
+          vi<lb ed="#A" n="9" break="no"/>det quae foris sunt, atque ea sola punit quae videt. Deus
+          au<lb ed="#A" n="10" break="no"/>tem, cuius oculis nuda &amp; aperta sunt omnia, cor intuetur,
+          <lb ed="#A" n="11"/>cor non manum interrogat: Solaque voluntas est, sicut ex
+          <lb ed="#A" n="12"/>Bernardo quoque docuimus antei, quae, quoniam pro sui
+          <lb ed="#A" n="13"/>ingenita libertate, aut dissentire sibi aut praeter se in
+          ali<lb ed="#A" n="14" break="no"/>quo consentire, nulla vi, nulla cogitur necessitate, non im
+          <lb ed="#A" n="15"/>merito iustam vel iniustam, beatitudine seu miseria dignam,
+          <lb ed="#A" n="16"/>&amp; capacem creaturam constituit, prout scilicet iustitiae
+          in<lb ed="#A" n="17" break="no"/>iustitive consentit. Quamobron apud deum, qui
+          homi<lb ed="#A" n="18" break="no"/>nem occidere disponit, antequam occidat, quasi homicida
+          <lb ed="#A" n="19"/>habetur: &amp; qui peierare paratus est, antequam peieret iam
+          <lb ed="#A" n="20"/>periurus habetur: &amp; qui adultorum committere visus est,
+          <lb ed="#A" n="21"/>antequam committat, iam aduer est, ante deum. Deus
+          <lb ed="#A" n="22"/>enim, inquit Ioannes Chrysostomus, non ex operibus
+          iu<lb ed="#A" n="23" break="no"/>dicat, sed ex cogitationibus cornis. Voluntas est, quae aut
+          <lb ed="#A" n="24"/>remuneratur pro bono, aut condemnatur pro malo:
+          ope<lb ed="#A" n="25" break="no"/>ra autem testimonia sunt volutatis. Hanc igitur
+          volun<lb ed="#A" n="26" break="no"/>tatem, vt radicitus omne malum ex animis nostris
+          euel<lb ed="#A" n="27" break="no"/>lat, prohibet Deus extremis duobus iis praeceptis. Non con
+          <lb ed="#A" n="28"/>cupisces domum proximi tui. Non desiderabis vxorem
+          <lb ed="#A" n="29"/>eius, non seruum, non ancillam non bouem, non asinum
+          <lb ed="#A" n="30"/>nec omnia quae illius sunt. Faluntur autem qui prauam
+          <lb ed="#A" n="31"/>inclinationem fomitemque pecciti, qui primi parentis
+          no<lb ed="#A" n="32" break="no"/>si vitio nobis insitus est, hoc loco prohiberi censent. Nam
+          <lb ed="#A" n="33"/>sicut antea quoque fuit a nobis demonstratum, non exigit a
+          no<lb ed="#A" n="34" break="no"/>bis Deus, quod in potestate notra non est.
+        </p>
+        <p xml:id="ho8ccf-a3mya3-d1e194">
+          Verum isti nihil
+          <lb ed="#A" n="35"/>non comminiscuntur, quo possit blasphemam suam
+          senten<lb ed="#A" n="36" break="no"/>tiam de eo quod impossibilia praeceperit Deus, confirmare.
+          <lb ed="#A" n="37"/>Nos vero cum Aug. dicamus, quod nec impossibile aliquid
+          <lb ed="#A" n="38"/>potuit imperare, qui iustus est, ac damnaturus est hominem,
+          <lb ed="#A" n="39"/>pro eo quod non potuit vitare, qui pius est.
+        </p>
+        <p xml:id="ho8ccf-a3mya3-d1e207">
+          Quamobrem
+          pri<lb ed="#A" n="40" break="no"/>mos illos concupiscentiae motus non prohibuit Deus, cum di
+          <lb ed="#A" n="41"/>ceret, Non concupisces: Fomes iste nobis insitus est a natura:
+          <lb ed="#A" n="42"/>quae vero sunt a natura, nec laudem nec vituperationem
+          me<pb ed="#A" n="283-r"/><lb ed="#A" n="1" break="no"/>rentur.
+        </p>
+        <p xml:id="ho8ccf-a3mya3-d1e219">
+          Quamobrem ne peccatum quidem est in renatis
+          <lb ed="#A" n="2"/>concupiscentia: siquidem baptisma, quemadmodum ab
+          <lb ed="#A" n="3"/>Augustino scriptum legimus, dat nobis omnium indul
+          <lb ed="#A" n="4"/>gentiam peccatorum, &amp; aufert crimina, non radit, nec
+          vi<lb ed="#A" n="5" break="no"/>omnium peccatorum radices, in mala carne teneantur.
+          <lb ed="#A" n="6"/>quasi rasorum in capite capillorum, vnde crescant iterum
+          <lb ed="#A" n="7"/>resecanda peccata. Sed vocat, aiunt, concupiscentiam
+          pe<lb ed="#A" n="8" break="no"/>catum Apostolus. Etiam Christum vocat peccatum:
+          Nun<lb ed="#A" n="9" break="no"/>quid ideo Christum, aut culpae alicuius affinem, aut dam
+          <lb ed="#A" n="10"/>nationi dicemus obnoxium, Quamobrem quamdiu non
+          <lb ed="#A" n="11"/>consentimus illi, concupiscentia peccatum tale non est
+          <lb ed="#A" n="12"/>quod nos aeternae damnationis reos faciat. Nam dicere
+          <lb ed="#A" n="13"/>peccare aliquem sine voluntate, magnum esse
+          deliramen<lb ed="#A" n="14" break="no"/>tum scribit Augustinus &amp; peccati reum teneri quenquam,
+          <lb ed="#A" n="15"/>quia non fecit quod facere non potuit, summae iniquitatis
+          <lb ed="#A" n="16"/>esse putat &amp; insaniae: vsque adeo enim peccatum,
+          volunta<lb ed="#A" n="17" break="no"/>rium esse malum censet, vt nullo modo sit peccatum, si no
+          <lb ed="#A" n="18"/>sit voluntarium. Quod itaque concupiscentiam peccatum
+          <lb ed="#A" n="19"/>vocat Apostolus, non ideo sic vocat, quod proprie peccat,
+          <lb ed="#A" n="20"/>culpaeque alicuius rationem habeat, sed vocatur, inquit,
+          pe<lb ed="#A" n="21" break="no"/>catum, quia peccato facta est, cum iam in regeneratis non
+          <lb ed="#A" n="22"/>sit ipsa peccatum: Sicut vocatur lingua, locutio quam
+          lin<lb ed="#A" n="23" break="no"/>gua facit, &amp; manus vocatur, scriptura quam manus facit,
+          <lb ed="#A" n="24"/>itemque sic vocatur peccatum, quia peccatum si vincit facit:
+          <lb ed="#A" n="25"/>Sicut vocatur frigus pigrum, non quod a pigris fiat, sed
+          <lb ed="#A" n="26"/>quod pigros faciat. Nihil igitur aliud damnat hic Deus,
+          <lb ed="#A" n="27"/>quam vitiosos affectus, ad quos accedit consensus, vt non
+          <lb ed="#A" n="28"/>concupisces, idem esse videatur cum eo, quod alio loco
+          di<lb ed="#A" n="29" break="no"/>cit scriptura. Post concupiscentias tuas non eas, quodque
+          <lb ed="#A" n="30"/>dixit alibi idem Apostolus: Non regnet peccatum in
+          <lb ed="#A" n="31"/>vestro mortali corpore, vt obediatis concupiscentiis eius
+          <lb ed="#A" n="32"/>Ioannes Chrysostomus aliud esse vult concupiscere, aliud
+          <lb ed="#A" n="33"/>velle: Concupiscere, inquit, passionis: velle autem
+          arbi<lb ed="#A" n="34" break="no"/>trii est: frequenter enim concupiscimus, etiam quod
+          no<lb ed="#A" n="35" break="no"/>lumus. Si ergo concupiscentiae non consentit voluntas.
+          <lb ed="#A" n="36"/>concupiscentia sola non damnat, magis autem
+          gloriosio<lb ed="#A" n="37" break="no"/>rem facit virginitatis coronam. Qui disertis etiam
+          ver<lb ed="#A" n="38" break="no"/>bis alio loco concupiscentiam non esse peccatum
+          affir<lb ed="#A" n="39" break="no"/>mat. Quo magis autem intelligi res possit, illud scire
+          opor<lb ed="#A" n="40" break="no"/>tet. Concupiscentiam nonnunquam esse nomen fomitis
+          <lb ed="#A" n="41"/>&amp; quandam ad malum inclinationem: factum enim est
+          <lb ed="#A" n="42"/>peccato primi parentis nostri, quod sensus &amp; cogitatio
+          <pb ed="#A" n="283-v"/>
+          <lb ed="#A" n="1"/>humani cordis in malum prona sunt ab adolescentia sua. Hanc
+          <lb ed="#A" n="2"/>Paulus vocat legem in membris nostris, repugnantem
+          le<lb ed="#A" n="3" break="no"/>gi mentis nostrae. De hac scribit Iacobus vnusquisque ter
+          <lb ed="#A" n="4"/>tatur a concupiscentia sua abstractus &amp; illectus. Haec non
+          <lb ed="#A" n="5"/>solum peccatum non est, verumetiam occasio persaepe
+          co<lb ed="#A" n="6" break="no"/>ronae. Beatus enim qui suffert tentationem, quoniam cum
+          <lb ed="#A" n="7"/>probatus fuerit, accipiet coronam vitae.
+        </p>
+        <p xml:id="ho8ccf-a3mya3-d1e328">
+          Porro
+          concupiscen<lb ed="#A" n="8" break="no"/>tia haec cum conceperit, parit peccatum. Concipit autem
+          <lb ed="#A" n="9"/>delectando, qua quidem re iam offendimus, sed lapsum
+          ta<lb ed="#A" n="10" break="no"/>men mortis nondum incurrimus. Est itaque iam hic
+          secu<lb ed="#A" n="11" break="no"/>dus stimulus, qui &amp; ipse concupiscentia vocatur. Nam
+          pri<lb ed="#A" n="12" break="no"/>mus est, leuis quidam punctus sensuum &amp; incentiuum
+          vi<lb ed="#A" n="13" break="no"/>tiorum. Secundus est cogitatio quae concipit peccatum
+          de<lb ed="#A" n="14" break="no"/>lectationis. Hos duos stimulos, quos Graeci Propadeias
+          <lb ed="#A" n="15"/>vocant, scribit Hieronymus Deum non punire, sine quibus
+          <lb ed="#A" n="16"/>nullum hominum esse posse dicit.
+        </p>
+        <p xml:id="ho8ccf-a3mya3-d1e350">
+          Caeterum peccatum cum
+          <lb ed="#A" n="17"/>consummatum fuerit, hoc est, cum quis facere decreuerin
+          <lb ed="#A" n="18"/>cogitata, aut quum opere perpetrauerit, tum demum gene
+          <lb ed="#A" n="19"/>rat mortem. Ex eo colligere licet, quod concupiscentia qua
+          <lb ed="#A" n="20"/>tenus vel vrit, vel etiam delectat, nihil aliud quam bellum, quam
+          <lb ed="#A" n="21"/>pugna, quam rixa quaedam est, in qua si quis victor euaserit,
+          aete<lb ed="#A" n="22" break="no"/>ne vitae praemia meretur: Sin autem superatus fuerit, stiper
+          <lb ed="#A" n="23"/>dium illius mors erit aeterna. Nihil igitur peccati, nihil dam
+          <lb ed="#A" n="24"/>nationis est in eo quod vrimur, quod delectamur, sed si
+          <lb ed="#A" n="25"/>succumbimus delectationi, tum demum peccati, tum aeter
+          <lb ed="#A" n="26"/>nae mortis rei efficimur. Caro concupiscit aduersus
+          spiri<lb ed="#A" n="27" break="no"/>tum, in eo nihil est peccati: nam &amp; spiritus concupiscit ad
+          <lb ed="#A" n="28"/>uersus carnem. Suggerit caro, fac adulterium suggerit
+          spiri<lb ed="#A" n="29" break="no"/>tus, non fac. Luctam video, dicit Augustinus, victum non
+          vi<lb ed="#A" n="30" break="no"/>deo. Pugna est, Concupiscit caro aduersus spiritum,
+          dele<lb ed="#A" n="31" break="no"/>ctat adulterium. Fateor quia delectat: sed spiritus ex
+          ad<lb ed="#A" n="32" break="no"/>uerso concupiscit aduersus canem delectat &amp; castitas. Et
+          <lb ed="#A" n="33"/>go vincat spiritus carnem, aut certe non vincatur a carne
+          <lb ed="#A" n="34"/>Adulterium tenebras quaerit, castitas lucem desiderat?
+          quo<lb ed="#A" n="35" break="no"/>modo vis innotescere, sic viue quomodo vis hominibus
+          <lb ed="#A" n="36"/>innotescere, etiam praeter oculos hominum, sic vine. Quo
+          <lb ed="#A" n="37"/>niam qui fecit te, &amp; in tenebris videt te. Quare laudatur
+          <lb ed="#A" n="38"/>castitas publice ab omnibus? quare non laudant adulteri
+          <lb ed="#A" n="39"/>um, nec adulteri. Qui ergo quaerit veritatem, venit ad lucem
+          <lb ed="#A" n="40"/>Sed delectat &amp; adulterium: contradicatur, resistatur,
+          repu<lb ed="#A" n="41" break="no"/>gnetur: non enim non habes vnde pugnes: Deus tuus in
+          te<lb ed="#A" n="42" break="no"/>est, spiritus bonus datus est tibi, &amp; tamen permittitur
+          ip<pb ed="#A" n="284-r"/><lb ed="#A" n="1" break="no"/>caro concupiscere aduersus spirituum suggestionibus
+          pra<lb ed="#A" n="2" break="no"/>uis &amp; delectationibus genuinis. Fiat quod ait Apostolus:
+          <lb ed="#A" n="3"/>non regnet peccatum in vestro mortali corpore. Non
+          <lb ed="#A" n="4"/>dixit, non sit iam enim est ibi: quod ideo peccatum
+          vo<lb ed="#A" n="5" break="no"/>catur, quia merito peccati contigit. Non enim in
+          Paradi<lb ed="#A" n="6" break="no"/>so caro concupiscebat aduersus spiritum, aut erat ibi ista
+          <lb ed="#A" n="7"/>pugna, vbi pax erat sola, sed facta transgressione,
+          post<lb ed="#A" n="8" break="no"/>quam homo noluit seruire Deo, &amp; donatus est sibi, nec sic
+          <lb ed="#A" n="9"/>donatus sibi vt posset saltem possidere se, sed ab eo
+          pos<lb ed="#A" n="10" break="no"/>sessus a quo deceptus: coepit caro concupiscere aduersus
+          <lb ed="#A" n="11"/>spiritum.
+        </p>
+        <p xml:id="ho8ccf-a3mya3-d1e434">
+          Caeterum spiritus Dei est, qui pugnat in te
+          ad<lb ed="#A" n="12" break="no"/>uersus te, aduersus illud quod est in te contra te. Quod
+          <lb ed="#A" n="13"/>autem aliud sit concupiscere, aliud velle, explicans illa
+          ver<lb ed="#A" n="14" break="no"/>ba Pauli vt non quaecunque vultis illa faciatis, docet
+          Au<lb ed="#A" n="15" break="no"/>gustinus quoque Velle enim dicit, hominem castum
+          pa<lb ed="#A" n="16" break="no"/>cem, vt nulla omnino surgat in membris eius
+          concupiscen<lb ed="#A" n="17" break="no"/>tia aduersaria castitati. Sed nihilominus velimus,
+          noli<lb ed="#A" n="18" break="no"/>mus, concupiscentias habemus: velimus, nolimus, titillant,
+          <lb ed="#A" n="19"/>blandiuntur, stimulant, infestant; neque prius illis
+          libera<lb ed="#A" n="20" break="no"/>bimur, quam cum corruptibile hoc induerit
+          incorruptio<lb ed="#A" n="21" break="no"/>nem, &amp; mortale hoc induerit immortalitatem: tunc fiet
+          <lb ed="#A" n="22"/>sermo qui scriptus est. Absorpta est mors in victoria:
+          <lb ed="#A" n="23"/>Tunc audientur voces illae triumphantium: Vbi est mors
+          <lb ed="#A" n="24"/>contentio tua, Vbi est mors aculeus tuus: percussisti,
+          vul<lb ed="#A" n="25" break="no"/>nerasti, deiecisti, sed vulneratus est propter me, qui fecit,
+          <lb ed="#A" n="26"/>me: O mors a mors vulneratus est pro me, qui fecit me, &amp;
+          <lb ed="#A" n="27"/>de morte sua vicit te. Voces illae sunt triumphantium
+          <lb ed="#A" n="28"/>pugnantium vero vox est. Miserere mei Domine,
+          quo<lb ed="#A" n="29" break="no"/>niam infirmus sum, sana me Domine, quoniam
+          contur<lb ed="#A" n="30" break="no"/>bata sunt ossa mea: &amp; anima mea turbata est valde, &amp;
+          <lb ed="#A" n="31"/>tu Domine vsquequo. Hanc vocem emittebat &amp;
+          Pau<lb ed="#A" n="32" break="no"/>lus, cui &amp; ipsi, ne magnitudo reuelationum extolleret
+          <lb ed="#A" n="33"/>eum, datus fuerat stimulus carnis, angelus Sathanae, qui
+          <lb ed="#A" n="34"/>eum colaphizaret, propter quod ter Dominum rogauit,
+          <lb ed="#A" n="35"/>clamans: Et tu Domine vsquequo? Et responsum
+          ac<lb ed="#A" n="36" break="no"/>cepit a Domino: Sufficit tibi gratia mea, virtus in
+          infir<lb ed="#A" n="37" break="no"/>mitate perficitur. Vel ex iis verbis perspicuum esse cuiuis
+          <lb ed="#A" n="38"/>potest, quod infirmitas haec, pronitas haec ad peccatum,
+          <lb ed="#A" n="39"/>non modij peccatum non est. verumetiam facit ad
+          virtu<lb ed="#A" n="40" break="no"/>tis perfectionem: quodque ea prohibita non sit, neque enim
+          <lb ed="#A" n="41"/>prohibetur pugna, sed vt ne cedatur in pugna. Non
+          po<lb ed="#A" n="42" break="no"/>tes efficere, vt omnino nullae sint in te concupiscentiae
+          <pb ed="#A" n="284-v"/>
+          <lb ed="#A" n="1"/>carnis, fac quod potes, vt non regnet peccatum in tuo
+          mor<lb ed="#A" n="2" break="no"/>tali corpore ad obediendum desideriis eius. Ecce quod
+          no<lb ed="#A" n="3" break="no"/>lo, mala desideria surgunt, sed noli obedire. Arma te, sume
+          <lb ed="#A" n="4"/>instrumenta bellorum: praecepta Dei, arma tua sunt: Si
+          <lb ed="#A" n="5"/>bene me audis, &amp; eo quod loquor armaris: Non, inquit,
+          <lb ed="#A" n="6"/>regnet peccatum in vestro mortali corpore: Quid est, non
+          <lb ed="#A" n="7"/>regnet? non obediatis concupiscentiis suis: si enim coepe
+          <lb ed="#A" n="8"/>ritis obedire, regnant. Et quid est obedire? Exhibere
+          mem<lb ed="#A" n="9" break="no"/>bra arma iniquitatis peccato. Nihil hoc doctore
+          praecla<lb ed="#A" n="10" break="no"/>rius. Quid vis vt exponam tibi fac quod audisti. Non
+          ex<lb ed="#A" n="11" break="no"/>hibeas membra tua arma iniquitatis peccato. Dedit tibi
+          <lb ed="#A" n="12"/>Deus potestatem per spiritum sanctum, vt membra tua
+          <lb ed="#A" n="13"/>teneas: surgit libido, tene tu membra: noli exhibere mem
+          <lb ed="#A" n="14"/>bra tua arma iniquitatis peccato: tene pedes ne eant ad
+          i<lb ed="#A" n="15" break="no"/>licita, tene manus ab omni scelere: tene oculos, ne male
+          <lb ed="#A" n="16"/>attendant: tene aures ne verba libidinis libenter audiant:
+          <lb ed="#A" n="17"/>tene totum corpus: tene latera tene summa tene ima
+          <lb ed="#A" n="18"/>Spiritu ambulate, dicit Paulus, &amp; concupiscentias carnis
+          <lb ed="#A" n="19"/>ne perfeceritis.
+        </p>
+        <p xml:id="ho8ccf-a3mya3-d1e548">
+          Quare non dixit concupiscentias carnis
+          <lb ed="#A" n="20"/>ne habueritis? quia necesse est vt habeamus illas. Quare
+          <lb ed="#A" n="21"/>non dixit concupiscentias camis ne feceritis? quia facimus
+          <lb ed="#A" n="22"/>eas, quum concupiscimus: ipsum concupiscere facere est,
+          <lb ed="#A" n="23"/>Sed ait Apostolus. Iam non ego operor illud, sed quod ha
+          <lb ed="#A" n="24"/>bitat in me peccatum. Ergo quid tibi cauendum est, hoc
+          <lb ed="#A" n="25"/>sine dubio ne perficias. Surrexit libido damnabilis, sugg.
+          <lb ed="#A" n="26"/>gessit, non audiatur. ardet, non se compescit, &amp; velles vt
+          <lb ed="#A" n="27"/>non arderes, &amp; vbi est, vt non ea quae vultis faciatis? Noli
+          <lb ed="#A" n="28"/>dare membra, ardeat sine causa, &amp; consumit se. In te ergo
+          <lb ed="#A" n="29"/>fiunt ipse concupiscentiae, fatendum est, fiunt: ideo dixit ne
+          <lb ed="#A" n="30"/>perfeceritis. Decreuisti facere, perfecisti: perfecisti etenim,
+          <lb ed="#A" n="31"/>si decernas faciendum esse adulterium, &amp; ideo non facis,
+          <lb ed="#A" n="32"/>quia locus non est inuentus, quia oportunitas non datur,
+          <lb ed="#A" n="33"/>quia forte illa casta est de qua videris esse commotus.
+          Ec<lb ed="#A" n="34" break="no"/>ce iam illa casta est, &amp; tu adulter es.
+        </p>
+        <p xml:id="ho8ccf-a3mya3-d1e583">
+          Quare? quia
+          perfe<lb ed="#A" n="35" break="no"/>cisti concupiscentias. Quid est perfecisti? in animo tuo
+          <lb ed="#A" n="36"/>faciendum esse adulterium decreuisti. Haec est
+          concupis<lb ed="#A" n="37" break="no"/>centia, quae prohibetur isto praecepto. Si quis vratur, si
+          <lb ed="#A" n="38"/>quis delectetur, non est adhuc reus praecepti huius
+          vio<lb ed="#A" n="39" break="no"/>lati, siquidem semina ista cupiditatis, quemadmodum a
+          <lb ed="#A" n="40"/>Basilio quoque scriptum legimus: primo motu compesci
+          <lb ed="#A" n="41"/>nequeunt, quin etiam occasio potius &amp; materia ad Dei
+          <lb ed="#A" n="42"/>gratiam promerendam exercendamque virtutem existunt,
+          <pb ed="#A" n="285-r"/>
+          <lb ed="#A" n="1"/>vt non sine causa dixerit Origenes. Sicut caro si tale non
+          <lb ed="#A" n="2"/>aspergatur: quamuis sit magna &amp; praecipua, corrumpitur,
+          <lb ed="#A" n="3"/>ita &amp; anima nisi tentationibus assiduis quodammodo
+          sa<lb ed="#A" n="4" break="no"/>liatur, continuo resoluitur ac relaxatur. Si vero
+          blan<lb ed="#A" n="5" break="no"/>dior aliquantulum in iis mora fuerit: humana tentatio
+          <lb ed="#A" n="6"/>Caeterum si ad extremum certa ratione deliberationeque
+          <lb ed="#A" n="7"/>firmentur, etiam in actum non prodeant, omnino
+          le<lb ed="#A" n="8" break="no"/>tifera iam sunt: tum enim demum ventum est contra
+          <lb ed="#A" n="9"/>praeceptum Dei: Non concupisces. Sic &amp; Anselmus
+          ex<lb ed="#A" n="10" break="no"/>ponens illum Pauli locum: Non regnet peccatum &amp;c.
+          <lb ed="#A" n="11"/>Non ait, inquit, non sit, sed, ne regnet. Et si sit peccatum
+          <lb ed="#A" n="12"/>id est, fomes &amp; delectatio peccati, tamen non regnet, id
+          <lb ed="#A" n="13"/>est, non faciat, quod illicite cupit. Inest modo peccatum
+          <lb ed="#A" n="14"/>quum delectaris, regnat si consenseris.
+        </p>
+        <p xml:id="ho8ccf-a3mya3-d1e635">
+          Sed quid
+          Ansel<lb ed="#A" n="15" break="no"/>mum commemoramus, virum excellenti quidem
+          doctri<lb ed="#A" n="16" break="no"/>na praeditum, sed qui quingentorum annorum aetatem
+          <lb ed="#A" n="17"/>non excesseris? Etiam ante mille prope ducentos
+          an<lb ed="#A" n="18" break="no"/>nos, sic Pauli locum hunc enarrauerunt, ante
+          Augusti<lb ed="#A" n="19" break="no"/>num Chrysostomus, &amp; post Augustinum eius
+          discipu<lb ed="#A" n="20" break="no"/>sus Primasius, &amp; qui propemodum fuit illius aequalis
+          Pe<lb ed="#A" n="21" break="no"/>trus Chrysologus, post hunc Theophylactus, atque alij
+          <lb ed="#A" n="22"/>non pauci. Libet autem Petri Chrysologi verba
+          adscri<lb ed="#A" n="23" break="no"/>bere. Non regnet peccatum in vestro mortali corpore.
+          <lb ed="#A" n="24"/>Non dixit, inquit, non veniat ad vos, non dixit, non
+          pro<lb ed="#A" n="25" break="no"/>uocet, non titillet, sed non regnet, non dominetur.
+          Con<lb ed="#A" n="26" break="no"/>fligat, ad vincentis gloriam dimicet, &amp; decidat ad trium,
+          <lb ed="#A" n="27"/>phum victoris, &amp; tandem se doleat impia peccati
+          domi<lb ed="#A" n="28" break="no"/>natio a seruis quondam suis tota securitate calcari, &amp; cru
+          <lb ed="#A" n="29"/>delis tyrannus ingemiscat, subiectum se suorum pedibus
+          <lb ed="#A" n="30"/>captiuorum, &amp; ad eorum triumphum, de quibus diu
+          trium<lb ed="#A" n="31" break="no"/>phauerat se veteranus hostis, peruenisse deploret. Sed &amp;
+          <lb ed="#A" n="32"/>vetustior omnibus iis Hilarius, enarras illud ex Psalmo
+          <lb ed="#A" n="33"/>Non dominetur mei omnis iniustitia. Non, inquit, vt a se
+          <lb ed="#A" n="34"/>absit, sed ne dominetur sui orat: scit per tentationes ad
+          <lb ed="#A" n="35"/>gloriam perueniri. Ac paulo post dominationem
+          iniusti<lb ed="#A" n="36" break="no"/>tiae Propheta metuit, tentationem, vero eius non
+          recu<lb ed="#A" n="37" break="no"/>sat. Quae malum igitur istos agitant intemperiae? qui
+          <lb ed="#A" n="38"/>tanto priscorum patrum consensui repugnare, suamque
+          <lb ed="#A" n="39"/>opinionem, illorum sententiae anteponere audent? Nam
+          <lb ed="#A" n="40"/>quod Augustino &amp; Primasio in Africa, idem Ioanni
+          Chry<lb ed="#A" n="41" break="no"/>sostomo in Thracia, Petro Chrysologo in Italia,
+          Theo<lb ed="#A" n="42" break="no"/>phylacto in Mesia, Anselmo in Anglia, &amp; qui sequuti
+          <pb ed="#A" n="285-v"/>
+          <lb ed="#A" n="1"/>hunc sunt, reliquis deinceps omnibus, idem visum est, in
+          <lb ed="#A" n="2"/>variis orbis Christiani partibus. Sed ipse sensus communis
+          <lb ed="#A" n="3"/>indicat, non prohiberi a Deo pugnam carnis, in qua si quis
+          <lb ed="#A" n="4"/>strenue se gesserit, coronam assequitur, sed prohiberi, non
+          <lb ed="#A" n="5"/>concupiscentiae carnis assentiamur, ne nos ab ea superari
+          <lb ed="#A" n="6"/>patiamur. Vita nostra militia est: Si premit nos hostis,
+          <lb ed="#A" n="7"/>in eo peccatum nullum est, modo ne opprimi nos ab eo
+          <lb ed="#A" n="8"/>sinamus. Cum igitur prohibetur concupiscentia,
+          prohi<lb ed="#A" n="9" break="no"/>beri videtur mala dilectio, qua diligitur quod diligi non
+          <lb ed="#A" n="10"/>oportet: vt cum dicit lex: Non concupisses, hoc velle dicere
+          <lb ed="#A" n="11"/>credenda sit, non diligas quod diligi non oportet. Non
+          <lb ed="#A" n="12"/>oportet autem diligi, quod vel in Dei caedit iniuriam vel
+          <lb ed="#A" n="13"/>in proximi detrimentum.
+        </p>
+        <p xml:id="ho8ccf-a3mya3-d1e729">
+          Quamobrem omnis iniustitia
+          <lb ed="#A" n="14"/>prohibetur hoc vno verbo. Non concupisces: Nam etsi
+          <lb ed="#A" n="15"/>bona concupiscentia quoque sit, qua spiritus concupiscit
+          <lb ed="#A" n="16"/>aduersus carnem, de qua scriptum etiam legimus: Concu
+          <lb ed="#A" n="17"/>piscentia sapientiae deducit ad regnum: tamen cum non
+          <lb ed="#A" n="18"/>additur quid concupiscatur, sed sola ponitur: non nisi ma
+          <lb ed="#A" n="19"/>la, sicut ab Augustino traditum est, intelligitur.
+        </p>
+        <p xml:id="ho8ccf-a3mya3-d1e745">
+          Itaque non
+          <lb ed="#A" n="20"/>solum opere quod non oportet si perfeceris: verumetiam
+          <lb ed="#A" n="21"/>animum ad perficiendum si adieceris, contra legem hanc
+          <lb ed="#A" n="22"/>peccatum est. Siquidem non tam operi, quam voluntat
+          <lb ed="#A" n="23"/>praemia sunt a Deo vel supplicia constituta. Ex hac &amp; iu
+          <lb ed="#A" n="24"/>stitia nostra &amp; iniustitia pendere videtur. Quod si
+          volun<lb ed="#A" n="25" break="no"/>tas magna est &amp; bona, dilectio vocatur. Diligis quod
+          <lb ed="#A" n="26"/>oportet, iustus es, diligis quod non oportet, iniustus es
+          <lb ed="#A" n="27"/>Dilectio eius quod non oportet, vocatur cupiditas, vel
+          con<lb ed="#A" n="28" break="no"/>cupiscentia: dilectio eius quod oportet, vocatur charitas
+          <lb ed="#A" n="29"/>Hae sunt duae radices, quas attendit Deus: radix malorum
+          <lb ed="#A" n="30"/>omnium est cupiditas, radix bonorum omnium est
+          cha<lb ed="#A" n="31" break="no"/>ritas: ex hac nihil mali, nihil ex illa boni proficiscitur: hanc
+          <lb ed="#A" n="32"/>in bonorum Christus, illam in malorum cordibus plantat
+          <lb ed="#A" n="33"/>Diabolus: Non attendit igitur Deus id, quod foris
+          appa<lb ed="#A" n="34" break="no"/>ret, verum radicem intuetur, vtrum ex cupiditate an ex cha
+          <lb ed="#A" n="35"/>ritate facias, solum id spectandum esse putat, vsque eo etiam,
+          <lb ed="#A" n="36"/>vt homicidam laudatum, de eo vero qui misericordia
+          du<lb ed="#A" n="37" break="no"/>ctus abstinuisset a caede, poenas expetitas esse legamus.
+          <lb ed="#A" n="38"/>Phinees vno pugione duos confecerat: commendatus a
+          <lb ed="#A" n="39"/>Domino aeterni sacerdotii Testamentum accepit: non quod
+          <lb ed="#A" n="40"/>ipsum bonum sit per se homicidium, quod lege prohibi
+          <lb ed="#A" n="41"/>tum esse scimus, sed quod illud zelando zelum Dei
+          patra<lb ed="#A" n="42" break="no"/>uerat. Ita charitas rem per se malam, fecit esse bonam.
+          Con<pb ed="#A" n="286-r"/><lb ed="#A" n="1" break="no"/>fra Saul non occidit Agag regem pinguissimum, &amp;
+          opti<lb ed="#A" n="2" break="no"/>nis gregibus ouium &amp; armentorum, &amp; vestibus, &amp;
+          arie<lb ed="#A" n="3" break="no"/>tibus &amp; vniuersis quae pulchra erant, pepercit, nec voluit
+          <lb ed="#A" n="4"/>lea disperdere. At in tam grauem ex ea re Dei
+          indignatio<lb ed="#A" n="5" break="no"/>mem incurrit, vt cum dies noctesque praecibus &amp; lachrymis
+          <lb ed="#A" n="6"/>liram eius placare conatus fuerit, nihil tamen proficeret,
+          <lb ed="#A" n="7"/>neque paenam sibi constitutam euadere potuerit: non quod
+          <lb ed="#A" n="8"/>malus esset affectus misericordiae, sed quod contra Dei
+          prae<lb ed="#A" n="9" break="no"/>sceptum pepercit, deque rebus Amalec concupiuit. Non est
+          <lb ed="#A" n="10"/>in Phinees laudatum homicidium, sed charitas, sed zelus.
+          <lb ed="#A" n="11"/>Non est in Saule damnata misericordia, sed
+          concupiscen<lb ed="#A" n="12" break="no"/>tia, partim laudis, partim rerum optimarum Amales, de
+          <lb ed="#A" n="13"/>quibus prohibuit Deus, ne quid concupisceret, qui
+          radi<lb ed="#A" n="14" break="no"/>scem, non quod foris apparet inspicit. Abominatur omne
+          <lb ed="#A" n="15"/>id quod ex radice cupiditatis proficiscitur: Contra
+          quic<lb ed="#A" n="16" break="no"/>quid ex radice charitatis procedit, qualecunque sit de eo
+          <lb ed="#A" n="17"/>mortalium iudicium, Deus tamen qui cor non manum
+          <lb ed="#A" n="18"/>interrogat, grato cumprimis animo id amplectitur.
+          Pon<lb ed="#A" n="19" break="no"/>ro charitatis dix in hominis corde plantari non potest,
+          <lb ed="#A" n="20"/>nisi prius ciecta sit radix cupiditatis. Hanc euellit Deus
+          <lb ed="#A" n="21"/>cum dicit: ne concupiscas, quo facilius inserere possit
+          ra<lb ed="#A" n="22" break="no"/>dicem illam, ex qua nascitur, quicquid est rerum bonarum:
+          <lb ed="#A" n="23"/>cuius meminis Christus dicens, Diliges Dominum
+          De<lb ed="#A" n="24" break="no"/>um tuum ex toto corde tuo, &amp; ex tota mente tua, &amp; ex
+          <lb ed="#A" n="25"/>omnibus viribus tuis &amp; proximum tuum sicut teipsum
+          <lb ed="#A" n="26"/>Ex iis colligere licet, quod antea quoque copiose per nos
+          <lb ed="#A" n="27"/>demonstratum est, quod sicut iniustitia nostra cupiditas,
+          <lb ed="#A" n="28"/>sic iustitia nostra non est nisi charitas. Quam si iustitiae
+          <lb ed="#A" n="29"/>nomine non dignantur haeretici, mirandum non est.
+          <lb ed="#A" n="30"/>Quemadmodum enim scientia, sicut a Philosopho
+          legi<lb ed="#A" n="31" break="no"/>mus, non habet inimicum nisi ignorantem, sic non alii
+          <lb ed="#A" n="32"/>magis aduersantur charitati, non alii plus illi modis
+          om<lb ed="#A" n="33" break="no"/>nibus detractum cupiunt, quam qui sunt omnis
+          charita<lb ed="#A" n="34" break="no"/>tis prorsus expertes: cuius generis omnes haereticos &amp;
+          <lb ed="#A" n="35"/>Schismaticos esse iam ex Augustino docuimus. Possunt
+          <lb ed="#A" n="36"/>enim haeretici loqui linguis, possunt habere prophetiam.
+          <lb ed="#A" n="37"/>possunt habere mysteria omnia &amp; omnem scientiam,
+          pos<lb ed="#A" n="38" break="no"/>sunt habere fidem, ita vt montes transferant, possunt non
+          <lb ed="#A" n="39"/>modo suas facultates omnes in cibos pauperum distribuere,
+          <lb ed="#A" n="40"/>verumetiam tradere corpora sua ita vt ardeant: sola est
+          chari<lb ed="#A" n="41" break="no"/>tas, quam si habere possent, haeretici &amp; schismatici esse non
+          pos<lb ed="#A" n="42" break="no"/>sent: sola est diaritas, quae sicut dei filios a diaboli filiis, sic
+          <pb ed="#A" n="286-v"/>
+          <lb ed="#A" n="1"/>secernit catholicos ab haereticis: sola est charitas, per quam
+          <lb ed="#A" n="2"/>retinetur spiritus vnitas in vinculo pacis. Haec enim est
+          <lb ed="#A" n="3"/>quae non modo non inflatur, verumetiam in mortalium
+          <lb ed="#A" n="4"/>animis eam parit modestiam, vt alteri se praeferat nemo,
+          <lb ed="#A" n="5"/>quin alterum se quisque praestantiorem existimet. Hac se
+          de<lb ed="#A" n="6" break="no"/>stitutos esse negare non possunt, qui posteaquam
+          segrega<lb ed="#A" n="7" break="no"/>uerunt semetipsos, inflati sensu carnis suae nihil sibi non
+          <lb ed="#A" n="8"/>arrogant, nihil aliis non derogant, sibi lumen &amp;
+          intelli<lb ed="#A" n="9" break="no"/>gentiam scripturarum, sibi pietatem solis ita vendicant,
+          <lb ed="#A" n="10"/>vt qui tot saeculis in sancta catholica Ecclesia magna cum
+          <lb ed="#A" n="11"/>pietatis &amp; constantiae laude vixerunt, eos aut caecitatis, aut
+          <lb ed="#A" n="12"/>impietatis condemnent omnes, qui aut nihil viderint in
+          <lb ed="#A" n="13"/>tam clara scripturarum luce, aut agnitam veritatem, quod
+          <lb ed="#A" n="14"/>extremae cuiusdam est impietatis, amplecti noluerint. Hoc
+          <lb ed="#A" n="15"/>igitur ingenio praediti qui sunt, nihil ab illo faciunt
+          alie<lb ed="#A" n="16" break="no"/>num, si, quo se defici dono charitatis intelligunt, ei
+          iusti<lb ed="#A" n="17" break="no"/>tiae nomen tribui, ferre non possunt. Verum de iis
+          hacte<lb ed="#A" n="18" break="no"/>nus. Nunc quoniam de interno cultu, quantum praesens
+          <lb ed="#A" n="19"/>tempus postulat, dixisse satis videmur: ad ea quae de
+          exten<lb ed="#A" n="20" break="no"/>no cultu dicenda restant, sermonem nostrum conuertamus
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

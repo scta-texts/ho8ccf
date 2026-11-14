@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 27</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 27</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="49-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a21w6x"><!-- c27 -->
+        <head xml:id="ho8ccf-a21w6x-Hd1e99">Caput 27</head>
+        <head xml:id="ho8ccf-a21w6x-Hd1e101" type="question-title">Quarta Ecclesiae nota, quod sit Apostolica</head>
+        <p xml:id="ho8ccf-a21w6x-d1e104">
+          <lb ed="#A" n="31"/>CAPVT XXVII.
+          <lb ed="#A" n="32"/>Quarta Ecclesiae nota, quod sit Apostolica,
+        </p>
+        <p xml:id="ho8ccf-a21w6x-d1e111">
+          <lb ed="#A" n="33"/><milestone ed="#A" unit="p" rend="initial"/> ET haec quarta iam est Ecclesiae nota. Cum autem vo
+          <lb ed="#A" n="34"/>camus eam Apostolicam, non excludimus
+          Patriar<lb ed="#A" n="35" break="no"/>chas &amp; Prophetas. Neque enim ab Apostolis,
+          quem<lb ed="#A" n="36" break="no"/>admodum antea non semel dictum est, verum ab
+          <lb ed="#A" n="37"/>pso Adam, siue filio eius Abel exordium sumpsit ecclesia,
+          <lb ed="#A" n="38"/>quae aedificata est super fundamentum Apostolorum &amp; Pro
+          <lb ed="#A" n="39"/>phetarum. Nam quod Apostoli factum esse praedicauerunt,
+          <lb ed="#A" n="40"/>ad Prophetae futurum praedixerunt. Dicitur itaque Ecclesia
+          <lb ed="#A" n="41"/>Apostolica, in qua &amp; doctrina Apostolorum, &amp; legitima
+          <lb ed="#A" n="42"/>est Episcoporum successio, a temporibus Apostolorum ad
+          <pb ed="#A" n="49-v"/>
+          <lb ed="#A" n="1"/>haec vsque nostra deducta.
+        </p>
+        <p xml:id="ho8ccf-a21w6x-d1e141">
+          Porro doctrina Apostolorum
+          <lb ed="#A" n="2"/>non scripto tantum, verum &amp; traditione constat: quos,
+          <lb ed="#A" n="3"/>quae ad constituendam Ecclesiam, quae ad fidem, quae ad
+          <lb ed="#A" n="4"/>religionem, quae ad ritus &amp; ceremonias pertinent, multa
+          <lb ed="#A" n="5"/>docuisse dubium non est, quae nusquam scripta
+          reperiun<lb ed="#A" n="6" break="no"/>tur. Scribens ad Thessalonicenses Apostolus dicit: State
+          <lb ed="#A" n="7"/>&amp; tenere traditiones quas didicistis, siue per sermonem,
+          <lb ed="#A" n="8"/>siue per epistolam nostram. Quibus verbis palam
+          indi<lb ed="#A" n="9" break="no"/>cat, praeter ea quae scripserat, se non minus praeclara, quin
+          <lb ed="#A" n="10"/>&amp; praeclariora solo sermone docuisse, cum sermonem
+          <lb ed="#A" n="11"/>prius, quam epistolam nominat. Id quod vel inde magis
+          <lb ed="#A" n="12"/>etiam liquet, quod qua ratione coenae dominicae
+          memo<lb ed="#A" n="13" break="no"/>ria celebrari debeat, verbo tradidisse videtur. Ita enim
+          <lb ed="#A" n="14"/>dicit scribens ad Corinthios: Caetera (nimirum de
+          Sa<lb ed="#A" n="15" break="no"/>cramento Eucharistiae) cum venero disponam. Ex quo
+          <lb ed="#A" n="16"/>loco scribens ad lanuarium colligit Augustinus, a Paulo
+          <lb ed="#A" n="17"/>totum illum ordinem agendi, quem vniuersa per orbem
+          <lb ed="#A" n="18"/>Ecclesia tenet, institutum esse, quod nulla morum diuersi
+          <lb ed="#A" n="19"/>tate varietur. Alio quoque loco dicit Paulus: Laudo vos
+          <lb ed="#A" n="20"/>fratres, quod per omnia mei memores estis, &amp; sicut
+          tradi<lb ed="#A" n="21" break="no"/>di vobis praecepta mea tenetis. Rursus Timotheo scribens
+          <lb ed="#A" n="22"/>Quae audisti, inquit, a me per multos testes, haec commen
+          <lb ed="#A" n="23"/>da fidelibus hominibus, qui idonei erunt &amp; alios docere
+          <lb ed="#A" n="24"/>Quibus ex verbis illud intelligere licet, quod etiam ab
+          <lb ed="#A" n="25"/>Irenaeo scriptum est: de multis rebus quae literis mandatae
+          <lb ed="#A" n="26"/>non erant, edoctam ab Apostolis recentem illam Ecclesiam
+          <lb ed="#A" n="27"/>fuisse, quae successores Apostolorum Episcopii sibi per manus
+          <lb ed="#A" n="28"/>ab illis tradita, suis vicissim ipsi successoribus Ecclesiaeque
+          <lb ed="#A" n="29"/>tradiderunt.
+        </p>
+        <p xml:id="ho8ccf-a21w6x-d1e205">
+          Quamobrem quisquis Apostolicam Ecclesiam
+          <lb ed="#A" n="30"/>credere se profitetur, eum non modo quae scripta, verum
+          <lb ed="#A" n="31"/>etiam quae nisi recepta fuerint, de summa fidei nostrae
+          pe<lb ed="#A" n="32" break="no"/>riclitabimur. Neque enim alia re magis differre visi sunt a
+          <lb ed="#A" n="33"/>Catholicis haeretici plerique, quam quod ij solas recipiebant,
+          <lb ed="#A" n="34"/>scripturas, illi vero traditionibus etiam Ecclesiasticis inhae
+          <lb ed="#A" n="35"/>rendum esse censebant. Sic Hilarius, eo quoque tempore
+          <lb ed="#A" n="36"/>cum dixisset quidem: Nolo verba quae non scripta sunt
+          <lb ed="#A" n="37"/>dici. Dic, inquit, prius si recte dici putas: Nolo aduersus
+          <lb ed="#A" n="38"/>noua venena nouas medicamentorum comparationes,
+          no<lb ed="#A" n="39" break="no"/>lo aduersus nouos hostes noua bella: nolo aduersus
+          no<lb ed="#A" n="40" break="no"/>uas insidias consilia recentia. Athanasii verba sunt haec, cum
+          <lb ed="#A" n="41"/>ex Thegnista, Dionysio Alexandrino, &amp; Origene
+          probas<lb ed="#A" n="42" break="no"/>set, filium eiusdem esse cum patre essentiae. Ecce, inquit,
+          no<pb ed="#A" n="50-r"/><lb ed="#A" n="1" break="no"/>quidem ex patribus ad patres, per manus traditam fuisse
+          <lb ed="#A" n="2"/>hanc sententiam demonstrauimus. Vos autem &amp; noui
+          iu<lb ed="#A" n="3" break="no"/>daei &amp; Camphae discipuli, quos tandem nominum
+          vestro<lb ed="#A" n="4" break="no"/>rum potenus ostendere progenitores? Hoc est quod apud
+          <lb ed="#A" n="5"/>Theodoratum legimus, ex non scriptis sermonibus,
+          pie<lb ed="#A" n="6" break="no"/>tamen intellectis, Arrianos esse damnatos.
+        </p>
+        <p xml:id="ho8ccf-a21w6x-d1e250">
+          Nam cum
+          reii<lb ed="#A" n="7" break="no"/>cerent illi vocem Homousii, propterea quod nusquam in
+          <lb ed="#A" n="8"/>scripturis reperiretur, Athanasius &amp; qui cum eo faciebant
+          <lb ed="#A" n="9"/>Episcopi Catholici, testimonio patrum, qui doctrinam
+          <lb ed="#A" n="10"/>hanc ab Apostolis receperant, eos refellebant. Nam
+          Apo<lb ed="#A" n="11" break="no"/>stolorum esse traditionem, quod filius eiusdem cum
+          pa<lb ed="#A" n="12" break="no"/>tre sit substantiae, Felix Pontifex ad Benignum scribens
+          <lb ed="#A" n="13"/>testatur. E scripturis Eluidius Mariae perpetuam virginis
+          <lb ed="#A" n="14"/>tatem scripturis Donatistae paruulorum baptisinum
+          im<lb ed="#A" n="15" break="no"/>pugnabant, sed sicut illum Hieronymus, ita hos
+          Augusti<lb ed="#A" n="16" break="no"/>nus Ecclesiae traditione refellit. Cuius tantam esse vim
+          <lb ed="#A" n="17"/>Paulus voluit, vt non dubitanter diceret: Etiamsi nos,
+          <lb ed="#A" n="18"/>aut angelius de coelo euangelizet vobis praeterquam quod
+          <lb ed="#A" n="19"/>euangelizauimus vobis, anathema sit. Sicut praediximus,
+          <lb ed="#A" n="20"/>&amp; nunc inerum dico, Si quis vobis euangelizauerit
+          prae<lb ed="#A" n="21" break="no"/>ter id, quod accepistis, anathema sit. Non dixit si quis vos
+          <lb ed="#A" n="22"/>docuerit aliter, quam scripsit aut Matthaeus, aut Marcus,
+          <lb ed="#A" n="23"/>aut Lucas, aut Ioannes, aut quam ipsi scripsimus, sed
+          prae<lb ed="#A" n="24" break="no"/>ter id quod euangelizauimus, hoc est praedicauimus
+          vo<lb ed="#A" n="25" break="no"/>bis, praeter id quod ipsi coram docuimus, &amp; concionando
+          <lb ed="#A" n="26"/>tradidimus vobis, praeter id quod accepistis, hoc est
+          audi<lb ed="#A" n="27" break="no"/>uistis, &amp; coram didicistis a nobis. Quatuor esse
+          Euange<lb ed="#A" n="28" break="no"/>lia quae scriptura nobis prodit, &amp; tamen si quis ea non
+          cre<lb ed="#A" n="29" break="no"/>dat haereticus est. Credimus igitur, non quia scriptum
+          <lb ed="#A" n="30"/>est, sed quia sic ab Apostolis legitima Episcoporum &amp;
+          Sa<lb ed="#A" n="31" break="no"/>cerdotum successione per manus nobis traditum est. Ad
+          <lb ed="#A" n="32"/>eundem modum, tres personas Deum vnum esse, nulla
+          <lb ed="#A" n="33"/>nobis expresse tradit scriptura, atque adeo ne reperitur qui
+          <lb ed="#A" n="34"/>dem personae nomen in scripturis de Deo dictum,
+          sicu<lb ed="#A" n="35" break="no"/>nec Trinitatis. Nos tamen tres personas dicimus, non quia
+          <lb ed="#A" n="36"/>scriptura dicit, inquit Augustinus, sed quia scriptura non
+          <lb ed="#A" n="37"/>contradicit, &amp; quia sic ab Apostolis &amp; eorum
+          successori<lb ed="#A" n="38" break="no"/>bus traditum accepimus, quorum etiam esse
+          traditio<lb ed="#A" n="39" break="no"/>nem, vt paruuli baptizentur Dionysius &amp; Origenes
+          testan<lb ed="#A" n="40" break="no"/>tur.
+        </p>
+        <p xml:id="ho8ccf-a21w6x-d1e326">
+          Sed &amp; quod in missae sacrificio pro defunctis oratur.
+          <lb ed="#A" n="41"/>Apostolorum esse traditionem narrat Chrysostomus. Quod
+          <lb ed="#A" n="42"/>de maioribus Ecclesiae causis ad sedem Apostolicam sit
+          <pb ed="#A" n="50-v"/>
+          <lb ed="#A" n="1"/>referendum. Apostolos instituisse scribit Zeuerinus
+          Pon<lb ed="#A" n="2" break="no"/>tifex &amp; martyr: quamuis ante eum alii quoque nonnulli
+          <lb ed="#A" n="3"/>Symbolum, quod vocant Apostolicum, ab Apostolis
+          con<lb ed="#A" n="4" break="no"/>fectum esse narrant Clemens, Cyprianus, vel potius
+          Ruf<lb ed="#A" n="5" break="no"/>finus: illius enim videtur esse symboli explicatio, quae
+          <lb ed="#A" n="6"/>Cypriano quoque inscribitur, Hieronymus, Augustinus,
+          <lb ed="#A" n="7"/>Leo Pontifex, &amp; alii. Neque tamen vel in actis
+          Aposto<lb ed="#A" n="8" break="no"/>lorum, vel in reliqua noui Testamenti scriptura
+          vniuer<lb ed="#A" n="9" break="no"/>sa, vlla fit eius rei mentio. Sed quorsum attinet singulas
+          <lb ed="#A" n="10"/>Apostolorum traditiones enumerare, quarum bonam
+          pa<lb ed="#A" n="11" break="no"/>tem inuenire licet apud Origenem, Tertullianum,
+          Atha<lb ed="#A" n="12" break="no"/>nasium, Basilium, Hieronymum. Multa esse refert
+          Au<lb ed="#A" n="13" break="no"/>gustinus, quae neque in literis Apostolorum, neque in
+          conci<lb ed="#A" n="14" break="no"/>lius posteriorum reperiuntur, &amp; tamen quia per vniuersam
+          <lb ed="#A" n="15"/>custodiuntur Ecclesiam, non nisi ab ipsis Apostolis
+          tradi<lb ed="#A" n="16" break="no"/>ta &amp; commendata creduntur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

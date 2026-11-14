@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 77</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 77</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="265-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3ghuy"><!-- c77 -->
+        <head xml:id="ho8ccf-a3ghuy-Hd1e99">Caput 77</head>
+        <head xml:id="ho8ccf-a3ghuy-Hd1e101" type="question-title">De primo praecepto</head>
+        <p xml:id="ho8ccf-a3ghuy-d1e104">
+          <lb ed="#A" n="39"/>CAPVT LXXVII.
+          <lb ed="#A" n="40"/>De primo praecepto.
+        </p>
+        <p xml:id="ho8ccf-a3ghuy-d1e111">
+          <pb ed="#A" n="265-v"/>
+          <lb ed="#A" n="1"/>PRioris tabulae tria tantum vt essent praecepta,
+          pro<lb ed="#A" n="2" break="no"/>pterea visum est Augustino congruentius, quod tri
+        </p>
+        <p xml:id="ho8ccf-a3ghuy-d1e120">
+          <lb ed="#A" n="3"/>nitatem diligenter intuentibus, insinuare videntur.
+          <lb ed="#A" n="4"/>Primum enim quod Deum vnum colere iubemur,
+          <lb ed="#A" n="5"/>ad patrem: Secundum de iuramenti veritate, ad filium:
+          <lb ed="#A" n="6"/>Tertium de spirituali vacatione ad spirituum sanctum per
+          <lb ed="#A" n="7"/>tinere videtur, ita vt tribus iis praeceptis tres personas
+          <lb ed="#A" n="8"/>vnum Deum colere iubeamur.
+        </p>
+        <p xml:id="ho8ccf-a3ghuy-d1e137">
+          Quoniam vero sicut
+          prin<lb ed="#A" n="9" break="no"/>cipes non sunt in terrorem bene operantium, sed
+          male<lb ed="#A" n="10" break="no"/>mittuntur enim ad vindictam malefactorum, laudem
+          ve<lb ed="#A" n="11" break="no"/>ro bonorum: ita lex iusto non est posita, sed iniustis &amp;
+          <lb ed="#A" n="12"/>non subditis, impiis &amp; peccatoribus, sceleratis &amp; non
+          con<lb ed="#A" n="13" break="no"/>taminatis: est enim posita, propter transgressionem. Deus
+          <lb ed="#A" n="14"/>nutem quoniam, cum iustum in terris reperiret neminem,
+          <lb ed="#A" n="15"/>&amp; iniustos &amp; omni vitiorum genere contaminatos
+          curan<lb ed="#A" n="16" break="no"/>dos susceperat, Quod facere solet diligens agricola, si
+          ma<lb ed="#A" n="17" break="no"/>lis radicibus terram videt occupatam, primum vt eas euel
+          <lb ed="#A" n="18"/>lat, ad meliorem deinde plantationem terram praeparet
+          <lb ed="#A" n="19"/>Hoc sibi quoque faciendum esse putauit, vt non prius
+          chari<lb ed="#A" n="20" break="no"/>tatem praecipiendo in mentibus hominum insereret, quam
+          <lb ed="#A" n="21"/>radicitus extirpasset omnia, quaecunque videntur impedire,
+          <lb ed="#A" n="22"/>quominus ea radices agere queat. Cum itaque de
+          diligen<lb ed="#A" n="23" break="no"/>do Deo praeceptum, tribus modis transgredi nos
+          contin<lb ed="#A" n="24" break="no"/>gat, corde, ore, &amp; opere: tribus etiam praeceptis
+          trans<lb ed="#A" n="25" break="no"/>gressionem hanc prohibet: Primo eam quae fit corde se
+          <lb ed="#A" n="26"/>cundo quae fit ore, tertio quae fit opere. Corde de colendo
+          <lb ed="#A" n="27"/>vno Deo legem transgredimur, si deos habeamus alienos,
+          <lb ed="#A" n="28"/>si faciamus nobis sculptile, aut similitudinem aliquam
+          <lb ed="#A" n="29"/>Haec tria primo praecepto Deus fieri vetat dicens: Non
+          ha<lb ed="#A" n="30" break="no"/>bebis deos alienos coram me, non facies tibi sculptile,
+          <lb ed="#A" n="31"/>neque omnem similitudinem, quae est in coelo desuper, &amp;
+          <lb ed="#A" n="32"/>quae in terra deorsum, nec eorum quae sunt in aquis sub
+          <lb ed="#A" n="33"/>terra, non adorabis ea neque coles. Cultus quem sibi
+          prae<lb ed="#A" n="34" break="no"/>stari Deus vult, est illa, de qua iam ita multa dicta sunt a
+          <lb ed="#A" n="35"/>nobis, dilectio, sine qua nullus Deo gratus cultus
+          exhibe<lb ed="#A" n="36" break="no"/>tur. In hac totum sibi cor hominis vendicat, nullam vt
+          <lb ed="#A" n="37"/>eius partem alicuius alterius amor occupet. Est enim
+          do<lb ed="#A" n="38" break="no"/>minus Deus noster Zelotes: non modo non praese, sed
+          <lb ed="#A" n="39"/>nec exequari sibi, quicquam in amore patitur: Quod ab
+          <lb ed="#A" n="40"/>Esaia dictum est: Coangustatum est stratum: ita vt alter
+          <lb ed="#A" n="41"/>decidat, &amp; pallium breue vtrunque operire non potest: de
+          <lb ed="#A" n="42"/>cordis humani strato recte dici potest, quod tam
+          angu<pb ed="#A" n="266-r"/><lb ed="#A" n="1" break="no"/>stum &amp; arctum est, vt ipsum etiam Deum solum, pro eo vt
+          <lb ed="#A" n="2"/>debet, capere non possit.
+        </p>
+        <p xml:id="ho8ccf-a3ghuy-d1e219">
+          Quamobrem excidit is euestigio
+          <lb ed="#A" n="3"/>de strato cordis nostri, simul vt alius admissus fuerit: Hoc
+          <lb ed="#A" n="4"/>est, quod Apostolus dicit: Non potestis calicem domini
+          <lb ed="#A" n="5"/>bibere, &amp; calicem daemoniorum: non potestis mensae
+          do<lb ed="#A" n="6" break="no"/>mini esse participes, &amp; mensae idolorum: Quod a Christo
+          <lb ed="#A" n="7"/>quoque dictum est: Non potestis Deo seruire &amp;
+          mammo<lb ed="#A" n="8" break="no"/>nae. Atque hac de causa dicit hoc loco Deus: Non
+          habe<lb ed="#A" n="9" break="no"/>bis deos alienos, non facies tibi sculptile, aut aliquam
+          si<lb ed="#A" n="10" break="no"/>militudinem. Sunt qui inter deos alienos &amp; inter
+          scul<lb ed="#A" n="11" break="no"/>ptile discrimen hoc faciunt, vt spiritualem per illos &amp;
+          in<lb ed="#A" n="12" break="no"/>ternam, per hoc vero crassam &amp; externam idololatriam
+          <lb ed="#A" n="13"/>significari velint. Est enim duplex idololatria, lapidum
+          <lb ed="#A" n="14"/>vna, cordis altera.
+        </p>
+        <p xml:id="ho8ccf-a3ghuy-d1e248">
+          Caeterum de vtraque recte vtraque
+          ver<lb ed="#A" n="15" break="no"/>ba accipi possunt. Nam etiam vitia, siue peccata nostra,
+          <lb ed="#A" n="16"/>nunc deos alienos, nunc idola vocari, vel ea Pauli loca
+          <lb ed="#A" n="17"/>planum faciunt, vbi de iis quorum Deus venter est, vbi de
+          <lb ed="#A" n="18"/>Deo huius saeculi, vbi de diis, &amp; dominis multis,
+          mentio<lb ed="#A" n="19" break="no"/>nem facit. Denique vbi auaritiam semel &amp; iterum ido
+          <lb ed="#A" n="20"/>lorum seruitutem vocat. Hinc est quod ab Hieronymo
+          <lb ed="#A" n="21"/>quoque scriptum legimus: vnusquisque adorans vitia sua
+          <lb ed="#A" n="22"/>atque peccata, Deum habere coepit a quo victus est,
+          dicen<lb ed="#A" n="23" break="no"/>te Petro Apostolo: Aquo enim quis superatur huius &amp;
+          <lb ed="#A" n="24"/>seruus est. Auarus aurum, gulosus ventrem, libidinosus
+          <lb ed="#A" n="25"/>penem &amp; Beelphegor colit, lasciua mulier, quae cum sit in
+          <lb ed="#A" n="26"/>deliriis viuens, mortua est, adorat Venereas voluptates
+          <lb ed="#A" n="27"/>Qui etiam alio loco non ea tantum, quae manu fiunt
+          arti<lb ed="#A" n="28" break="no"/>ficis, de quibus scriptum est: Simulachra gentium
+          argen<lb ed="#A" n="29" break="no"/>tum &amp; aurum, opera manuum hominum, recte
+          vocan<lb ed="#A" n="30" break="no"/>idola: verumetiam haereticorum peruersam doctrinam,
+          <lb ed="#A" n="31"/>quae quodcunque simulauerit, vertit in idolum, &amp; pro
+          <lb ed="#A" n="32"/>Christo facit adorari Antichristum. Illum quoque locum
+          <lb ed="#A" n="33"/>enarrans Esaiae: Repleta est terra idolis, opera manuum
+          <lb ed="#A" n="34"/>suarum adorauerunt, quod fecerunt digiti eorum, &amp;
+          in<lb ed="#A" n="35" break="no"/>curuauit se homo, &amp; humiliatus est vir: Idola
+          interpre<lb ed="#A" n="36" break="no"/>tatur, dogmata veritati contraria. Neque secus
+          intelligi<lb ed="#A" n="37" break="no"/>vult quod ab Ozea scriptum est: Argentum suum &amp;
+          au<lb ed="#A" n="38" break="no"/>rum suum fecerunt sibi idola, vt interirent. Augustinus
+          <lb ed="#A" n="39"/>quoque, posteaquam de simulachris manu factis plera
+          <lb ed="#A" n="40"/>que dixerat: Est, inquit, alius deterior, &amp; inferior cultus
+          <lb ed="#A" n="41"/>simulachrorum, phantasmata sua colunt, &amp; quicquid
+          <lb ed="#A" n="42"/>animo errante, cum superbia &amp; tumore errante
+          ima<pb ed="#A" n="266-v"/><lb ed="#A" n="1" break="no"/>ginitati fuerint, religionis nomine obseruant. De cuius ge
+          <lb ed="#A" n="2"/>neris phantasmatibus, illum etiam Iosue locum exponit:
+          <lb ed="#A" n="3"/>Auferte Deos alienos de medio vestri, &amp; inclinate corda
+          <lb ed="#A" n="4"/>vestra ad dominum Deum vestrum. Vincentius quoque
+          Li<lb ed="#A" n="5" break="no"/>rinensis, aliena ab Ecclesia dogmata, vetus Testamentum
+          <lb ed="#A" n="6"/>Deos alienos appellare scribit, quod ab haereticis ipsorum
+          <lb ed="#A" n="7"/>opiniones haud aliter obseruentur, quam a gentilibus
+          di<lb ed="#A" n="8" break="no"/>sui. Quod itaque legitur in Deuteronomio: si surrexerit
+          <lb ed="#A" n="9"/>in medio tui Prophetes, &amp; praedixerint signum, atque
+          por<lb ed="#A" n="10" break="no"/>tentum &amp; euenerit quod locutus est &amp; dixerit tibi:
+          Ea<lb ed="#A" n="11" break="no"/>mus &amp; sequamur deos alienos, quos ignoras, non audies
+          <lb ed="#A" n="12"/>verba Prophetae illius, quia tentat vos dominus Deus
+          ve<lb ed="#A" n="13" break="no"/>ster, vt palam fiat, vtrum diligatis eum an non, in toto
+          <lb ed="#A" n="14"/>corde, &amp; in tota anima vestra, Per deos alienos,
+          extra<lb ed="#A" n="15" break="no"/>neos errores, dicit significari, nouos quosdam &amp;
+          inau<lb ed="#A" n="16" break="no"/>ditos, quos propterea spargi nonnunquam patitur Deus.
+          <lb ed="#A" n="17"/>vt probet constantiam nostram in diligendo se, &amp; in ad
+          <lb ed="#A" n="18"/>haerendo sanae doctrinae. Quemadmodum etiam a
+          Pau<lb ed="#A" n="19" break="no"/>lo scriptum est: Oportet &amp; haereses esse, vt qui probati
+          <lb ed="#A" n="20"/>sunt, manifesti fiant, Ob hoc (ait Vincentius)
+          haerescon<lb ed="#A" n="21" break="no"/>non statur eradicantur authores, vt probati
+          manifesti<lb ed="#A" n="22" break="no"/>fiant, id est, vt vnusquisque quam tenax &amp; fidelis &amp; fixus
+          <lb ed="#A" n="23"/>Catholicae fidei sit amator, appareat. Et revera cum
+          <lb ed="#A" n="24"/>quaeque nouitas ebullit, statim cernitur frumentorum
+          gra<lb ed="#A" n="25" break="no"/>uitas, &amp; leuitas palearum, tunc sine magno molimine
+          <lb ed="#A" n="26"/>excutitur ab aere, quod nullo pondere intra aream
+          tene<lb ed="#A" n="27" break="no"/>batur. Namque alii prorsus euolant, alii vero
+          tantummo<lb ed="#A" n="28" break="no"/>do excussi, &amp; perire metuunt, &amp; redire erubescunt,
+          sau<lb ed="#A" n="29" break="no"/>cii, semineces &amp; semiuiui: quippe qui tantam hauserint
+          <lb ed="#A" n="30"/>veneni quantitatem, quae nec occidat, nec digeratur, nec
+          <lb ed="#A" n="31"/>mori cogat, nec viuere sinat. Ex iis perspicuum esse
+          po<lb ed="#A" n="32" break="no"/>test: quod non tunc solum peccatur contra praeceptum
+          <lb ed="#A" n="33"/>hoc, quando vel planetae, vel astra, vel reliqua gentium
+          <lb ed="#A" n="34"/>daemonia coluntur, aut cum adorantur idola manu
+          facta<lb ed="#A" n="35" break="no"/>verumetiam cum adorantur idola vinorum, multoque
+          de<lb ed="#A" n="36" break="no"/>teriorem esse simulachrorum cultum, quo sua quis
+          phan<lb ed="#A" n="37" break="no"/>tasmata colit, &amp; quo suas impostura pro verbo Dei
+          po<lb ed="#A" n="38" break="no"/>pulo venditat, quam sit is, quem sui gentes pra stant
+          si<lb ed="#A" n="39" break="no"/>mulachris.
+        </p>
+        <p xml:id="ho8ccf-a3ghuy-d1e397">
+          Nam quod primo hoc praecepto prohiberi qui
+          <lb ed="#A" n="40"/>dam putant sanctorum inuocationem, &amp; imaginum
+          ve<lb ed="#A" n="41" break="no"/>nerationem: Quandoquidem non alia ratione sancti,
+          <lb ed="#A" n="42"/>qui cum Deo viuunt, quam qua ii qui constituti sunt ad
+          <pb ed="#A" n="267-r"/>
+          <lb ed="#A" n="1"/>huc in corpore mortis huius in uocantur, hoc est, non
+          tan<lb ed="#A" n="2" break="no"/>quam largitores, sed tanquam intercessores;
+          quemadmo<lb ed="#A" n="3" break="no"/>dum vbi de spe disseruimus, pluribus verbis planum
+          feci<lb ed="#A" n="4" break="no"/>mus: deinde vero qui tribuitur honos imagini, non alique
+          <lb ed="#A" n="5"/>quam ad prototypum refertur, sicut etiam a Basilio
+          legi<lb ed="#A" n="6" break="no"/>mus annotatum. cum nemo non tam sit, lapis, vt lapidibus
+          <lb ed="#A" n="7"/>&amp; lignis inesse putet sensum: nihil contra praeceptum hoc
+          <lb ed="#A" n="8"/>peccatur, si sanctis &amp; eorum imaginibus, debita
+          veneratio<lb ed="#A" n="9" break="no"/>praestatur, modo ne in homine, neue in statua, aut
+          depi<lb ed="#A" n="10" break="no"/>cta tabula aliqua, sed in solo Deo spes omnis &amp; fiducia
+          <lb ed="#A" n="11"/>collocetur. Vnde sanctam Synodum septimam exclamas,
+          <lb ed="#A" n="12"/>se legimus. Quicunque sententias sacrae scripturae de idolis
+          <lb ed="#A" n="13"/>contra venerandas imagines adducunt, anathema.
+          Quixe<lb ed="#A" n="14" break="no"/>nerandas imagines idola appellant, anathema. Qui
+          di<lb ed="#A" n="15" break="no"/>cunt, quod imagines Christiani vt deos adorent,
+          anathe<lb ed="#A" n="16" break="no"/>ma. Quod similiter in octaua factum reperitur.
+        </p>
+        <p xml:id="ho8ccf-a3ghuy-d1e443">
+          Caeterum
+          <lb ed="#A" n="17"/>hominis alicuius verbum, contra receptum Ecclesiae totius
+          <lb ed="#A" n="18"/>doctrinam pleraque omnia docentis, tanquam dei verbum
+          <lb ed="#A" n="19"/>amplecti, &amp; adorare illud quod ab eo scriptum est, seque
+          co<lb ed="#A" n="20" break="no"/>ram eo incuruare, quae est, si haec non est ipsissima
+          idolo<lb ed="#A" n="21" break="no"/>latria? Quid enim aliud faciunt hoc genus homines, quam
+          <lb ed="#A" n="22"/>quod scribit Hieronymus, pro Christo adorant
+          Antichri<lb ed="#A" n="23" break="no"/>stum? Dicit Lutherus: Quod ego doceo, dei verbum est,
+          <lb ed="#A" n="24"/>&amp; purum euangelium: statim adorant, &amp; incuruantur
+          co<lb ed="#A" n="25" break="no"/>ram idolo. Dicunt idem Zuinglius &amp; Caluinus, dicunt
+          <lb ed="#A" n="26"/>Anabaptistae, dicunt alii quoque haeretici, mox hominis, vel
+          <lb ed="#A" n="27"/>diaboli potius per hominem loquentis verbum, pro dei
+          <lb ed="#A" n="28"/>verbo, proque Christi euangelio, misere amplectuntur, &amp;
+          <lb ed="#A" n="29"/>adorant. Horrenda haec est idololatria, ac velis, quod aiunt,
+          <lb ed="#A" n="30"/>remisque fugienda. Quid enim ex eo consequitur aliud,
+          <lb ed="#A" n="31"/>qua cum vnaquaeque secta suum verbum, verbum esse dei ia
+          <lb ed="#A" n="32"/>ctet, vt isti tot deos habeant, quot sunt haeresiarchae? quos
+          <lb ed="#A" n="33"/>videre licet, neglectis veterum Orthodoxorum scriptis,
+          <lb ed="#A" n="34"/>in quibus cum doctrina certabat vitae sanctimonia, non
+          <lb ed="#A" n="35"/>aliunde iam fere, quam ex impurissimi alicuius haeretici
+          <lb ed="#A" n="36"/>libris opinionem suam confirmare, nec minore
+          authori<lb ed="#A" n="37" break="no"/>tate, quae ab illo dicta, quam quae in Canonicis libris
+          scri<lb ed="#A" n="38" break="no"/>pta sunt proferre. Huc idololatriae caecas hominum
+          men<lb ed="#A" n="39" break="no"/>tes, praestigiis daemonum, adductas esse videmus.
+          Pec<lb ed="#A" n="40" break="no"/>cant igitur contra praeceptum hoc, qui &amp; colunt ipsi sua
+          <lb ed="#A" n="41"/>fantasmata, &amp; coli volunt ab iis, tanquam idola, &amp; quod
+          <lb ed="#A" n="42"/>ipsi sentiunt, Dei verbum vocant, &amp; Euangelium: vt sic
+          <pb ed="#A" n="267-v"/>
+          <lb ed="#A" n="1"/>eueniat, quod a Propheta scriptum est: Vocauerunt in
+          ter<lb ed="#A" n="2" break="no"/>ris nomina sua. Haud aliter enim isti diuinitatis
+          opinio<lb ed="#A" n="3" break="no"/>nem affectant, quam fecisse scribit olim in Lybia
+          Plapho<lb ed="#A" n="4" break="no"/>nem quendam, Tyrius ille maximus, qui quamplurimas
+          <lb ed="#A" n="5"/>aues coepisse dicitur, vocales &amp; humani sermonis dociles,
+          <lb ed="#A" n="6"/>casque sonare docuit haec verba Magnus Deus Psaphon,
+          <lb ed="#A" n="7"/>atque ita doctas emisit in montes nullae vero quae
+          didice<lb ed="#A" n="8" break="no"/>rant, canebant, ac reliquas item aues eadem sonare
+          doce<lb ed="#A" n="9" break="no"/>bant.
+        </p>
+        <p xml:id="ho8ccf-a3ghuy-d1e524">
+          Porro Lybes, cum ignorarent commentum,
+          creden<lb ed="#A" n="10" break="no"/>tes id diuinitus accidere, Psaphoni rem diuina facere
+          de<lb ed="#A" n="11" break="no"/>creuerunt, &amp; eum in deorum numerum retulerunt. Sic
+          <lb ed="#A" n="12"/>isti, cupientes &amp; ipsi in deorum numerum referri, verbo
+          <lb ed="#A" n="13"/>suo verbi dei titulum praetenderunt, atque vt verbum
+          de<lb ed="#A" n="14" break="no"/>vocaretur a rudibus, perfecerit: a quibus iam pro diis qui
+          <lb ed="#A" n="15"/>busdam eos coli videmus.
+        </p>
+        <p xml:id="ho8ccf-a3ghuy-d1e541">
+          Neque vero ipsi tantum
+          haere<lb ed="#A" n="16" break="no"/>tici, sed &amp; qui dogmata eorum recipiunt, atque ea tanquam
+          <lb ed="#A" n="17"/>dei verbum amplectuntur, violati praecepti huius rei sunt.
+          <lb ed="#A" n="18"/>Nobis vero propositum non est, omnes modos, quibus con
+          <lb ed="#A" n="19"/>tra praeceptum hoc venitur, enumerando recensere:
+          quan<lb ed="#A" n="20" break="no"/>doquidem non paucorum extant de ea re commentariis
+          <lb ed="#A" n="21"/>ab illis haec peti possunt.
+        </p>
+        <p xml:id="ho8ccf-a3ghuy-d1e557">
+          Verum hoc tamen silentio
+          prae<lb ed="#A" n="22" break="no"/>tereundum non esse duximus, grauissime contra
+          praece<lb ed="#A" n="23" break="no"/>ptum hoc peccare, qui missae sacrificium, proprie diuinita
+          <lb ed="#A" n="24"/>ti debitam seruitutem, sicut ex Augustino docuimus,
+          ab<lb ed="#A" n="25" break="no"/>rogare conantur. Quid enim isti aliud quam Deum in or
+          <lb ed="#A" n="26"/>dinem cogere volunt? Siquidem omnes alii cultus, siue ii
+          <lb ed="#A" n="27"/>constent imitatione, siue adoratione, siue inuocatione, non
+          <lb ed="#A" n="28"/>ita deo proprie debentur, vt non etiam ad homines,
+          quan<lb ed="#A" n="29" break="no"/>quam diuerso modo, sicut alibi docuimus, recte transferri
+          <lb ed="#A" n="30"/>possint: solus hic est, quo diuina seruitus ab humanis
+          ob<lb ed="#A" n="31" break="no"/>sequiis discernitur, neque potest alius ullus Deo praestari
+          <lb ed="#A" n="32"/>gratior. Nam quod de Deo ex toto corde, ex tota anima,
+          <lb ed="#A" n="33"/>ex omnibus viribus diligendo praecipitur, id aut hic, aut
+          <lb ed="#A" n="34"/>nusquam alibi, quatenus in hac peregrinatione fieri
+          po<lb ed="#A" n="35" break="no"/>test, perfecte praestatur. Hic enim sacerdos mentem ab
+          <lb ed="#A" n="36"/>omnibus aliis cognitionibus abstractam, &amp; in
+          diuino<lb ed="#A" n="37" break="no"/>rum beneficiorum contemplatione defixam habens:
+          eo<lb ed="#A" n="38" break="no"/>rum recordatione prouocatus, tanto erga Deum amore
+          <lb ed="#A" n="39"/>inflammatur, vt sui prorsus oblitus, in illum totus
+          rapia<lb ed="#A" n="40" break="no"/>tur. Ex quo fit, vt cum agendis deo gratiis, pro hac
+          im<lb ed="#A" n="41" break="no"/>mensa illius beneficentia, mentem ad cum
+          cogitatio<lb ed="#A" n="42" break="no"/>nemque tollit, ilico mentis hanc Deum sublationem,
+          vul<pb ed="#A" n="268-r"/><lb ed="#A" n="1" break="no"/>tus, oculi, manusque sequantur, vt quod mens cogitat, idem
+          <lb ed="#A" n="2"/>vultus, oculi, manus, totum denique corpus actione reprae
+          <lb ed="#A" n="3"/>sentet. Quibus rebus ad idem faciendum, qui praesentes
+          <lb ed="#A" n="4"/>adsunt, omnes inuitantur, quo &amp; ipsi cum sacerdote in
+          <lb ed="#A" n="5"/>eorundem beneficiorum cogitatione Deo gratias pro
+          il<lb ed="#A" n="6" break="no"/>lis agentes versentur, simul patrem illum misericordiarum
+          <lb ed="#A" n="7"/>supplices deprecentur: vt quod filius eius dilectus pro mun
+          <lb ed="#A" n="8"/>di totius dilectione, sacrosancti corporis &amp; sanguinis sui
+          <lb ed="#A" n="9"/>sacrificium in cruce pendens obtulit, cuius rei fit in altari
+          <lb ed="#A" n="10"/>repraesentatio, eius in se fructum faciat redundare. Neque
+          <lb ed="#A" n="11"/>minus grauiter contra praeceptum hoc peccant, qui bonis
+          <lb ed="#A" n="12"/>operibus Deum colendum esse negant: quum &amp; hic sit cul
+          <lb ed="#A" n="13"/>tus Deo longe gratissimus. Non enim qui dicit mihi
+          do<lb ed="#A" n="14" break="no"/>mine domine, introibit, inquit, in regnum coelorum, Sed
+          <lb ed="#A" n="15"/>qui facit voluntatem patris mei, qui in coelis est, ipse intra
+          <lb ed="#A" n="16"/>bit in regnum caelorum. Opera Deus a nobis exigit, non
+          ver<lb ed="#A" n="17" break="no"/>ba: Si filii Abrahae, inquit, estis, opera Abrahae facite. Ac
+          di<lb ed="#A" n="18" break="no"/>lectus illi discipulus: Filioli mei, non diligamus verbo,
+          ne<lb ed="#A" n="19" break="no"/>que lingua, sed opere, &amp; veritate.
+        </p>
+        <p xml:id="ho8ccf-a3ghuy-d1e647">
+          Quamobrem vocem
+          eu<lb ed="#A" n="20" break="no"/>angelii negant, qui Deum operibus colendum esse negant.
+          <lb ed="#A" n="21"/>cum a Paulo quoque scriptum legamus. Beneficentiae &amp;
+          <lb ed="#A" n="22"/>communicationis nolite obliuisci: talibus enim hostiis
+          <lb ed="#A" n="23"/>promeretur Deus. Etiam ab Ethnico quodam pio dictum
+          <lb ed="#A" n="24"/>est. Vis deos propitiari? bonus esto. Clamat aliquis ad
+          ra<lb ed="#A" n="25" break="no"/>uim vsque: Credo in Deum, ac non modo iactet habere se,
+          <lb ed="#A" n="26"/>verumetiam habeat re ipsa fidem, qua vel montes
+          trans<lb ed="#A" n="27" break="no"/>ferre queat: quin &amp; tantam in Deo fiduciam sibi
+          colloca<lb ed="#A" n="28" break="no"/>tam esse dicat, quanta maxima haberi potest: nisi
+          dilexe<lb ed="#A" n="29" break="no"/>rit Deum in proximo suo, nisi dilectionem hanc suam non
+          <lb ed="#A" n="30"/>verbo magis, quam opere declarauerit, inanis erit cultus
+          <lb ed="#A" n="31"/>omnis, quo se Deum prosequi gloriatur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

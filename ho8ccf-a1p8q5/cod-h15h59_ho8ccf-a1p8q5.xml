@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 15</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 15</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="18-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1p8q5"><!-- c15 -->
+        <head xml:id="ho8ccf-a1p8q5-Hd1e99">Caput 15</head>
+        <head xml:id="ho8ccf-a1p8q5-Hd1e101" type="question-title">Scripturae ne magis, an Ecclesiae testimonio sit credendum</head>
+        <p xml:id="ho8ccf-a1p8q5-d1e104">
+          <lb ed="#A" n="20"/>CAPVT XV.
+          <lb ed="#A" n="21"/>Scripturae ne magis, an Ecclesiae testimonio
+          <lb ed="#A" n="22"/>sit credendum.
+        </p>
+        <p xml:id="ho8ccf-a1p8q5-d1e113">
+          <lb ed="#A" n="23"/><milestone ed="#A" unit="p" rend="indent"/> SED hic dicet aliquis, extenuarii Dei verbum, eius
+          <lb ed="#A" n="24"/>authoritati detrahi, maiestatemque diuinorum
+          ora<lb ed="#A" n="25" break="no"/>culorum obscurari, quum tantum Ecclesiae tribui
+          <lb ed="#A" n="26"/>tur. Vocatur in disceptionem hoc tempore, scriptu
+          <lb ed="#A" n="27"/>raene magis, an Ecclesiae testimonio sit credendum. Quae
+          <lb ed="#A" n="28"/>plane videtur inutilis esse contentio. Nam hoc quaerere
+          <lb ed="#A" n="29"/>quid aliud est, quam quaerere, magisne credendum sit
+          Spi<lb ed="#A" n="30" break="no"/>rituisancto loquenti per os Ecclesiae, an eidem spirituisancto
+          <lb ed="#A" n="31"/>loquenti in scripturis per literas amanuensium suorum
+          <lb ed="#A" n="32"/>Prophetarum &amp; Apostolorum? Omnis veritas a
+          Spiri<lb ed="#A" n="33" break="no"/>tusancto est. Ille est enim, qui docet omnem veritatem
+          <lb ed="#A" n="34"/>Cum autem Ecclesia sit columna &amp; firmamentum
+          veri<lb ed="#A" n="35" break="no"/>tatis, aeque a Spiritu sancto illius atque scripturarum est
+          <lb ed="#A" n="36"/>veritas: quum praesertim qui docet illam omnem
+          verita<lb ed="#A" n="37" break="no"/>tem, vel ipsa veritate attestante, sit Spiritus sanctus.
+          <lb ed="#A" n="38"/>Quin tamen prior sit authoritas Ecclesiae quam
+          scriptu<lb ed="#A" n="39" break="no"/>rae, negari non potest. Multis ante saeculis, quam haec
+          <pb ed="#A" n="18-v"/>
+          <lb ed="#A" n="1"/>verba scripta fuerunt, dic Ecclesiae, qui non audierit Eccle
+          <lb ed="#A" n="2"/>siam, sit tibi tanquam ethnicus &amp; publicanus, non fuit
+          ob<lb ed="#A" n="3" break="no"/>scura Ecclesiae &amp; natura, &amp; authoritas, quae cum fuerit
+          an<lb ed="#A" n="4" break="no"/>tiquior quam vniuersa non modo noui, verum &amp;
+          vete<lb ed="#A" n="5" break="no"/>ris Testamenti scriptura, creditum est illi sine omni
+          scri<lb ed="#A" n="6" break="no"/>pturarum praesidio. Apud quoscunque fuit fides
+          mediato<lb ed="#A" n="7" break="no"/>ris, apud eos Ecclesiam fuisse, quatenus ab illa se non
+          prae<lb ed="#A" n="8" break="no"/>ciderunt, dubium non est. Constat autem Addam, Abel
+          <lb ed="#A" n="9"/>Seth, Enoch, &amp; caeteros deinceps Patriarchas ac
+          Prophe<lb ed="#A" n="10" break="no"/>tas, fidem habuisse mediatoris, quem signis etiam,
+          sacrifi<lb ed="#A" n="11" break="no"/>tiis, ceremoniis adumbrabant. Ex illo itaque tempore
+          coe<lb ed="#A" n="12" break="no"/>pit Ecclesia, quae nunquam vna &amp; eadem esse desiit, iuxta
+          <lb ed="#A" n="13"/>seriem successionis, continuata ab orbe condito vsque ad
+          <lb ed="#A" n="14"/>nos, vsque ad saeculi consummationem duratura.
+          Scriptu<lb ed="#A" n="15" break="no"/>ra vero multis fuit seculis posterior, quam ante
+          Moysen<lb ed="#A" n="16" break="no"/>nullam fuisse palam est, inter quem &amp; primum hominem
+          <lb ed="#A" n="17"/>creatum, annorum duo millia trecenti septuaginta tres
+          <lb ed="#A" n="18"/>intercessisse putantur. Nouae quoque legis scripturam, ea, quae
+          <lb ed="#A" n="19"/>Christum passum &amp; mortuum est consequuta, praecessit,
+          <lb ed="#A" n="20"/>Ecclesia. Quin &amp; inter alia visum est inter legem veterem
+          <lb ed="#A" n="21"/>&amp; Euangelicam hoc interesse, quod illam in tabulis
+          lapi<lb ed="#A" n="22" break="no"/>deis Moyses consignauit, hanc vero Christus in animis
+          ho<lb ed="#A" n="23" break="no"/>minum, in visceribus, &amp; in cordibus eorum, sicut ab
+          Hie<lb ed="#A" n="24" break="no"/>remia praedictum erat, inscripsit. Nemini obscurum est
+          <lb ed="#A" n="25"/>Christum nihil ipsum scripsisse, sed neque scribendum
+          qui<lb ed="#A" n="26" break="no"/>quam Apostolis praecepisse. Nam vt euntes docerent
+          om<lb ed="#A" n="27" break="no"/>nes gentes, vt praedicarent Euangelium omni creaturae,
+          <lb ed="#A" n="28"/>mandasse Christum legimus, vt autem scriberent, manda
+          <lb ed="#A" n="29"/>tum nullum inuenimus. Quin etiam haec ipsa vox
+          Euan<lb ed="#A" n="30" break="no"/>gelium, traditionis est, non scripturae. Quid enim aliud
+          <lb ed="#A" n="31"/>significat Euangelium, quam laetum &amp; bonum, optatumque
+          <lb ed="#A" n="32"/>nuntium? nimirum redemptionis nostrae, peccatorum
+          re<lb ed="#A" n="33" break="no"/>missionis, &amp; obtentae salutis aeternae, quae passim
+          annun<lb ed="#A" n="34" break="no"/>tiabatur &amp; praedicabatur omnibus, neque tamen vlla
+          ea<lb ed="#A" n="35" break="no"/>de re scriptura extabat totis annis octo post Christi in
+          co<lb ed="#A" n="36" break="no"/>los ascensum. Qui cum inter cessissent, tum primum quae
+          <lb ed="#A" n="37"/>de Christo Matthaeus tradiderat, scripto mandasse
+          legi<lb ed="#A" n="38" break="no"/>tur: Quam postea sequuti sunt Marcus, &amp; Lucas, quorum
+        </p>
+        <p xml:id="ho8ccf-a1p8q5-d1e238">
+          <lb ed="#A" n="39"/>neuter Christum vidisse, sed Marcus ea, quae de Christo
+          <lb ed="#A" n="40"/>Petrus viua voce praedicauerit, scriptis consignasse, Lucas
+          <lb ed="#A" n="41"/>autem Euangelium suum ex ore Pauli scripsisse dicitur.
+          <lb ed="#A" n="42"/>Ioannes vero per annos sexagintaquinque a Christo
+          mor<pb ed="#A" n="19-r"/><lb ed="#A" n="1" break="no"/>tuo Dei verbum, sicut Agustinus testis est, absque
+          admi<lb ed="#A" n="2" break="no"/>niculo scribendi vsque ad vltima Domitiani tempora prae
+          <lb ed="#A" n="3"/>dicauit. Ex quo satis liquet, quod prior est Ecclesia,
+          prio<lb ed="#A" n="4" break="no"/>est illius traditio, prius est Euangelium quam scriptura,
+          <lb ed="#A" n="5"/>Dixerat Christus: Amen dico vobis, vbicunque
+          praedi<lb ed="#A" n="6" break="no"/>catum fuerit hoc Euangelium in toto mundo, &amp; quod fe
+          <lb ed="#A" n="7"/>cit haec, narrabitur in memoriam eius: at quo tempore
+          <lb ed="#A" n="8"/>dixerat haec Christus, describendo Euangelio ne cogitasse
+          <lb ed="#A" n="9"/>quidem videtur Matthaeus, aut quispiam Euangelistarum.
+          <lb ed="#A" n="10"/>Habuit nihilominus authoritatem suam illius temporis
+          <lb ed="#A" n="11"/>Ecclesia, non a scripto, sed a viuo Euangelio, hoc est, viua
+          <lb ed="#A" n="12"/>voce tradito &amp; praedicato. Sed nos tamen libenter
+          assenti<lb ed="#A" n="13" break="no"/>mur, eius temporis Ecclesiam, quae scripturam est sequuta,
+          <lb ed="#A" n="14"/>ab eadem scriptura suam authoritatem habuisse, &amp;
+          habe<lb ed="#A" n="15" break="no"/>re. Illa enim nos docet, quod instruatur a spiritu sancto,
+          <lb ed="#A" n="16"/>quod sit columna &amp; firmamentum veritatis &amp; quod etiam
+          <lb ed="#A" n="17"/>inferorum portae non praeualebunt aduersus eam. Illa
+          <lb ed="#A" n="18"/>nos docet, quod qui non audierit Ecclesiam, sit
+          haben<lb ed="#A" n="19" break="no"/>dus tanquam ethnicus &amp; publicanus. Sed videant
+          inte<lb ed="#A" n="20" break="no"/>rim, qui nomen Ecclesiae ferre non possunt, qui tantopere
+          <lb ed="#A" n="21"/>cupiunt authoritatem eius eleuatam, ne qua ratione con
+          <lb ed="#A" n="22"/>stitutam volunt scripturarum authoritatem, ea in
+          contra<lb ed="#A" n="23" break="no"/>rium illis recidat, atque magis ad euertendam, quam ad
+          <lb ed="#A" n="24"/>stabiliendam illam pertinere videatur. Quantum enim
+          <lb ed="#A" n="25"/>de Ecclesiae fide imminuerint, tantum de ipsorum
+          Euan<lb ed="#A" n="26" break="no"/>geliorum authoritate detractum iri dubium non est. Nam
+          <lb ed="#A" n="27"/>vnde illi scire possunt Euangelij scripturam hanc esse
+          <lb ed="#A" n="28"/>Matthaei, aut Marci, aut Lucae, aut Ioannis? certe non
+          <lb ed="#A" n="29"/>aliunde nisi ex Ecclesiae testimonio: cui si non sua
+          tribue<lb ed="#A" n="30" break="no"/>tur authoritas, nulla erit eorum, quae scripta sunt ab Euan
+          <lb ed="#A" n="31"/>gelistis, authoritas. Illa enim nos docuit, vera esse
+          qua<lb ed="#A" n="32" break="no"/>tuor Euangelia: Nam hoc scriptura nulla probatur, sed
+          <lb ed="#A" n="33"/>sola Ecclesiae traditione: cui tantum tribuit Augustinus.
+          <lb ed="#A" n="34"/>vt non dubitanter diceret: Euangelio non crederem, nisi
+          <lb ed="#A" n="35"/>me commoueret authoritas Ecclesiae. Haec est enim, quae
+          <lb ed="#A" n="36"/>nos inter scripturas iudicare, quae canonicam a non
+          ca<lb ed="#A" n="37" break="no"/>nonica discernere docuit. Marcus Christum non vidit
+          <lb ed="#A" n="38"/>vidit Nicodemus: Ecclesiae tamen authoritate commoti,
+          <lb ed="#A" n="39"/>atque ab illa edocti, recipimus Marci, reiicimus
+          Euange<lb ed="#A" n="40" break="no"/>lium Nicodemi.
+        </p>
+        <p xml:id="ho8ccf-a1p8q5-d1e338">
+          Quid igitur aliud agitur extenuanda
+          <lb ed="#A" n="41"/>Ecclesiae authoritate? quam quod Maiestas diuinorum
+          <lb ed="#A" n="42"/>oraculorum obscuratur, quodque authoritas omnis illis
+          <pb ed="#A" n="19-v"/>
+          <lb ed="#A" n="1"/>detrahitur? Sed libet hac de re Ioannis de Gerson viri
+          <lb ed="#A" n="2"/>cum docti tum pij sententiam adscribere. Scripsit is
+          li<lb ed="#A" n="3" break="no"/>bellum cumprimis lectu dignum, de examinatione
+          do<lb ed="#A" n="4" break="no"/>ctrinarum, in eo tractans materiam hanc, sic loquitur
+          <lb ed="#A" n="5"/>Quamuis ab initio militantis Ecclesiae, quae
+          compone<lb ed="#A" n="6" break="no"/>batur ex Apostolis &amp; immediatis successoribus nouiter
+          <lb ed="#A" n="7"/>&amp; certitudinaliter a Christo docti, de multis, quae non
+          <lb ed="#A" n="8"/>sunt scripta, plus esset credendum authoritati talis
+          Eccle<lb ed="#A" n="9" break="no"/>siae, quam Euangelio cuicunque, priusquam esset ab ea
+          re<lb ed="#A" n="10" break="no"/>ceptum vel authorizatum: Nihilominus post
+          approba<lb ed="#A" n="11" break="no"/>tionem &amp; authorizationem quatuor Euangeliorum per
+          <lb ed="#A" n="12"/>dictam Ecclesiam, plus esset credendum Euangelio, quam
+          <lb ed="#A" n="13"/>alteri cuicunque humanae authoritati. Non dicitur quam
+          <lb ed="#A" n="14"/>totius Ecclesiae, quoniam illa est authoritas Dei &amp;
+          Euan<lb ed="#A" n="15" break="no"/>gelij, nec potest errare in fide, lege stante
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

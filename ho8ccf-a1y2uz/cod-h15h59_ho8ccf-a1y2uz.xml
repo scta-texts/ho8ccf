@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 23</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 23</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="28-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1y2uz"><!-- c23 -->
+        <head xml:id="ho8ccf-a1y2uz-Hd1e99">Caput 23</head>
+        <head xml:id="ho8ccf-a1y2uz-Hd1e101" type="question-title">Quomodo dinosci possit catholicus, exemplis illustratur</head>
+        <p xml:id="ho8ccf-a1y2uz-d1e104">
+          <lb ed="#A" n="11"/>CAPVT XXIII.
+          <lb ed="#A" n="12"/>Quomodo dinosci possit catholicus,
+          <lb ed="#A" n="13"/>exemplis illustratur.
+        </p>
+        <p xml:id="ho8ccf-a1y2uz-d1e113">
+          <lb ed="#A" n="14"/><milestone ed="#A" unit="p" rend="initial"/> QVoniam vero sicut Ecclesia, sic fides etiam
+          catholi<lb ed="#A" n="15" break="no"/>ca dicitur, &amp; homo catholicus, quo magis
+          dinos<lb ed="#A" n="16" break="no"/>cere catholicum a singulari siue schismatico aut
+          <lb ed="#A" n="17"/>haeretico liceat, exemplis id planum facere
+          conabi<lb ed="#A" n="18" break="no"/>mur. Dicit aliquis, absoluta necessitate euenire omnia: non
+          <lb ed="#A" n="19"/>esse liberum, sed seruum hominis arbitrium: non est
+          catho<lb ed="#A" n="20" break="no"/>licus. Quid ita? quia doctrinam hanc non recipit Ecclesia
+          <lb ed="#A" n="21"/>catholica, Cuius primus author quum fuisse videatur Si
+          <lb ed="#A" n="22"/>mon Magus, a Petro Apostolo legitur esse confutatus, si
+          <lb ed="#A" n="23"/>cut a successore ipsius Clemente memoriae proditum est,
+          <lb ed="#A" n="24"/>Simonem postea sequuti fuerunt in hac haeresi pertinaciter
+          <lb ed="#A" n="25"/>tuenda Marcion &amp; Manichaeus: a Tertulliano &amp; August.
+          <lb ed="#A" n="26"/>no: Petrus Haballardus ab Anselmo, Bernardo &amp; Thoma
+          <lb ed="#A" n="27"/>confutari, Ioannes Vicleff in Constantiensi primum, deinde
+          <lb ed="#A" n="28"/>&amp; in Basiliensi concilio condemnatus. Ab iis maioribus
+          <lb ed="#A" n="29"/>prodierunt, qui nostro hoc aeuo Euangelici, quam Christiani di
+          <lb ed="#A" n="30"/>ci malunt. Ac recte quidem: Hoc enim Euangelium, si modo
+          <lb ed="#A" n="31"/>tam impiam, tamque absurdam doctrinam, tam praeclaro
+          no<lb ed="#A" n="32" break="no"/>mine dici fas est, e densissimis, vt gloriantur, tenebris
+          eru<lb ed="#A" n="33" break="no"/>rum, atque in lucem prolatum, non a Christo, non a quoquam
+          <lb ed="#A" n="34"/>Apostolorum, sed a Simone Mago sibi per manus traditum
+          <lb ed="#A" n="35"/>acceperunt. Dicit aliquis: Christianos omnes esse sacerdo
+          <lb ed="#A" n="36"/>tes: aeque mulierem, aut puerum, vt Papam absoluere: non
+          <lb ed="#A" n="37"/>est catholicus. Quid ita? Quia doctrinam hanc non recipit
+          <lb ed="#A" n="38"/>Ecclesia catholica. Vetus est haeresis haec Quintilianorum,
+          <lb ed="#A" n="39"/>apud quos Episcoporum &amp; sacerdotum officio foeminae
+          fun<lb ed="#A" n="40" break="no"/>gebantur, sicut authores sunt Epiphanius &amp; Augusinus.
+          <pb ed="#A" n="29-r"/>
+          <lb ed="#A" n="1"/>Quem errorem sequuti sunt ante trecentos triginta
+          an<lb ed="#A" n="2" break="no"/>nos pauperes de Lugduno, qui &amp; Valdenses vocantur,
+          <lb ed="#A" n="3"/>centum vero &amp; octoginta post annis Ioannes Vicles hanc
+          <lb ed="#A" n="4"/>haeresim sopitam resuscitauit. Atque ii sunt Apostoli, a
+          qui<lb ed="#A" n="5" break="no"/>bus hoc Euangelium ad nostri temporis
+          pseudocuange<lb ed="#A" n="6" break="no"/>licos manauit. Haeresim hanc suo quoque tempore fuisse
+          <lb ed="#A" n="7"/>Tertullianus indicat in libro de praescriptionibus contra
+          <lb ed="#A" n="8"/>lereticos. Dicit aliquis: idem solam ad salutem
+          suffice<lb ed="#A" n="9" break="no"/>se, neque prodesse quicquam opera: non est catholicus
+          <lb ed="#A" n="10"/>Quid ita? Quia hanc doctrinam non recipit Ecclesia
+          ca<lb ed="#A" n="11" break="no"/>tholica. Sumpsit error hic originem ex Pauli scriptis
+          ma<lb ed="#A" n="12" break="no"/>le intellectis, ipso adhuc Paulo superstite, sicut indicare
+          <lb ed="#A" n="13"/>nonnihil videtur Petrus. Quae res, vt Augustinus
+          testa<lb ed="#A" n="14" break="no"/>tur, adegisse videtur Iacobum ad epistolam suam
+          scriben<lb ed="#A" n="15" break="no"/>dam. Postea sicut idem tradidit, per Eumonium quendam
+          <lb ed="#A" n="16"/>error hic fuit renouatus: quem ipse refellit in libro, quem
+          <lb ed="#A" n="17"/>inscripsit de fide &amp; operibus. Dicit aliquis: omnia opera
+          <lb ed="#A" n="18"/>esse aequalia, neque ieiunium vllius, neque virginitatem
+          <lb ed="#A" n="19"/>esse meriti maioris, quam coniugium: esse virginitati
+          pa<lb ed="#A" n="20" break="no"/>res nuptias: non est catholicus. Quid ita? Quia non
+          re<lb ed="#A" n="21" break="no"/>cipit doctrinam hanc Ecclesia catholica, quae profecta est
+          <lb ed="#A" n="22"/>ab authore Iouiniano, qui cum esset monachus, sicut apud
+          <lb ed="#A" n="23"/>Augustinum legimus, relicto monachatu, velut canis ad
+          <lb ed="#A" n="24"/>vomitum est reuersus, cuius errore seductae sanctae
+          virgi<lb ed="#A" n="25" break="no"/>nes, irritam facientes primam fidem, nupserunt quem
+          duo<lb ed="#A" n="26" break="no"/>bus libris iugulauit Hieronymus. Dicit aliquis. Non esse
+          <lb ed="#A" n="27"/>Sanctos inuocandos, nec habere reliquiis eorum honorem
+          <lb ed="#A" n="28"/>oportere: non est catholicus. Quid ita? Quia non
+          re<lb ed="#A" n="29" break="no"/>cipit doctrinam hanc Ecclesia catholica, cuius primus at
+          <lb ed="#A" n="30"/>thor fuisse videtur Eustathius in concilio Gangrensi dam
+          <lb ed="#A" n="31"/>natus: quem sequutus est postea Vigilantius per Hiero
+          <lb ed="#A" n="32"/>nymum erroris conuictus. Dicit aliquis: Missam non
+          <lb ed="#A" n="33"/>esse sacrificium: non est catholicus. Quid ita? Quis
+          <lb ed="#A" n="34"/>doctrinam hanc non recipit Ecclesia catholica. Fuit
+          erro<lb ed="#A" n="35" break="no"/>hic impius Petrobrussianorum, quos ante quadringentos
+          <lb ed="#A" n="36"/>annos confutauit vir doctus &amp; pius, Petrus venerabilis
+          <lb ed="#A" n="37"/>Abbas Cluniacensis. Dicit aliquis in ieiunando neque
+          <lb ed="#A" n="38"/>ciborum delectum, neque dierum discrimen illum
+          haben<lb ed="#A" n="39" break="no"/>dum esse, quouis tempore cibos quos libet, etiam si secus
+          <lb ed="#A" n="40"/>Ecclesiae constitutionibus cautum sit, recte fumi:
+          norreffi<lb ed="#A" n="41" break="no"/>pro mortuis Deum orandum, aut mediatoris sacrifierum
+          <lb ed="#A" n="42"/>oserendum; non est catholicus. Quid ita? Quia
+          do<pb ed="#A" n="29-v"/><lb ed="#A" n="1" break="no"/>ctrinam hanc non recipit Ecclesia catholica, quae videtur
+          <lb ed="#A" n="2"/>authores habuisse lounianum &amp; Aerium, sicut Philaster,
+          <lb ed="#A" n="3"/>Epiphanius, Hieronymus, Augustinus testantur ante
+          mil<lb ed="#A" n="4" break="no"/>le ducentos prope annos haereseos damnatos. Dicit
+          ali<lb ed="#A" n="5" break="no"/>quis: Christi &amp; Sanctorum eius imaginibus non modo
+          <lb ed="#A" n="6"/>nullum habere honorem, verumetiam e templis eas eii
+          <lb ed="#A" n="7"/>ciendas esse: non est catholicus: Quid ita? Quia docti
+          <lb ed="#A" n="8"/>nam hanc non recipit Ecclesia catholica: huius haereseo
+          <lb ed="#A" n="9"/>author fuisse Felix, a quo etiam haeresis vocata est
+          Foelicia<lb ed="#A" n="10" break="no"/>na: cuius causa Francordiae ad Moenum ante annos
+          sep<lb ed="#A" n="11" break="no"/>tingentos quinquaginta sex Concilium fuit
+          congregi<lb ed="#A" n="12" break="no"/>rum.
+        </p>
+        <p xml:id="ho8ccf-a1y2uz-d1e295">
+          Caeterum in septima synodo cecumenica, quae
+          Ni<lb ed="#A" n="13" break="no"/>ceae fuit iterum habita centum annis ante, dixit
+          Thala<lb ed="#A" n="14" break="no"/>sius: Inuenimus &amp; Mannichaeos respuisse imagines, sed &amp;
+          <lb ed="#A" n="15"/>praeter hos Marcionistas, &amp; illos qui confundunt
+          na<lb ed="#A" n="16" break="no"/>ras Christi, quorum princeps Petrus Fulo, praeterea
+          Xe<lb ed="#A" n="17" break="no"/>neum Hieropolytanum, sed &amp; Seuerum, aliosque haere
+          <lb ed="#A" n="18"/>ticos. Interiectum autem fuit inter haec duo tertium, per
+          <lb ed="#A" n="19"/>Gregorium. tertium Romae congregatum: ad quod cum
+          <lb ed="#A" n="20"/>prope mille Episcopi conuenissent, veneratione
+          imagi<lb ed="#A" n="21" break="no"/>num confirmata, quum perstaret in sua pertinacia
+          Leo<lb ed="#A" n="22" break="no"/>tertius Imperator, qui demolitus erat altaria, &amp;
+          imagi<lb ed="#A" n="23" break="no"/>nes exuri fecerat, &amp; imperio, &amp; communione fidelium
+          <lb ed="#A" n="24"/>fuit priuatus. Quamuis extat ad Serenum epistola
+          Gre<lb ed="#A" n="25" break="no"/>gorij primi, qui fuisse videtur in ea haeresi, vt imagine
+          <lb ed="#A" n="26"/>confringendas censeret ante annos prope mille. Dicit
+          <lb ed="#A" n="27"/>aliquis: vxores ducendas esse sacerdotibus: non est
+          ca<lb ed="#A" n="28" break="no"/>tholicus: Quid ita? Quia doctrinam hanc non
+          reci<lb ed="#A" n="29" break="no"/>pit Ecclesia catholica, quae cum Paulo dicit: Si quis
+          con<lb ed="#A" n="30" break="no"/>tentiosus esse velit, nos consuetudinem hanc non
+          habe<lb ed="#A" n="31" break="no"/>mus. Haec haeresis ad authorem Iouinianum referri
+          po<lb ed="#A" n="32" break="no"/>test. Nunquam in Ecclesia catholica fuit sacerdotibus
+          li<lb ed="#A" n="33" break="no"/>citum vxores ducere, quamuis fas aliquando fuerit quas
+          <lb ed="#A" n="34"/>duxissent ante sacerdotium, deinceps retinere. Sed alio
+          <lb ed="#A" n="35"/>loco fortassis ea de re fusius dicetur.
+        </p>
+        <p xml:id="ho8ccf-a1y2uz-d1e348">
+          Verum quid est
+          ne<lb ed="#A" n="36" break="no"/>cesse singulos haereticorum errores, quos pridem
+          sopi<lb ed="#A" n="37" break="no"/>tos videmus hoc tempore resuscitatos enumerando
+          re<lb ed="#A" n="38" break="no"/>censere? vno verbo rem omnem complecti licet. Quis
+          <lb ed="#A" n="39"/>quis Occumenico concilio legitime congregato non
+          cre<lb ed="#A" n="40" break="no"/>sit, neque decretis eius paret, sed suum iudicium
+          to<lb ed="#A" n="41" break="no"/>tius orbis judicio prefert, non catholicus, verum
+          sin<lb ed="#A" n="42" break="no"/>gularis est: hoc est schismaticus &amp; haereticus. Recte
+          <pb ed="#A" n="30-r"/>
+          <lb ed="#A" n="1"/>enim a diuo Bernardo dictum est, quod omnibus vna
+          in<lb ed="#A" n="2" break="no"/>tentio semper fuit haereticis, captare gloriam de
+          singulari<lb ed="#A" n="3" break="no"/>tate scientiae. Quod ante Bernardum quoque seculis aliquot
+          <lb ed="#A" n="4"/>a Gregorio scriptum legimus. Communem scientiam
+          ha<lb ed="#A" n="5" break="no"/>bere refugiunt, ne caeteris aequales aestimentur, occulta &amp;
+          <lb ed="#A" n="6"/>noua semper exquirunt, quae dum alii nesciunt, apud
+          im<lb ed="#A" n="7" break="no"/>peritorum mentes ipsi de scientiae singularitate gloriantur.
+          <lb ed="#A" n="8"/>Atque ideo nisi quod ipsi sentient, rectum putant nihil.
+          Ca<lb ed="#A" n="9" break="no"/>tholicus, sicut ante dictum est, idem est quod vniuersalis,
+          <lb ed="#A" n="10"/>Nam quod vniuersis probatur, in eo facile acquiescit: qui
+          <lb ed="#A" n="11"/>vero de singularitate scientiae captat gloriam, existimans
+          <lb ed="#A" n="12"/>se esse aliquid cum nihil sit, atque inflatus sensu carnis suae,
+          <lb ed="#A" n="13"/>&amp; non tenens caput, ex quo totum corpus per nexus &amp; con
+          <lb ed="#A" n="14"/>iunctiones subministratum &amp; constructum crescit in
+          au<lb ed="#A" n="15" break="no"/>mentum dei, non quod vniuersis, verum quod sibi soli
+          pla<lb ed="#A" n="16" break="no"/>cet, id solum recipit, omnes desipere, se solum sapere
+          per<lb ed="#A" n="17" break="no"/>suasum habet, atque ita quoniam segregat semet ipsum ab
+          <lb ed="#A" n="18"/>vniuersitate, neque rectum esse quicquam putat, nisi quod
+          <lb ed="#A" n="19"/>ipse intelligit, singularis est: haereticus est: schismaticus est,
+          <lb ed="#A" n="20"/>non est catholicus, neque pertinet ad ecclesiam catholicam,
+          <lb ed="#A" n="21"/>verum ad Sathanae synagogam. Nihil enim potest hac
+          sin<lb ed="#A" n="22" break="no"/>gularitate, ecclesiae dei esse perniciosius, quod etiam
+          Pro<lb ed="#A" n="23" break="no"/>pheta indicat, cum de vinea Domini loquitur, quod singu
+          <lb ed="#A" n="24"/>laris ferus depastus est eam,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

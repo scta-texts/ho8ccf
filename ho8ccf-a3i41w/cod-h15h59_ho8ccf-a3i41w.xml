@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 79</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 79</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="268-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3i41w"><!-- c79 -->
+        <head xml:id="ho8ccf-a3i41w-Hd1e99">Caput 79</head>
+        <head xml:id="ho8ccf-a3i41w-Hd1e101" type="question-title">De tertio praecepto</head>
+        <p xml:id="ho8ccf-a3i41w-d1e104">
+          <lb ed="#A" n="33"/>CAPVT XXIX
+          <lb ed="#A" n="34"/>De tertio praecepto.
+        </p>
+        <p xml:id="ho8ccf-a3i41w-d1e111">
+          <lb ed="#A" n="35"/><milestone ed="#A" unit="p" rend="initial"/> DIligere Deum &amp; colere corde, ore, &amp; opere
+          iube<lb ed="#A" n="36" break="no"/>mur. Quemadmodum id corde fiat &amp; ore, quemad
+          <lb ed="#A" n="37"/>modum etiam vtroque contra praeceptum
+          pecce<lb ed="#A" n="38" break="no"/>tur, paucis iam a nobis demonstratum est. Restat
+          <lb ed="#A" n="39"/>nunc vt quemadmodum opere Deus diligendus &amp; colendus
+          <lb ed="#A" n="40"/>sit, breuibus de eo disseramus: Hac enim de re, terris hoc
+          <lb ed="#A" n="41"/>est mandatum, cuius haec verba sunt: Memento vt diem
+          <lb ed="#A" n="42"/>sabbathi sanctifices. Sex dies operaberis &amp; facies omnia
+          <pb ed="#A" n="269-r"/>
+          <lb ed="#A" n="1"/>opera tua, septimo vero die sabbatha domini Dei tui est:
+          <lb ed="#A" n="2"/>non facies omne opus in eo, tu &amp; filius tuus, &amp; filia tua,
+          sen<lb ed="#A" n="3" break="no"/>uus tuus, &amp; ancilla tua, iumentum tuum &amp; aduena, qui est
+          <lb ed="#A" n="4"/>intra portas tuas. Est in eo praecepto quiddam quod ad
+          cae<lb ed="#A" n="5" break="no"/>remoniam, est quod ad mores quoque pertinet. Quod
+          septi<lb ed="#A" n="6" break="no"/>mus dies vacationi fuit assignatus, erat ceremoniae: sic
+          <lb ed="#A" n="7"/>enim loquitur Dominus: Videte vt sabbathum meum custo
+          <lb ed="#A" n="8"/>diatis, quia signum est inter me &amp; vos, in generationibus
+          ve<lb ed="#A" n="9" break="no"/>stris. Quod autem in contemplandis dei beneficiis, in
+          hym<lb ed="#A" n="10" break="no"/>nis, precationibus, &amp; sacrificiis dies ille consummabatur,
+          <lb ed="#A" n="11"/>morale fuit: sublata ceremonia remansit quod ad mores
+          <lb ed="#A" n="12"/>pertinet. Nos enim ne offendamus in id quod vetat
+          Apo<lb ed="#A" n="13" break="no"/>stolus, ne videamur obseruare cum Iudaeis dies, annos, &amp;
+          <lb ed="#A" n="14"/>tempora, non iam ipsa tempora, sed res quarum illa signa
+          <lb ed="#A" n="15"/>sunt obseruamus: repudiamus cum illo temporum
+          obserua<lb ed="#A" n="16" break="no"/>tionem, interea tamen temporalium signorum
+          intelligen<lb ed="#A" n="17" break="no"/>tiam, cum eodem Aposiolo, sicut Augustinus quoque scribit,
+          <lb ed="#A" n="18"/>retinemus. Triplicem autem habebat sabbathum
+          Iudaeo<lb ed="#A" n="19" break="no"/>rum significationem: nam quae ad mores pertinet,
+          cessa<lb ed="#A" n="20" break="no"/>tionem a peccatis, &amp; ab iis omnibus, quae sunt impedimen
+          <lb ed="#A" n="21"/>to, quominus aliquis ex toto corde diligere Deum, &amp;
+          co<lb ed="#A" n="22" break="no"/>lere possit: Aliam quae ad Allegoriam, quietem Christi
+          cor<lb ed="#A" n="23" break="no"/>poris in sepulchro. Tertiam quae ad Anagogen, aeternam
+          <lb ed="#A" n="24"/>requiem in coelo. Ac primum quidem, illud praeceptum
+          no<lb ed="#A" n="25" break="no"/>bis modis omnibus obseruandum est, vt quiescamus
+          per<lb ed="#A" n="26" break="no"/>uerse agere. Secundum &amp; pletum iam est in Christo.
+          Ter<lb ed="#A" n="27" break="no"/>tium expectatur &amp; speratur a nobis, vt liberati de corpore
+          <lb ed="#A" n="28"/>mortis huius, ac soluti graui peccatorum onere, quo
+          pre<lb ed="#A" n="29" break="no"/>mimur in hoc mundo, post multas tribulationes &amp;
+          angu<lb ed="#A" n="30" break="no"/>stias, post varios exantlatos labores, quo caput nostrum
+          <lb ed="#A" n="31"/>Christus praecessit, ingrediamur &amp; nos in requiem illam,
+          <lb ed="#A" n="32"/>in qua sabbathum est ex sabbatho, Sabbathum delicatum
+          <lb ed="#A" n="33"/>&amp; sanctum Domino. Cum igitur figurae successerit
+          veri<lb ed="#A" n="34" break="no"/>tas, quodque fuerat terrena sabbathi obseruatione
+          signifi<lb ed="#A" n="35" break="no"/>catum, Iesum Christum dominum nostrum, &amp; siti &amp;
+          ine<lb ed="#A" n="36" break="no"/>dia, &amp; multis molestiis grauissimisque corporis
+          cruciati<lb ed="#A" n="37" break="no"/>bus, quos vltro nostra causa pertulit, vehementer
+          fatiga<lb ed="#A" n="38" break="no"/>tum, ad extremum acerbissima, turpissimaque morte
+          confe<lb ed="#A" n="39" break="no"/>ctum, die septimo tandem in sepulchro quieturum, id
+          re<lb ed="#A" n="40" break="no"/>ipsa sit expletum: nihil fuit necesse, figuram deinceps
+          am<lb ed="#A" n="41" break="no"/>plius obseruari. Sicut enim adueniente sole cessat vmbra,
+          <lb ed="#A" n="42"/>sic adueniente veritate, cessare debet figura.
+        </p>
+        <p xml:id="ho8ccf-a3i41w-d1e225">
+          Itaque
+          septi<pb ed="#A" n="269-v"/><lb ed="#A" n="1" break="no"/>mus dies in octauum est mutatus: nam pro sabbatho diem
+          <lb ed="#A" n="2"/>feriatum agimus eum, qui proxime sabbathum sequitur.
+          <lb ed="#A" n="3"/>Mutatus est autem Apostolorum authoritate, ne quid
+          ha<lb ed="#A" n="4" break="no"/>bere commune cum Iudaeis videremur. Quemadmodum
+          <lb ed="#A" n="5"/>eorundem authoritate constitutum est, si quis ante
+          aequi<lb ed="#A" n="6" break="no"/>noctium vernale, sancte Paschae diem, cum Iudaeis celebra
+          <lb ed="#A" n="7"/>ret, Episcopus aut presbyter, vt abiiceretur. Quin &amp; illud
+          <lb ed="#A" n="8"/>cautum esse videtur, quandiu durabat sacerdotium Iudaeo
+          <lb ed="#A" n="9"/>rum, vt qui ministerio reconciliationis, Apostolorum tem
+          <lb ed="#A" n="10"/>poribus fungebantur, non sacerdotes, verum presbyteri
+          tan<lb ed="#A" n="11" break="no"/>tum vocarentur. Quod etiam deinceps diligenter sancti
+          <lb ed="#A" n="12"/>Patres cauerum sumper, ne quid Christiani Catholici,
+          <lb ed="#A" n="13"/>non modo cum Iudaeis, sed ne cum haereticis quidem,
+          ha<lb ed="#A" n="14" break="no"/>berent commune. Sic Ioannes Chrysostomus, grauiter
+          <lb ed="#A" n="15"/>eos reprehendit, qui ieiunarent iisdem diebus, quibus a Iu
+          <lb ed="#A" n="16"/>daeis solenniter ieiunabatur. Sic in Ephesino concilio, cum
+          <lb ed="#A" n="17"/>Nestorius Christotocon, non autem Theotocon esse
+          Ma<lb ed="#A" n="18" break="no"/>riam virginem asseueraret, sub anathematis poena fuisse
+          <lb ed="#A" n="19"/>legimus interdictum ne quis eam Christotocon auderet
+          <lb ed="#A" n="20"/>appellare: Non quod hoc nomine recte vocari non potue
+          <lb ed="#A" n="21"/>rit aut possit, sed quod obuiandum errori putauerunt, quo
+          <lb ed="#A" n="22"/>Nestorius purum hominem Christum, non autem deum
+          <lb ed="#A" n="23"/>&amp; hominem peperisse Mariam virginem contendebat. Sic
+          <lb ed="#A" n="24"/>in Toletano quoque quarto, propter vitandum
+          schisma<lb ed="#A" n="25" break="no"/>tis scandalum, vel haeretici dogmatis vsum, decretum est,
+          <lb ed="#A" n="26"/>vt simpla teneretur baptismi mersio ne viderentur qui ter
+          <lb ed="#A" n="27"/>tio mergunt, haereticorum approbare assertionem, dum
+          se<lb ed="#A" n="28" break="no"/>quuntur &amp; morem.
+        </p>
+        <p xml:id="ho8ccf-a3i41w-d1e290">
+          Quod autem in octauum &amp; non in
+          <lb ed="#A" n="29"/>alium, dies hic mutatus est, propterea factum est, quod is
+          <lb ed="#A" n="30"/>rae caeteris multis est dei beneficiis insignis, cuius
+          praeco<lb ed="#A" n="31" break="no"/>nia Leo pontifex iis verbis recenset: Tantis est, inquit, haec
+          <lb ed="#A" n="32"/>dies diuinarum dispensationum mysterus consecrata, vt
+          <lb ed="#A" n="33"/>quicquid a domino est insignius institutum, in huius diei
+          <lb ed="#A" n="34"/>dignitate sit gestum. In hac mundus sumpsit exordium,
+          <lb ed="#A" n="35"/>in hac per Christi resurrectionem &amp; mors interitum, &amp;
+          <lb ed="#A" n="36"/>vita sumpsit initium: in hac Apostoli a Domino praedican
+          <lb ed="#A" n="37"/>di omnibus gentibus euangelii tubam sumunt, &amp; inferen
+          <lb ed="#A" n="38"/>dum vniuerso mundo sacramentum regenerationis
+          acci<lb ed="#A" n="39" break="no"/>piunt. In hac sicut Beatus Ioannes euangelista testatur, cum
+          <lb ed="#A" n="40"/>congregatis in vnum discipulis, clausis ianuis ad eos
+          Domi<lb ed="#A" n="41" break="no"/>nus introiisset, insufflauit &amp; dixit: Accipite spiritum
+          san<lb ed="#A" n="42" break="no"/>ctum. In hac denique promissus Domino spiritus
+          san<pb ed="#A" n="270-r"/><lb ed="#A" n="1" break="no"/>ctus aduenit. Tot igitur beneficia cum hoc die
+          acceperi<lb ed="#A" n="2" break="no"/>nus, quem vocant Euangelistae vnam siue primam
+          Sab<lb ed="#A" n="3" break="no"/>bathi, merito recolendis illis diligentius, cum assignauit
+          <lb ed="#A" n="4"/>Ecclesia. Magnum fuit beneficium, quod creati sumus qui
+          <lb ed="#A" n="5"/>non eramus: sed multo majus illud, quod restituti sumus,
+          <lb ed="#A" n="6"/>qui perieramus, per eum ipsum per quem creati sumus.
+          <lb ed="#A" n="7"/>Dominum nostrum Iesum Christum. Quapropter
+          meri<lb ed="#A" n="8" break="no"/>to diem hunc celebramus, merito Dominicum
+          appella<lb ed="#A" n="9" break="no"/>mus, in quo vere se Dominum Christum declarauit: non
+          <lb ed="#A" n="10"/>solum quando per eum totus hic orbis ex nihilo creatus
+          <lb ed="#A" n="11"/>est, verum etiam, quando resurgens ex mortuis,
+          manife<lb ed="#A" n="12" break="no"/>stum fecit omnibus, quod potestatem haberet ponendi
+          <lb ed="#A" n="13"/>animam suam &amp; sumendi eam: Merito cantat in eo
+          cho<lb ed="#A" n="14" break="no"/>rus Ecclesiasticus: haec est dies quam fecit Dominus. Est
+          <lb ed="#A" n="15"/>quidem ita quod nullo non die, quin potius nulla non
+          <lb ed="#A" n="16"/>hora, nullo non temporis momento vacandum nobis
+          <lb ed="#A" n="17"/>esset tantorum Dei beneficiorum contemplationi, ad
+          <lb ed="#A" n="18"/>quam ipse nos inuitat, dicens: Vacate &amp; videre, quoniam
+          <lb ed="#A" n="19"/>ego sum Deus: vacate a curis &amp; seculi negotiis, &amp; in
+          san<lb ed="#A" n="20" break="no"/>cto otio &amp; quiete videte, quod ego sum qui creaui vos:
+          <lb ed="#A" n="21"/>Ego sum, qui, cum vitio vestro, quod eratis per me
+          creati<lb ed="#A" n="22" break="no"/>perdidissetis, dato pro vobis in mortem filio meo, denuo
+          <lb ed="#A" n="23"/>per eum vos quasi creaui, vt iam in filio meo, sitis noua
+          <lb ed="#A" n="24"/>creatura, &amp; siccat portastis quondam imaginem terreni,
+          <lb ed="#A" n="25"/>ita nunc portets imaginem coelestis hominis: neque sitis
+          <lb ed="#A" n="26"/>iam deinceps Adae filis, sed sitis mei silii, sitis &amp;
+          vocemi<lb ed="#A" n="27" break="no"/>ni filii Dei, fraties autem &amp; cohaeredes Christi. Haec tanta
+          <lb ed="#A" n="28"/>beneficia, per ne vobis multis quidem offensionibus,
+          nul<lb ed="#A" n="29" break="no"/>lis autem vestris meritis praecedentibus praestita, vobiscum
+          <lb ed="#A" n="30"/>recogitate, &amp; aquo tantopere vos esse dilectos videtis, me
+          <lb ed="#A" n="31"/>vicissim ex toto corde vestro diligite. Quod igitur a
+          no<lb ed="#A" n="32" break="no"/>bis exigit ipse Dominus, qui nos etiam laborantes, &amp; one
+          <lb ed="#A" n="33"/>ratos ad se venre iubet, quod in eo simus animabus nostris
+          <lb ed="#A" n="34"/>requiem inuenturi: hoc nobis nunquam non faciendum,
+          <lb ed="#A" n="35"/>ac ne respirandam quidem toties, quoties illius esset remi
+          <lb ed="#A" n="36"/>niscendum. Nihilaliud mentem nostram cogitare, nihil aliud
+          <lb ed="#A" n="37"/>linguam sonam, non alio cunctas animi nostri vires, &amp; sen
+          <lb ed="#A" n="38"/>sus nostros omnes oportuit referri, quam ad videndum
+          <lb ed="#A" n="39"/>&amp; contemplardum Deum tam beneficum, tam
+          libera<lb ed="#A" n="40" break="no"/>lem, tam nosti amantem: qui proprio filio suo non
+          pe<lb ed="#A" n="41" break="no"/>percit, sed pro nobis omnibus tradidit illum.
+        </p>
+        <p xml:id="ho8ccf-a3i41w-d1e413">
+          Caeterum
+          <lb ed="#A" n="42"/>tale Sabbathum celebrare, sic totos Dei &amp; beneficiorum
+          <pb ed="#A" n="270-v"/>
+          <lb ed="#A" n="1"/>eius contemplationi vacare, non est huius seculi, non est
+          <lb ed="#A" n="2"/>huius corporis, quod corrumpitur, quod aggrauat
+          ani<lb ed="#A" n="3" break="no"/>mam, quod deprimit sensum, ea quae sursum sunt cogitare
+          <lb ed="#A" n="4"/>volentem: haud aliter, quam si quis passerculum pede
+          al<lb ed="#A" n="5" break="no"/>ligatum, in sublime se tollere cupientem in terram
+          funi<lb ed="#A" n="6" break="no"/>culo detrahat. Sabbatismus hic siue vacatio haec, &amp;
+          re<lb ed="#A" n="7" break="no"/>quies, non huius peregrinationis, sed coelestis erit illius
+          <lb ed="#A" n="8"/>patriae. Nam in hac quidem peregrinatione, non est
+          quis<lb ed="#A" n="9" break="no"/>quam tanta firmitate animi praeditus, tanto virtutis
+          ro<lb ed="#A" n="10" break="no"/>bore munitus, tamque sibi admirabiliter &amp; inuicte
+          con<lb ed="#A" n="11" break="no"/>stans, qui non aliquo lapsu aliquando, aliquoque deflexu
+          <lb ed="#A" n="12"/>ad carnem, &amp; carnis desideria protrahatur, quem nulla
+          <lb ed="#A" n="13"/>vnquam animi affectio, nullus cupiditatum motus
+          per<lb ed="#A" n="14" break="no"/>turbet, vt in vna illa Dei consyderatione perpetuo
+          con<lb ed="#A" n="15" break="no"/>sistere humanae menti datum non sit: quam saepe cum
+          <lb ed="#A" n="16"/>Deo rationem omnem habere meditantem, terrenae istae
+          <lb ed="#A" n="17"/>induuiae de coelo ipso deducunt, atque eiiciunt, ac fidei
+          <lb ed="#A" n="18"/>complexu in Christo Iesu haerere cupientem, proturbant
+          <lb ed="#A" n="19"/>inde tamen, diuelluntque a beata cura, &amp; ad inquinatas &amp;
+          <lb ed="#A" n="20"/>sordidas cogitationes detrahunt. Cum nec Scyniphes
+          <lb ed="#A" n="21"/>Aegyptiis perinde molestae fuerint, subito in oculos eo
+          <lb ed="#A" n="22"/>rum incursantes, &amp; quoties abactae fuerant, iterum atque
+          <lb ed="#A" n="23"/>iterum recurrentes, quam sunt saepe nobis molestae
+          secu<lb ed="#A" n="24" break="no"/>li curae carnisque nostrae desideria, quibus non possumus
+          <lb ed="#A" n="25"/>quandoque non a Dei contemplatione auocari. Non
+          igno<lb ed="#A" n="26" break="no"/>rauit hoc, qui vt misericors fieret, ac fidelis pro nobis
+          <lb ed="#A" n="27"/>Pontifex ad Deum, ad impetrandam delictorum
+          nostro<lb ed="#A" n="28" break="no"/>rum veniam, per omnia similis nobis fieri dignatus est, ac
+          <lb ed="#A" n="29"/>omnes infirmitates nostras (quae modo peccatum non im
+          <lb ed="#A" n="30"/>portarent) assumpsit.
+        </p>
+        <p xml:id="ho8ccf-a3i41w-d1e485">
+          Quamobrem quasi digito
+          com<lb ed="#A" n="31" break="no"/>monstrare contentus, quo nobis contendendum est, non
+          <lb ed="#A" n="32"/>tam exacte Sabbathum hoc sempiternum, hoc est
+          perpe<lb ed="#A" n="33" break="no"/>tuam animi tranquillitatem, ac in se quisque beneficiis
+          <lb ed="#A" n="34"/>contemplandis vacationem a nobis exegit, vt non
+          auo<lb ed="#A" n="35" break="no"/>cari nos quandoque ab eo, vel corporis nostri, vel eorum
+          <lb ed="#A" n="36"/>qui nobis aut genere coniuncti, aut quocunque tandem
+          <lb ed="#A" n="37"/>alio necessitudinis genere sunt deuincti, cura &amp;
+          solicitu<lb ed="#A" n="38" break="no"/>dine sine aliqua sui grauiore offensione patiatur.
+        </p>
+        <p xml:id="ho8ccf-a3i41w-d1e505">
+          Quam<lb ed="#A" n="39" break="no"/>obrem non imperauit, quod a nobis minime
+          praestan<lb ed="#A" n="40" break="no"/>posse videbat: sed optandum, inquit, foret, vt ab omni
+          <lb ed="#A" n="41"/>aliarum rerum cura, solicitudineque remoti, soli numinis
+          <lb ed="#A" n="42"/>mei contemplationi vacaretis, in eaque perpetuo mentem
+          <pb ed="#A" n="271-r"/>
+          <lb ed="#A" n="1"/>vestram omnem defixam haberetis:
+        </p>
+        <p xml:id="ho8ccf-a3i41w-d1e521">
+          Quoniam vero
+          car<lb ed="#A" n="2" break="no"/>nem vestram, peccati tamen expertem indutus, quae sit
+          il<lb ed="#A" n="3" break="no"/>lius fragilitas didici, non exigo, quod praestare non
+          po<lb ed="#A" n="4" break="no"/>testis: Est aliquo prodire tenus, si non datur vltra Prima
+          <lb ed="#A" n="5"/>sequentem, etiam in secundis &amp; terriis consistere
+          hone<lb ed="#A" n="6" break="no"/>stum est. Non semper vobis est otium, animum ad ea quae
+          <lb ed="#A" n="7"/>sunt pietatis, colligendi, non potestis hymnis,
+          precationi<lb ed="#A" n="8" break="no"/>bus, sacrae doctrinae, sacrificiis, elcemosynis, &amp; id genus
+          <lb ed="#A" n="9"/>aliis exercitamentis, quae fidem &amp; charitatem excitant, to
+          <lb ed="#A" n="10"/>ti perpetuo vacare, vt sic vos me ex toto corde, ex tota
+          <lb ed="#A" n="11"/>fanima, ex omnibus viribus vestris diligere declaretis,
+          sal<lb ed="#A" n="12" break="no"/>tem quotidie sepositum tempus aliquod ad ista habeatis,
+          <lb ed="#A" n="13"/>sin &amp; hoc difficile est, saltem septimum quemque diem iis
+          re<lb ed="#A" n="14" break="no"/>bus proprie dicetis. Scio quod non omnino est sui iuris
+          <lb ed="#A" n="15"/>maritus, aliquam sui partem debet vxori: non est sui iuris
+          <lb ed="#A" n="16"/>&amp; vxor, aliquam sui partem debet marito, neuter vt
+          va<lb ed="#A" n="17" break="no"/>scare mihi semper totus queat, dum in diuersas vterque
+          cu<lb ed="#A" n="18" break="no"/>ras distrahitur, quomodo socero, socrui, quomodo
+          caete<lb ed="#A" n="19" break="no"/>ris affinibus, quomodo coniugi ac liberis satisfaciat:
+          vn<lb ed="#A" n="20" break="no"/>de victum indies crescenti familiae suppeditet, vnde dore
+          <lb ed="#A" n="21"/>euincat. Non prohibeo matrimonii legitimum vsum, non
+          <lb ed="#A" n="22"/>piam minimeque anxiam de seipso cuique, deque liberis ac
+          do<lb ed="#A" n="23" break="no"/>mesticis sustentandis sollicitudinem. Licet nobis qui
+          ma<lb ed="#A" n="24" break="no"/>trimonio iuncti estis, liberis procreandis operam dare,
+          li<lb ed="#A" n="25" break="no"/>cet agros, licet vincas colere, licet manibus operari, licet
+          <lb ed="#A" n="26"/>artificio victum quaerere: nihil ea me res offenderit, non
+          <lb ed="#A" n="27"/>propterea violatum esse praeceptum meum existimabo, de
+          <lb ed="#A" n="28"/>diligendo me ex toto corde, ex tota mente, ex omnibus
+          <lb ed="#A" n="29"/>viribus vestris: modo ne sic in harum rerum sollicitudine
+          <lb ed="#A" n="30"/>toti sitis occupati, vt vos mei cui debetis omnia, capiat
+          <lb ed="#A" n="31"/>obliuio. Potestis etiam in mediis laboribus vestris mei
+          <lb ed="#A" n="32"/>meminisse: potest meum non manuum vestrarum
+          benefi<lb ed="#A" n="33" break="no"/>cium agnoscere, siquid recte processerit, potestis mihi sem
+          <lb ed="#A" n="34"/>per gratias agere.
+        </p>
+        <p xml:id="ho8ccf-a3i41w-d1e595">
+          Caeterum ad recolenda diligentius
+          be<lb ed="#A" n="35" break="no"/>neficia mea, ad cutum qui mihi debetur, praestandum, si
+          <lb ed="#A" n="36"/>vacare semper non potestis, tempus tamen aliquod ad can
+          <lb ed="#A" n="37"/>rem sepositum habetote. Sex dies consummatis licet,
+          in<lb ed="#A" n="38" break="no"/>iis quae ad liberoum procreationem, quae ad eorum
+          su<lb ed="#A" n="39" break="no"/>stentationem, quae ad tem vestram samiliarem tuendam
+          <lb ed="#A" n="40"/>pertinere videbuntur; saltem septimum diem, vel si qui
+          <lb ed="#A" n="41"/>sunt alii non ita multi festi dies, mihi totos dicetis: vt in
+          <lb ed="#A" n="42"/>iis a mutuo congressu, &amp; ab aliis quibuscunque curis
+          vo<pb ed="#A" n="271-v"/><lb ed="#A" n="1" break="no"/>bis temperetis, quo magis defecatis animis sacris
+          preci<lb ed="#A" n="2" break="no"/>bus, ac coelestium rerum meditationi vacare queatis: Hoc
+          <lb ed="#A" n="3"/>si feceritis, erit mihi satisfactum.
+        </p>
+        <p xml:id="ho8ccf-a3i41w-d1e624">
+          Quamobrem vel ex
+          <lb ed="#A" n="4"/>hoc praecepto satis liquet, quod antea quoque dictum est,
+          <lb ed="#A" n="5"/>nihil nobis impossibile Deum praecepisse, nec exigere, vt
+          <lb ed="#A" n="6"/>mandatum de se ex toto corde diligendo, ita iugiter
+          im<lb ed="#A" n="7" break="no"/>pleamus, vt curis omnibus aliis reiectis, in illo
+          contem<lb ed="#A" n="8" break="no"/>plando, ac omni pietatis genere colendo, perpetuo
+          men<lb ed="#A" n="9" break="no"/>tes cogitationesque nostras occupatas habeamus: saltem
+          prae<lb ed="#A" n="10" break="no"/>siemus aliquando, quod praestari iugiter a fragilitate
+          no<lb ed="#A" n="11" break="no"/>stra non potest: saltem dies huic rei, propter imbecillitatem
+          <lb ed="#A" n="12"/>nostram peculiariter dicatos obseruemus: Denique vel
+          se<lb ed="#A" n="13" break="no"/>mel in vita: saltem conuertamur ad dominum Deum
+          no<lb ed="#A" n="14" break="no"/>strum in toto corde nostro, neque Deum aliquem alienum
+          <lb ed="#A" n="15"/>occupare deinceps cor nostrum patiamur, siue is Deus
+          ven<lb ed="#A" n="16" break="no"/>ter sit, siue Mammona, siue quocunque tandem alio
+          nomi<lb ed="#A" n="17" break="no"/>ne vocetur. Si sic conuersi, nec a Deo nostro post eiusmodi
+          <lb ed="#A" n="18"/>conuersionem auersi postea, migrauerimus ex hac vita,
+          <lb ed="#A" n="19"/>etiamsi per omne vitae praeteritae tempus, Deos alienos
+          co<lb ed="#A" n="20" break="no"/>luissemus: si ventri atque iis quae sub ventre sunt, si auaritiae,
+          <lb ed="#A" n="21"/>si quibuscunque vitiis aliis mancipati fuissemus, nihil nos
+          <lb ed="#A" n="22"/>ea res impediet, quominus aeterna gaudia consequamur.
+          <lb ed="#A" n="23"/>illius gratia &amp; misericordia, qui dixit Quacunque hora
+          in<lb ed="#A" n="24" break="no"/>gemueris saluus eris. vel eo ipso tempore, ille nos unpleuis,
+          <lb ed="#A" n="25"/>se interpretabitur, quod a se de diligendo se mandatum
+          no<lb ed="#A" n="26" break="no"/>bis datum est. Vt vel ex hoc perspicuum cuiuis esse queat, sal
+          <lb ed="#A" n="27"/>sum esse quod a Blasphemis istis dicitur, praeceptum hoc
+          <lb ed="#A" n="28"/>ab homine Christiano expleri non posse. Perpetuum
+          Sal<lb ed="#A" n="29" break="no"/>bathum fatendum est a nobis obseruari non posse: verum
+          <lb ed="#A" n="30"/>vt semel in hebdomada, vel semel in anno, vel semel in
+          vi<lb ed="#A" n="31" break="no"/>ta tantum obseruemus, adiuuante spiritu infirmitatem
+          <lb ed="#A" n="32"/>nostram, non est nobis impossibile.
+        </p>
+        <p xml:id="ho8ccf-a3i41w-d1e689">
+          Caeterum sempiterni
+          <lb ed="#A" n="33"/>iugisque Sabbati obseruatio, non exigitur a nobis in hac
+          <lb ed="#A" n="34"/>peregrinatione nostra: cum ventum erit ad coelestem
+          pa<lb ed="#A" n="35" break="no"/>triam, ad manentem illam ciuitatem, quam futuram
+          in<lb ed="#A" n="36" break="no"/>quirimus, ibi Sabbatum erit ex Sabbatho, ibi requies erit
+          <lb ed="#A" n="37"/>sempiterna, ibi vacabimus, &amp; videbimus, &amp; amabimus,
+          <lb ed="#A" n="38"/>amabimus &amp; laudabimus, absque vllo fastidio, absque
+          vl<lb ed="#A" n="39" break="no"/>la fatigatione, eum qui &amp; legis &amp; desideriorum
+          nostro<lb ed="#A" n="40" break="no"/>rum finis est, dominum Deum nostrum: vt sit Deus
+          om<lb ed="#A" n="41" break="no"/>nia in omnibus, quemadmodum ab Apostolo scriptum est,
+          <lb ed="#A" n="42"/>&amp; inter eos numerabimur, de quibus in Psalmo dicitur:
+          <pb ed="#A" n="272-r"/>
+          <lb ed="#A" n="1"/>Beati qui habitant in domo tua Domine, in secula
+          secu<lb ed="#A" n="2" break="no"/>lorum laudabunt te. Videmus igitur iam, quid sibi velit
+          <lb ed="#A" n="3"/>praeceptum hoc de sanctificando Sabbatho: quod
+          expe<lb ed="#A" n="4" break="no"/>liret quidem iuge vt essent, verum infirmitati nostrae
+          lar<lb ed="#A" n="5" break="no"/>gitur hoc Deus, vt qui cunctos non posse videmur,
+          cer<lb ed="#A" n="6" break="no"/>tos tamen dies obseruemus, quos sanctificemus, hoc est,
+          <lb ed="#A" n="7"/>in sanctis operibus transigamus, nec vllis Deo parum
+          <lb ed="#A" n="8"/>lignis actionibus prophanemus. Quae autem sint
+          san<lb ed="#A" n="9" break="no"/>ta ista opera, in quibus dies festos transigere nos
+          opon<lb ed="#A" n="10" break="no"/>et, ex Agatensi Concilio discimus: in quo cunctis
+          prae<lb ed="#A" n="11" break="no"/>tipitur, vt populus Missas die Dominico totas audiat, nec
+          <lb ed="#A" n="12"/>ante benedictionem Sacerdotis egredi praesumat.
+          Apo<lb ed="#A" n="13" break="no"/>stolorum quoque Canonibus cautum est, vt
+          communio<lb ed="#A" n="14" break="no"/>ne priuentur, qui solennibus sacris non perscurauerint
+          <lb ed="#A" n="15"/>In oratione, vsque dum missa peragitur: quo tempore
+          <lb ed="#A" n="16"/>conuenire etiam ad Ecclesiam, &amp; scripturas Apostolorum
+          <lb ed="#A" n="17"/>ac Euangelium audire iubentur. Hoc est igitur
+          sanctifi<lb ed="#A" n="18" break="no"/>tare Sabbatum, sacrificiis, concionibus, &amp; aliis diuinis of
+          <lb ed="#A" n="19"/>ficiis, non corpore magis quam animo interesse. Nam
+          si<lb ed="#A" n="20" break="no"/>mens peregrinata fuerit, nihil profuerit, si quis corpore
+          <lb ed="#A" n="21"/>praesens adsit: illam itaque tunc Deo maxime vacare,
+          be<lb ed="#A" n="22" break="no"/>neficia illius recolere, &amp; pro illis gratias aliis agere
+          opor<lb ed="#A" n="23" break="no"/>tet. Atque haec est causa, quamobrem aliis operibus
+          om<lb ed="#A" n="24" break="no"/>nibus tum interdicitur, non quod per se malum sit arare,
+          <lb ed="#A" n="25"/>seminare, rem familiarem cutare: sed quod quae potiora
+          <lb ed="#A" n="26"/>unt, iis vt rectius vacari queat, ab aliis operibus abstinen
+          <lb ed="#A" n="27"/>dum est, ne quid contemplationi nostrae impedimenti
+          <lb ed="#A" n="28"/>adferant. Maxime vero abstinendum tum est ab omni
+          <lb ed="#A" n="29"/>pere sculi. Nulla autem grauior est seruitus, quam sit
+          <lb ed="#A" n="30"/>peccatum. Quare si quid per dies reliquos peccatum est,
+          <lb ed="#A" n="31"/>recogitare debemus in amaritudine, quum dies festus
+          ad<lb ed="#A" n="32" break="no"/>uenerit, &amp; omnia facere, vt reconciliari Deo possimus,
+          at<lb ed="#A" n="33" break="no"/>que ab omni deinceps peccato cauere, ita vt neque
+          ventri<lb ed="#A" n="34" break="no"/>seruiamus, neque mammonae, neque cuiquam alii vitio
+          <lb ed="#A" n="35"/>Nam qualia nunc a multis sabbata celebrantur, non
+          san<lb ed="#A" n="36" break="no"/>ctificari, sed prophanari videntur: neque enim ad
+          pota<lb ed="#A" n="37" break="no"/>tiones, ad choreas, ad luxus instituta sunt sabbata, cum
+          <lb ed="#A" n="38"/>pecte scriptum sit ab Augustino: Melius est arare quam
+          sal<lb ed="#A" n="39" break="no"/>tare: nulla sunt opera magis seruilia, quam sint haec sed vt
+          tan<lb ed="#A" n="40" break="no"/>to tranquilliori mente contemplando Deo, &amp; beneficiis
+          <lb ed="#A" n="41"/>rius recolendis vacare queamus.
+        </p>
+        <p xml:id="ho8ccf-a3i41w-d1e804">
+          Quamobrem ab iis quae vero
+          <lb ed="#A" n="42"/>scruilia sunt opera, semper abstinere oportet. Caeterum
+          <pb ed="#A" n="272-v"/>
+          <lb ed="#A" n="1"/>labores manuum fieri quandoque possunt, etiam die festo,
+          <lb ed="#A" n="2"/>si vel necessitas euidens postulet: sicut dominum excusas
+          <lb ed="#A" n="3"/>se legimus discipulos cuellentes spicas in sabbatho, vel
+          <lb ed="#A" n="4"/>Ecclesiae commodum: sicut in Euangelio Sacerdotes
+          fecis<lb ed="#A" n="5" break="no"/>se dicuntur omnia, quae erant necessaria in templo, in die
+          <lb ed="#A" n="6"/>sabbati: vel proximi vtilitas, sicut Dominus curauit in die
+          <lb ed="#A" n="7"/>sabbati habentem manum aridam, &amp; Iudaeos qui factum
+          <lb ed="#A" n="8"/>id reprehenderant, confutauit exemplo adducto de
+          oue<lb ed="#A" n="9" break="no"/>vel superioris authoritas: sicut idem praecepit Iudaeis, vt
+          <lb ed="#A" n="10"/>circunciderent in die sabbati. Extra hos casus si quis
+          ma<lb ed="#A" n="11" break="no"/>nibus laborauerit, transgressi praecepti de sanctificande
+          <lb ed="#A" n="12"/>sabbato reus erit. Prosper Aquitanicus: Qui votum, inquit,
+          <lb ed="#A" n="13"/>vouentes sese offerunt Deo, eiusque verbo vacantes,
+          spirita<lb ed="#A" n="14" break="no"/>le sabbatum obseruant, vt Maria quae meliorem partem
+          <lb ed="#A" n="15"/>elegit: a quo declinantes in strangulatione, dum
+          munda<lb ed="#A" n="16" break="no"/>nis curis innodantur, morsu pestifero tertiae plagae
+          Aegy<lb ed="#A" n="17" break="no"/>ptiorum leduntur in anima. Ex quibus verbis etiam illos
+          <lb ed="#A" n="18"/>venire contra praeceptum hoc de sabbato sanctificando
+          ma<lb ed="#A" n="19" break="no"/>nifestum est, qui cum semel Deo se deuouerint, primam
+          <lb ed="#A" n="20"/>fidem irritam facientes, matrimonium contrahunt, cuius
+          <lb ed="#A" n="21"/>generis sunt Sacerdotes &amp; monachi, quibus non
+          propte<lb ed="#A" n="22" break="no"/>rea nuptiis interdictum est, quod malae sint nuptiae, sed
+          <lb ed="#A" n="23"/>quod cum perpetuum illis sabbatum obseruandum &amp; iu
+          <lb ed="#A" n="24"/>ge sacrificium sit offerendum, ac in lege Domini die noctaeque
+          <lb ed="#A" n="25"/>meditandum, abstinendum est eis ab iis omnibus, per quo
+          <lb ed="#A" n="26"/>ossint a continua sabbati obseruatione uocari.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 45</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 45</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="119-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2mpmp"><!-- c45 -->
+        <head xml:id="ho8ccf-a2mpmp-Hd1e99">Caput 45</head>
+        <head xml:id="ho8ccf-a2mpmp-Hd1e101" type="question-title">De materia et forma huius Sacramenti</head>
+        <p xml:id="ho8ccf-a2mpmp-d1e104">
+          <pb ed="#A" n="119-r"/>
+          <lb ed="#A" n="1"/>CAPVT XLV.
+          <lb ed="#A" n="2"/>Demateria &amp; forma huius Sacramenti.
+        </p>
+        <p xml:id="ho8ccf-a2mpmp-d1e113">
+          <lb ed="#A" n="3"/><milestone ed="#A" unit="p" rend="initial"/> NEque vero dubitandum est, quin hoc ipsum
+          pe<lb ed="#A" n="4" break="no"/>nitentiae Sacramentum ab ipso Christo fuerit
+          <lb ed="#A" n="5"/>institutum: cuius haec clarissima verba sunt ad
+        </p>
+        <p xml:id="ho8ccf-a2mpmp-d1e123">
+          <lb ed="#A" n="6"/><milestone ed="#A" unit="p" rend="indent"/> A Petrum; Dabo tibi claues regni caelorum, &amp; quod
+          <lb ed="#A" n="7"/>cunque ligaueris super terram, erit ligatum in coelis? tum &amp;
+          <lb ed="#A" n="8"/>ad reliquos Apostolos: Amen dico vobis, quaecunque
+          alli<lb ed="#A" n="9" break="no"/>gauerius super terram, erunt ligata &amp; in coelo, &amp; quaecunque
+          <lb ed="#A" n="10"/>sulueritis super terram, erunt solura &amp; in coelo. Ac post
+          re<lb ed="#A" n="11" break="no"/>surrectionem ad eosdem: Accipite spiritum sanctum,
+          quo<lb ed="#A" n="12" break="no"/>rum remiseritis peccata, reuerentur eis, &amp; dubrum
+          reti<lb ed="#A" n="13" break="no"/>meritis, retentu sunt. Quibus verbis &amp; materiam &amp;
+          for<lb ed="#A" n="14" break="no"/>mam huius eramenti satis expressisse videtur. Est autem
+          <lb ed="#A" n="15"/>duplex materia, propinqua &amp; remota. Sicut statuae pro
+          <lb ed="#A" n="16"/>pinqua matem est metallum, semota vero aqua: sic &amp; in
+          <lb ed="#A" n="17"/>hoc Sacramento, remota materia sunt peccata, non
+          qua<lb ed="#A" n="18" break="no"/>tenus amplectenda, sed quatenus derestanda, ac quam lon
+          <lb ed="#A" n="19"/>gissime propulsanda sint, quorum fit a Christo mentio
+          <lb ed="#A" n="20"/>Proxima autem materia, sunt actus ipsius peniteris. Cum
+          <lb ed="#A" n="21"/>enim aliquis iusto dolore contempto de peccatis admissis,
+          <lb ed="#A" n="22"/>firmo etiam proposito non modo cauendi deinceps,
+          ve<lb ed="#A" n="23" break="no"/>rumetiam satisfaciendi pro illis, ea Sacerdoti confessus
+          fue<lb ed="#A" n="24" break="no"/>rit, haec ipsa confessio ad hunc modum facta, signum est
+          <lb ed="#A" n="25"/>visibile sacre rei, hoc est inuisibilis gratiae, qua sic confesso
+          <lb ed="#A" n="26"/>peccata remittuntur: &amp; quidem efficax signum? Nam
+          si<lb ed="#A" n="27" break="no"/>mul vt ad confessionem huiusmodi verbum accesserit a
+          <lb ed="#A" n="28"/>Sacerdote probatum, Ego te absoluo, statim peccata
+          om<lb ed="#A" n="29" break="no"/>nia contrito &amp; confesso remittuntur. Est autem in huius
+          <lb ed="#A" n="30"/>&amp; aliorum Sacramentorum materia, nonnullum
+          disci<lb ed="#A" n="31" break="no"/>men. Nam in his substantiae quaedam exteriores
+          materi<lb ed="#A" n="32" break="no"/>locum obtinent; sicut in baptismo aqua, in confirmatio
+          <lb ed="#A" n="33"/>Chrisma, in Eucharistia panis &amp; vinum, in extrema
+          vi<lb ed="#A" n="34" break="no"/>ctione &amp; in ordine vnguentum olei in hoc ipsa
+          homini<lb ed="#A" n="35" break="no"/>actio materiae loco est, quodque fieri videmus in medicinis,
+          <lb ed="#A" n="36"/>quibus corpuscuratur, idem etiam vsu venit in
+          Sacramen<lb ed="#A" n="37" break="no"/>tis, quae medicina quaedam sunt animarum: Sicut enim
+          <lb ed="#A" n="38"/>quaedam sunt medicinae, quae in sola illius qui curatur
+          pa<lb ed="#A" n="39" break="no"/>sione consistum cuius generis est fectio vulnerisquaedam
+          <lb ed="#A" n="40"/>vero natione cuiusmodi est exercitatio corporis sci
+          <lb ed="#A" n="41"/>Sacramentis co nere licet alia quae consistunt meus
+          pal<lb ed="#A" n="42" break="no"/>pati concitatus &amp; honatione sittacadent,
+          <pb ed="#A" n="119-v"/>
+          <lb ed="#A" n="1"/>illa quinque, quorum antea meminimus: Alia vero in actu
+          <lb ed="#A" n="2"/>eius qui sanctificatur, cuiusmodi sunt hoc poenitentiae
+          ma<lb ed="#A" n="3" break="no"/>trimoniique Sacramentum.
+        </p>
+        <p xml:id="ho8ccf-a2mpmp-d1e216">
+          Quamobrem actus isti,
+          mate<lb ed="#A" n="4" break="no"/>riae locum obtinent, qui sunt tres. Contritio, confessio,
+          sa<lb ed="#A" n="5" break="no"/>tisfactio. Formae autem absolutio. Neque vero
+          propte<lb ed="#A" n="6" break="no"/>rea reiici debet ea forma absolutionis qua vtitur Ecclesia,
+          <lb ed="#A" n="7"/>quod ea a Christo instituta aut praecepta esse non
+          legi<lb ed="#A" n="8" break="no"/>tur: nam eadem ratione baptismi quoque formam
+          reu<lb ed="#A" n="9" break="no"/>ciendam esse dixerimus. Neque enim alia authoritate
+          di<lb ed="#A" n="10" break="no"/>cit Sacerdos: Ego te absoluo, quam qua dicit, Ego te
+          ba<lb ed="#A" n="11" break="no"/>ptio. Sicut baptizandi formam ex Christi verbis
+          mu<lb ed="#A" n="12" break="no"/>tuatur, Euntes docete omnes gentes, baptizantes eos, &amp;c.
+          <lb ed="#A" n="13"/>sic &amp; absoluendi formam ex eiusdem Christi verbis
+          mu<lb ed="#A" n="14" break="no"/>tuatur, dicentis ad Petrum: Quodcunque solueris super
+          <lb ed="#A" n="15"/>terram, erit solutum &amp; in coelis. Et ad Apostolos omnes.
+          <lb ed="#A" n="16"/>Quorum remiseritis peccata.
+        </p>
+        <p xml:id="ho8ccf-a2mpmp-d1e247">
+          Caeterum in penitenti
+          vera<lb ed="#A" n="17" break="no"/>citer tria consyderari scribit oportere Gregorius:
+          conuer<lb ed="#A" n="18" break="no"/>sionem mentis, confessionem oris, &amp; vindictam
+          peccari<lb ed="#A" n="19" break="no"/>quae vulgo vocant contritionem, confessionem, &amp;
+          sarissa<lb ed="#A" n="20" break="no"/>ctionem. De singulis ordine disseremus, ac primum de
+          con<lb ed="#A" n="21" break="no"/>tritione, siue conuersione mentis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

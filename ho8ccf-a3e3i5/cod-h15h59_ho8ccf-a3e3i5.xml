@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 75</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 75</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="262-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3e3i5"><!-- c75 -->
+        <head xml:id="ho8ccf-a3e3i5-Hd1e99">Caput 75</head>
+        <head xml:id="ho8ccf-a3e3i5-Hd1e101" type="question-title">Explicatio praecepti de diligendo Deo et proximo</head>
+        <p xml:id="ho8ccf-a3e3i5-d1e104">
+          <lb ed="#A" n="35"/>CAPVT XXV.
+          <lb ed="#A" n="36"/>Explicatio praecepti de diligendo Deo &amp; proximo.
+        </p>
+        <p xml:id="ho8ccf-a3e3i5-d1e111">
+          <lb ed="#A" n="37"/><milestone ed="#A" unit="p" rend="initial"/> HAbemus ergo iam quae sit iustitia nostra: est enim
+          <lb ed="#A" n="38"/>fides, spes &amp; charitas, aut si quis compendio vti, &amp;
+          <lb ed="#A" n="39"/>vno verbo rem expedire malit, iustitia nostra est
+          <lb ed="#A" n="40"/>charitas, quae vbi est, quid est quod possit deesse,
+          <lb ed="#A" n="41"/>vbi non est, quid est quod possit prodesse? Nam fides
+          ha<pb ed="#A" n="262-v"/><lb ed="#A" n="1" break="no"/>beri potest absque charitate, cum daemon credat nec
+          dili<lb ed="#A" n="2" break="no"/>gat: venia quoque, quamuis frustra sperari tamen potest
+          <lb ed="#A" n="3"/>ab eo qui non diligit.
+        </p>
+        <p xml:id="ho8ccf-a3e3i5-d1e133">
+          Caeterum qui ex animo diligit,
+          fa<lb ed="#A" n="4" break="no"/>cere non potest, quin &amp; credat, &amp; spem atque fiduciam suam
+          <lb ed="#A" n="5"/>in eo collocatam habeat quem diligit. Cum autem
+          iusti<lb ed="#A" n="6" break="no"/>tiam nostram, charitatem esse dicimus, quemadmodum
+          <lb ed="#A" n="7"/>antea quoque semel &amp; iterum dicere nos meminimus, non
+          <lb ed="#A" n="8"/>eam intelligi volumus, qua Deus diligit nos, sed qua nos
+          <lb ed="#A" n="9"/>amati a Deo, vicissim amamus eum, &amp; amantes amplius
+          <lb ed="#A" n="10"/>amari meremur. Illorum quoque iam est refutata per nos
+          <lb ed="#A" n="11"/>opinio, qui iustitiam hanc in hac vita expleri a nobis
+          pos<lb ed="#A" n="12" break="no"/>se negant: Siquidem propterea Deus misit filium suum,
+          <lb ed="#A" n="13"/>in similitudinem carnis peccati, vt quod legi praestare fuit
+          <lb ed="#A" n="14"/>impossibile, posteaquam de peccato damnauit peccatum
+          <lb ed="#A" n="15"/>in carne, iustitia legis impleretur in nobis: Quomodo au
+          <lb ed="#A" n="16"/>tem impleretur? impleretur, inquit, in nobis, non
+          secun<lb ed="#A" n="17" break="no"/>dum carnem, sed secundum spintum ambulantibus. Hoc
+          <lb ed="#A" n="18"/>est quod dicit Clemens presbyter Alexandrinus de
+          Chri<lb ed="#A" n="19" break="no"/>sto scribens. Non id quod erat visus est iis, qui non
+          potue<lb ed="#A" n="20" break="no"/>rant capere propter imbecillitatem carnis: Cum ergo
+          ca<lb ed="#A" n="21" break="no"/>nem accepisset sensilem, venit ostensurus hominibus
+          suffi<lb ed="#A" n="22" break="no"/>cientes esse eorum vires, vt possint obedire mandatis. Lex
+          <lb ed="#A" n="23"/>praecipere poterat: caeterum infirmior fuit caro nostra
+          <lb ed="#A" n="24"/>quam vt quod ab illa praeceptum fuit, praestare posset:
+          in<lb ed="#A" n="25" break="no"/>dutus carnem nostram Dei filius, quod in ea corruptum
+          <lb ed="#A" n="26"/>fuit, reparauit, ac abolito per mortem peccato, nobisque Deo
+          <lb ed="#A" n="27"/>patri reconciliatis, tulit ea cuncta de medio, quae
+          impedi<lb ed="#A" n="28" break="no"/>mento esse possent, quo minus iustitia legis in nobis
+          im<lb ed="#A" n="29" break="no"/>pleretur, quae iam in nobis ex aqua &amp; spiritu renatis
+          im<lb ed="#A" n="30" break="no"/>pletur, Christo non modo &amp; verbis docente, &amp; exemplo
+          <lb ed="#A" n="31"/>nobis praeeuntem, verumetiam ipso in nobis operante, ipso
+          <lb ed="#A" n="32"/>faciente, vt iustitiam faciamus, ipso diligente nos, vt
+          vicis<lb ed="#A" n="33" break="no"/>sim cum ipsius amore prouocati diligamus. Etenim
+          om<lb ed="#A" n="34" break="no"/>nis iustitia legis est vna dilectio, &amp; hoc vno praecepto con
+          <lb ed="#A" n="35"/>tinetur, quo diligere Deum iubemur, ex toto corde
+          no<lb ed="#A" n="36" break="no"/>stro, &amp; proximum sicut nosipsos: quod praeceptum vnum
+          <lb ed="#A" n="37"/>quidem est, sed duo tamen in se complecti videtur:
+          iube<lb ed="#A" n="38" break="no"/>mur enim Deum, iubemur &amp; proximum diligere. Deum
+          <lb ed="#A" n="39"/>diligere iubemur, ex toto corde, ex tota anima, ex omni
+          <lb ed="#A" n="40"/>mente, ex omnibus viribus, ex omni virtute &amp;
+          fortitudi<lb ed="#A" n="41" break="no"/>ne nostra, ita vt prae illius amore postputemus omnia, neque
+          <lb ed="#A" n="42"/>sit in hoc mundo res vlla, in quam pari nostrae voluntatis
+          <pb ed="#A" n="263-r"/>
+          <lb ed="#A" n="1"/>inclinatione propendeamus, non honores, non aurum aut
+          <lb ed="#A" n="2"/>argentum, non possessiones, aut vineas, non pecora aut
+          <lb ed="#A" n="3"/>mancipia, non vlla vestium ornamenta, non amicos, non
+          <lb ed="#A" n="4"/>parentes, non liberos, denique ne vitam quidem nostram
+          tan<lb ed="#A" n="5" break="no"/>ti faciamus, vt non &amp; hanc &amp; reliqua omnia simus
+          alacri<lb ed="#A" n="6" break="no"/>animo deserturi propter Christum, si forte vsus veniat,
+          <lb ed="#A" n="7"/>quin &amp; potius vt stercora reputemus, modo lucrifacere
+          <lb ed="#A" n="8"/>Deum liceat:
+        </p>
+        <p xml:id="ho8ccf-a3e3i5-d1e241">
+          Deinde vero non alia vlla in re, praesidium
+          <lb ed="#A" n="9"/>nobis constitutum, sed in illo spem &amp; fiduciam nostram
+          <lb ed="#A" n="10"/>omnem positam habeamus: Non speremus in incerto
+          di<lb ed="#A" n="11" break="no"/>uitiarum: non in curribus &amp; in equis, non in filiis
+          homi<lb ed="#A" n="12" break="no"/>num, in quibus non est salus, Verum ex Dei solius
+          beni<lb ed="#A" n="13" break="no"/>gnitate toti pendeamus, inde salutem, inde rebus nostris
+          <lb ed="#A" n="14"/>afflictis praesens auxilium expectemus: Postremo
+          contem<lb ed="#A" n="15" break="no"/>plando illi toti vacemus, omnes vt sensus nostri,
+          cogita<lb ed="#A" n="16" break="no"/>tionesque nostrae, non alio referantur, quam ad illius
+          boni<lb ed="#A" n="17" break="no"/>tatem, sapientiam, maiestatem perpetuo contemplandam,
+          <lb ed="#A" n="18"/>Hoc est ex toto corde, ex tota anima, ex omni mente, ex
+          <lb ed="#A" n="19"/>omnibus viribus, ex omni virtute &amp; fortitudine Deum
+          <lb ed="#A" n="20"/>diligere. Sunt qui tunc ex toto corde diligi Deum
+          inter<lb ed="#A" n="21" break="no"/>pretantur, quando rationem siue intellectum nostrum
+          om<lb ed="#A" n="22" break="no"/>nem captiuamus in obsequium Dei, ita vt non quod ratio
+          <lb ed="#A" n="23"/>nostra dictat, non quod intellectus noster assequitur, sed
+          <lb ed="#A" n="24"/>quod in scriptura diuinitus inspirata continetur, id solum
+          <lb ed="#A" n="25"/>verum, id solum rectum esse persuasum habeamus, quam,
+          <lb ed="#A" n="26"/>libet etiam pugnare cum ratione siue intellectu nostro
+          vi<lb ed="#A" n="27" break="no"/>deatur: Ex tota vero mente tum Deum diligi, cum in
+          me<lb ed="#A" n="28" break="no"/>moria nostra non alia res versatur magis, quam vel Deus
+          <lb ed="#A" n="29"/>ipse, vel quod ad honorem Dei pertinet, ita vt in eius
+          so<lb ed="#A" n="30" break="no"/>lius meditatione omnis nostra cogitatio consummatur:
+          <lb ed="#A" n="31"/>Ex tota vero anima quando sic voluntas nostra omnis,
+          <lb ed="#A" n="32"/>citra contradictionem vllam, Deo addicta est, vt summa
+          <lb ed="#A" n="33"/>cum alacritate, iussis eius omnibus obtemperet, vt nec vel
+          <lb ed="#A" n="34"/>prosperis rebus elata, nec aduersis fracta committat
+          vn<lb ed="#A" n="35" break="no"/>quam aliquid, quo voluntas eius offendi possit, quin
+          po<lb ed="#A" n="36" break="no"/>tius in eo tota sit, vt eius mandata pro virili sua expleat,
+          <lb ed="#A" n="37"/>Meminimus in superioribus nos de eo disserere,
+          quemad<lb ed="#A" n="38" break="no"/>modum ad imaginem &amp; similitudinem Dei facti simus,
+          <lb ed="#A" n="39"/>quae quidem imago, cum peccato primi Adae deformata
+          <lb ed="#A" n="40"/>fuisset, virtute secundi Adae rursus est in nobis reparata
+          <lb ed="#A" n="41"/>vt sicut portaueramus antea imaginem terreni, sic portare
+          <lb ed="#A" n="42"/>deinceps possimus imaginem coelestis hominis. Hanc
+          au<pb ed="#A" n="263-v"/><lb ed="#A" n="1" break="no"/>tem imaginem in anima nostra esse docuimus, ac sicut in
+          <lb ed="#A" n="2"/>Deo, sic in illa quoque trinitatem quandam. Deus vnus
+          <lb ed="#A" n="3"/>est, tres personae, pater, filius &amp; spiritus sanctus: sic anima
+          <lb ed="#A" n="4"/>cuiusque nostrum vna est, tres autem vires, siue potentiae:
+          <lb ed="#A" n="5"/>intellectus, memoria, voluntas. Ex patre nascitur filius,
+          <lb ed="#A" n="6"/>ex patre &amp; filio procedit spiritus sanctus: Ita suo modo
+          <lb ed="#A" n="7"/>ex intellectu nascitur voluntas, &amp; ex his ambobus
+          pro<lb ed="#A" n="8" break="no"/>cedit memoria. Haec trinitas in homine, valde fuit, vt
+          <lb ed="#A" n="9"/>diximus, primi parentis nostri vitio deformata: nam
+          in<lb ed="#A" n="10" break="no"/>tellectus &amp; memoria &amp; voluntas, a Deo creatore suo
+          ve<lb ed="#A" n="11" break="no"/>hementer auersa fuerunt, ad quam vicissim
+          conuertun<lb ed="#A" n="12" break="no"/>tur, quando quod nobis praecipit Deus, ex toto corde, ex
+          <lb ed="#A" n="13"/>tota mente, ex tota anima Deum diligimus, ita vt &amp; ratio
+          <lb ed="#A" n="14"/>illi nostra tota subiecta, &amp; memoria in eius
+          contempla<lb ed="#A" n="15" break="no"/>tione perpetuo defixa, &amp; voluntas ad omnem illius
+          nu<lb ed="#A" n="16" break="no"/>tum semper sit conuersa, mihi vt magis ex animo cupiat
+          <lb ed="#A" n="17"/>homo, quam omnia dei mandata pro virili sua explere.
+          <lb ed="#A" n="18"/>Hac ratione recuperamus imaginem dei, quae fuit in
+          no<lb ed="#A" n="19" break="no"/>bis obsoleta &amp; deiformes efficimur. Est enim animae
+          rati<lb ed="#A" n="20" break="no"/>one praeditae forma, Deus, cui haud aliter eam imprimi
+          <lb ed="#A" n="21"/>oportet, quam sigillo quod signatum est imprimitur. Haec
+          <lb ed="#A" n="22"/>autem impressio non sit, nisi per charitatem, per quam
+          so<lb ed="#A" n="23" break="no"/>lam deo similes efficimur. Chantatem autem perfectam
+          <lb ed="#A" n="24"/>erga Deum habere non possumus, nisi collectis in vnum
+          <lb ed="#A" n="25"/>tribus his anime viribus, &amp; a creatura auersis, in solum au
+          <lb ed="#A" n="26"/>tem deum conuersis. Haec si videntur apud homines impos
+          <lb ed="#A" n="27"/>sibilia, certe apud deum nihil est impossibile, modo prom
+          <lb ed="#A" n="28"/>praxoluntas adsit, spem nostram omnem in Deo
+          posi<lb ed="#A" n="29" break="no"/>tam habuerimus, ac deinde ipsi quoque manum
+          admoue<lb ed="#A" n="30" break="no"/>rimus, &amp; quod in nobis est, fecerimus: cito sentiemus per
+          <lb ed="#A" n="31"/>gratiam esse facile, quod per naturam non modo
+          diffici<lb ed="#A" n="32" break="no"/>le, verumetiam impossibile fore videbatur. Est aliquo
+          <lb ed="#A" n="33"/>prodire tenus, si non datur vltra: nec ille tantum
+          perfe<lb ed="#A" n="34" break="no"/>ctus homo dicitur, qui tanta est mole corporis, quanta
+          <lb ed="#A" n="35"/>in homine esse maxima potest, quales aliquando
+          Gigan<lb ed="#A" n="36" break="no"/>tes fuisse feruntur. Perfectus &amp; ille iudicatur, qui
+          quam<lb ed="#A" n="37" break="no"/>uis magnitudine Gigantem aequare non possit, nihil
+          ta<lb ed="#A" n="38" break="no"/>men ei deest eorum quae hominis natura requirit. Eadem
+          <lb ed="#A" n="39"/>est &amp; dilectionis ratio, si non possumus ad eam aspirare,
+          <lb ed="#A" n="40"/>qua Gigantes ardent in caelo. (Nam &amp; caro nostra, cum
+          spi<lb ed="#A" n="41" break="no"/>ritu nostro bellum gerit implacabile, vt non quae volumus,
+          <lb ed="#A" n="42"/>ea faciamus, nec toti Deo dediti esse queamus. Et in
+          mul<pb ed="#A" n="264-r"/><lb ed="#A" n="1" break="no"/>tis offendimus omnes &amp; saeculi domesticarum rerum
+          <lb ed="#A" n="2"/>curis impediti, cor in solum Deum intentum habere, &amp;
+          <lb ed="#A" n="3"/>actu semper in eum ferri, &amp; quod maxime proprium
+          di<lb ed="#A" n="4" break="no"/>lectionis est, vnus cum eo spiritus effici non possumus.)
+          <lb ed="#A" n="5"/>Si non possumus quod Gigantes in coelo: faciamus quod
+          <lb ed="#A" n="6"/>vel pumiliones saltem in terris: quantominus nobis
+          satis<lb ed="#A" n="7" break="no"/>fecerimus, tanto sibi magis ille satisfactum esse iudicabit,
+          <lb ed="#A" n="8"/>etiam si sit minime satisfactum.
+        </p>
+        <p xml:id="ho8ccf-a3e3i5-d1e428">
+          Porro proximum
+          iube<lb ed="#A" n="9" break="no"/>mur diligere, tanquam nosipsos, ita vt Dei dilectio supe
+          <lb ed="#A" n="10"/>ret, proximi autem exeque nostram ipsorum
+          dilectio<lb ed="#A" n="11" break="no"/>nem. Proximus autem est omnis homo, fidelis
+          praeser<lb ed="#A" n="12" break="no"/>tim, qui cum sit imago Dei, quisquis eum diligit, Deum
+          <lb ed="#A" n="13"/>diligit. Sicut enim rex in imagine sua vel hortatur, vel
+          <lb ed="#A" n="14"/>contemnitur: sic Deus in homine vel diligitur, vel odio
+          <lb ed="#A" n="15"/>habetur. Non potest hominem odisse qui Deum amat, non
+          <lb ed="#A" n="16"/>potest Deum amare, qui hominem odiit: scriptum est enun,
+          <lb ed="#A" n="17"/>si quis dixerit, quoniam diligo Deum &amp; fratrem suum odit.
+          <lb ed="#A" n="18"/>mendax est: qui erum non diligit fratrem suum quem
+          vi<lb ed="#A" n="19" break="no"/>det, Deum quem non videt quomodo potest diligere. Quis
+          <lb ed="#A" n="20"/>honorat regem &amp; eius contemnit imaginem? aut quis
+          <lb ed="#A" n="21"/>honorat imaginem, &amp; authorem contemnit imaginis,
+          <lb ed="#A" n="22"/>Sic igitur alterum dilectionis praeceptum pendet ex
+          alte<lb ed="#A" n="23" break="no"/>ro, primum vt seruare nemo queat, nisi seruet simul &amp;
+          se<lb ed="#A" n="24" break="no"/>cundum.
+        </p>
+        <p xml:id="ho8ccf-a3e3i5-d1e465">
+          Quamobrem proximi dilectioni tantum
+          tri<lb ed="#A" n="25" break="no"/>buit Paulus, vt non dubitauerit dicere: Qui diligit
+          pro<lb ed="#A" n="26" break="no"/>ximum legem impleuit. Et in alia Epistola. Omnis lex in
+          <lb ed="#A" n="27"/>vno sermone impletur: Dilige proximum tuum sicut
+          te<lb ed="#A" n="28" break="no"/>ipsum: Dixit autem hoc a magistro suo doctus, qui cum alibi
+          <lb ed="#A" n="29"/>duobus in mandatis de diligendo Deo &amp; proximo,
+          pen<lb ed="#A" n="30" break="no"/>dere legem vniuersam &amp; Prophetas affirmasset: alio loco
+          <lb ed="#A" n="31"/>quasi explicans quid sit proximum diligere, iis verbis vsus
+          <lb ed="#A" n="32"/>est: Omnia quaecunque uultis, ut faciant uobis homines, ita
+          <lb ed="#A" n="33"/>&amp; vos facite illis. Ac mox addit: haec est enim lex &amp; Pro
+          <lb ed="#A" n="34"/>phetae. Vbi tantum tribuere videtur vni huic, quantum
+          <lb ed="#A" n="35"/>alibi vtrique dilectionis mandato: siquidem vnum absque
+          <lb ed="#A" n="36"/>saltero constare non potest, atque in dilectione proximi,
+          <lb ed="#A" n="37"/>haud aliter includitur Dei dilectio, atque causa in suo
+          <lb ed="#A" n="38"/>effectu. Hinc enim apparet, quod Deum diligas, si
+          pro<lb ed="#A" n="39" break="no"/>pter Deum proximo bene velis, &amp; in eum suauiter sis
+          effu<lb ed="#A" n="40" break="no"/>sus. Iubetur autem quisque diligere proximum tanquam se
+          <lb ed="#A" n="41"/>ipsum. Porro qui diligit iniquitatem, odit animam suam.
+        </p>
+        <p xml:id="ho8ccf-a3e3i5-d1e504">
+          <lb ed="#A" n="42"/><milestone ed="#A" unit="p" rend="indent"/> Quemadmodum itaque non diligit seipsum, qui diligit
+          ini<pb ed="#A" n="264-v"/><lb ed="#A" n="1" break="no"/>quitatem, ita non diligit proximum, qui diligit
+          iniquita<lb ed="#A" n="2" break="no"/>tem in proximo. Duo igitur cum sint in proximo, homo
+          <lb ed="#A" n="3"/>&amp; peccator: diligendus est homo, odio habendus est
+          pec<lb ed="#A" n="4" break="no"/>cator. Si honus est homo, diligendus est in eo Christus,
+          <lb ed="#A" n="5"/>cuius bonitate bonus est. Si malus est, corripiendus est
+          <lb ed="#A" n="6"/>malus, sed nihilominus diligendus est homo, verum in hoc
+          <lb ed="#A" n="7"/>tantum, vt conuertatur ad Christum. Quisquis aliud
+          spe<lb ed="#A" n="8" break="no"/>ctat in proximo, non diligit proximum, qui tum recte
+          di<lb ed="#A" n="9" break="no"/>ligitur, cum propter Deum diligitur, vt in proximo non
+          <lb ed="#A" n="10"/>nisi Deus diligatur, &amp; ad Deum omnis dilectio nostra re
+          <lb ed="#A" n="11"/>feratur. Sicut medicus cum diligit aegrum, non morbum
+          <lb ed="#A" n="12"/>diligit, quem venit propulsare, sed salutem, quam cupit
+          re<lb ed="#A" n="13" break="no"/>uocare, sic enim diligere proximum iubemur, non
+          pecca<lb ed="#A" n="14" break="no"/>tum diligere iubemur, qui morbus est animi, qui modis
+          <lb ed="#A" n="15"/>omnibus propulsandus nobis est pro virili nostra sed
+          sa<lb ed="#A" n="16" break="no"/>lutem proximi, quam ille tunc adipiscitur, quando Deo,
+          <lb ed="#A" n="17"/>qui salus nostra est, coniungitur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

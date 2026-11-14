@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 30</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 30</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="58-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a26d3x"><!-- c30 -->
+        <head xml:id="ho8ccf-a26d3x-Hd1e99">Caput 30</head>
+        <head xml:id="ho8ccf-a26d3x-Hd1e101" type="question-title">Quae sit sanctorum communio</head>
+        <p xml:id="ho8ccf-a26d3x-d1e104">
+          <lb ed="#A" n="22"/>CAPVT XXX.
+          <lb ed="#A" n="23"/>Quae sit sanctorum communio.
+        </p>
+        <p xml:id="ho8ccf-a26d3x-d1e111">
+          <lb ed="#A" n="24"/><milestone ed="#A" unit="p" rend="indent"/> VIsum est autem opereprecium, aliquid etiam de
+          <lb ed="#A" n="25"/>sanctorum communione dicere. Sunt qui putent
+          <lb ed="#A" n="26"/>iis verbis Ecclesiam definiri, quod ea sit quasi con
+          <lb ed="#A" n="27"/>munio quaedam, hoc est societas sanctorum.
+          Quo<lb ed="#A" n="28" break="no"/>rum nos hanc sententiam non reiicimus, modo ne solos
+          <lb ed="#A" n="29"/>iustos intelligi sanctos velint. Primis illis Ecclesiae tempo
+          <lb ed="#A" n="30"/>ribus, sicut superius etiam a nobis dictum est, vocabantur
+          <lb ed="#A" n="31"/>sancti fideles omnes, quicunque Christo nomen dedissent,
+          <lb ed="#A" n="32"/>&amp; eius Ecclesiae ascripti essent, etiamsi minus sancte atque
+          <lb ed="#A" n="33"/>integre vixissent. Horum communionem, hoc est
+          societa<lb ed="#A" n="34" break="no"/>tem quandam, Ecclesiam esse libenter concedimus. Est enim
+          <lb ed="#A" n="35"/>Ecclesia fidelium congregatio, est corpus vnum ex multis
+          <lb ed="#A" n="36"/>membris compactum, cuius caput est Christus, ipsum enim
+          <lb ed="#A" n="37"/>Deus dedit caput super omnem Ecclesiam, quae est corpus
+          <lb ed="#A" n="38"/>ipsius. Sicut in vno corpore multa membra habemus, om
+          <lb ed="#A" n="39"/>nia autem membra non eundem actum habent, ita multi
+          <lb ed="#A" n="40"/>vnum corpus sumus in Christo, singuli autem alter alterius
+          <lb ed="#A" n="41"/>membra. Qualis itaque membrorum inter se societas est, vt ope
+          <lb ed="#A" n="42"/>ratio cuiusque membri cadat in commodum totius corporis
+          <pb ed="#A" n="58-v"/>
+          <lb ed="#A" n="1"/>talis est inter Ecclesiae membra, qui sunt fideles, bonorum
+          <lb ed="#A" n="2"/>operum quaedam communio, non solum eorum quae fecit
+          <lb ed="#A" n="3"/>Chrisius caput huius corporis, ex quo manat in reliqui
+          <lb ed="#A" n="4"/>corpus omne, &amp; in singula eius membra, quicquid est
+          bo<lb ed="#A" n="5" break="no"/>ni, quicquid est meriti: verum &amp; piorum hominum
+          om<lb ed="#A" n="6" break="no"/>nium qui sunt, quique fuerunt ab initio mundi, nobis vt eo
+          <lb ed="#A" n="7"/>tum benefacta subueniant, nos iuuent, nos aedificent, vt
+          bo<lb ed="#A" n="8" break="no"/>norum omnium spiritualium quae fiunt, &amp; quae facta sunt
+          <lb ed="#A" n="9"/>olim in Ecclesia, quoad illius esse membra non desierimus,
+          <lb ed="#A" n="10"/>participes efficiamur. Hoc est quod a Propheta dicitur:
+          <lb ed="#A" n="11"/>Particeps ego sum omnium timentium te, &amp;
+          custodien<lb ed="#A" n="12" break="no"/>tium mandata tua. Hoc est quod Christus nos orare
+          do<lb ed="#A" n="13" break="no"/>cens, iubet non sibi quemque peculiariter petere, sed velut
+          <lb ed="#A" n="14"/>vnius corporis membra, eodem animata spiritu, quod in
+          <lb ed="#A" n="15"/>communi cunctis expediat, a communi omnium patre
+          po<lb ed="#A" n="16" break="no"/>tulare, dicendo, da nobis, dimitte nobis, libera nos: ita vt
+          <lb ed="#A" n="17"/>alter alterius onera portemus, &amp; sic legem Christi adim
+          <lb ed="#A" n="18"/>pleamus. Hoc est quod in Euangelio legimus: qui recipit
+          <lb ed="#A" n="19"/>Prophetam in nomine Prophetae, mercedem Prophetae ac
+          <lb ed="#A" n="20"/>cipiet. Hoc est quod in Genesi quoque scribitur: si decem iu
+          <lb ed="#A" n="21"/>sti Sodomis reperti fuissent, quod propter eos non fuerit
+          <lb ed="#A" n="22"/>Deus ciuitatem deleturus.
+        </p>
+        <p xml:id="ho8ccf-a26d3x-d1e206">
+          Neque vero eorum tantum qui
+          <lb ed="#A" n="23"/>nobiscum in hac vita degunt, verum &amp; illorum, qui
+          mul<lb ed="#A" n="24" break="no"/>to felicius cum Christo viuunt, nobis &amp; orationes
+          patro<lb ed="#A" n="25" break="no"/>cinantur, &amp; merita suffragantur. Hoc est quod de tribus
+          <lb ed="#A" n="26"/>ueris dicit Ioannes Chrysostomus: Quoniam seipsos ad
+          <lb ed="#A" n="27"/>impetrandam populo veniam sufficere non credunt, ad
+          pa<lb ed="#A" n="28" break="no"/>trum merita confugiunt, ipsi vero nihil se amplius
+          profi<lb ed="#A" n="29" break="no"/>tentur adferre, quam humilitatum spiritum, ac dolore
+          con<lb ed="#A" n="30" break="no"/>tritum. Et apertius adhuc in Genesim scribens. Saepe
+          quan<lb ed="#A" n="31" break="no"/>do non est inuentus iustus in praesenti vita, propter
+          defun<lb ed="#A" n="32" break="no"/>ctorum virtutem, viuentium Deus miseretur &amp; curam
+          ha<lb ed="#A" n="33" break="no"/>bet: vnde clamat dicens: Protegam ciuitatem hanc propter
+          <lb ed="#A" n="34"/>me, &amp; propter Dauid puerum meum: Quasi diceret, Licet
+          <lb ed="#A" n="35"/>ipsi indigni sint, &amp; nullam salutis habeant occasionem, ve
+          <lb ed="#A" n="36"/>rum quia solitus sum misericorditer agere, &amp; ad
+          misericor<lb ed="#A" n="37" break="no"/>diam promptus sum, propter meipsum faciam, &amp; propter
+          <lb ed="#A" n="38"/>puerum meum Dauid, qui ante hos annos e vita migrauit:
+          <lb ed="#A" n="39"/>hic erit author salutis iis, qui sua sese perdiderunt desidia,
+          <lb ed="#A" n="40"/>Vidisti domini misericordiam? quomodo eos qui virtute
+          <lb ed="#A" n="41"/>pollent, toti multitudini opponit, &amp; rependit. Rursus
+          ex<lb ed="#A" n="42" break="no"/>plicans Psalmum quinquagesimum. Hic, inquit, sanctus
+          <pb ed="#A" n="59-r"/>
+          <lb ed="#A" n="1"/>Dauid, non solum cum esset in corpore placuit Deo, sed &amp;
+          <lb ed="#A" n="2"/>post mortem suam viuis grande praestitisse solatium inue
+          <lb ed="#A" n="3"/>nitur. Contigit nanque Ezechiae regi inimicos in
+          tempori<lb ed="#A" n="4" break="no"/>bus Iudaeorum gentes Hierosolymam circumuallasse, &amp;
+          <lb ed="#A" n="5"/>cum esset Ezechias iustus vir, rogauit Deum, &amp; prostratus
+          <lb ed="#A" n="6"/>lachrymis deprecabatur vltionem de aduersariis postulans:
+          <lb ed="#A" n="7"/>venit ad eum Esaias Propheta, &amp; dicit: Ne putaret ille, quia
+          <lb ed="#A" n="8"/>iustitia sua exauditus est: &amp; certe iam defecerat Dauid, &amp;
+          <lb ed="#A" n="9"/>habebat multos annos requiescens:
+        </p>
+        <p xml:id="ho8ccf-a26d3x-d1e275">
+          Quid ergo dicit ei
+          <lb ed="#A" n="10"/>Protegam hanc ciuitatem propter me &amp; propter Dauid ser
+          <lb ed="#A" n="11"/>tum meum. Dauid mortuus est, &amp; merita eius vigent. C
+          <lb ed="#A" n="12"/>rem admirandam, &amp; ineffabilis clementia Dei homo mor
+          <lb ed="#A" n="13"/>tuus, viuo patrocinatur. Et rursus alio loco: Adeo post
+          il<lb ed="#A" n="14" break="no"/>la vulnera Dauid refulsit, sic se a maculis abluit, ita
+          mun<lb ed="#A" n="15" break="no"/>dum effecit animum, vt vel mortuus praecantibus
+          succur<lb ed="#A" n="16" break="no"/>reret. Et quod de Abraham, id quoque de Dauid Deum
+          dixis<lb ed="#A" n="17" break="no"/>se scriptura testatur, imo vero multo magis de Dauid de
+          <lb ed="#A" n="18"/>Abraham enim scriptum est: Recordatus sum testamenti
+          <lb ed="#A" n="19"/>mei, quod erat ad Abraham: hic vero non dicit Testamen
+          <lb ed="#A" n="20"/>ti, sed propter Dauid seruum meum protegam ciuitatem
+          <lb ed="#A" n="21"/>hanc. Repetit idem breuiter scribens in epistolam ad
+          Phi<lb ed="#A" n="22" break="no"/>lippenses. Gregorius quoque magnus: Aliorum, inquit, bone
+          <lb ed="#A" n="23"/>opere alij adiuuantur, sicut ad peccantem Regem Salomo
+          <lb ed="#A" n="24"/>nem a domino dicitur: Quia non custodisti praecepta mea
+          <lb ed="#A" n="25"/>disrumpens scindam regnum tuum, &amp; dabo illud seruo
+          <lb ed="#A" n="26"/>tuo, veruntamen in diebus tuis non faciam propter Dauio
+          <lb ed="#A" n="27"/>patrem tuum. Neque est quisquam fere sanctorum, qui non
+          <lb ed="#A" n="28"/>eiusdem sit sententiae. Haec itaque sanctorum est intelligenda
+          <lb ed="#A" n="29"/>communio: quod merita sanctorum omnia, tam eorum qui
+          <lb ed="#A" n="30"/>militant adhuc nobiscum in terris, quam illorum, qui
+          po<lb ed="#A" n="31" break="no"/>steaquam certauerunt bonum certamen, &amp; coronam
+          glo<lb ed="#A" n="32" break="no"/>riae consequuti sunt, iam triumphant in coelis, nobis com
+          <lb ed="#A" n="33"/>municantur, nobis suffragantur, nos adiuuant. Hoc est
+          <lb ed="#A" n="34"/>quod contra Faustum scribens dicit Augustinus: Populus
+          <lb ed="#A" n="35"/>Christianus memorias martyrum religiosa solennitate
+          <lb ed="#A" n="36"/>concelebrat, &amp; ad excitandam imitationem, &amp; vt meritis
+          <lb ed="#A" n="37"/>eorum consocietur.
+        </p>
+        <p xml:id="ho8ccf-a26d3x-d1e338">
+          Caeterum, est sanctus sanctorum
+          domi<lb ed="#A" n="38" break="no"/>nus noster Iesus Christus, cuius sanctitate sanctus est, qui
+          <lb ed="#A" n="39"/>cunque sanctus est: cuius iustitia iustus est, quicunque iustus
+          <lb ed="#A" n="40"/>est: cuius nisi crux intercessisset, nulla esset sanctitas, nulla
+          <lb ed="#A" n="41"/>esset iustitia, nulla essent merita cuiusquam. Quid enim
+          <lb ed="#A" n="42"/>aliud est hominis meritum, nisi, quemadmodum superius,
+          <pb ed="#A" n="59-v"/>
+          <lb ed="#A" n="1"/>dictum est, miseratio domini nisi mors illa crucis acerba
+          <lb ed="#A" n="2"/>quam ille misertus generis nostri, nostra causa subire
+          di<lb ed="#A" n="3" break="no"/>gnatus est? Hanc si sustuleris, quid erunt aliud vniuersae
+          <lb ed="#A" n="4"/>iustitiae nostrae, nisi pannus menstruatae? quae erunt alia
+          <lb ed="#A" n="5"/>merita nostra, nisi ignis gehennae? Hic itaque sanctus
+          san<lb ed="#A" n="6" break="no"/>ctorum, quem dedit Deus caput super omnem Ecclesiam,
+          <lb ed="#A" n="7"/>quae est corpus ipsius, merita sua omnia, praecipue vero
+          pa<lb ed="#A" n="8" break="no"/>sionis &amp; mortis suae meritum, cum membris suis
+          commu<lb ed="#A" n="9" break="no"/>nicat. Fit autem ista communicatio per Ecclesiae Sacramen
+          <lb ed="#A" n="10"/>ta, quae vocantur sancta, quorum &amp; ipsorum est in Ecclesia
+          <lb ed="#A" n="11"/>communio quaedam &amp; societas, quemadmodum Paulus
+          <lb ed="#A" n="12"/>dicit: Vnus panis &amp; vnum corpus multi sumus, qui de vno
+          <lb ed="#A" n="13"/>pane participamus.
+        </p>
+        <p xml:id="ho8ccf-a26d3x-d1e382">
+          Quamobrem vbi iisdem sanctis, hoc
+          <lb ed="#A" n="14"/>est communibus Sacramentis vtuntur omnes, per quae
+          <lb ed="#A" n="15"/>Christi meritorum facti participes, vnum cum illo capite
+          <lb ed="#A" n="16"/>suo corpus efficiuntur: vbi praeterea societas quaedam est
+          <lb ed="#A" n="17"/>&amp; communio bonorum operum omnium, quaecunque vel
+          <lb ed="#A" n="18"/>faciunt, qui versantur adhuc in hoc seculo, vel fecerunt,
+          <lb ed="#A" n="19"/>qui iam recepti sunt in sedes beatorum, ibi recte
+          sancto<lb ed="#A" n="20" break="no"/>rum esse communionem intelligimus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

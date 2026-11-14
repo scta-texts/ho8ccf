@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 37</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 37</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="70-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2cqqg"><!-- c37 -->
+        <head xml:id="ho8ccf-a2cqqg-Hd1e99">Caput 37</head>
+        <head xml:id="ho8ccf-a2cqqg-Hd1e101" type="question-title">De ritibus et caeremoniis baptismi</head>
+        <p xml:id="ho8ccf-a2cqqg-d1e104">
+          <lb ed="#A" n="14"/>CAPVT XXXVII.
+          <lb ed="#A" n="15"/>De ritibus &amp; caeremoniis baptismi.
+        </p>
+        <p xml:id="ho8ccf-a2cqqg-d1e111">
+          <lb ed="#A" n="16"/><milestone ed="#A" unit="p" rend="initial"/> ADhibentur autem huic Sacramento quaedam
+          ce<lb ed="#A" n="17" break="no"/>remoniae, non illae quidem adeo necessariae, vt sine
+          <lb ed="#A" n="18"/>illis baptismus perfici non possit, sed quas tamen
+          <lb ed="#A" n="19"/>peccet si quis nulla vrgente necessitate solo
+          con<lb ed="#A" n="20" break="no"/>temptu praetermittat, cum earum vsum antiquissimum esse
+          <lb ed="#A" n="21"/>constet: vt si quis ab ipsis Apostolis per longam
+          Episcopo<lb ed="#A" n="22" break="no"/>rum &amp; Sacerdotum successionem nobis per manus esse
+          <lb ed="#A" n="23"/>traditas affirmauerit, minime a vero aberrasse videatur:
+          <lb ed="#A" n="24"/>Meminerunt enim earum antiquissimi quique scriptores
+          <lb ed="#A" n="25"/>Adhibentur autem ij ritus, maioris cuiusdam solennita
+          <lb ed="#A" n="26"/>tis &amp; decoris gratia, tribus potissimum ex causis. Primo,
+          <lb ed="#A" n="27"/>vt tanto maiore pietate ac reuerentia ad Sacramentum hoc
+          <lb ed="#A" n="28"/>accedatur, neue communis ablutio quaedam esse putetur,
+          <lb ed="#A" n="29"/>si citra solennitatem vllam fiat, atque ita Sacramentum hoc
+          <lb ed="#A" n="30"/>contemni incipiat. Deinde, vt per benedictiones,
+          oratio<lb ed="#A" n="31" break="no"/>nes, &amp; alia id genus vis daemonis arceatur, qui nihil non
+          <lb ed="#A" n="32"/>facit vt impediat quominus fructum huius Sacramenti
+          <lb ed="#A" n="33"/>baptizandus percipiat. Postremo, quo per haec exteriora
+          <lb ed="#A" n="34"/>qui sunt ex fidelibus rudiores, diligentius instruantur aut
+          <lb ed="#A" n="35"/>saltem excitentur ad hoc, vt instrui desiderent, quid sibi ri
+          <lb ed="#A" n="36"/>tus isti velint, atque ita quae gerantur in baptismo
+          cogno<lb ed="#A" n="37" break="no"/>scant: nihil enim eorum vacat mysterio singulari. Quam
+          <lb ed="#A" n="38"/>uis autem haec persequi non est praesentis instituti,
+          quo<lb ed="#A" n="39" break="no"/>niam tamen instigante Satana factum videmus, vt &amp;
+          ce<lb ed="#A" n="40" break="no"/>remoniae vetustate consecratae a plerisque contemnantur.
+          <lb ed="#A" n="41"/>breuiter quid sibi nonnullae earum velint explicabimus.
+          <lb ed="#A" n="42"/>Principio non statim baptizandus templum ingreditur.
+          <pb ed="#A" n="71-r"/>
+          <lb ed="#A" n="1"/>neque enim se dignum iudicat, qui domum illam
+          ingredia<lb ed="#A" n="2" break="no"/>tur, quam decet sanctitudo, cum non modo sit expers om
+          <lb ed="#A" n="3"/>nis sanctitatis, verum adhuc diaboli potestati subiectus,
+          <lb ed="#A" n="4"/>omni sit spurcitia plenus. In hunc pro foribus templi
+          con<lb ed="#A" n="5" break="no"/>stitum insufflat Sacerdos: neque id sine exemplo Christi,
+          <lb ed="#A" n="6"/>cuius personam gerit, cuius virtute Sacramentum id
+          con<lb ed="#A" n="7" break="no"/>fert: qui &amp; ipse insufflasse in discipulos legitur, Spiritum
+          <lb ed="#A" n="8"/>sanctum eis daturus. Propterea autem exuflantur
+          par<lb ed="#A" n="9" break="no"/>uuli &amp; exorcizantur, dicit Augustinus, vt pellatur ab eis
+          <lb ed="#A" n="10"/>diaboli potestas inimica, quae decepit hominem, vt
+          possi<lb ed="#A" n="11" break="no"/>deret hominem, vt possideret homines. Quam alio loco
+          <lb ed="#A" n="12"/>priscam esse traditionem scribit: Ac recte: cum &amp;
+          Diony<lb ed="#A" n="13" break="no"/>sius Areopagita Pauli discipulus exufflationis &amp;
+          exorcis<lb ed="#A" n="14" break="no"/>mi meminerit. Insufflatione facta, Sacerdos exorcizat: cum
+          <lb ed="#A" n="15"/>ius moris meminit etiam Chrysostomus. Est autem
+          exo<lb ed="#A" n="16" break="no"/>cizare, nihil aliud, quam per diuina verba spiritum
+          im<lb ed="#A" n="17" break="no"/>mundum adiurando expellere: quod Apostolorum quod
+          <lb ed="#A" n="18"/>temporibus factitatum legimus. Dum exorcizatur
+          bapti<lb ed="#A" n="19" break="no"/>zandus, signat eum Sacerdos signo sanctae crucis in
+          fron<lb ed="#A" n="20" break="no"/>te primum, vbi sedes est pudoris, deinde in pectore, vt in
+          <lb ed="#A" n="21"/>telligat diabolus, expelli se virtute eius, qui in cruce pepe
+          <lb ed="#A" n="22"/>dit, vnde suam virtutem crux contra eum accepit: neque
+          <lb ed="#A" n="23"/>impedimento sit quominus qui baptizatur, &amp; corde
+          creda<lb ed="#A" n="24" break="no"/>ad iustitiam, &amp; ore confiteatur ad salutem. Quantum
+          au<lb ed="#A" n="25" break="no"/>tem exorcismo &amp; catechismo, qui baptismum praecedunt
+          <lb ed="#A" n="26"/>sancti patres tribuerint, vel ex eo Chrysostomi loco
+          per<lb ed="#A" n="27" break="no"/>spicuum esse cuiuis potest: vbi quae praecedunt baptismum
+          <lb ed="#A" n="28"/>vocat archana verba &amp; metuenda, ac horribiles Canone
+          <lb ed="#A" n="29"/>dogmatum de caelo transmissorum. Talia visa sunt priscis
+          <lb ed="#A" n="30"/>temporibus viris grauissimis: Nunc non desunt homines
+          <lb ed="#A" n="31"/>impii, qui cachinnis etiam ea prosequi non verentur. Post
+          <lb ed="#A" n="32"/>exorcismum leguntur super baptizandum orationes, vt
+          <lb ed="#A" n="33"/>fiat catechumenus, hoc est vt edoceri possit mysterium
+          sa<lb ed="#A" n="34" break="no"/>crae fidei, quae cum Dei solius donum sit, ab illo petendam
+          <lb ed="#A" n="35"/>eam esse docemur, qui &amp; adiuuat incredulitatem nostram,
+          <lb ed="#A" n="36"/>&amp; fidem adauget: qui nisi docuerit intus, frustra vox
+          ho<lb ed="#A" n="37" break="no"/>minis docentis foris perstrepit. Recte autem atque ordine
+          <lb ed="#A" n="38"/>sit, quod praecedit catechismum exorcismus: prius enim
+          <lb ed="#A" n="39"/>eripi vasa necesse fuit iniusto possessori diabolo, at ita de
+          <lb ed="#A" n="40"/>mum in possessionem victoris illius transferri, qui
+          capti<lb ed="#A" n="41" break="no"/>uam duxit captiuitatem.
+        </p>
+        <p xml:id="ho8ccf-a2cqqg-d1e264">
+          Quod vero sal in os infantis
+          im<lb ed="#A" n="42" break="no"/>ponit Sacerdos, quod aures &amp; nares postea sputo linit;
+          <pb ed="#A" n="71-v"/>
+          <lb ed="#A" n="1"/>aurium linitio significat receptionem doctrinae fidei,
+          na<lb ed="#A" n="2" break="no"/>rium approbationem: sal missum in os, confessionem.
+          Appe<lb ed="#A" n="3" break="no"/>riuntur aures ad audienda mandata Dei, nares ad
+          perci<lb ed="#A" n="4" break="no"/>piendum odorem notitiae eius, labia ad respondendum
+          Sa<lb ed="#A" n="5" break="no"/>cerdoti de fide interroganti. Facit autem &amp; haec Sacerdos
+          <lb ed="#A" n="6"/>ad imitationem Chris, quem legimus liniuisse lutum su
+          <lb ed="#A" n="7"/>per oculos caeci, &amp; iussisse abire vt ablueret: misisse deinde
+          <lb ed="#A" n="8"/>digitos in auriculas surdi, dixisseque Ephpheta, quod est
+          ad<lb ed="#A" n="9" break="no"/>aperire: expuentem etiam tetigisse linguam muti. Huius
+          <lb ed="#A" n="10"/>autem linitionis minime recentem vsum esse vel ex
+          Am<lb ed="#A" n="11" break="no"/>brosii scriptis videre licet. Legitur autem dum
+          catechiza<lb ed="#A" n="12" break="no"/>tur baptizandus Euangelium: admonentur postea
+          susce<lb ed="#A" n="13" break="no"/>ptores siue patrini, vt manus imponant capiti paruuli
+          ba<lb ed="#A" n="14" break="no"/>ptizandi, ac eius nomine profiteantur symbolum &amp;
+          ora<lb ed="#A" n="15" break="no"/>tionem dominicam. Tenentur autem susceptores dare
+          ope<lb ed="#A" n="16" break="no"/>ram, vt instruantur paruuli, cum ad vsum rationis
+          perue<lb ed="#A" n="17" break="no"/>nerint, de iis quae ad fidem pertinent. Quos &amp; Augustinus
+          <lb ed="#A" n="18"/>in sermone quodam admonuit his verbis. Admoneo
+          fra<lb ed="#A" n="19" break="no"/>tres charissimi, quicunque viri, quaecunque mulieres de sacro
+          <lb ed="#A" n="20"/>fonte filios spiritaliter exceperunt, agnoscant se pro ipsis
+          <lb ed="#A" n="21"/>fideiussores apud Deum extitisse, &amp; ideo semper illis
+          solli<lb ed="#A" n="22" break="no"/>citudinem verae charitatis impendant.
+        </p>
+        <p xml:id="ho8ccf-a2cqqg-d1e320">
+          Quod autem bene
+          <lb ed="#A" n="23"/>dictiones cum impositione manuum inter catechizandum
+          <lb ed="#A" n="24"/>fiunt, causa haec est, vt qui semel per exorcismum pulsus
+          <lb ed="#A" n="25"/>iam est diabolus, ei reditus praecludatur. Introducitur
+          po<lb ed="#A" n="26" break="no"/>stea baptizandus in Ecclesiam, ac interrogatus a Sacerdote,
+          <lb ed="#A" n="27"/>respondet per susceptores suos: nisi forte sit adultus, tum
+          <lb ed="#A" n="28"/>enim ipse loquatur necesse est, abrenuntiare se satanae, &amp;
+          <lb ed="#A" n="29"/>omnibus operibus eius, &amp; omnibus pompis eius, ac
+          Chri<lb ed="#A" n="30" break="no"/>sto se coniungi velle, in cuius etiam rei signum, ad singulos
+          <lb ed="#A" n="31"/>articulos fidei, de quibus interrogatur per Sacerdotem,
+          cre<lb ed="#A" n="32" break="no"/>dere se respondet. De hac abrenuntiatione ita scribit
+          Au<lb ed="#A" n="33" break="no"/>gustinus. In veritate &amp; non in falsitate potestas diabolica
+          <lb ed="#A" n="34"/>exorcizatur in paruulis, eique renuntiant, quia per sua non
+          <lb ed="#A" n="35"/>possunt, per corda &amp; ora gestantium, vt eruti a potestate
+          te<lb ed="#A" n="36" break="no"/>nebrarum, in regnum sui domini transferantur. Idem ad
+          <lb ed="#A" n="37"/>Valenum scribens: Antiquissimam Ecclesiae traditionem
+          <lb ed="#A" n="38"/>esse dicit, qua exorcizantur &amp; sufflantur paruuli. Ioannes
+          <lb ed="#A" n="39"/>Chrysostomus nihil hac voce scribit esse tutius: Abrenun
+          <lb ed="#A" n="40"/>tio tibi Satana, si ipsam per opera exhibeamus. Haec enim,
+          <lb ed="#A" n="41"/>inquit, vox, confederatio cum domino est, &amp; sicut nos
+          ser<lb ed="#A" n="42" break="no"/>uos ementes ipsos qui venduntur prius interrogamus an
+          <pb ed="#A" n="72-r"/>
+          <lb ed="#A" n="1"/>nobis seruire velint, ita facit &amp; Christus, quando debet te
+          <lb ed="#A" n="2"/>in seruitutem capere, prius interrogat, an velis illum
+          cru<lb ed="#A" n="3" break="no"/>delem tyrannum dimittere &amp; immitem, &amp; a te foedera susci
+          <lb ed="#A" n="4"/>pit, non enim coactum est ipsius imperium. Hortatur itaque
+          <lb ed="#A" n="5"/>non modo cum in forum prodimus, verumetiam cum
+          fue<lb ed="#A" n="6" break="no"/>rimus egressi ianuae vestibulum, iis prius verbis vtamur:
+          <lb ed="#A" n="7"/>Abrenuntio tibi Satana, &amp; coniungor tibi Christe: nec
+          <lb ed="#A" n="8"/>vnquam absque hac voce exeamus. Haec sit nobis baculus
+          <lb ed="#A" n="9"/>haec armatura, haec turris inexpugnabilis. Posteaquam abre
+          <lb ed="#A" n="10"/>nuntiauerunt diabolo, &amp; Christo nomen dederunt,
+          vn<lb ed="#A" n="11" break="no"/>git eos Sacerdos oleo, more athletarum, qui stadium iam
+          <lb ed="#A" n="12"/>ingressuri sunt, vt futuri iam Christi athletae designentur,
+          <lb ed="#A" n="13"/>quibus colluctatio futura est, non aduersus carnem &amp; san
+          <lb ed="#A" n="14"/>guinem, sed aduersus Principes &amp; potestates, aduersus
+          <lb ed="#A" n="15"/>mundi Rectores tenebrarum harum, contra spiritualia
+          ne<lb ed="#A" n="16" break="no"/>quitiae in coelestibus. Qua de re ita scribit Augustinus
+          <lb ed="#A" n="17"/>Christi nomen a Chrismate dictum est, Chrisma autem
+          <lb ed="#A" n="18"/>graece, latine vnctio nominatur. Ideo autem nos vnxit,
+          <lb ed="#A" n="19"/>quia luctatores contra diabolum fecit.
+        </p>
+        <p xml:id="ho8ccf-a2cqqg-d1e409">
+          Sed &amp; ante eum
+          Cy<lb ed="#A" n="20" break="no"/>prianus. Vngi quoque necesse est cum, qui sit baptizatus, vt
+          <lb ed="#A" n="21"/>accepto Chrismate &amp; vnctione, esse vnctus Dei, &amp; habere
+          <lb ed="#A" n="22"/>in se gratiam Christi possit. Quin &amp; vetustissimi
+          Diony<lb ed="#A" n="23" break="no"/>sius &amp; Tertullianus vnctionis meminerunt. Vngitur
+          au<lb ed="#A" n="24" break="no"/>tem &amp; in pectore, vt intrepidus Diabolo resistat charitate
+          <lb ed="#A" n="25"/>erga deum inflammatus, cui nihil est difficile: &amp; inter scap
+          <lb ed="#A" n="26"/>las, vt ad suaue iugum dini ferendam tanto fiat robustior. Vncti
+          <lb ed="#A" n="27"/>one facta baptizatur, ac ter immergit: Quae trina immer
+          <lb ed="#A" n="28"/>sio, vt est apud Damasc. tres dominicae dies sepulturae
+          repri<lb ed="#A" n="29" break="no"/>sentat, vel etiam trinitatem personarum. Ante Damascenum autem
+          <lb ed="#A" n="30"/>idem a Leone quoque pontifice annotatum est: sepulturam,
+          in<lb ed="#A" n="31" break="no"/>quit, triduanam imitatur trina demersio: &amp; ab aquis
+          eleua<lb ed="#A" n="32" break="no"/>tio, resurgentis ad instar est de sepulchro.
+        </p>
+        <p xml:id="ho8ccf-a2cqqg-d1e440">
+          Neque vero id ita
+          <lb ed="#A" n="33"/>fieri necesse est, vt non vna immersione baptismus absolui
+          <lb ed="#A" n="34"/>possit, qua &amp; vnum esse Deum, qui trinus est in personis,
+          <lb ed="#A" n="35"/>&amp; semel tantum mortuum, nec deinceps amplius moritu
+          <lb ed="#A" n="36"/>rum significetur. Quod etiam in concilio quodam
+          Tole<lb ed="#A" n="37" break="no"/>tano in detestationem erroris cuiusdam ita constitutum
+          <lb ed="#A" n="38"/>esse legimus, vt vna tantum fieret immersio. Quin &amp; ipsa
+          <lb ed="#A" n="39"/>immersio praetermitti recte potest, ac vel sola aspersio,
+          ve<lb ed="#A" n="40" break="no"/>perfusio, qua multi nunc vtuntur, sufficit, quemadmodum
+          Cyp<lb ed="#A" n="41" break="no"/>etiam testis est. Baptizatum puerum signat cruce cum
+          chrisma<lb ed="#A" n="42" break="no"/>te in vertice capitis sacerdos super cerebrum, vt hoc signo
+          <pb ed="#A" n="72-v"/>
+          <lb ed="#A" n="1"/>illum admoneat, quandoquidem vetus homo crucifixus
+          <lb ed="#A" n="2"/>in illo est, atque cum Christo consurrexit, vt in nouitate
+          vi<lb ed="#A" n="3" break="no"/>tae ambulet, quae sursum sunt quaerat, vbi Christus est in
+          <lb ed="#A" n="4"/>gloria Dei sedens, quae sursum sunt sapiat, non quae super
+          <lb ed="#A" n="5"/>terram: quandoquidem ex terreno coelestis, ex Adae filio,
+          <lb ed="#A" n="6"/>Dei filius factus est, vt iam non ad aliam illi magis, quam
+          <lb ed="#A" n="7"/>ad coelestem haereditatem aspirare fas sit. Postea dat illi
+          <lb ed="#A" n="8"/>vestem candidam, vt sit indicium, quemadmodum scribit
+          <lb ed="#A" n="9"/>Ambrosius, quod exuerit inuolucris peccatorum, &amp;
+          indue<lb ed="#A" n="10" break="no"/>rit innocentiae casta velamina. Meminit etiam Socrates
+          <lb ed="#A" n="11"/>post Dionysium in Ecclesiastica Historia candidae vestis
+          <lb ed="#A" n="12"/>huius, quae dabatur baptizatis. Quin &amp; adhuc durat
+          no<lb ed="#A" n="13" break="no"/>men dominicae in albis. Nam in primitiua Ecclesia fuit
+          <lb ed="#A" n="14"/>mos, vt non baptizarentur nisi in vigilia Paschae, &amp;
+          Pen<lb ed="#A" n="15" break="no"/>ecostes. Qui itaque baptizabantur in vigilia Paschae,
+          ince<lb ed="#A" n="16" break="no"/>debant velte candida induti per octo dies, ac vocabantur
+          <lb ed="#A" n="17"/>albari, atque octauo demum die vestem albam deponebant:
+          <lb ed="#A" n="18"/>vnde tractum nomen dominicae. Quod autem
+          suscepto<lb ed="#A" n="19" break="no"/>res, quos Patrinos vocant, adhibentur in baptismo, qui
+          <lb ed="#A" n="20"/>quasi sponsores paruulorum voluntatis esse videntur, atque
+          <lb ed="#A" n="21"/>instruere baptizatos de iis quae ad fidem pertinent
+          obsti<lb ed="#A" n="22" break="no"/>cti sunt, est &amp; hoc, sicut Dionysius testatur, Apostolicae tra
+          <lb ed="#A" n="23"/>ditionis. Contrahi autem cognationem ex baptismo,
+          re<lb ed="#A" n="24" break="no"/>cens non est. Antiquissimus Origenes huius
+          cognatio<lb ed="#A" n="25" break="no"/>nis meminit, explicans illum Pansi locum, Lucius, &amp;
+          la<lb ed="#A" n="26" break="no"/>son, &amp; Sosipater, cognati mei: Hanc, inquit cognationem
+          <lb ed="#A" n="27"/>vel consanguinitatem, arbitror esse ex baptisino
+          contra<lb ed="#A" n="28" break="no"/>ctam. Datur extremo baptizato cereus ardens, vt
+          memi<lb ed="#A" n="29" break="no"/>nerit, quandoquidem sponsauit eum sibi Christus in fide,
+          <lb ed="#A" n="30"/>cum venerit Christus sponsus ad nuptias, quo se
+          praepare<lb ed="#A" n="31" break="no"/>ad occurrendum ei cum lampade non extincta, sicut
+          fa<lb ed="#A" n="32" break="no"/>tuae illae virgines, sed ardente, hoc est cum fide, non illa
+          <lb ed="#A" n="33"/>mortua, sed quae igne charitatis accensa, otiosa esse non
+          po<lb ed="#A" n="34" break="no"/>test. Hic perspicere licet, quam nihil non sacrum, nihil non
+          <lb ed="#A" n="35"/>veneratione dignum sit in iis ceremoniis, in quibus
+          recon<lb ed="#A" n="36" break="no"/>dita sunt mysteria multa homini Christiano cognita
+          cum<lb ed="#A" n="37" break="no"/>primis necessaria, quae vt scrutetur diligentius per
+          exte<lb ed="#A" n="38" break="no"/>riora haec excitari videtur. Non sunt itaque temere
+          prae<lb ed="#A" n="39" break="no"/>termittendae, quas ipsis etiam Apostolorum temporibus
+          <lb ed="#A" n="40"/>obseruatas, ac deinceps longo seculorum tractu nunquam
+          <lb ed="#A" n="41"/>intermissas, ad haec vsque nostra tempora ex
+          vetustissi<lb ed="#A" n="42" break="no"/>mis quibusque scriptoribus abunde liquere potest. Verum
+          <pb ed="#A" n="73-r"/>
+          <lb ed="#A" n="1"/>hos reliquae persequamur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

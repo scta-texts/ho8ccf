@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 60</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 60</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="204-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2y6dm"><!-- c60 -->
+        <head xml:id="ho8ccf-a2y6dm-Hd1e99">Caput 60</head>
+        <head xml:id="ho8ccf-a2y6dm-Hd1e101" type="question-title">Explicatio Salutationis Angelicae</head>
+        <p xml:id="ho8ccf-a2y6dm-d1e104">
+          <lb ed="#A" n="38"/>CAPVT X.
+          <lb ed="#A" n="39"/>Explicatio Salutationis Angelicae.
+        </p>
+        <p xml:id="ho8ccf-a2y6dm-d1e111">
+          <pb ed="#A" n="205-r"/>
+          <lb ed="#A" n="1"/><milestone ed="#A" unit="p" rend="indent"/> SIC moribus receptum est in sancta Catholica
+          Eccle<lb ed="#A" n="2" break="no"/>sia, neque recens fuisse videtur hoc institutum, vt
+          ora<lb ed="#A" n="3" break="no"/>tioni dominicae, virginis Mariae salutatio subiunga
+          <lb ed="#A" n="4"/>tur, quam etiam in Liturgia sua Ioannes Chrysosio
+          <lb ed="#A" n="5"/>mus, non sine praefatione quadam inserendam esse
+          puta<lb ed="#A" n="6" break="no"/>uit. His enim verbis Mariam affatur, Vt vere dignum &amp;
+          <lb ed="#A" n="7"/>iustum est, glorificare te Deiparam, &amp; semper beatissimam,
+          <lb ed="#A" n="8"/>&amp; penitus incontaminatam dei nostri matrem:
+          honora<lb ed="#A" n="9" break="no"/>tiorem Cherubin, &amp; gloriosiorem incomparabiliter Sera
+          <lb ed="#A" n="10"/>phin, quae citra corruptionem Deum peperit: vere
+          Deipa<lb ed="#A" n="11" break="no"/>ram te magnificamus. Aue gratia plena Maria, Dominus
+          <lb ed="#A" n="12"/>tecum, benedicta tu in mulieribus, &amp; benedictus fructus
+          <lb ed="#A" n="13"/>ventris tui, quoniam saluatorem animarum nostrarum
+          pe<lb ed="#A" n="14" break="no"/>peristi. Quid ni glorificemus autem? quid ni
+          magnifice<lb ed="#A" n="15" break="no"/>mus eam? quam electam a seculo, quam ab altissimo
+          prae<lb ed="#A" n="16" break="no"/>cognitam, sibique praeparatam, quam longe ante patribus
+          <lb ed="#A" n="17"/>nostris coelitus promissam, quam typis mysticis
+          adumbra<lb ed="#A" n="18" break="no"/>tam quam Prophetarum oraculis videmus esse
+          praenun<lb ed="#A" n="19" break="no"/>tiatam. Haec est enim illa, de qua in ipsis adhuc rudis
+          mun<lb ed="#A" n="20" break="no"/>di primordiis, conditor ipse primum edidit
+          vatici<lb ed="#A" n="21" break="no"/>nium olim fore mulierem, quae calcaneo lethiferi
+          serpen<lb ed="#A" n="22" break="no"/>tis caput protereret, Haec est noui Adae noua Eua: non
+          no<lb ed="#A" n="23" break="no"/>uerca, quod illa vetus, quae suos foetus, prius etiam quam
+          <lb ed="#A" n="24"/>pareret, extinxit, sed mater: neque mater morientium quod
+          <lb ed="#A" n="25"/>illa, sed reuiuiscentium: quae mysterio quodam ineffabili,
+          <lb ed="#A" n="26"/>quod nulla possit humana mens comprehendere, de
+          cu<lb ed="#A" n="27" break="no"/>ius osse genita fuerat, eum ipsa de sua carne vicissim
+          ge<lb ed="#A" n="28" break="no"/>nuit, nec ab alio foecundata, quam quem peperit, vt
+          inex<lb ed="#A" n="29" break="no"/>tricabili quodam aenigmate, simul eadem fuerit, &amp; filia,
+          <lb ed="#A" n="30"/>&amp; sponsa, &amp; mater. Quid autem nobis aliud illa virga
+          <lb ed="#A" n="31"/>sacerdotalis adumbrabat, quae sine radice germinauit:
+          <lb ed="#A" n="32"/>quam huius virgineam foecunditatem, quae neque
+          morta<lb ed="#A" n="33" break="no"/>li manu consita, neque terreno succo irrigata, &amp; coelitus
+          <lb ed="#A" n="34"/>concipiendo floruit, &amp; sine cruciatu pariendo viuificum
+          <lb ed="#A" n="35"/>fructum edidit. Iam &amp; niueum illud Gedeonis vellus, quod
+          <lb ed="#A" n="36"/>in areae siccae medio maduit, cuius alius praefigurabat
+          fi<lb ed="#A" n="37" break="no"/>mulacrum nisi Mariae? quae procul quidem a carnis
+          con<lb ed="#A" n="38" break="no"/>tagio semota, verum coelesti rore ter compluta, trinitatis
+          <lb ed="#A" n="39"/>opificio deum pura concepit, pura enixa est, pura post
+          edi<lb ed="#A" n="40" break="no"/>tum partum permansit. Cuius obtinebat imaginem nisi
+          Ma<lb ed="#A" n="41" break="no"/>riae diuini vatis insignis illa porta, non ad Aquilonem
+          vn<lb ed="#A" n="42" break="no"/>de panditur omne malum, sed ad exortum spectans, vnde
+          <pb ed="#A" n="205-v"/>
+          <lb ed="#A" n="1"/>sol oritur nouus, &amp; nouator omnium? cuius integritatis
+          <lb ed="#A" n="2"/>claustra princeps pacis, non modo non violauit, vel ingre
+          <lb ed="#A" n="3"/>diens vel egrediens, verumetiam consecrauit. Verba Prophe
+          <lb ed="#A" n="4"/>tae sunt: Porta quae prospiciebat ad orientem clausa erit, &amp;
+          <lb ed="#A" n="5"/>vir non transibit per eam, quoniam Dominus Deus Israel
+          in<lb ed="#A" n="6" break="no"/>gressus est per eam, eritque clausa. Clausa, fuit in Maria
+          vir<lb ed="#A" n="7" break="no"/>ginitatis porta per quam intrauit Dominus Deus Israel, &amp;
+          <lb ed="#A" n="8"/>per ipsam, processit, &amp; in aeternum porta virginis clausa
+          ser<lb ed="#A" n="9" break="no"/>uata virginitate permansit. Hanc denotabat signum illud
+          <lb ed="#A" n="10"/>magnum, quod in coelo scribit apparuisse Ioannes: Mulier
+          ami<lb ed="#A" n="11" break="no"/>cta sole, &amp; luna sub pedibus eius, &amp; in capite eius corona
+          <lb ed="#A" n="12"/>stellarum duodecim. Fuit enim revera Maria amicta
+          lumi<lb ed="#A" n="13" break="no"/>ne tanquam vestimento, fuit induta iustitiae solem, eum de
+          <lb ed="#A" n="14"/>quo scribit Apostolus. Induimini dominum Iesum Christum,
+          <lb ed="#A" n="15"/>in illo manebat, &amp; ipse in ea vestiuit illum, &amp; vestita est ab
+          <lb ed="#A" n="16"/>illo, vestiuit illum substantia suae carnis, &amp; vestita vicissim
+          <lb ed="#A" n="17"/>est ab eo, gloria Maiestatis eius, vestiuit nube solem, &amp;
+          ei<lb ed="#A" n="18" break="no"/>ipsa vestita sole. Certe signum hoc magnum est, mulier ille
+          <lb ed="#A" n="19"/>sa manens amicta sole: sed non est haec mulieris potentia, non
+          <lb ed="#A" n="20"/>modo non humana, verum ne angelica quidem, sed
+          subli<lb ed="#A" n="21" break="no"/>miore quadam virtute factum est, ea nimirum de qua dixit
+          <lb ed="#A" n="22"/>angelus. Spiritus sanctus superueniet in te.
+        </p>
+        <p xml:id="ho8ccf-a2y6dm-d1e258">
+          Quoniam vero
+          <lb ed="#A" n="23"/>poterat respondere: Spiritus Deua est: Deus autem noster
+          <lb ed="#A" n="24"/>gnis consumens est, quasi occurrens ait: virtus non
+          mea<lb ed="#A" n="25" break="no"/>non tua, sed virtus altissimi obumbrabit tibi: Nihil vt sit
+          <lb ed="#A" n="26"/>mirum, si sub tali vmbraculo, talis a muliere sustineatur
+          <lb ed="#A" n="27"/>amictus. Mysticus quoque Mosi rubus, falso flagrare visus,
+          <lb ed="#A" n="28"/>praegnantem huius virginitatem praetendebat, quae sola
+          mo<lb ed="#A" n="29" break="no"/>talium nomen est puerperae promerita, cum vxoris officium
+          <lb ed="#A" n="30"/>nunquam praestitisset. Hanc praeludebat &amp; mulier illa
+          pro<lb ed="#A" n="31" break="no"/>phetica, quae nouo quodam &amp; inaudito miraculo, zona
+          su<lb ed="#A" n="32" break="no"/>corporis illibata, virum circundedit, citra virilem operam,
+          <lb ed="#A" n="33"/>Siquidem Iesus Christus ante luciferum genitus, ex hac sum,
+          <lb ed="#A" n="34"/>psit carnis initium, &amp; quem caeli caelorum non capiunt, qui
+          <lb ed="#A" n="35"/>implens omnia, cum sit in omnibus, ab iis tamen non
+          capi<lb ed="#A" n="36" break="no"/>tur, nec tenetur: is intra virginis huius viscera claudi
+          di<lb ed="#A" n="37" break="no"/>gnatus est. Reuera nouum &amp; inauditum, ait Cyprianus, quod
+          <lb ed="#A" n="38"/>in vteri materni angustia circundedit intra se fragilis caro
+          <lb ed="#A" n="39"/>virtutem altissimi, &amp; ordinem rerum, cursumque naturae mu
+          <lb ed="#A" n="40"/>tauit sapientia dei, &amp; vbique est dilatata plenitudinem sui,
+          <lb ed="#A" n="41"/>vasi infundens exiguo: sic est circundan vtero muliebri,
+          <lb ed="#A" n="42"/>vt tamen vniuersa ambiret, implens omnia, excedens cum
+          <pb ed="#A" n="206-r"/>
+          <lb ed="#A" n="1"/>cta, intra se omnia continens, extra vniuersa complectens
+          <lb ed="#A" n="2"/>Mons etiam ille magnus, quem vidit Daniel, vnde sine
+          ma<lb ed="#A" n="3" break="no"/>nibus excisus est lapis, lapis angularis ille, qui fecit vtraque
+          <lb ed="#A" n="4"/>vnum, cui nititur omnis aedificatio, non cessura tempestatis
+          <lb ed="#A" n="5"/>bus huius seculi, in quem quisquis ceciderit, collidetur,
+          <lb ed="#A" n="6"/>mons, inquam, ille magnus, cuius nisi Mariae typum gerebat?
+          <lb ed="#A" n="7"/>quam prae caeteris Esaias quoque, nunc de radice lesse virga
+          <lb ed="#A" n="8"/>orituram, nunc euidentius virginem parituram esse
+          praedi<lb ed="#A" n="9" break="no"/>xit. Quam &amp; Salomon requirere visus est, cum diceret
+          <lb ed="#A" n="10"/>Mulierem fortem quis inueniet? Non ignorabat vir ille
+          <lb ed="#A" n="11"/>sapiens, quanta sexus huius esset imbecillitas, quam
+          fragi<lb ed="#A" n="12" break="no"/>le corpus, quam lubrica inens: quoniam tamen &amp; Deum
+          pro<lb ed="#A" n="13" break="no"/>misisse legerat, &amp; ita congruere videbat, vt qui per feminam
+          <lb ed="#A" n="14"/>vicerat, per feminam vinceretur, cum stupore quodam &amp;
+          <lb ed="#A" n="15"/>admiratione prorumpit in haec verba: Mulierem fortem quis
+          <lb ed="#A" n="16"/>inueniet? quasi diceret, Si de manu foeminae sic pendet &amp;
+          <lb ed="#A" n="17"/>salus nostra omnium, &amp; innocentiae restitutio, &amp; de hoste
+          <lb ed="#A" n="18"/>victoria, cumprimis esse fortem oportet, quae tantum ad opus
+          <lb ed="#A" n="19"/>hoc esse queat idonea. Quam ergo sic &amp; oracula
+          Prophe<lb ed="#A" n="20" break="no"/>tarum praecinuisse &amp; mysticae Synagogae typicas
+          imagi<lb ed="#A" n="21" break="no"/>nes deliniasse, &amp; facundos Ecclesiae doctores suis postea
+          vir<lb ed="#A" n="22" break="no"/>tutibus exornasse, suisque coloribus depinxisse videmus,
+          <lb ed="#A" n="23"/>quid in laudes illius decantemus? quid ni quoties vsus
+          <lb ed="#A" n="24"/>venerit, supplices opem illius imploremus? Quod si qui
+          <lb ed="#A" n="25"/>sunt qui nobis obstrepant dicentes: Nunquid non
+          suffi<lb ed="#A" n="26" break="no"/>cit vnus Christus? Respondet illis vnus ex praecipuis
+          <lb ed="#A" n="27"/>huius virginis amatoribus: Sufficere poterat Christus
+          <lb ed="#A" n="28"/>siquidem omnis sufficientia nostra ex Deo est, sed nobis
+          <lb ed="#A" n="29"/>bonum non erat hominem esse solum: congruum magis
+          <lb ed="#A" n="30"/>vt adesset reparationi nostrae sexus vterque, quoniam
+          cor<lb ed="#A" n="31" break="no"/>ruptioni neuter defuisset. Fidelis plane &amp; potens media
+          <lb ed="#A" n="32"/>tor Dei &amp; hominum homo Christus Iesus, sed diuina in
+          co<lb ed="#A" n="33" break="no"/>homines reuerentur maiestatem, Deus autem noster ignis
+          <lb ed="#A" n="34"/>consumens est. Quid ni vereatur peccator accedere, ne
+          <lb ed="#A" n="35"/>quemadmodum fiuit cera a fade ignis, sic pereat ipse a
+          fa<lb ed="#A" n="36" break="no"/>cie Dei? Opus est itaque mediatore ad mediatorem istum,
+          <lb ed="#A" n="37"/>nec alius nobis vtilior quam Maria. Crudelis nimirum
+          <lb ed="#A" n="38"/>Eua, per quam serpens antiquus pestiferum etiam ipsi viro
+          <lb ed="#A" n="39"/>virus infudit, sed fidelis Maria, quae salutis antidotum &amp;
+        </p>
+        <p xml:id="ho8ccf-a2y6dm-d1e392">
+          <lb ed="#A" n="40"/>viris et mulieribus propinauit. Illa ministra fuit
+          seductio<lb ed="#A" n="41" break="no"/>nis, haec propitiationis: Illa suggessit praeuaricationem, haec
+          <lb ed="#A" n="42"/>iniecit redemptionem. Ac in alio sermone. Quicquid illud est,
+          <pb ed="#A" n="206-v"/>
+          <lb ed="#A" n="1"/>quod offerre Deo paras, Mariae commendare memento, vt
+          <lb ed="#A" n="2"/>eodem alueo, ad largitorem gratiae gratia redeat, quo
+          in<lb ed="#A" n="3" break="no"/>fluxit, Neque enim impotens erat Deus, &amp; sine hoc aqua
+          <lb ed="#A" n="4"/>ductu infundere gratiam prout vellet, sed tibi vehiculum
+          <lb ed="#A" n="5"/>voluit prouidere, Forte enim manus tuae aut sanguine ple
+          <lb ed="#A" n="6"/>nae, aut infectae muneribus, quod non eas ab omni mune
+          <lb ed="#A" n="7"/>re excussisti, ideo modicum illud, quod offerre desideras
+          <lb ed="#A" n="8"/>gratissimis illis, &amp; omni acceptione dignissimis manibus
+          <lb ed="#A" n="9"/>offerendum tradere cura, si non vis sustinere repulsam
+          <lb ed="#A" n="10"/>Neque vero solus hoc Bernardus ita sensit. Nam &amp; multis
+          <lb ed="#A" n="11"/>ante seculis beatus Ephren Deiparam virginem, concilia
+          <lb ed="#A" n="12"/>tricem, &amp; aduocatam vocat, Andreas quoque Hierosoly
+          <lb ed="#A" n="13"/>mitanus, qui vixit ante annos prope mille, in sermone,
+          <lb ed="#A" n="14"/>quem scripsit in hanc ipsam salutationem Deiparae
+          virgi<lb ed="#A" n="15" break="no"/>nis, vocat eam diuinam cum hominibus reconciliationem,
+          <lb ed="#A" n="16"/>Et qui fuit proximus Apostolorum temporibus Irenaeus
+          <lb ed="#A" n="17"/>Quemadmodum Eua per Euangelicum sermonem inquit,
+          <lb ed="#A" n="18"/>seducta est, vt effugeret Deum, praeuaricata verbum eius,
+          <lb ed="#A" n="19"/>ita Maria per Angelicum sermonem euangelizata est, vt
+          <lb ed="#A" n="20"/>portaret Deum, obediens eius verbo, Et sicut illa
+          sedu<lb ed="#A" n="21" break="no"/>cta est, vt effugeret Deum, sic haec suasa est, obedire
+          <lb ed="#A" n="22"/>Deo, vti virginis Euae, virgo Mana fieret aduocata, Et
+          <lb ed="#A" n="23"/>quemadmodum adstrictum est morti genus humanum
+          <lb ed="#A" n="24"/>per virginem, soluatur per virginem, aequa lance
+          disposi<lb ed="#A" n="25" break="no"/>ta virginalis inobedientiae per virginalem
+          obedien<lb ed="#A" n="26" break="no"/>tiam, Quae postrema verba citantur etiam ab
+          Augu<lb ed="#A" n="27" break="no"/>stino contra Iulianum scribente. Quin &amp; alii plerique
+          san<lb ed="#A" n="28" break="no"/>cti patres Deiparam virginem, &amp; inuocarunt ipsi, &amp;
+          caete<lb ed="#A" n="29" break="no"/>ris vt inuocarent authores fuerunt, quemadmodum vbi
+          <lb ed="#A" n="30"/>nobis de sanctorum inuocatione sermo fuit, pluribus
+          ve<lb ed="#A" n="31" break="no"/>bis demonstratum est.
+        </p>
+        <p xml:id="ho8ccf-a2y6dm-d1e470">
+          Caeterum si quis alius, certe
+          Ber<lb ed="#A" n="32" break="no"/>nardus, is fuisse videtur, qui cum aliis in rebus, quod illi
+          <lb ed="#A" n="33"/>ipsi confitentur, qui segregauerunt semet ipsos, tum quod
+          <lb ed="#A" n="34"/>ad honores attinet vel Deiparae virgini, vel sanctis
+          tribu<lb ed="#A" n="35" break="no"/>endos, praeclaro semper vsus fuerit iudicio. Indicat hoc
+          <lb ed="#A" n="36"/>vel Epistola, quam scripsit ad Canonicos Lugdunenses,
+          <lb ed="#A" n="37"/>vel sermones, quos de sanctis non paucos aedidit, in
+          <lb ed="#A" n="38"/>quibus omnibus adeo non transfert in homines dei
+          glo<lb ed="#A" n="39" break="no"/>riam, vt minus etiam virgini Deiparae tribuere
+          videa<lb ed="#A" n="40" break="no"/>tur, quam a multis tribui videmus.
+        </p>
+        <p xml:id="ho8ccf-a2y6dm-d1e492">
+          Quamobrem
+          ni<lb ed="#A" n="41" break="no"/>hil est quod huius authoritatem quisquam sequi
+          du<lb ed="#A" n="42" break="no"/>bitet in re praesertim tam vetusta, receptoque totius
+          Ec<pb ed="#A" n="207-r"/><lb ed="#A" n="1" break="no"/>sclesiae more confirmata. Si quis diuos colit Christum in
+          <lb ed="#A" n="2"/>Diuis colit: qui sanctos laudat, Christum laudat in
+          san<lb ed="#A" n="3" break="no"/>ctis: qui sanctos inuocat, Christi per sanctos auxilium
+          in<lb ed="#A" n="4" break="no"/>uocat: qui sanctos imitatur, Christum imitatur in
+          san<lb ed="#A" n="5" break="no"/>ctis: qui sanctos adorat, dei dona in sanctis adorat:
+          quan<lb ed="#A" n="6" break="no"/>to magis idem quisque facere credendus est, in ea
+          colen<lb ed="#A" n="7" break="no"/>da, landanda, inuocanda, adoranda, ex cuius vtero
+          proces<lb ed="#A" n="8" break="no"/>sit is, per quem sancti sunt, quotquot sancti sunt, affectui
+          <lb ed="#A" n="9"/>in matrem, pietas est in filium, quandoquidem in matre
+          <lb ed="#A" n="10"/>filium &amp; matrem ob filium veneramur, vt omnis honos
+          <lb ed="#A" n="11"/>matri praestitus, in ipsum redundet filium. Hic est enim
+          <lb ed="#A" n="12"/>in omnibus &amp; supen omnes colendus, glorificandus,
+          imi<lb ed="#A" n="13" break="no"/>tandus, inuocandus, adorandus. Quae quidem omnia si
+          <lb ed="#A" n="14"/>suo modo quodam sanctis tribuantur, manet
+          nihilomi<lb ed="#A" n="15" break="no"/>nus Deo sua gloria, nulli communicabilis.
+        </p>
+        <p xml:id="ho8ccf-a2y6dm-d1e532">
+          Verum nos
+          <lb ed="#A" n="16"/>ad salutationem Angelicam, de qua nobis initio
+          sermo<lb ed="#A" n="17" break="no"/>fuit, redeamus, quae tanto nobis debet esse
+          commenda<lb ed="#A" n="18" break="no"/>rior, quod non ab hominis ingenio profecta, verum de
+          <lb ed="#A" n="19"/>coelo per angeli praeconium in terras est delata: tum
+          au<lb ed="#A" n="20" break="no"/>tem, ita breuis est &amp; succincta, vt in ea ediscenda nihil esse
+          <lb ed="#A" n="21"/>queat negotii, &amp; verborum in ea numerum,
+          sententia<lb ed="#A" n="22" break="no"/>rum superat vbertas. Huc accedit, quod quoties hac
+          vti<lb ed="#A" n="23" break="no"/>mur salutatione, felicis illius horae statim admonemur,
+          <lb ed="#A" n="24"/>quae prima post infelicem parentis nostri casum humano
+          <lb ed="#A" n="25"/>generi laeta cumprimis illuxit, qua Deus afflictionem
+          po<lb ed="#A" n="26" break="no"/>puli sui nuseratus, misso angelo, foeminam sibi delegit
+          cu<lb ed="#A" n="27" break="no"/>tus ministerio quam per foeminam diabolus inuexerat.
+          <lb ed="#A" n="28"/>mortem aboleret, eamque vita sempiterna commutaret. Sed
+          <lb ed="#A" n="29"/>iam ipsum Angelum loquentem audiamus. Is ad
+          Ma<lb ed="#A" n="30" break="no"/>riam virginem ingressus ait AVE ORATIA
+          PLE<lb ed="#A" n="31" break="no"/>14. Noua quidem haec tum fuit salutandi formula, quam
+          <lb ed="#A" n="32"/>in omni scriptura negat Origenes se inuenire potuisse.
+          <lb ed="#A" n="33"/>Graeca vox quae legitur apud Lucam, non saluere tantum
+        </p>
+        <p xml:id="ho8ccf-a2y6dm-d1e574">
+          <lb ed="#A" n="34"/>vel auere, verum etiam gaudere significat &amp; valere: nec
+          <lb ed="#A" n="35"/>vlla potuit Angelus vti voce magis apta &amp; apposita. Si
+        </p>
+        <p xml:id="ho8ccf-a2y6dm-d1e581">
+          <lb ed="#A" n="36"/>quidem quae verae voluptatis authorem conceptura, &amp;
+          <lb ed="#A" n="37"/>quem Eua miseris mortalibus mororem ingentem
+          inue<lb ed="#A" n="38" break="no"/>xerat, eum erat sempiterno gaudio commutatura,
+          quo<lb ed="#A" n="39" break="no"/>nam alio quam gaudii vocabulo salutatam eam oportuit?
+        </p>
+        <p xml:id="ho8ccf-a2y6dm-d1e593">
+          <lb ed="#A" n="40"/><milestone ed="#A" unit="p" rend="indent"/> Quamobrem recte Chrysologus. In hac voce, inquit,
+          <lb ed="#A" n="41"/>oblatio est, oblatio muneris, non simplex salutationis
+          offi<lb ed="#A" n="42" break="no"/>cium. Quod munus nato Christo pastoribus obtulerat
+          <pb ed="#A" n="207-v"/>
+          <lb ed="#A" n="1"/>Angelus dicens: Euangelizo vobis gaudium magnum,
+          <lb ed="#A" n="2"/>quod erit omni populo, quia natus est vobis hodie
+          salua<lb ed="#A" n="3" break="no"/>tor. Idem hoc munus, idem gaudium obtulit tum
+          virgi<lb ed="#A" n="4" break="no"/>ni Mariae, cum ex ea natum iri saluatorem renuntiauit.
+          <lb ed="#A" n="5"/>Legimus autem &amp; de Stephano, quod fuerit plenus
+          gra<lb ed="#A" n="6" break="no"/>tia &amp; fortitudine: de Ioanne quoque Baptista: de Elizabeth,
+          <lb ed="#A" n="7"/>de Zacharia: de Apostolis dicit scriptura, quod repleti fue
+          <lb ed="#A" n="8"/>runt spiritu sancto, neque tamen propterea credendum est
+          <lb ed="#A" n="9"/>quod similiter vt Deipara gratia vel spiritu sancto repleti
+          <lb ed="#A" n="10"/>fuerint: nam neque conceperunt illi de spiritu sancto, sicut
+          <lb ed="#A" n="11"/>Maria, nec habitauit in illis plenitudo diuinitatis
+          corpo<lb ed="#A" n="12" break="no"/>raliter, quemadmodum in Maria, cui quae per partes aliis
+          <lb ed="#A" n="13"/>est praestita singulis, totum se simul infudit gratiae plenitu
+          <lb ed="#A" n="14"/>do, quae descendit in eam sicut pluuia in vellus. Vellus cum
+          <lb ed="#A" n="15"/>sit de corpore, nescit corporis passiones: ita virginitas cum
+          <lb ed="#A" n="16"/>fit in carne, carnis ignorat vitia, Coelestis igitur imber in
+          <lb ed="#A" n="17"/>virgineum vellus Mariae placido se fudit illapsu, &amp; tota
+          <lb ed="#A" n="18"/>diuinitatis vnde bibulo se nostrae carnis celauit in vellere,
+          <lb ed="#A" n="19"/>donec per patibulum crucis expressum, terris omnibus
+          plu<lb ed="#A" n="20" break="no"/>uiam salutis effunderet. Hac igitur ratione, plena gratia
+          <lb ed="#A" n="21"/>dicitur, quod sola est Maria, de qua propter honorem
+          do<lb ed="#A" n="22" break="no"/>mini, nullam prorsus quum de peccatis agitur, haberi
+          quae<lb ed="#A" n="23" break="no"/>stionem, non modo Augustinus, verum etiam vniuersa
+          ve<lb ed="#A" n="24" break="no"/>luit Ecclesia, quod vel inde scire possit; ad vincendum ex
+          <lb ed="#A" n="25"/>omni parte peccatum pluei gratiae collatum esse, quia con
+          <lb ed="#A" n="26"/>cipere &amp; parere ingruit, quem constat nullum habuisse
+          pec<lb ed="#A" n="27" break="no"/>catum. Etenim hac vna virgine excepta, si sanctos alios
+          om<lb ed="#A" n="28" break="no"/>nes &amp; sanctas quum hic viuerent congregare licuisset, &amp;
+          <lb ed="#A" n="29"/>interrogare, num fuerint absque peccato, quantalibet
+          fue<lb ed="#A" n="30" break="no"/>rint in isto corpore excellentia sanctitatis, incunctanter
+          <lb ed="#A" n="31"/>na voce cuncti clamasser. Si dixerimus quia peccatum non
+          <lb ed="#A" n="32"/>habemus, ipsi nos seducimus &amp; veritas in nobis non est;
+          <lb ed="#A" n="33"/>nec humilius id quam verius respondissent. Plenior ita
+          gra<lb ed="#A" n="34" break="no"/>tia fuit Maria, quam omnes alii, quum sola sit quam
+          om<lb ed="#A" n="35" break="no"/>ni peccato fuisse vacuam persuasum habemus. Scriptum
+          au<lb ed="#A" n="36" break="no"/>tem est de Christo quoque, quod sit plenus gratia &amp;
+          veri<lb ed="#A" n="37" break="no"/>tate: verum ab hac plenitudine tanto longius abfuit
+          Ma<lb ed="#A" n="38" break="no"/>ria, quam abfuerunt a Mariae plenitudine sancti reliqui,
+          <lb ed="#A" n="39"/>quanto majus inter creaturam &amp; creatorem, inter
+          ho<lb ed="#A" n="40" break="no"/>minem mortalem &amp; Deum discrimen est immortalem. Si
+          <lb ed="#A" n="41"/>quidem Christus, ipsa est plenitudo, Maria sicut alii sancti,
+          <pb ed="#A" n="208-r"/>
+          <lb ed="#A" n="1"/>sed plus tamen quam alii sancti: quicquid habet gratiae, de
+          <lb ed="#A" n="2"/>Christi plenitudine accepit. Posteaquam Angelus
+          Ma<lb ed="#A" n="3" break="no"/>riam gratia plenam salutauit: subdit DOMINVS
+          TE<lb ed="#A" n="4" break="no"/>CVM. Quid autem aliud Angelus quam a Domino mis
+          <lb ed="#A" n="5"/>sus est nuntius? Erat ergo cum virgine, qui misit ad
+          virgi<lb ed="#A" n="6" break="no"/>nem praecessit nuntium suum Deus, sed a Deo non
+          reces<lb ed="#A" n="7" break="no"/>sit, Locis teneri non potest, qui locis habetur in omnibus,
+          <lb ed="#A" n="8"/>&amp; vbique totus est sine quo nihil totum est. Gedeonem
+          <lb ed="#A" n="9"/>quoque legimus iisdem verbis ab Angelo salutatum, sic
+          <lb ed="#A" n="10"/>enim est eum alloquutus: Dominus tecum virorum
+          for<lb ed="#A" n="11" break="no"/>tissime, verum aliter cum Gedeone fuit Dominus, aliter
+          <lb ed="#A" n="12"/>cum virgine Deipara. Gedeonem elegit Dominus, vt
+          es<lb ed="#A" n="13" break="no"/>set saluator Israelis de manu Madian: Mariam elegit, vt
+          <lb ed="#A" n="14"/>non Isracli tantum, verum orbi saluatorem aederet
+          vniuer<lb ed="#A" n="15" break="no"/>so, qui esset propitiatio totius mundi, qui nos morte
+          su<lb ed="#A" n="16" break="no"/>reconciliatos, ac de Sathanae potestate ereptos, ex
+          inimi<lb ed="#A" n="17" break="no"/>cis amicos, ex irae filiis dei patris sui filios &amp; haeredes
+          face<lb ed="#A" n="18" break="no"/>ret. Hunc talem virgo sacratissima, virginali vtero suo
+          <lb ed="#A" n="19"/>complexa, caelo maior, terra fortior, orbe est latior. Quem
+          <lb ed="#A" n="20"/>enim non modo terrarum orbis vniuersus, sed ne coeli
+          qui<lb ed="#A" n="21" break="no"/>dem coelorum capiunt, eum sola clausum intra viscera sua
+          <lb ed="#A" n="22"/>gestare meruit. Non dixit autem Angelus, Dominus in
+          <lb ed="#A" n="23"/>te; Nam quum in omnibus quae sunt, quatenus sunt
+          Do<lb ed="#A" n="24" break="no"/>minus sit, soli tamen boni sunt, in quibus ita est Dominus,
+          <lb ed="#A" n="25"/>vt etiam in eis sit propter concordiam voluntatis, caeterum
+          <lb ed="#A" n="26"/>cum virgine Deipara, magis peculiari modo quodam fuit,
+          <lb ed="#A" n="27"/>quam cum sanctis aliis omnibus, cum qua tanta fuit
+          con<lb ed="#A" n="28" break="no"/>sensio, vt eius non modo voluntatem, verum &amp; carnem
+          <lb ed="#A" n="29"/>sibi compularet, ac sic de sua, deque virginis substantia
+          Chri<lb ed="#A" n="30" break="no"/>stum vnum efficeret, vel potius Christus vnus efficeretur,
+          <lb ed="#A" n="31"/>qui etsi nec totus de Deo nec totus de virgine, totus tamen
+          <lb ed="#A" n="32"/>dei, &amp; totus virginis esset, nec duo filii sed vnus vtriusque
+          <lb ed="#A" n="33"/>filius. Subdit Angelus, quae verba repetiuit etiam
+          Eliza<lb ed="#A" n="34" break="no"/>beth, eodem spiritu sancto repleta, BENEDICTATE
+          <lb ed="#A" n="35"/>I MVLIERIBVS. Quae vero sequantur: ET BENE.
+          <lb ed="#A" n="36"/>DICTVS FRVCTVS VENTRIS TVI,
+          <lb ed="#A" n="37"/>non iam ab Angelo, sed a sola dicta sunt Elizabeth,
+          <lb ed="#A" n="38"/>Non quia tu benedicta dicit Elizabeth, ideo benedictus
+          <lb ed="#A" n="39"/>fructus ventris tui, sed quoniam ille te praeuenit
+          benedi<lb ed="#A" n="40" break="no"/>ctionibus dulcedinis, ideo tu benedicta. Fructus
+          ven<lb ed="#A" n="41" break="no"/>tris tui vere benedictus, in quo benedictae sunt
+          <pb ed="#A" n="208-v"/>
+          <lb ed="#A" n="1"/>omnes gentes, de cuius plenitudine tu quoque
+          benedictio<lb ed="#A" n="2" break="no"/>nem accepisti cum caeteris, etsi differentius a caeteris. Ac
+          pro<lb ed="#A" n="3" break="no"/>pterea benedicta quidem tu, sed in mulieribus: ille vero
+          be<lb ed="#A" n="4" break="no"/>nedictus, non in hominibus, non inter angelos, verum vt ait
+          <lb ed="#A" n="5"/>Apost. super omnia benedictus in secula. Vere itaque
+          bene<lb ed="#A" n="6" break="no"/>dictus qui fons est benedictionis, &amp; autor omnis gratiae
+          fru<lb ed="#A" n="7" break="no"/>ctus est ventris tui, qui te suae benedictionis, ita fecit parti
+          <lb ed="#A" n="8"/>cipem, nullus vt mortalium similiter vt tu fuerit benedictus
+          <lb ed="#A" n="9"/>Siquidem sola maledictionem illam generalem effugisti, de qua
+          <lb ed="#A" n="10"/>dictum est: In tristitia paries filios: Et aliam, de qua scriptum est,
+          <lb ed="#A" n="11"/>Maledicta sterilis in Israel, &amp; es benedictionem consequuta
+          <lb ed="#A" n="12"/>singularem: vt quamuis esse virgo, &amp; propterea sterilis
+          elege<lb ed="#A" n="13" break="no"/>ris, salua tamen virginitate, neque sterilis permaneres, neque
+          <lb ed="#A" n="14"/>cum dolore pareres. Ac non ipsa modo maledictionem
+          effugi<lb ed="#A" n="15" break="no"/>sti, verum &amp; a nobis eam repulisti, aedito in lucem fructu
+          ven<lb ed="#A" n="16" break="no"/>tris tui, qui nos reddemit a maledicto legis, factus pro
+          no<lb ed="#A" n="17" break="no"/>bis maledictum. Fructus autem istius nomen non expressit
+          Eli<lb ed="#A" n="18" break="no"/>zabeth, verum addidit Ecclesia, IESVS CHRISTVS.
+          Ie<lb ed="#A" n="19" break="no"/>sus, quoniam ipse saluum fecit populum suum a peccaris corum
+          <lb ed="#A" n="20"/>Christus, quoniam cum sit rex noster &amp; pontifex noster, vn
+          <lb ed="#A" n="21"/>ctus est a Deo, non oleo communi, sed oleo laetitiae: nec sicut
+          <lb ed="#A" n="22"/>participes sui, id est, illi, qui in imagine praecesserunt, sed prae
+          <lb ed="#A" n="23"/>participibus suis, virtute spiritus celestis consecratus. Cuius
+          <lb ed="#A" n="24"/>vnctionis nos quoque facti participes, a Christo Christia
+          <lb ed="#A" n="25"/>ni vocamur. Nam qui rex &amp; sacerdos noster est, qui, quae
+          <lb ed="#A" n="26"/>nunquam satis est praedicanda bonitas illius, non sua tantum omnia
+          <lb ed="#A" n="27"/>nobiscum communicare, sed se etiam ipsum nobis est
+          impende<lb ed="#A" n="28" break="no"/>re dignatus, posteaquam nos redemit in sanguine suo ex
+          om<lb ed="#A" n="29" break="no"/>ni tribuu, &amp; lingua, &amp; populo, &amp; natione, fecit nos quoque
+          <lb ed="#A" n="30"/>regnum &amp; sacerdotes deo, vt regnantes super terram, &amp; animi
+          <lb ed="#A" n="31"/>nostri cunctis effectionibus imperantes, exhiberemus
+          nos<lb ed="#A" n="32" break="no"/>met ipsos hostiam viuentem, sanctam, Deo placentem in
+          odo<lb ed="#A" n="33" break="no"/>rem suauitatis, ac nomen illius laudaremus ac glorificare,
+          <lb ed="#A" n="34"/>mus in secula seculorum, Amen. Quod si quis diligentius
+          ex<lb ed="#A" n="35" break="no"/>plicatam videre voluerit, horum nominum rationem IESVS
+          <lb ed="#A" n="36"/>CHRISTVS, legat Eusebium in libris Euangelicae demon
+          <lb ed="#A" n="37"/>strationis, qui prae caeteris accuratius id fecisse videtur.
+        </p>
+        <p xml:id="ho8ccf-a2y6dm-d1e867">
+          <lb ed="#A" n="38"/><milestone ed="#A" unit="p" rend="indent"/> Finit Tomus primus Confessionis
+          Catho<lb ed="#A" n="39" break="no"/>licae Regni Poloniae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

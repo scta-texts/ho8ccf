@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 38</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 38</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="73-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2e10w"><!-- c38 -->
+        <head xml:id="ho8ccf-a2e10w-Hd1e99">Caput 38</head>
+        <head xml:id="ho8ccf-a2e10w-Hd1e101" type="question-title">De Sacramento Confirmationis</head>
+        <p xml:id="ho8ccf-a2e10w-d1e104">
+          <lb ed="#A" n="2"/>CAPVT XXXVIII.
+          <lb ed="#A" n="3"/>De Sacramento Confirmationis.
+        </p>
+        <p xml:id="ho8ccf-a2e10w-d1e111">
+          <lb ed="#A" n="4"/>BAptismus intrantium est, vt diximus,
+          confirmatio<lb ed="#A" n="5" break="no"/>vero pugnantium. In baptismo Christo nomen
+          da<lb ed="#A" n="6" break="no"/>mus, &amp; eius milites efficimur, atque ad ineundum
+        </p>
+        <p xml:id="ho8ccf-a2e10w-d1e120">
+          <lb ed="#A" n="7"/>praelum cum aduersariis potestatibus praeparamur,
+          <lb ed="#A" n="8"/>coronam accepturi, si victores euaserimus. Neque enim
+          co<lb ed="#A" n="9" break="no"/>conabitur quisquam, nisi qui legitime certauerit. Est
+          qui<lb ed="#A" n="10" break="no"/>dem ita, quod si qui baptizatur, paruulus praesertim, ex hac
+          <lb ed="#A" n="11"/>vita statim vt baptismum accepit migrauerit, citra vllam
+          <lb ed="#A" n="12"/>ubitationem, non suis, verum Christi, quem induit,
+          cu<lb ed="#A" n="13" break="no"/>us corpori insitus est, meritis, coronam gloriae
+          consequi<lb ed="#A" n="14" break="no"/>tur. Sed cui iam vsum rationis adepto, post acceptum
+          ba<lb ed="#A" n="15" break="no"/>tismum vitam Deus in hoc seculo propagare dignatur.
+          <lb ed="#A" n="16"/>non est quod existimet is, nihil aliud sibi restare post
+          <lb ed="#A" n="17"/>baptismum, quam vt credat otiosus, imo persuasum sibi
+          <lb ed="#A" n="18"/>hoc habere debet, sed ad graue certamen vocari: quod
+          <lb ed="#A" n="19"/>nisi certauerit bonum hoc certamen, cursumque
+          consuma<lb ed="#A" n="20" break="no"/>uerit, nihil est quod se iustitiae coronam, quae non est
+          repo<lb ed="#A" n="21" break="no"/>ita nisi legitime certantibus, assequi posse speret. Neque
+          <lb ed="#A" n="22"/>enim perinde oppugnat homines ante baptismum satanas,
+          <lb ed="#A" n="23"/>atque post: Nam qui non sunt baptizati, eos pro suis
+          ha<lb ed="#A" n="24" break="no"/>bet, &amp; omnem in eos tanquam sibi subiectos, potestatem
+          <lb ed="#A" n="25"/>exercet: Qui vero castra sua deseruerunt, atque ad Christi
+          <lb ed="#A" n="26"/>vexillum confugerunt, eos e potestate sua ereptos dolet, atque
+          <lb ed="#A" n="27"/>omni insidiarum genere pertrahere rursus in eam, in qua
+          <lb ed="#A" n="28"/>fuerunt antea, captiuitatem conatur. Ipse etiam Christus
+          <lb ed="#A" n="29"/>documento nobis esse potest, quem non prius aggressus est
+          <lb ed="#A" n="30"/>tentare satanas, quam fuisset a Ioanne baptizatus. Quam ob
+          <lb ed="#A" n="31"/>rem cum in baptismo non ad fidem otiosam, sed ad pugnam
+          <lb ed="#A" n="32"/>spericulosam vocati simus, ad quam recte gerendam vires
+          no<lb ed="#A" n="33" break="no"/>strae sufficere nequaquam possunt, dare nobis remedium
+          di<lb ed="#A" n="34" break="no"/>gnatus est Christus in sacramento confirmationis, in quo
+          <lb ed="#A" n="35"/>confertur nobis is, cuius ope adiuti, facile possumus &amp;
+          car<lb ed="#A" n="36" break="no"/>nem, &amp; mundum, &amp; eum cui semel in baptismo
+          renuntiaui<lb ed="#A" n="37" break="no"/>mus diabolum superare. Is est spiritus sanctus, qui adiuuat
+          <lb ed="#A" n="38"/>infirmitatem nostram: qui nisi praesto nobis adesset, turpiter
+          <lb ed="#A" n="39"/>nos ex acie fugere, atque hostibus nostris terga dare oporte
+          <lb ed="#A" n="40"/>ret, quorum maior est vis, quam vt solis humanis viribus ei
+          re<lb ed="#A" n="41" break="no"/>sistere queamus.
+        </p>
+        <p xml:id="ho8ccf-a2e10w-d1e199">
+          Quamobrem sicut in baptismo spiritum
+          <lb ed="#A" n="42"/>sanctum accepimus in remissionem peccatorum, ita in
+          confir<pb ed="#A" n="73-v"/><lb ed="#A" n="1" break="no"/>matione datur nobis idem spiritus sanctus in robur contra
+          <lb ed="#A" n="2"/>hostes nostros, quo adiuti atque animati facilius impetum
+          <lb ed="#A" n="3"/>eorum propulsare queamus. Sacramenti huius meminit
+          Pe<lb ed="#A" n="4" break="no"/>tri successor Clemens, ac absque eo negat aliquem perfectum
+          <lb ed="#A" n="5"/>Christianum esse, aut sedem habere inter perfectos posse,
+          <lb ed="#A" n="6"/>si non necessitate, sed incuria aut voluntate remanserit.
+          <lb ed="#A" n="7"/>(His enim ille verbis vtitur.) Ac mox subdit: Quod a
+          Pe<lb ed="#A" n="8" break="no"/>tro, inquit, accepimus, ac caeteri sancti Apostoli praecipiente
+          <lb ed="#A" n="9"/>domino docuerunt. Sententiae Clementis Cornelius quoque
+          <lb ed="#A" n="10"/>subscribere videtur pontifex &amp; martyr ad Fabium scribens.
+          <lb ed="#A" n="11"/>cum de Nouato, qui iam baptizatus fuerat, dicit: Nec reli
+          <lb ed="#A" n="12"/>qua consequutus est post morbum, quae iuxta Ecclesiae
+          Ca<lb ed="#A" n="13" break="no"/>nonem consequi debebat, obsignationem videlicet ab
+          Epi<lb ed="#A" n="14" break="no"/>scopo collatam. Cum autem illa potitus non sit,
+          quomo<lb ed="#A" n="15" break="no"/>do spiritum sanctum est consequutus? Quae Epistolae
+          il<lb ed="#A" n="16" break="no"/>lius verba in libris Ecclesiasticae Historiae Eusebi legere
+          li<lb ed="#A" n="17" break="no"/>cet. Materia huius Sacramenti est Chrisma ex oleo oliua
+          <lb ed="#A" n="18"/>rum &amp; balsamo confectum. Forma est haec, quod
+          praemis<lb ed="#A" n="19" break="no"/>so nomine eius qui confirmatur, dicit Episcopus. Signo te
+          <lb ed="#A" n="20"/>signo crucis, &amp; confirmo te Chrismate salutis, in nomine
+          <lb ed="#A" n="21"/>patris, &amp; filii, &amp; spiritus sancti, vt replearis eodem spiritu
+          <lb ed="#A" n="22"/>sancto &amp; habeas vitam aetemam. Simul vt ad signum &amp;
+          <lb ed="#A" n="23"/>elementum visibile vnctionis, quae fit in fronte
+          Chrisma<lb ed="#A" n="24" break="no"/>te, verbum accesserit, fit Sacramentum, hoc est sacrae rei,
+          <lb ed="#A" n="25"/>nimirum inuisibilis gratiae qua confertur spiritus sanctus,
+          <lb ed="#A" n="26"/>signum visibile. Simul enim vt prolaris verbis vnctus
+          <lb ed="#A" n="27"/>fuerit confirmandus, e vestigio datur ei spiritus sanctus,
+          <lb ed="#A" n="28"/>qui tueatur eum aduersus insidias Diaboli, qui vires &amp;
+          re<lb ed="#A" n="29" break="no"/>bur suppeditet ad omnes aduersarias potestates
+          debellan<lb ed="#A" n="30" break="no"/>das. Cum itaque tam sacrae rei signum sit confirmatio, &amp;
+          <lb ed="#A" n="31"/>quidem efficax, nihil est quod quisquam dubitare queat
+          <lb ed="#A" n="32"/>ei Sacramenti nomen tribuere, cum ab ipsis Apostolorum
+          <lb ed="#A" n="33"/>temporibus ad haec vsque nostra fuerit inter Sacramenta
+          <lb ed="#A" n="34"/>numerata. Certe Augustinus vocat Sacramentum
+          Chris<lb ed="#A" n="35" break="no"/>matis: quod quidem, inquit, in genere signaculorum
+          sa<lb ed="#A" n="36" break="no"/>crosanctum est, sicut ipse baptisinus: Non minus id quam
+          <lb ed="#A" n="37"/>psum baptismum sacrosanctum esse vult.
+        </p>
+        <p xml:id="ho8ccf-a2e10w-d1e285">
+          Quod autem
+          <lb ed="#A" n="38"/>in hoc Sacramento spiritus sanctus conferatur, aperta
+          <lb ed="#A" n="39"/>sunt scripturae testimonia. Legimus in actis de Petro &amp;
+          <lb ed="#A" n="40"/>Ioanne, quod imponebant manus super illos, qui Dei
+          <lb ed="#A" n="41"/>verbum in Samaria receperant, &amp; erant baptizan in
+          no<lb ed="#A" n="42" break="no"/>mine demini Iesu, &amp; accipiebant Spiritum sanctum. Ac
+          <pb ed="#A" n="74-r"/>
+          <lb ed="#A" n="1"/>rursus alio loco de Paulo: Quo facto imposuit illis
+          ma<lb ed="#A" n="2" break="no"/>nus. Nequae vero quia Chrisinatis mentio non fit, ideo pu
+          <lb ed="#A" n="3"/>randum est eius vsum non fuisse temporibus Apostolorum.
+          <lb ed="#A" n="4"/>Extat inter alia in libro conciliorum Epistola sancti
+          Fa<lb ed="#A" n="5" break="no"/>biani pomisicis &amp; martyris, qui fuit a Petro decimus
+          octa<lb ed="#A" n="6" break="no"/>suus, quam scripsit ad Episcopos onentales, in qua disertis
+          <lb ed="#A" n="7"/>verbis testatur, quod postquam caenauit Dominus cum
+          di<lb ed="#A" n="8" break="no"/>scipulis suis, &amp; lauit eorum pedes, Chrisina conficere
+          do<lb ed="#A" n="9" break="no"/>cuit, Sicut, inquit, a sanctis Apostolis praedecessores nostri
+          <lb ed="#A" n="10"/>acceperum, nobisque reliquerunt. Et subdit: Ipsa enim
+          <lb ed="#A" n="11"/>lauatio pedum, nostrum significat baptisinum, quando
+          <lb ed="#A" n="12"/>sancto Chrismatis vnctione perficitur atque confirinatur.
+          <lb ed="#A" n="13"/>Haec ille ante mille trecentos annos. Et eius aequalis
+          Cy<lb ed="#A" n="14" break="no"/>prianus lulorum etiam edidit de Chrisinate.
+        </p>
+        <p xml:id="ho8ccf-a2e10w-d1e331">
+          Sed &amp; vtroque
+          <lb ed="#A" n="15"/>vetustior Dionysius Areopagita copiose de eo multa
+          scri<lb ed="#A" n="16" break="no"/>sit, sancti doctores passim in multis locis meminerunt.
+          <lb ed="#A" n="17"/>Ante mille centum annos in Carthaginensi tertio et quar
+          <lb ed="#A" n="18"/>to, &amp; Toletano primo conciliis, postea vero in
+          Anthisio<lb ed="#A" n="19" break="no"/>dorensi &amp; Bracarensi fuit constitutum, vt ne quisquam alius
+          <lb ed="#A" n="20"/>praeter Episcopum chrisina consecrare auderet. Quod etiam
+          <lb ed="#A" n="21"/>a Leone pontifice cautum est, dum ad Germaniae &amp;
+          Gal<lb ed="#A" n="22" break="no"/>liae scribit Episcopos. Est autem materia chrismatis cum
+          <lb ed="#A" n="23"/>primis idonea ad exprimendam significationem eius rei
+          <lb ed="#A" n="24"/>quae non modo significatur, verumetiam confertur in
+          <lb ed="#A" n="25"/>hoc sacramento: Datur enim in hoc sacramento plenitus
+          <lb ed="#A" n="26"/>do sancti spiritus ad robur spirituale, quod perfectae iam
+          <lb ed="#A" n="27"/>aetati conuenit ad quam cum peruenit homo, incipit
+          actio<lb ed="#A" n="28" break="no"/>nes suas ad alios quoque communicare, cum antea sibi
+          so<lb ed="#A" n="29" break="no"/>li viueret. Cratia itaque sancti spiritus designatur oleo.
+        </p>
+        <p xml:id="ho8ccf-a2e10w-d1e366">
+          Vn<lb ed="#A" n="30" break="no"/>de &amp; Chrastus dicitur vnctus esse oleo letitiae, propter ple
+          <lb ed="#A" n="31"/>nitudinem sancti spiritus quam habuit. Admiscetur
+          au<lb ed="#A" n="32" break="no"/>tem balsamum propter fragrantium odoris, quae
+          redun<lb ed="#A" n="33" break="no"/>dat ad alios. Hoc est quod dicit Apostolus, Christi
+          bonu<lb ed="#A" n="34" break="no"/>odor sumus Quamobrem non quia non est expresse
+          quic<lb ed="#A" n="35" break="no"/>quam in scripturis de eo traditum, idcirco vsum eius
+          fuis<lb ed="#A" n="36" break="no"/>se negandum est. Recte enim ab Augustino scriptum est,
+          <lb ed="#A" n="37"/>Non omnia quae facta sunt ab Apostolis, etiam scripta inue
+          <lb ed="#A" n="38"/>niuntur, veruntamen facta esse ex caeteris documentis pro
+          <lb ed="#A" n="39"/>bantur. Fit autem vnctio in fronte chrismate signo
+          cru<lb ed="#A" n="40" break="no"/>cis, quod nisi adhibeatur siue frontibus credentium, siue ipsi
+          <lb ed="#A" n="41"/>aquae qua generantur, siue oleo quo chrismate vnguntur,
+          <lb ed="#A" n="42"/>nihil eorum ite perficitur, dicit Augustinus. Fit ita video
+          <pb ed="#A" n="74-v"/>
+          <lb ed="#A" n="1"/>in fronte tanquam in sede pudoris, ne Chris opprobrio
+          <lb ed="#A" n="2"/>Chrisianus erubescat: quin illud potius prae se ferat, de
+          <lb ed="#A" n="3"/>illo glonetur, in illo fidat, ex illo animum sumat viriliter
+          <lb ed="#A" n="4"/>contra hostes pugnandi. Institutum autem est hoc
+          sacra<lb ed="#A" n="5" break="no"/>mentum a Christo, non exhibendo, sed promittendo:
+          Pro<lb ed="#A" n="6" break="no"/>misit enim ille cum dixit. Ego mittam promissum patris
+          <lb ed="#A" n="7"/>in vos. Item: Paracletus autem spiritus sanctus, quem
+          mit<lb ed="#A" n="8" break="no"/>ter pater in nomine meo, ille vos docebit omnia: Non
+          il<lb ed="#A" n="9" break="no"/>le per se, sed per Apostolorum ora sacramentum hoc
+          pare<lb ed="#A" n="10" break="no"/>facere nobis voluit, Neque id sine causa: Nam cum
+          sacra<lb ed="#A" n="11" break="no"/>mentum hoc contineat in se plenitudinem sancti spiritus.
+          <lb ed="#A" n="12"/>quae confertur omnibus qui chrismate consignantur,
+          quan<lb ed="#A" n="13" break="no"/>diu Christus in hoc saeculo versabatur, haec plenitudo
+          <lb ed="#A" n="14"/>sancti spiritus dari non debuit. Sic enim ille dixerat:
+          Si<lb ed="#A" n="15" break="no"/>non abiero, Paracletus non veniet ad vos, si autem
+          abse<lb ed="#A" n="16" break="no"/>ro, mittam eum ad vos.
+        </p>
+        <p xml:id="ho8ccf-a2e10w-d1e434">
+          Quamobrem antequam in coelum
+          <lb ed="#A" n="17"/>Christus ascendisset, dari plenitudo sancti spiritus non de
+          <lb ed="#A" n="18"/>buit: quod etiam ille locus indicat: nondum erat spiritus
+          <lb ed="#A" n="19"/>sanctus datus, quia Iesus nondum erat glorificatus. Neque
+          <lb ed="#A" n="20"/>vero propterea minoris authoritatis esse debet hoc
+          sacra<lb ed="#A" n="21" break="no"/>mentum, quod a Christo promissum tantum, ab Aposto
+          <lb ed="#A" n="22"/>lis vero est exhibitum: Nam non minus ratum est, dicit
+          <lb ed="#A" n="23"/>Cyprianus, quod dictante spiritu sancto Apostoli addide
+          <lb ed="#A" n="24"/>runt, quam quod ipse Christus tradidit, &amp; in fui
+          comme<lb ed="#A" n="25" break="no"/>morationem fieri praecepit. Minister autem huius
+          sacra<lb ed="#A" n="26" break="no"/>menti, quod vocat sacramentum manuum impositionis,
+          Eu<lb ed="#A" n="27" break="no"/>sebius pontifex, non est nisi Episcopus, quod praeter
+          Apo<lb ed="#A" n="28" break="no"/>stolos nemo sacramentum hoc contulisse legitur: quem ad
+          <lb ed="#A" n="29"/>modum etiam ab Vrbano, Damaso, Innocentio, &amp; Leone
+          <lb ed="#A" n="30"/>sanctissimis pontificibus traditum est. Quin &amp; Aurelianensi
+          <lb ed="#A" n="31"/>&amp; Meldensi conciliis idem est constitutum. Quo magis
+          <lb ed="#A" n="32"/>autem vis huius sacramenti cognosci possit, visum est
+          ad<lb ed="#A" n="33" break="no"/>scribere quaedam ex epistola Melchiadis papae, quam
+          illi<lb ed="#A" n="34" break="no"/>ante mille ducentos annos ad episcopos Hispaniae
+          conscri<lb ed="#A" n="35" break="no"/>psit. De iis vero, inquit, super quibus rogitastis vor
+          infor<lb ed="#A" n="36" break="no"/>mari, id est, vtrum majus esset sacramentum manus
+          impo<lb ed="#A" n="37" break="no"/>sitio Episcoporum, aut baptismus, scitote vtrunque magnum
+          <lb ed="#A" n="38"/>esse sacramentum: Et sicut vnum a maioribus fit, id est a
+          <lb ed="#A" n="39"/>summis pontificibus, quod a minoribus perfici non potest,
+          <lb ed="#A" n="40"/>ita &amp; maiori veneratione venerandum &amp; tenendum est
+          <lb ed="#A" n="41"/>Sed ita coniuncta sunt haec duo sacramenta, vt ab inuicem
+          <lb ed="#A" n="42"/>nisi morte praeueniente nullatenus possint segregari, &amp;
+          <pb ed="#A" n="75-r"/>
+          <lb ed="#A" n="1"/>vnum sime altero rite perfici non potest: Nam vnum prae
+          <lb ed="#A" n="2"/>ueniente morte saluare sine altero potest, aliud autem non
+          <lb ed="#A" n="3"/>potest: vnde scriptum est, In diebus illis, dicit Dominus,
+          e<lb ed="#A" n="4" break="no"/>fundam de spiritu meo super omnem carnem. Aduertamus
+          <lb ed="#A" n="5"/>summas diuitias bonitatis Dei, quod in confirmandis
+          Neo<lb ed="#A" n="6" break="no"/>phitis manus impositio tribuit singulis, hoc tunc spiritus
+          <lb ed="#A" n="7"/>sancti descensio in credentium populos donauit vniuersis.
+          <lb ed="#A" n="8"/>Sed quia diximus, quod manus impositio &amp;
+          confirmatio<lb ed="#A" n="9" break="no"/>id baptisimi perfectionem pertineat, &amp; qui iam regeneratus
+          <lb ed="#A" n="10"/>in Christo est, confirmare aliquid possit, forte cogitat sibi
+          <lb ed="#A" n="11"/>aliquis, quid mihi prodest post mysterium baptismatis,
+          my<lb ed="#A" n="12" break="no"/>sterium confirmationis? aut quantum video non totum de
+          <lb ed="#A" n="13"/>fonte suscepimus, si post fontem adiectione noui generis
+          <lb ed="#A" n="14"/>indigemus? Non ita dilectissimi: attendat charitas vestra,
+          <lb ed="#A" n="15"/>sicut exigit militaris ordo, vt cum imperator quemcunque
+          <lb ed="#A" n="16"/>in militum receperit numerum, non solum signet receptum
+          <lb ed="#A" n="17"/>sed etiam armis competentibus instruat pugnaturum, ita
+          <lb ed="#A" n="18"/>in baptizato, benedictio illa munitio est. Dedisti militem,
+          <lb ed="#A" n="19"/>da ei adiumentum militiae. Nunquid prodest si quisquam
+          <lb ed="#A" n="20"/>parentum magnam pupillo conferat facultatem, nisi
+          pro<lb ed="#A" n="21" break="no"/>uidere sudeat &amp; tutorem?
+        </p>
+        <p xml:id="ho8ccf-a2e10w-d1e541">
+          Itaque paracletus regeneratis
+          <lb ed="#A" n="22"/>in Christo custos, &amp; consolator, &amp; tutor est. Ideo dicit
+          ser<lb ed="#A" n="23" break="no"/>mo diuinus: Nisi Dominus custodierit ciuitatem, frustra
+          <lb ed="#A" n="24"/>vigilat qui custodit eam. Ergo spiritus sanctus qui
+          supe<lb ed="#A" n="25" break="no"/>aquas baptismi salutifero descendit illapsu, in fonte
+          pleni<lb ed="#A" n="26" break="no"/>tudinem tribuit ad innocentiam: in confirmatione
+          augmen<lb ed="#A" n="27" break="no"/>tum praestat ad gratiam. Et quia in hoc mundo tota aetate
+          <lb ed="#A" n="28"/>victuris inter inuisibiles hostes &amp; pericula gradiendum est,
+          <lb ed="#A" n="29"/>in baptismo regeneramur ad vitam, post baptismum
+          con<lb ed="#A" n="30" break="no"/>firmamur ad pugnam: in baptismo abluimur, post
+          baptis<lb ed="#A" n="31" break="no"/>mum roboramur. Ac si continuo transituris sufficiant
+          re<lb ed="#A" n="32" break="no"/>generationis beneficia, victuris tamen necessaria sunt con
+          <lb ed="#A" n="33"/>firmationis auxilia. Regeneratio per se saluat, mox in
+          pa<lb ed="#A" n="34" break="no"/>ce beati saeculi recipiendos: confirmatio autem armat &amp;
+          in<lb ed="#A" n="35" break="no"/>struit ad agones mundi huius &amp; praelia reseruandos. Qui
+          <lb ed="#A" n="36"/>autem post baptismum cum acquisita innocentia immacu
+          <lb ed="#A" n="37"/>latus peruenit ad mortem, confirmatur morte, quia non
+          <lb ed="#A" n="38"/>potest peccare post mortem. Hic si forte illud etiam
+          requi<lb ed="#A" n="39" break="no"/>rere velimus, post passionem et resurrectionem Christi quid
+          <lb ed="#A" n="40"/>Apostolis profuerit aduentus spiritus sancti? Ipse dominus
+          <lb ed="#A" n="41"/>eis euidenter exponit: Quae dico, inquit, vobis, non potestis
+          <lb ed="#A" n="42"/>ea portare modo, cum autem venerit ille spiritus veritatis
+          <pb ed="#A" n="75-v"/>
+          <lb ed="#A" n="1"/>ipse docebit vos omnem veritatem. Vides, qua eum
+          spiri<lb ed="#A" n="2" break="no"/>tus sanctus infunditur, cor fidele ad prudeniam &amp;
+          con<lb ed="#A" n="3" break="no"/>stantiam dilatatur.
+        </p>
+        <p xml:id="ho8ccf-a2e10w-d1e599">
+          Itaque ante discensionem spritus sancti
+          <lb ed="#A" n="4"/>vsque ad negationem Apostoli deterrentur, post
+          visitatio<lb ed="#A" n="5" break="no"/>nem vero eius vsque ad martyrium contempu salutis
+          an<lb ed="#A" n="6" break="no"/>mantur. Secundum hoc per Christum rediminur, per
+          spe<lb ed="#A" n="7" break="no"/>ritum vero sanctum dono sapientiae spirituas
+          illumina<lb ed="#A" n="8" break="no"/>mur, aedificamur, erudimur, instruimur, consunamur, vt
+          il<lb ed="#A" n="9" break="no"/>lam sancti spiritus vocem audire possimus: Intellectum
+          ta<lb ed="#A" n="10" break="no"/>bi dabo, &amp; instruam te in via hac, qua gradiers. De spiritu
+          <lb ed="#A" n="11"/>sancto accipimus vt spirituales efficiamur, qua animalis
+          <lb ed="#A" n="12"/>homo non percipit ea quae Dei sunt: de spiriti sancto ac
+          <lb ed="#A" n="13"/>pimus vt sapiamus inter bonum malumque discernere, iusta
+          <lb ed="#A" n="14"/>diligere, iniusta respuere, vt malitiae ac supertiae repugne
+          <lb ed="#A" n="15"/>mus, vt luxuriae ac diuersis illecebris &amp; foedis indignisque
+          <lb ed="#A" n="16"/>cupiditatibus resistamus. De spiritu sancto accipimus vit,
+          <lb ed="#A" n="17"/>amorem, &amp; gloriae ardorem, vt accensi diuinus
+          erigere<lb ed="#A" n="18" break="no"/>terrenis mentem ad superna &amp; diuina valeamas. Haec ideo
+          <lb ed="#A" n="19"/>visum est ex epistola sancti pontificis adscribere, vt &amp;
+          di<lb ed="#A" n="20" break="no"/>gnitas &amp; effectus huius sacramenti iuxta eam
+          doctrinan<lb ed="#A" n="21" break="no"/>quae fuit ante tot saecula, cognosci posset.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

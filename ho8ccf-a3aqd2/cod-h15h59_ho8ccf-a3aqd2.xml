@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 71</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 71</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="224-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a3aqd2"><!-- c71 -->
+        <head xml:id="ho8ccf-a3aqd2-Hd1e99">Caput 71</head>
+        <head xml:id="ho8ccf-a3aqd2-Hd1e101" type="question-title">Quod iustitia Dei iusti sumus, non qua Deus iustus est, sed qua nos iustos facit</head>
+        <p xml:id="ho8ccf-a3aqd2-d1e104">
+          <lb ed="#A" n="16"/>CAPVT XXI.
+          <lb ed="#A" n="17"/>Quod iustitia Dei iusti sumus, non qua Deus
+          <lb ed="#A" n="18"/>iustus est, sed qua nos iustos facit.
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e113">
+          <lb ed="#A" n="19"/><milestone ed="#A" unit="p" rend="initial"/> COnstitutum itaque iam est, quod iustitia nostra
+          <lb ed="#A" n="20"/>charitas est ex corde puro, conscientia bona, &amp;
+          <lb ed="#A" n="21"/>fide non ficta, per quam quae deformata fuit in
+          <lb ed="#A" n="22"/>nobis, imago Dei reformatur, per quam etiam in
+          <lb ed="#A" n="23"/>filiorum Dei numerum cooptamur, &amp; a filius diaboli
+          dis<lb ed="#A" n="24" break="no"/>cernimur. Charitatem autem, Augustinum secuti, non eam
+          <lb ed="#A" n="25"/>intelligi volumus hoc loco, qua nos ipse diligit, sed qua
+          <lb ed="#A" n="26"/>nos facit dilectores sui, qua nos amari a Deo, amamus
+          <lb ed="#A" n="27"/>Deum, &amp; amplius amari meremur.
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e136">
+          Quamobrem audien
+          <lb ed="#A" n="28"/>di non sunt, qui iustitiam nostram esse quiddam extra nos
+          <lb ed="#A" n="29"/>affirmant, nihil vt in nobis esse velint, vnde iusti dicamur:
+          <lb ed="#A" n="30"/>sed ea sola iustitia nos iustos esse putent, qua Deus ipse iu
+          <lb ed="#A" n="31"/>stus est, non qua nos iustos facit: ea sola charitate nos Deo
+          <lb ed="#A" n="32"/>charos &amp; gratos esse, qua nos ipse charos habet, non quae
+          <lb ed="#A" n="33"/>dilecti ab illo diligimus illum, &amp; diligentes amplius
+          dili<lb ed="#A" n="34" break="no"/>gi meremur: Quasi dicat aliquis, parietem album esse, non
+          <lb ed="#A" n="35"/>ea quae ipsi paneti, sed quae mihi, vel meae vesti insit
+          albe<lb ed="#A" n="36" break="no"/>dine: Aquam feruentem calidam esse, non ea quae ipsi aquae,
+          <lb ed="#A" n="37"/>sed quae igni insit, caliditate. Fotesine dici quicquam
+          absur<lb ed="#A" n="38" break="no"/>dius? Quis vnquam ita delitantem audiuit aliquem, vt ali
+          <lb ed="#A" n="39"/>cuius rei formam esse diceret, quae ipsi rei non inesset? Pugnat
+          <lb ed="#A" n="40"/>itaque cum ipsa ratione, si quis dicat iustitiam Dei, quae nobis
+          <lb ed="#A" n="41"/>non inest, causam esse formalem iustificationis nostrae,
+          <pb ed="#A" n="224-v"/>
+          <lb ed="#A" n="1"/>neque minus pugnat cum recepta tot saeculis, totius Eccle
+          <lb ed="#A" n="2"/>siae doctrina: quae docuit nos quidem, quod iustitia Dei
+          <lb ed="#A" n="3"/>iusti sumus, sed non hoc sensu, quasi nihil sit in nobis, quo
+          <lb ed="#A" n="4"/>iusti simus: verum quod hoc ipsum, quod in nobis est, quo
+          <lb ed="#A" n="5"/>iusti sumus, non ex nobis est, verum Dei donum est. Quod
+          <lb ed="#A" n="6"/>in libro de spiritu &amp; litera, quem falso pro se facere
+          noua<lb ed="#A" n="7" break="no"/>tores isti contendunt, aliquot in locis inculcat Augustinus:
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e187">
+          <lb ed="#A" n="8"/>Sed apertius etiam hanc sententiam astruit, enarras illud
+          <lb ed="#A" n="9"/>ex Psalmo: In tua iustitia erue me. Est, inquit, iustitia Dei,
+          <lb ed="#A" n="10"/>quae &amp; nostra fit, cum donatur nobis: Ideo autem Dei iu
+          <lb ed="#A" n="11"/>stitia dicitur, ne homo se putet a seipso habere iustitiam
+          <lb ed="#A" n="12"/>Et eadem verba in alio Psalmo explicans: Cum ero iustus,
+          <lb ed="#A" n="13"/>inquit, tua Deus iustitia erit, quia iustitia mihi abs te data,
+          <lb ed="#A" n="14"/>iustus cro, &amp; sic erit mea vt tua sit, id est, mihi abs te data
+          <lb ed="#A" n="15"/>Et alio loco: Dicitur iustitia Dei, non solum qua ipse iustus
+          <lb ed="#A" n="16"/>est, sed quam dat homini, cum iustificat impium. Et iterum
+          <lb ed="#A" n="17"/>alibi: Ignorantes Dei iustitiam, id est, quam dat
+          homini<lb ed="#A" n="18" break="no"/>bus Deus, qui solus est iustus &amp; iustificans: &amp; suam
+          volen<lb ed="#A" n="19" break="no"/>tes constituere: id est, velut a se sibi paratam, non ab eo
+          im<lb ed="#A" n="20" break="no"/>partitam, iustitiae Dei non sunt subiecti. Et in alio quodam
+          <lb ed="#A" n="21"/>libro loquens de virga Aaron: Nunc inquit, virga Dei
+          di<lb ed="#A" n="22" break="no"/>citur, quae primum virga dicta est Aaron, postea vero
+          viri<lb ed="#A" n="23" break="no"/>ga Moysi: sicut dicitur Spiritus Eliae, qui est Spiritus Dei,
+          <lb ed="#A" n="24"/>cuius particeps fuit Elias, sic illa potuit dici. Dicitur etiam
+          <lb ed="#A" n="25"/>Dei iustitia quae nostra est, sed donata a Deo, de qua
+          lo<lb ed="#A" n="26" break="no"/>quens Apostolus Iudaeos arguit dicens: Ignorantes Dei
+          <lb ed="#A" n="27"/>iustitiam, &amp; suam constituere volentes, tanquam a se sibi
+          <lb ed="#A" n="28"/>paratam, contra quales dicit: Quid enim habes quod non
+          <lb ed="#A" n="29"/>accepisti? Eundem etiam Pauli locum explicans alibi:
+          <lb ed="#A" n="30"/>Quid est hoc, inquit, iustitia Dei, &amp; iustitia hominis?
+          Iu<lb ed="#A" n="31" break="no"/>stitia Dei dicitur, non qua iustus est Deus, sed quam dat
+          ho<lb ed="#A" n="32" break="no"/>mini Deus, vt sit iustus homo per Deum. Et ad Bonifacium
+          <lb ed="#A" n="33"/>scribens: Non enim propterea iustitia Dei dicitur, quoniam
+          <lb ed="#A" n="34"/>Deus iustus est, sed quia homini ex Deo est, Et producens
+          <lb ed="#A" n="35"/>illum ex Psalmo locum. Exaudi me Domine in tua
+          iusti<lb ed="#A" n="36" break="no"/>tia, hoc est, inquit, non in mea: Si diceret, exaudi me in iu
+          <lb ed="#A" n="37"/>stitia mea, tanquam meritum vocaret. Vocat quidem in
+          <lb ed="#A" n="38"/>nonnullis locis &amp; suam iustitiam, sed sic melius discernit
+          <lb ed="#A" n="39"/>quia &amp; suam quando dicit, datam dicit: quomodo dicimus
+          <lb ed="#A" n="40"/>panem nostrum quotidianum da nobis hodie: quomodo
+          <lb ed="#A" n="41"/>nostrum: quomodo da. Ne vero posset videri negare
+          me<lb ed="#A" n="42" break="no"/>rita, post interiecta quaedam subiungit: hinc cum exieris,
+          <pb ed="#A" n="225-r"/>
+          <lb ed="#A" n="1"/>recipieris pro meritis, &amp; resurges ad recipienda quae
+          egi<lb ed="#A" n="2" break="no"/>sti: tunc Deus coronabit, non tam merita tua, quam dona
+          <lb ed="#A" n="3"/>sua. Atque iterum alio loco, qui crediderit in eum, non
+          ha<lb ed="#A" n="4" break="no"/>bebit suam iustitiam, qua ex lege est, quamuis sit bona lex
+          <lb ed="#A" n="5"/>sed implebit ipsam legem non sua iustitia sed data ex Deo
+          <lb ed="#A" n="6"/>ita enim non confundetur. Charitas enim est plenitudo
+          <lb ed="#A" n="7"/>legis. Et vnde ista charitas? diffusa est in cordibus nostris
+          <lb ed="#A" n="8"/>non vtique a nobis, sed per Spiritum sanctum, qui datus
+          <lb ed="#A" n="9"/>est nobis. Hic quod aliis quoque locis semel &amp; iterum
+          fe<lb ed="#A" n="10" break="no"/>cit, iustitiam nostram vult esse charitatem, non a nobis
+          <lb ed="#A" n="11"/>profectam, sed per Spiritum sanctum in cordibus
+          no<lb ed="#A" n="12" break="no"/>stris diffusam, qua legem impleri dicit. Ac paucis
+          inter<lb ed="#A" n="13" break="no"/>iectis, cum dixisset noli velle habere iustitiam tuam:
+          Iu<lb ed="#A" n="14" break="no"/>stitia, inquit, sit, sed ex gratia sit, a Deo tibi sit, non tua sit,
+          <lb ed="#A" n="15"/>Sacerdotes, inquit tui, induantur iustitia: vestis accipitur
+          <lb ed="#A" n="16"/>non cum capillis nascitur: pecora de suo vestiuntur: hanc
+          <lb ed="#A" n="17"/>praedicat Apostolus Paulus, a Deo tibi sit, geme vt
+          im<lb ed="#A" n="18" break="no"/>petres, plora vt impetres, crede vt impetres. Ac iterum
+          <lb ed="#A" n="19"/>post pauca: Totum inquit, ex Deo, non tamen quasi
+          <lb ed="#A" n="20"/>dormientes, non quasi vt non conemur, non quasi vt
+          <lb ed="#A" n="21"/>non velimus: sine voluntate tua, non erit in te iustitia
+          <lb ed="#A" n="22"/>Dei: Voluntas quidem non est nisi tua iustitia non est
+          <lb ed="#A" n="23"/>nisi Dei, esse potest iustitia Dei sine voluntate tua sed in
+          <lb ed="#A" n="24"/>te esse non potest, mei per voluntatem tuam,
+          demonstra<lb ed="#A" n="25" break="no"/>tum est quid debeas: iussit lex, non facias illud aut illud,
+          <lb ed="#A" n="26"/>fac hoc aut illud: demonstratum est tibi, iussum est tibi,
+          <lb ed="#A" n="27"/>apertum est tibi, si tibi est cor, intellexisti quid facias,
+          ro<lb ed="#A" n="28" break="no"/>ga vt facias. Et iterum paucis interiectis. Qui fecit te
+          si<lb ed="#A" n="29" break="no"/>ne te, non te iustificat sine te: ergo fecit nescientem,
+          iusti<lb ed="#A" n="30" break="no"/>ficat volentem: tamen ipse iustificat: ne sit iustitia tua,
+          <lb ed="#A" n="31"/>ne redeas ad damna, ad detrimenta, &amp; stercora:
+          inuenia<lb ed="#A" n="32" break="no"/>re in illo non habens iustitiam tuam quae ex lege est, sed
+          <lb ed="#A" n="33"/>iustitiam per fidem Christi, quae est ex Deo, iustitiam ex
+          <lb ed="#A" n="34"/>fide, ad cognoscendum eum &amp; virtutem resurrectionis
+          <lb ed="#A" n="35"/>eius, &amp; communicationem passionum eius, &amp; ipsa virtus
+          <lb ed="#A" n="36"/>tua erit: communicatio passionum Christi virtus
+          tua<lb ed="#A" n="37" break="no"/>erit. Quid autem erit in communicationibus passionum
+          <lb ed="#A" n="38"/>Christi, si charitas non erit? Ac paulo post: Non
+          pote<lb ed="#A" n="39" break="no"/>ris communicare Christi passionibus sine amore: sed
+          <lb ed="#A" n="40"/>quaero, quo amore? Non sit cupiditas, sed sit charitas:
+          <lb ed="#A" n="41"/>Si enim tradidero, inquit, corpus meum vt ardeam, &amp;
+          <lb ed="#A" n="42"/>charitatem non habeam: nihil mihi prodest. Vt prosit,
+          <pb ed="#A" n="225-v"/>
+          <lb ed="#A" n="1"/>tibi communicatio passionum Christi, charitas adsit,
+          <lb ed="#A" n="2"/>Vnde tibi charitas? a mendacissima infirmitas?
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e365">
+          Vnde
+          <lb ed="#A" n="3"/>tibi charitas Dei? vis ostendi tibi vnde sit tibi?
+          ip<lb ed="#A" n="4" break="no"/>sum interroga. Horrearium dominicum: si enim fuerit
+          <lb ed="#A" n="5"/>in te charitas Dei, communicabis Chrisu passionibus, &amp;
+          <lb ed="#A" n="6"/>eris verus martyr: in quo charitas coronatur, ipse erit
+          ve<lb ed="#A" n="7" break="no"/>rus martyr, vnde ergo tibi? Habemus thesaurum istum
+          <lb ed="#A" n="8"/>in vasis fictilibus, ait ipse Apostolus, vt eminentia
+          virtu<lb ed="#A" n="9" break="no"/>tis Dei sit, &amp; non ex nobis, Ergo vnde tibi charitas nisi
+          <lb ed="#A" n="10"/>quia diffusa est in cordibus nostris, per Spiritum sanctum
+          <lb ed="#A" n="11"/>qui datus est nobis. Ex his &amp; aliis plerisque locis hanc
+          Au<lb ed="#A" n="12" break="no"/>gustini sententiam esse cognoscimus, quod nostra quidem
+          <lb ed="#A" n="13"/>iustitia iusti sumus, sed ita nostra, donata nobis vt sit a
+          <lb ed="#A" n="14"/>Deo, non a nobis ipsis parata. Neque enim nati, sed facti
+          <lb ed="#A" n="15"/>sumus iusti, facti autem non a nobis, verum ab eo qui
+          <lb ed="#A" n="16"/>creauit nos: Ipse fecit nos, &amp; non ipsi nos, vt non minus
+          <lb ed="#A" n="17"/>ipsius opus sit, quod iusti sumus, quam quod homines
+          su<lb ed="#A" n="18" break="no"/>mus, melius enim est iustum esse, quam hominem esse
+          <lb ed="#A" n="19"/>Quod si nos homines facit Deus, &amp; iustos ipsi nos
+          faci<lb ed="#A" n="20" break="no"/>mus, melius aliquid facimus nos, quam fecit Deus, quod
+          <lb ed="#A" n="21"/>cum vel cogitare cumprimis absurdum sit, tenendum est
+          <lb ed="#A" n="22"/>illud firmiter, quemadmodum quod homines sumus, ita
+          <lb ed="#A" n="23"/>&amp; quod iusti sumus, Dei donum esse. Ipsius opus est vt
+          <lb ed="#A" n="24"/>credamus, ipsius opus est, vt amemus: Atque haec est
+          iu<lb ed="#A" n="25" break="no"/>stitia nostra, fides quae per charitatem operatur: haec est
+          <lb ed="#A" n="26"/>renouatio nostra: haec est imaginis Dei, quae fuit in
+          no<lb ed="#A" n="27" break="no"/>bis obsoleta, restauratio. Hanc &amp; non aliam Augustini
+          <lb ed="#A" n="28"/>de iustificatione nostra sententiam esse, quum ex his quae
+          <lb ed="#A" n="29"/>per nos adducta sunt, tum ex aliis nonnullis locis,
+          mani<lb ed="#A" n="30" break="no"/>festius est, quam vt quisquam inficias ire queat. Neque
+          di<lb ed="#A" n="31" break="no"/>uersum sentire videtur, qui fuit aequalis eius
+          Hierony<lb ed="#A" n="32" break="no"/>mus, cuius haec verba leguntur. Haec hominis est summa
+          <lb ed="#A" n="33"/>iustitia, quicquid potueris habere virtutis, non tuum esse
+          <lb ed="#A" n="34"/>putare, sed domini qui largitus est.
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e437">
+          Quamobrem nemo
+          <lb ed="#A" n="35"/>se palpet, inquit Augustinus, de suo Sathanas est, de Dei
+          <lb ed="#A" n="36"/>beatus est. Quid est enim de suo, nisi de peccato suo.
+          Tol<lb ed="#A" n="37" break="no"/>le peccatum quod est tuum, iustitia inquit de meo est. Quid
+          <lb ed="#A" n="38"/>enim habes, quod non accepisti? Nunc videamus num
+          se<lb ed="#A" n="39" break="no"/>cus ea de re Graeci senserint.
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e450">
+          Neque vero necessarium esse
+          <lb ed="#A" n="40"/>putamus, omnium proferre sententias. Cyrilli maxime
+          <lb ed="#A" n="41"/>visum est authoritate niti, viri longe doctissimi
+          grauissi<lb ed="#A" n="42" break="no"/>mique, cui cum Amianis, Eunomianis, Nestorianis perpetua
+          <pb ed="#A" n="226-r"/>
+          <lb ed="#A" n="1"/>fuit conflictatio, cui tributum etiam hoc Eulogium ab
+          Eua<lb ed="#A" n="2" break="no"/>grio legimus, quod clarissimus praeco, &amp; fortis rectorum
+          <lb ed="#A" n="3"/>dogmatum propugnator decantetur atque praedicetur.
+          <lb ed="#A" n="4"/>Is Pauli locum adducens: Eum qui non nouerat peccatum,
+          <lb ed="#A" n="5"/>Deus pro nobis peccatum fecit, vt nos efficeremur
+          iusti<lb ed="#A" n="6" break="no"/>tia Dei. Sicut, inquit, vnigenitus Dei filius, in
+          similitudi<lb ed="#A" n="7" break="no"/>ne carnis peccati factus, ipse peccatum esse factus dicitur:
+          <lb ed="#A" n="8"/>sic &amp; nos reformati ad ipsum per fidem, iustitia Dei
+          dici<lb ed="#A" n="9" break="no"/>mur facti, quae proprie filius est nos enim naturalium
+          bo<lb ed="#A" n="10" break="no"/>norum Christi per Spiritum sanctum participes sumus,
+          <lb ed="#A" n="11"/>ipse autem rursus in seipso humana suscipit ad diuinam
+          <lb ed="#A" n="12"/>pulchritudinem, naturam nostram in seipso reducens.
+          <lb ed="#A" n="13"/>Ac non ita multo post: Omnia quae naturaliter diuina
+          <lb ed="#A" n="14"/>insunt naturae, non possunt naturaliter ac proprie
+          crea<lb ed="#A" n="15" break="no"/>turis inesse, sed per gratiam innata sunt: Quid enim
+          ha<lb ed="#A" n="16" break="no"/>bes quod non accepisti? Paulus clamat. Quare
+          sancti<lb ed="#A" n="17" break="no"/>tas quoque soli Deo inest naturaliter, in aliis per
+          gra<lb ed="#A" n="18" break="no"/>tiam, a Deo enim sanctificata, quasi a fonte
+          sanctifica<lb ed="#A" n="19" break="no"/>tionem accipiunt, &amp; ideo sanctificare non possunt: id
+          au<lb ed="#A" n="20" break="no"/>tem Christus facit, sanctificauit enim Ecclesiam.
+          Nun<lb ed="#A" n="21" break="no"/>quid non pulchre cum Augustino Latino conuenit
+          Cy<lb ed="#A" n="22" break="no"/>rillo Graeco? Quid enim hic aliud, quam negat natura
+          <lb ed="#A" n="23"/>nos esse iustos, negat nasci nos, verum fieri dicit iustos,
+          <lb ed="#A" n="24"/>atque id non a nobis, verum ab eo qui solus iustus est &amp;
+          <lb ed="#A" n="25"/>iustificans, cui quod esse, hoc ipsum est iustum esse: ab eo
+          <lb ed="#A" n="26"/>qui factus est nobis sapientia &amp; iustitia, sanctificatio &amp;
+          <lb ed="#A" n="27"/>redemptio, Domino nostro Iesu Christo, in quo
+          pleni<lb ed="#A" n="28" break="no"/>tudo diuinitatis inhabitat corporaliter, de cuius
+          plenitu<lb ed="#A" n="29" break="no"/>dine omnes nos accepimus, de plenitudine misericordiae
+          <lb ed="#A" n="30"/>eius, de abundantia bonitatis eius. Ipse est enim ita
+          bo<lb ed="#A" n="31" break="no"/>nus, vt sit ipsa bonitas: ipse est ita iustus, vt sit ipsa iustitia.
+          <lb ed="#A" n="32"/>Videtur autem hoc natura boni flagitare, quemadmodum
+          <lb ed="#A" n="33"/>in eodem libro Cyrillus, &amp; ante cum aliquot in locis
+          au<lb ed="#A" n="34" break="no"/>thor est Dionysius, vt omnibus se proponat, &amp; frui se
+          ve<lb ed="#A" n="35" break="no"/>lit omnes, prout singuli possunt: quod certe facit:
+          habita<lb ed="#A" n="36" break="no"/>turum enim se in nobis promittit, &amp; nos in filios
+          adopta<lb ed="#A" n="37" break="no"/>turum. Ita ergo clemens, &amp; bonus est Deus, vt bonitas sua
+          <lb ed="#A" n="38"/>per filium, in Spiritu sancto, ad omnes transeat, &amp; nemo
+          <lb ed="#A" n="39"/>a participatione suae bonitatis repellatur: Patris vero
+          par<lb ed="#A" n="40" break="no"/>ticipatio per filium in spiritu decenter &amp; proprie fit: nam &amp;
+          <lb ed="#A" n="41"/>sole per splendorem, qui ex eo emittitur, nec sine calore
+          par<lb ed="#A" n="42" break="no"/>ticipamus, qui operationis Spiritus sancti imaginem gerit.
+          <pb ed="#A" n="226-v"/>
+          <lb ed="#A" n="1"/>Et iterum alio loco: bonus, Sanctus, caeteraque
+          huiusmo<lb ed="#A" n="2" break="no"/>di de hominibus quandoque per participationem veri
+          bo<lb ed="#A" n="3" break="no"/>ni &amp; sancti dicuntur. Ex his &amp; aliis Cyrilli locis, non
+          du<lb ed="#A" n="4" break="no"/>bie colligitur, quod nos sumus qui boni, qui sancti, qui
+          <lb ed="#A" n="5"/>iusti sumus: verum hon natura, sed per participationem
+          <lb ed="#A" n="6"/>tantum, hoc est, quatenus Dei participes efficimur, qui
+          <lb ed="#A" n="7"/>non tam bonus, quam ipsa bonitas, non tam sanctus, quam
+          <lb ed="#A" n="8"/>ipsa sanctitas, non tam iustus quam ipsa est iustitia.
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e572">
+          Cae<lb ed="#A" n="9" break="no"/>terum ad hanc participationem solis illius iustitiae, qui
+          <lb ed="#A" n="10"/>lucem habitat inaccessibilem, nos qui sedebamus in
+          tene<lb ed="#A" n="11" break="no"/>bris, &amp; in vmbra mortis, viribus ipsi nostris peruenire
+          <lb ed="#A" n="12"/>nulla ratione potuimus. Fecit igitur qui diues est in
+          mi<lb ed="#A" n="13" break="no"/>sericordia, Dominus Deus noster, non pro meritis
+          no<lb ed="#A" n="14" break="no"/>stris, quae nulla erant nisi mala, &amp; aeterno supplicio digna,
+          <lb ed="#A" n="15"/>sed propter nimiam charitatem suam qua dilexit nos, vt
+          <lb ed="#A" n="16"/>eum qui splendor est ipsius gloriae, filium suum
+          vnigeni<lb ed="#A" n="17" break="no"/>tum e sublimi coelo demitteret, qui carnis nostrae
+          parti<lb ed="#A" n="18" break="no"/>ceps factus, &amp; eam indutus, qua ratione suae diuinitatis
+          <lb ed="#A" n="19"/>ipso largiente, participes fieri possemus, in hac
+          lachryma<lb ed="#A" n="20" break="no"/>rum valle nobiscum versatus, ac per omnia similis nobis
+          <lb ed="#A" n="21"/>factus illuminans tenebras nostras, ac splendore suae
+          lu<lb ed="#A" n="22" break="no"/>cis, omnem ex animis nostris caliginem depellens, nobis
+          <lb ed="#A" n="23"/>demonstraret. Neque enim in hunc mundum veniendi,
+          so<lb ed="#A" n="24" break="no"/>la Christo causa fuit haec, vt pro peccatis nostris morte
+          <lb ed="#A" n="25"/>sua satisfaceret, ac nos per hunc modum patri suo coelesti
+          <lb ed="#A" n="26"/>reconciliaret: verumetiam vt quemadmodum nos iam
+          <lb ed="#A" n="27"/>reconciliatos, in nouitate vitae ambulare, hoc est in
+          san<lb ed="#A" n="28" break="no"/>ctitate &amp; iustitia, omnibus diebus nostris, Deo seruire
+          <lb ed="#A" n="29"/>oporteret, in corpore mortis nostrae, se nobis exemplum
+          <lb ed="#A" n="30"/>proponeret. Quod quidem corpus propterea gestauit,
+          <lb ed="#A" n="31"/>sicut Basilius quoque scriptum reliquit, vt nos ipsius
+          vi<lb ed="#A" n="32" break="no"/>tae conuersationem, quantum possibile est imitaremur.
+          <lb ed="#A" n="33"/>Factus homo, inquit Faustinus, obseruare voluit
+          quod<lb ed="#A" n="34" break="no"/>cunque docuisset, vt caeteros inuitaret, magis autem
+          dixe<lb ed="#A" n="35" break="no"/>rim, vt caeteros subleuaret.
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e633">
+          Itaque vita eius nobis
+          viuen<lb ed="#A" n="36" break="no"/>di regula, mors a morte fuit redemptio: Illa vitam
+          in<lb ed="#A" n="37" break="no"/>struxit, mortem ista destruxit: Mors Christi, mors fuit
+          <lb ed="#A" n="38"/>mortis nostrae, quoniam ille mortuus est, vt nos viuere,
+          <lb ed="#A" n="39"/>mus. Quemadmodum autem peccatis mortuos, iustitiae
+          <lb ed="#A" n="40"/>nos viuere deinceps oporteret, inter nos aliquandiu
+          ver<lb ed="#A" n="41" break="no"/>satus, exemplo suo nos docuit. Idcirco namque in carne
+          <lb ed="#A" n="42"/>apparuit, dicit Gregorius, vt non solum nos per
+          passio<pb ed="#A" n="227-r"/><lb ed="#A" n="1" break="no"/>nem redimeret, verumetiam per conuersationem doceret,
+          <lb ed="#A" n="2"/>exemplum se sequentibus praebens.
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e657">
+          Quamobrem causa
+          <lb ed="#A" n="3"/>meritoria iustificationis nostrae, morte sua nobis factus
+          <lb ed="#A" n="4"/>est Christus: omni autem vitae suae genere, factus est cau
+          <lb ed="#A" n="5"/>sa nostrae iustificationis exemplaris, vt verissime dicatur,
+          <lb ed="#A" n="6"/>ipsius nos iustitia iustos esse. Nam siue quis meritum
+          spe<lb ed="#A" n="7" break="no"/>ctet, mortis ipsius merito fit vt iusti simus: nisi enim
+          de<lb ed="#A" n="8" break="no"/>disset semetipsum pro nobis, vt nos redimeret ab omni
+          <lb ed="#A" n="9"/>iniquitate, &amp; mundaret sibi populum acceptabilem, secta
+          <lb ed="#A" n="10"/>torem bonorum operum, nos iusti sectatoresque bonorum
+          <lb ed="#A" n="11"/>operum, nullo modo esse potuissemus: Siue quis ipsam
+          <lb ed="#A" n="12"/>consyderet iustitiam, non eam aliunde, quam ab ipso
+          <lb ed="#A" n="13"/>Christo habemus, qui nisi factus esset nobis iustitia, nisi
+          <lb ed="#A" n="14"/>nobis &amp; verbo &amp; exemplo, iustitiae viam
+          commonstras<lb ed="#A" n="15" break="no"/>set, nobis ad eam aspirare nunquam licuisset: in tenebris
+          <lb ed="#A" n="16"/>adhuc versaremur, omnique prorsus orbi lumine, in via
+          <lb ed="#A" n="17"/>iniquitatis errantes, a via iustitiae procul abessemus, nisi
+          <lb ed="#A" n="18"/>nos paternae splendor gloriae CHRISTVS illuminasset.
+          <lb ed="#A" n="19"/>Huius itaque splendoris qui CHRISTVS est, quisquis
+          <lb ed="#A" n="20"/>particeps est, is demum iustus est: vt nihil sit aliud iustum
+          <lb ed="#A" n="21"/>esse, quam Christi participem esse: Quemadmodum
+          <lb ed="#A" n="22"/>etiam a Paulo dictum est: Participes Christi facti sumus,
+          <lb ed="#A" n="23"/>si tamen initium substantiae eius, vsque ad finem firmum
+          <lb ed="#A" n="24"/>retineamus: Quicunque in nouitate vitae ambulauerit,
+          <lb ed="#A" n="25"/>dicit Hilarium secutus Ambrosius, quicunque tramitem
+          <lb ed="#A" n="26"/>iustitiae tenuerit, Christi particeps est: Christi autem
+          <lb ed="#A" n="27"/>participem esse, est Christianum esse: a Christi enim
+          par<lb ed="#A" n="28" break="no"/>ticipatione Christiani vocamur.
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e716">
+          Porro fiunt non
+          nas<lb ed="#A" n="29" break="no"/>cuntur Christiani, sicut a Tertuliano scriptum, ab
+          Hi<lb ed="#A" n="30" break="no"/>lario &amp; Hieronymo legimus repetitum. Quanto magis
+          <lb ed="#A" n="31"/>autem aliquis Christi particeps fuerit, tanto magis
+          Chri<lb ed="#A" n="32" break="no"/>stianus, hoc est, iustus dici meretur. Praeclara sunt
+          Leo<lb ed="#A" n="33" break="no"/>nis Magni verba: Crux Christi quae saluandis est
+          im<lb ed="#A" n="34" break="no"/>pensa mortalibus, &amp; Sacramentum est: &amp; exemplum,
+          <lb ed="#A" n="35"/>Sacramentum, quo virtus impletur diuina: exemplum
+          <lb ed="#A" n="36"/>quo deuotio incitatur humana: quoniam captiuitatis
+          <lb ed="#A" n="37"/>iugo erutis, etiam hoc praestat redemptio, vt eam sequi
+          <lb ed="#A" n="38"/>possit imitatio. Nam si mundana sapientia, ita in suis
+          <lb ed="#A" n="39"/>gloriatur erroribus, vt quem sibi quisque Ducem
+          elege<lb ed="#A" n="40" break="no"/>rit, eius opiniones &amp; mores atque omnia instituta
+          se<lb ed="#A" n="41" break="no"/>ctetur: quae nobis erit communio nominis
+          Christi<lb ed="#A" n="42" break="no"/>nisi vt ei inseparabiliter vniamur, qui est vt ipse
+          insi<pb ed="#A" n="227-v"/><lb ed="#A" n="1" break="no"/>nuauit, via, veritas, &amp; vita? Via scilicet conuersationis
+          <lb ed="#A" n="2"/>sanctae: veritas doctrinae diuinae, &amp; vita beatitudinis
+          sem<lb ed="#A" n="3" break="no"/>piternae.
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e757">
+          Sed &amp; a Saluiano recte scriptum est: Nihil
+          pro<lb ed="#A" n="4" break="no"/>dest nomen sanctum habere, sine moribus, quia vita a
+          <lb ed="#A" n="5"/>professione discordans, abrogat illustris tituli honorem.
+          <lb ed="#A" n="6"/>per indignorum actuum vilitatem. Hoc est igitur
+          Chri<lb ed="#A" n="7" break="no"/>stianum &amp; iustum esse, Christi participem esse: quod
+          <lb ed="#A" n="8"/>tum efficitur quisque, quando Christum induit. Quid
+          <lb ed="#A" n="9"/>est Christianismus quaerit Basilius? ac mox respondet;
+          <lb ed="#A" n="10"/>Similitudo Dei, quo ad eius humana capax est natura,
+          <lb ed="#A" n="11"/>Si Christianismum amplexus es, stude similis fieri Deo
+          <lb ed="#A" n="12"/>indue Christum. Quomodo illum indues? qui Baptis
+          <lb ed="#A" n="13"/>mum non accepit, quique vestem incorruptionis non
+          in<lb ed="#A" n="14" break="no"/>duit, similitudinem Dei repudiauit. Ac paulo superius,
+          <lb ed="#A" n="15"/>Assume viscera miserationis, bonitatem &amp; comitatem, vt
+          <lb ed="#A" n="16"/>Christum induas: quibus enim modis sympatiam assum
+          <lb ed="#A" n="17"/>pseris, iisdem &amp; Christum indues, &amp; per Christi
+          cogna<lb ed="#A" n="18" break="no"/>tionem Deo quoque coniunctus eris. Et in Asceticis,
+          <lb ed="#A" n="19"/>Christianismi, inquit, finis hic est, vt Christum pro
+          men<lb ed="#A" n="20" break="no"/>sura incamationis, iuxta quod cuiusque vocationi
+          com<lb ed="#A" n="21" break="no"/>petit, imitemur.
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e799">
+          Ex quibus Basilii verbis colligere licet,
+          <lb ed="#A" n="22"/>quod ab Augustino quoque scriptum est: duobus modis
+          <lb ed="#A" n="23"/>nos Christum induere: per Baptismi susceptionem &amp; per
+          <lb ed="#A" n="24"/>morum eius imitationem. De priore genere dicit
+          Apo<lb ed="#A" n="25" break="no"/>stolus ad Galatas scribens: Quotquot in Christo
+          bapti<lb ed="#A" n="26" break="no"/>zari estis, Christum induistis: De posteriore meminit cum
+          <lb ed="#A" n="27"/>Romanos iam proculdubio credentes, &amp; per baptisinum
+          <lb ed="#A" n="28"/>Christum induros, hortatur, vt induantur dominum
+          no<lb ed="#A" n="29" break="no"/>strum Iesum Christum. Priorem igitur iustitiam,
+          creden<lb ed="#A" n="30" break="no"/>tes in baptismo consequimur, vbi complantati facti
+          simi<lb ed="#A" n="31" break="no"/>litudini mortis Christi, vetere simul homine crucifixo
+          <lb ed="#A" n="32"/>nouum induimus, qui secundum Deum creatus est in
+          <lb ed="#A" n="33"/>iustitia &amp; sanctitate. Quo quidem tempore non solum
+          <lb ed="#A" n="34"/>peccata nobis omnia remittuntur, passionis &amp; mortis
+          <lb ed="#A" n="35"/>Christi merito, quod nobis credentibus in baptismo
+          <lb ed="#A" n="36"/>communicatur, haud aliter, quam si eadem ipsi pro
+          pec<lb ed="#A" n="37" break="no"/>catis nostris passi, atque ad eundem modum mortui
+          es<lb ed="#A" n="38" break="no"/>semus; verum etiam infunditur omne gratiarum genus,
+          <lb ed="#A" n="39"/>ipso gratiarum largitore Christo, per fidem in cordibus
+          <lb ed="#A" n="40"/>nostris habitante: vt si quem, simul atque lauacro
+          rege<lb ed="#A" n="41" break="no"/>nerationis ablutus est, &amp; sanctificatus, ex hac vita
+          mi<lb ed="#A" n="42" break="no"/>grare statim contigerit, dubium esse debeat nemini, quin
+          <pb ed="#A" n="228-r"/>
+          <lb ed="#A" n="1"/>is Christum indutus &amp; quod CHRISTVS est natura,
+          <lb ed="#A" n="2"/>per adoptionis gratiam filius Dei factus, haereditatem
+          re<lb ed="#A" n="3" break="no"/>gni coelestis e vestigio consequatur: etiam si non modo
+          <lb ed="#A" n="4"/>mulla bona, verumetiam opera nulla mala baptismum
+          <lb ed="#A" n="5"/>eius praecesserint.
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e860">
+          Caeterum, si posteaquam fidem est &amp;
+          <lb ed="#A" n="6"/>baptismum consecutus, aliquod ei viuendi spacium Deus
+          <lb ed="#A" n="7"/>suppeditare sit dignatus, nequaquam suffecerit, quod per
+          <lb ed="#A" n="8"/>gratiam adoptionis, quam adeptus aliquis est, credens
+          <lb ed="#A" n="9"/>&amp; baptizatus, Christum indutus, filiusque Dei factus est,
+          <lb ed="#A" n="10"/>Neque enim sine causa dictum est a Ioanne: Charissimi,
+          <lb ed="#A" n="11"/>filii dei sumus, &amp; nondum apparuit quid erimus: fieri enim
+          <lb ed="#A" n="12"/>potest, vt qui per baptismum &amp; fidem Christum indutus,
+          <lb ed="#A" n="13"/>filius dei per adoptionis gratiam factus est, posteaquam
+          <lb ed="#A" n="14"/>gustauit semel donum coeleste, particepsque factus est
+          spiri<lb ed="#A" n="15" break="no"/>tus sancti: &amp; contristet voluntarie peccando spiritum
+          san<lb ed="#A" n="16" break="no"/>ctum quem accepit, &amp; quod ipse factus, templum eius vio
+          <lb ed="#A" n="17"/>let, atque ita duplo quam antea gehennae filius efficiatur,
+          <lb ed="#A" n="18"/>quod melius illi fuerat non cognoscere viam iustitiae quam
+          <lb ed="#A" n="19"/>post agnitionem retrorsum conuerti. Nescimus igitur,
+          in<lb ed="#A" n="20" break="no"/>quit, quid erimus: sed si conformes illi facti fuerimus,
+          ima<lb ed="#A" n="21" break="no"/>ginem ipsius hic portando, crucem eius ferendo, membra
+          <lb ed="#A" n="22"/>nostra, quae super terram sunt mortificando: quum
+          appa<lb ed="#A" n="23" break="no"/>ruerit, similes ei erimus in gloria: si compassi illi fuerimus,
+          <lb ed="#A" n="24"/>&amp; conregnabimus. Hunc esse Ioannis verborum sensum,
+          <lb ed="#A" n="25"/>vel ex eo colligi potest, quod statim subiungit: Omnis qui
+          <lb ed="#A" n="26"/>habet hanc spem in eo, sanctificat se, sicut &amp; ille sanctus est,
+          <lb ed="#A" n="27"/>Quod verbum diligenter est obseruandum. Neque enim
+          <lb ed="#A" n="28"/>dixit Ioannes, qui habet hanc spem, Deus illum
+          sanctifi<lb ed="#A" n="29" break="no"/>cat, aut pro sancto &amp; iusto habet, non imputando ei
+          pec<lb ed="#A" n="30" break="no"/>cata sua, propter fidem &amp; spem: nam non loquitur ibi de
+          <lb ed="#A" n="31"/>sanctificatione &amp; iustitia, quam superne accepimus,
+          mun<lb ed="#A" n="32" break="no"/>dati lauacro aquae in verbo vitae: sed de ea qua sanctificati,
+          <lb ed="#A" n="33"/>iam &amp; abluti per lauacrum, exercemus nos ad omnem pie
+          <lb ed="#A" n="34"/>tatem, &amp; quem induti sumus Christum per sacramenti
+          su<lb ed="#A" n="35" break="no"/>sceptionem, cum induimus per vitae ipsius imitationem: vt
+          <lb ed="#A" n="36"/>quemadmodum ei similes esse cupimus in gloria, sic prius ei
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e930">
+          <lb ed="#A" n="37"/>pro modulo nostro, similes esse contendamus in
+          sanctita<lb ed="#A" n="38" break="no"/>te &amp; iustitia, ea iustitia de qua scribit idem Ioannes alio
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e938">
+          <lb ed="#A" n="39"/>loco: Qui iustus est, iustificetur adhuc. Tunc autem
+          iustifi<lb ed="#A" n="40" break="no"/>catur qui iustus est, cum qui per lauacrum
+          regeneratio<lb ed="#A" n="41" break="no"/>nis, non ablutus tantum a sordibus peccatorum suorum,
+          <pb ed="#A" n="228-v"/>
+          <lb ed="#A" n="1"/>verumetiam iunficatus est &amp; sanctificatus, aspiciens in
+          au<lb ed="#A" n="2" break="no"/>thorem fidei &amp; consummatorem Iesum, quod cum
+          bapti<lb ed="#A" n="3" break="no"/>zaretur professus est, omni genere vitae suae praestat, sacris
+          <lb ed="#A" n="4"/>Iesu vestigiis incedit, ac quemadmodum ille ambulauit.
+          <lb ed="#A" n="5"/>ambulat ipse quoque. Quam ad rem hortatur nos
+          Pau<lb ed="#A" n="6" break="no"/>lus cum dicit: Estote imitatores Dei, sicut filii charissimi
+          <lb ed="#A" n="7"/>&amp; ambulate in dilectione. Hoc est igitur iustum esse,
+          Chri<lb ed="#A" n="8" break="no"/>stum induere Deique filium fieri: non modo per
+          Susceptio<lb ed="#A" n="9" break="no"/>nem Sacramenti: verumetiam per imitationem illius
+          vi<lb ed="#A" n="10" break="no"/>tae sanctissimae, citra quam salui esse non possumus. Hoc
+          <lb ed="#A" n="11"/>est quod a Dionysio quoque Areopagita scriptum est: Deus
+          <lb ed="#A" n="12"/>maxime desiderat salutem nostram, quae nobis nisi
+          deisi<lb ed="#A" n="13" break="no"/>catis contingere non potest: Deificatio autem est ad deum
+          <lb ed="#A" n="14"/>quantum possibile est, &amp; similitudo &amp; vnitas, quae
+          qui<lb ed="#A" n="15" break="no"/>dem similitudo, reddit creaturam Deo amabilem &amp;
+          dile<lb ed="#A" n="16" break="no"/>ctam: si quidem similitudo, causa dilectionis, sicut contra
+          <lb ed="#A" n="17"/>dissimilitudo, causa est displicentiae, &amp; disiunctionis,
+          <lb ed="#A" n="18"/>Quid autem est in quo Christum imitari, in quo nos illi
+          <lb ed="#A" n="19"/>pro nostro modulo esse velle similes oporteat? Nunquid
+          <lb ed="#A" n="20"/>in virtute, quam ostendit in faciendis miraculis? num in
+          <lb ed="#A" n="21"/>sapientia, num in potentia &amp; maiestate? Nihil horum
+          di<lb ed="#A" n="22" break="no"/>cit Paulus: verum quando Dei nos imitatores esse iubet.
+          <lb ed="#A" n="23"/>Ambulate, inquit, in dilectione, sicut &amp; Christus dilexit.
+          <lb ed="#A" n="24"/>nos vt omnis imitatio dei, hoc est omnis iustitia nostra,
+          <lb ed="#A" n="25"/>non aliud esse videatur, quam dilectio:
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e1003">
+          Verum in hac quoque
+          <lb ed="#A" n="26"/>deum imitari perdifficile est. Quid est enim homo, vt
+          pos<lb ed="#A" n="27" break="no"/>sit sequi regem factorem suum? Infirmiores revera
+          su<lb ed="#A" n="28" break="no"/>mus, quam vt exemplo Christi in dilectione ambulare,
+          <lb ed="#A" n="29"/>atque ita iusti esse queamus.
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e1014">
+          Verum data est tibi diuinitus
+          <lb ed="#A" n="30"/>potestas, inquit, Chrysostomus, imitari Christum pro
+          vi<lb ed="#A" n="31" break="no"/>ribus &amp; similem fieri. Noli expauescere hoc audiens:
+          ti<lb ed="#A" n="32" break="no"/>mendum enim tibi potius est, si similis illi fieri negligas,
+          <lb ed="#A" n="33"/>Adiuuat infirmitatem nostram Christi spiritus, &amp; ad om
+          <lb ed="#A" n="34"/>nia nos fortes ac validos reddit, simul vt ignem sui amoris,
+          <lb ed="#A" n="35"/>in mentibus nostris accenderit. Ex quo videre licet, quam
+          <lb ed="#A" n="36"/>apposite dictum sit a Cyrillo: quod iustitia, siue bonitas
+          <lb ed="#A" n="37"/>patris, per filium in spiritu sancto, transit ad omnes: Qui
+          <lb ed="#A" n="38"/>etiam alio loco, sanctificationem nostram esse vult in
+          spiri<lb ed="#A" n="39" break="no"/>tu participationem filii, quod exemplo quoque planum facit,
+          <lb ed="#A" n="40"/>dicens: Nam &amp; sole per splendorem qui ex eo emittitur,
+          <lb ed="#A" n="41"/>non sine calore participamus, qui operationis spiritus
+          san<lb ed="#A" n="42" break="no"/>cti imaginem gerit. Sol iustitiae Deus pater est, splendor
+          <pb ed="#A" n="229-r"/>
+          <lb ed="#A" n="1"/>filius, qui tenebras nostras illuminauit, quique nobiscum in
+          <lb ed="#A" n="2"/>terris degens, viam iustitiae nobis commonstrauit: calor
+          <lb ed="#A" n="3"/>spiritus sanctus, qui simul vt charitatem in cordibus
+          no<lb ed="#A" n="4" break="no"/>stris diffuderit, &amp; eius igne mentes nostras
+          inflammaue<lb ed="#A" n="5" break="no"/>rit, iam sumus iustitiam consecuti. Et Cyrillo vetustior
+          <lb ed="#A" n="6"/>Athanasius in Epistola ad Serapionem de Spiritu sancto
+          <lb ed="#A" n="7"/>Sicut ex patre per filium est gratia quae tribuitur, sic
+          largi<lb ed="#A" n="8" break="no"/>tionis communio in nobis esse non potest, nisi in spiritu
+          <lb ed="#A" n="9"/>sancto. Huius enim compotes, habemus patris
+          charita<lb ed="#A" n="10" break="no"/>tem, &amp; filii gratiam, &amp; ipsius Spiritus communionem. Ex
+          <lb ed="#A" n="11"/>his cuiuis perspicuum esse potest, quomodo Dei,
+          quomo<lb ed="#A" n="12" break="no"/>do Christi, quomodo nostra dicitur esse iustitia, Dei
+          dici<lb ed="#A" n="13" break="no"/>tur, quoniam a Deo proficiscitur, a Deo nobis donatur,
+          <lb ed="#A" n="14"/>Deus est qui eam efficit, qui eam operatur in nobis, qui
+          <lb ed="#A" n="15"/>gratuito nos abluit &amp; sanctificat: Christi dicitur, non
+          so<lb ed="#A" n="16" break="no"/>lum quia Christi merito fit, vt iusti simus, qui nisi lauisse
+          <lb ed="#A" n="17"/>nos a peccatis nostris in sanguine suo, nisi nos per morte
+          <lb ed="#A" n="18"/>suam, Deo patri suo coelesti reconciliasset, non modo
+          nul<lb ed="#A" n="19" break="no"/>la iustitia, sed mera esset in nobis iniustitia, &amp; omne
+          ge<lb ed="#A" n="20" break="no"/>nus iniquitatis abundaret: verumetiam quia non aliter iu
+          <lb ed="#A" n="21"/>sti efficimur, quam si splendoris illius paternae gloriae, qui
+          <lb ed="#A" n="22"/>Christus est participes reddamur, cuius cum nobis lux
+          es<lb ed="#A" n="23" break="no"/>set inaccessibilis, (quae bonitas illius est, &amp; misericordia
+          <lb ed="#A" n="24"/>nunquam satis praedicanda) dignatus est se nobis
+          exhibe<lb ed="#A" n="25" break="no"/>re verbum in carne, solem in nube, lumen in testa, caereum
+          <lb ed="#A" n="26"/>in laterna, quominus difficulter sustinere splendorem
+          lu<lb ed="#A" n="27" break="no"/>cis illius possemus.
+        </p>
+        <p xml:id="ho8ccf-a3aqd2-d1e1105">
+          Porro nostra dicitur iustitia, quoniam
+          <lb ed="#A" n="28"/>cum a Deo nobis donatur, spiritu mentis nostrae renoua
+          <lb ed="#A" n="29"/>mur, &amp; non modo reputamur, sed vere iusti nominamus
+          <lb ed="#A" n="30"/>&amp; sumus, iustitiam in nobis accipientes, de plenitudine
+          <lb ed="#A" n="31"/>iustitiae quae Christus est pro modulo nostro,
+          quemadmo<lb ed="#A" n="32" break="no"/>dum dicit Augustinus tanquam particulas nostras,
+          secun<lb ed="#A" n="33" break="no"/>dum mensuram, quam spiritus sanctus partitur singuli,
+          <lb ed="#A" n="34"/>sicut vult, &amp; secundum propriam cuiusque dispositionem
+          <lb ed="#A" n="35"/>&amp; cooperationem, diffusa in cordibus nostris charitate
+          <lb ed="#A" n="36"/>quae quanto maior fuerit, tanto maior erit iustitia nostra
+          <lb ed="#A" n="37"/>Quae quamuis a Deo nobis infunditur per Christi
+          meri<lb ed="#A" n="38" break="no"/>ta, nostra tamen est, quia nobis inhaeret, quia non sine
+          no<lb ed="#A" n="39" break="no"/>bis eam Deus operatur in nobis, iam praesertim adultis,
+          <lb ed="#A" n="40"/>quia posteaquam semel abluti, sanctificati, iustificati sumus,
+          <lb ed="#A" n="41"/>nos etiam ipsi deinceps in Deo spem habentes,
+          sanctifica<lb ed="#A" n="42" break="no"/>mus nos &amp; iustificamus, ambulantes in dilectione, sicut
+          <pb ed="#A" n="229-v"/>
+          <lb ed="#A" n="1"/>Christus dilexit nos, in qua qui ambulat, omnem
+          virtu<lb ed="#A" n="2" break="no"/>tem, omnem est iustitiam consecutus. Nostra ergo est
+          iu<lb ed="#A" n="3" break="no"/>stitia, non qua Deus iustus est, sed qua nos iustos facit.
+          <lb ed="#A" n="4"/>Neque enim propterea nostra non est, quod ab illo
+          do<lb ed="#A" n="5" break="no"/>nata est: Nisi forte quis dicat &amp; vestem propterea nostram
+          <lb ed="#A" n="6"/>non esse, quod eam ab amico donatam habemus. Nostrum
+          <lb ed="#A" n="7"/>est, inquit, Augustinus quod a nobis habetur, nostrum est
+          <lb ed="#A" n="8"/>&amp; quod nobis donatur. Hoc est quod a Bernardo quoque
+          <lb ed="#A" n="9"/>scriptum legimus, quem nouatores isti secum facere
+          glo<lb ed="#A" n="10" break="no"/>riantur, Iustum, inquit, me dixero, sed illius iustitia:
+          Quae<lb ed="#A" n="11" break="no"/>nam ipsa? Finis legis, Christus ad iustitiam omni
+          creden<lb ed="#A" n="12" break="no"/>ti: Denique qui factus est nobis, inquit, iustitia a Deo
+          pa<lb ed="#A" n="13" break="no"/>tre. Quae ergo mihi iustitia facta est, mea non est? Si
+          <lb ed="#A" n="14"/>mea traducta culpa, cur non &amp; mea indulta iustitia? Et su
+          <lb ed="#A" n="15"/>ne multo tutior donata, quam innata: nam ista quidem
+          <lb ed="#A" n="16"/>gloriam habet, sed non apud Deum: illa autem cum sit
+          <lb ed="#A" n="17"/>salutis efficax, materiam gloriandi non habet, nisi in
+          Do<lb ed="#A" n="18" break="no"/>mino. Nam etsi iustus, inquit, fuero, non leuabo caput,
+          <lb ed="#A" n="19"/>ne videlicet responsum accipiam: Quid enim habes,
+          <lb ed="#A" n="20"/>quod non accepisti? quod si accepisti, quid gloriaris
+          quas<lb ed="#A" n="21" break="no"/>non acceperis? Quid aliud his verbis Bernardus, quam
+          <lb ed="#A" n="22"/>illud ipsum asserit, quod ab Augustino, quodque a
+          Cy<lb ed="#A" n="23" break="no"/>rillo scriptum antea retulimus? negat innatam, sed esse
+          <lb ed="#A" n="24"/>nobis donatam dicit iustitiam: negat nasci, sed fieri
+          di<lb ed="#A" n="25" break="no"/>cit Christianos, hoc est, iustos; Non quia factus est
+          mi<lb ed="#A" n="26" break="no"/>hi iustitia Christus, ideo, inquit, iustitia mea non est, etiam
+          <lb ed="#A" n="27"/>vita factus est nobis Christus: sic enim loquitur Paulus.
+          <lb ed="#A" n="28"/>Cum Christus apparuerit vita vestra: sic loquitur ipse
+          <lb ed="#A" n="29"/>Christus: Ego sum vita &amp; resurrectio: Ego sum via
+          ve<lb ed="#A" n="30" break="no"/>ritas &amp; vita: nunquid ideo nostra non erit vita? In Deo
+          <lb ed="#A" n="31"/>viuimus, mouemur &amp; sumus: Nunquid ea vita
+          viui<lb ed="#A" n="32" break="no"/>mus, qua viuit Deus? Nunquid eo motu mouemur, quo
+          <lb ed="#A" n="33"/>mouetur Deus? si modo recte dici potest moueri Deum,
+          <lb ed="#A" n="34"/>Posset ne dici quicquam absurdius e Viuimus igitur vita,
+          <lb ed="#A" n="35"/>quae est in nobis, verum quam Deus produxit in nobis,
+          <lb ed="#A" n="36"/>sicut aer clarus est, non ea luce quae est in sole, sed ea, quam
+          <lb ed="#A" n="37"/>accepit a sole: sicut aqua feruet, non eo colore, qui est in
+          <lb ed="#A" n="38"/>igne, sed quem recipit ab igne &amp; inest illi: sic &amp; nos non
+          <lb ed="#A" n="39"/>ea iustitia iusti sumus, quae est in sole iustitiae Deo, sed quan
+          <lb ed="#A" n="40"/>accepimus a sole iustitiae Deo &amp; inest nobis. Qua de re sic
+          <lb ed="#A" n="41"/>a Gregorio quoque scriptum legimus. Iustitia nostra
+          dici<lb ed="#A" n="42" break="no"/>tur, non quae ex nostro nostra est, sed quae diuina largitate
+          <pb ed="#A" n="230-r"/>
+          <lb ed="#A" n="1"/>sit nostra. Sicut in dominica oratione dicimus: Panem
+          <lb ed="#A" n="2"/>nostrum quotidianum da nobis hodie. Ecce, &amp; nostrum
+          <lb ed="#A" n="3"/>dicimus, &amp; tamen vt detur oramus: noster quippe fit cum
+          <lb ed="#A" n="4"/>accipitur, &amp; tamen dei est, quia ab illo datur: Et dei ergo
+          <lb ed="#A" n="5"/>est ex munere, &amp; noster sit veraciter per acceptionem. Hoc
+          <lb ed="#A" n="6"/>ergo sentiendum est de nostra, &amp; de dei siue Christi
+          iusti<lb ed="#A" n="7" break="no"/>tia, quod nos iustitia iusti sumus quae est in nobis, ille
+          ve<lb ed="#A" n="8" break="no"/>ro est ipsa iustitia: nos capaces tantum iustitiae sumus: ille,
+          <lb ed="#A" n="9"/>sicut ex Dydimo vertit Hieronymus, non capax, verum
+          ca<lb ed="#A" n="10" break="no"/>pabilis: nam qua iustitia nos iusti sumus, eam ab illo
+          acce<lb ed="#A" n="11" break="no"/>pimus: ille contra a semet ipso habet quod iustus est: &amp; est
+          <lb ed="#A" n="12"/>(quo verbo libenter Victorinus vtitur,) fontana quaedam
+          <lb ed="#A" n="13"/>iustitia. Deus, inquit Ambrosius, vniuersitate bonus est,
+          <lb ed="#A" n="14"/>nos ex parte. Deus, inquit Gregorius, est iustitia iustificans
+          <lb ed="#A" n="15"/>in nobis est iustitia iustificata. Nos iustitiam similitudine
+          <lb ed="#A" n="16"/>tantum, Christus aequalitate comprehendit: in illo corpo
+          <lb ed="#A" n="17"/>raliter inhabitat plenitudo iustitiae, nos non plenitudinem,
+          <lb ed="#A" n="18"/>sed gratiae portionem accepimus: mentes nostrae de
+          pleni<lb ed="#A" n="19" break="no"/>tudine acceperit: mens Christi plenitudinem ipsam
+          com<lb ed="#A" n="20" break="no"/>prehendit: Quin ipse Christus plenitudo est, nam hoc ei
+          <lb ed="#A" n="21"/>nomen Cyrissum tribuisse legimus. Siquidem homo non
+          <lb ed="#A" n="22"/>est capax omnium, inquit Chrysostomus, ideo dicit
+          Pau<lb ed="#A" n="23" break="no"/>lus, Num omnes Apostoli? num omnes Prophetae? num
+          <lb ed="#A" n="24"/>omnes habent dona sanationum? in carne autem Christi
+          <lb ed="#A" n="25"/>omnia dona fuerunt secundum substantiam carnis: Cuius
+          <lb ed="#A" n="26"/>aequalis Basilius Filius, inquit, dei iustitia vocatur, nos
+          ve<lb ed="#A" n="27" break="no"/>ro participatione illius iustitiae iusti sumus. Quod ante
+          Ba<lb ed="#A" n="28" break="no"/>silium quoque, quum alibi tum in libro de diuinis nomini
+          <lb ed="#A" n="29"/>bus, frequenter inculcat Dionisius. Alio vero loco Basilius
+          <lb ed="#A" n="30"/>Quemadmodum in igne est caliditas, quae simul cum ipse
+          <lb ed="#A" n="31"/>igne existit, &amp; quasi consubstantialis illi est: est &amp; caliditas
+          <lb ed="#A" n="32"/>quam communicat aquae, aut alteri cuipiam consimili: sic &amp;
+          <lb ed="#A" n="33"/>spiritus sanctus, &amp; in se vitam habet, &amp; qui participes ipsi
+          <lb ed="#A" n="34"/>us fuerint, vitam agunt deo dignam, vitam diuinam &amp;
+          coe<lb ed="#A" n="35" break="no"/>lestem consecuti. Ac mox virtutes omnes perfectas apud deum
+          <lb ed="#A" n="36"/>esse docet, nihil in ipso acquisititium, ipsum fontem esse
+          bono<lb ed="#A" n="37" break="no"/>rum omnium, spiritum ex deo promanantem eiusdem cum
+          <lb ed="#A" n="38"/>eo substantiae: quae vero ex spiritu profluit, ipsius esse ope
+          <lb ed="#A" n="39"/>rationis. Leo quoque Magnus, Nemo hominum veritas, in
+          <lb ed="#A" n="40"/>quit, nemo sapientia, nemo iustitia est, sed multi participes
+          <lb ed="#A" n="41"/>sunt veritatis, &amp; sapientiae, atque iustitiae: solus autem Deus
+          <lb ed="#A" n="42"/>nullius participationis indignus est, de quo quicquid indi
+          <pb ed="#A" n="230-v"/>
+          <lb ed="#A" n="1"/>gne vtcunque sentimus, non qualitas est, sed essentia,
+          in<lb ed="#A" n="2" break="no"/>commutabili enim nihil accedit, nihil deperit, quia esse
+          il<lb ed="#A" n="3" break="no"/>li quod est sempiternum, semper est proprium. Ante quem
+          <lb ed="#A" n="4"/>Ioannes quoque Chrysostomus, explicans illud ex
+          pal<lb ed="#A" n="5" break="no"/>mo. Bonitatem fecisti cum seruo tuo domine: non
+          aliun<lb ed="#A" n="6" break="no"/>de docet ascendere virtutes, nisi a bonitate boni: nec aliam
+          <lb ed="#A" n="7"/>vult esse bonitatem Christianorum, nisi quam Deus
+          infun<lb ed="#A" n="8" break="no"/>dit bonis, vt ex malis essent boni. Et ante Chrysostomum
+          <lb ed="#A" n="9"/>Origenes. Sola Trinitatis substantia est, quae non
+          extrin<lb ed="#A" n="10" break="no"/>secus accepta sanctificatione, sed sui natura fit sancta. Om
+          <lb ed="#A" n="11"/>nis vero creatura, vel dignatione sancti spiritus, vel
+          meri<lb ed="#A" n="12" break="no"/>torum ratione sanctificata, sancta dicitur. Sic ergo &amp;
+          scri<lb ed="#A" n="13" break="no"/>ptum legimus: Sancti estote, quoniam ego sanctus sum.
+          <lb ed="#A" n="14"/>Non continuo similitudo sanctitatis in deo atque
+          homi<lb ed="#A" n="15" break="no"/>nibus ponenda, de deo enim dicitur, quia sanctus est:
+          ho<lb ed="#A" n="16" break="no"/>mines autem quasi qui non semper fuerint, iubentur vt
+          san<lb ed="#A" n="17" break="no"/>cti fiant. Ac paucis interiectis. Manifestum ergo est, quod
+          <lb ed="#A" n="18"/>qui sanctificat, sanctus est, quia semper sanctus est, qui
+          au<lb ed="#A" n="19" break="no"/>tem sanctificantur, non simpliciter sancti, sed sanctificati
+          <lb ed="#A" n="20"/>sancti dicendi sunt. Prosper etiam Aquitanicus diligens
+          <lb ed="#A" n="21"/>Augustini sectator Leonis aequalis, vbi de libero arbitrio
+          <lb ed="#A" n="22"/>disserit: Virtus, inquit, principaliter Deus est, cui non aliud
+          <lb ed="#A" n="23"/>est habere virtutem, quam esse virtutem: cuius quum
+          par<lb ed="#A" n="24" break="no"/>ticipes sumus, habitat Deus in nobis, qui est dei virtus &amp;
+          <lb ed="#A" n="25"/>dei sapientia: habitat fides, spes, &amp; charitas, continentia,
+          <lb ed="#A" n="26"/>intellectus, consilium, fortitudo, caeteraeque virtutes, quum
+          <lb ed="#A" n="27"/>vero ab hoc bono recedimus, omnia nobis e contrario
+          <lb ed="#A" n="28"/>oriuntur ex nobis: discedente enim pulchritudine, quid
+          <lb ed="#A" n="29"/>succedat nisi deformitas? abeunte sapientia, quid resideat
+          <lb ed="#A" n="30"/>nisi insipientia? non regnante iustitia, quid dominetur nisi
+          <lb ed="#A" n="31"/>iniquitas? Virtutum itaque semina, quae beneficio creatoris
+          <lb ed="#A" n="32"/>inserta sunt praeuaricatione primi parentis euersa sunt,
+          <lb ed="#A" n="33"/>nec haberi queunt, nisi eo restituente qui dedit:
+          reforma<lb ed="#A" n="34" break="no"/>bilis enim est natura humana formatori suo, &amp; eorum
+          bo<lb ed="#A" n="35" break="no"/>norum, quae habuit, capax est, vt per mediatorem dei &amp;
+          ho<lb ed="#A" n="36" break="no"/>minum Iesum Christum, in eo ipso quod ei remansit, pos
+          <lb ed="#A" n="37"/>fit recuperare, quod perdidit: remansit autem ei rationalis
+          <lb ed="#A" n="38"/>animus, qui non virtus, sed virtutis habitaculum est. Ex
+          <lb ed="#A" n="39"/>participatione enim sapientiae, &amp; iustitiae, &amp; misericordiae.
+          <lb ed="#A" n="40"/>non sapientia, neque iustitia, neque misericordia, sed
+          sapi<lb ed="#A" n="41" break="no"/>entes &amp; iusti misericordes sumus: quae bona, quamuis
+          ra<lb ed="#A" n="42" break="no"/>tionale nostrum vitiis occupatum sit, &amp; praeuaricantibus
+          <pb ed="#A" n="231-r"/>
+          <lb ed="#A" n="1"/>hobis dei templum spiritus immundus inuaserit, possunt
+          <lb ed="#A" n="2"/>tamen rursum ipsum rationale confluere, per cum qui
+          mun<lb ed="#A" n="3" break="no"/>hi principem foras mittit, &amp; ligans fortem, vasa eius rapit,
+          <lb ed="#A" n="4"/>fugataque mundi huius spiritu, dat spiritum, qui ex deo est,
+          <lb ed="#A" n="5"/>vt sciamus quae a deo donata sunt nobis. Et qui videtur
+          <lb ed="#A" n="6"/>non multo fuisse posterior Faustus, quum Deus inquit
+          iu<lb ed="#A" n="7" break="no"/>stus ac iustitia, misericors ac misericordia, pius &amp; pietas
+          <lb ed="#A" n="8"/>sit, homo iustus esse potest, iustitia esse non potest,
+          miseri<lb ed="#A" n="9" break="no"/>fors esse potest, misericordia esse non potest, pius esse
+          po<lb ed="#A" n="10" break="no"/>fest, pietas esse non potest, quia non naturaliter habet ista,
+          <lb ed="#A" n="11"/>sed largiter. Verbi gratia: Ille aurum est, homo autem
+          de<lb ed="#A" n="12" break="no"/>huratum vas videri potest, &amp; in homine gratia est, quod
+          <lb ed="#A" n="13"/>in deo natura est, &amp; in hoc creatum est, quod in illo
+          pro<lb ed="#A" n="14" break="no"/>batur ingenitum. Ex his omnibus liquet, hoc quod
+          dixi<lb ed="#A" n="15" break="no"/>mus, non ea nos iustitia iustos esse, qua Deus iustus, sed qua
+          <lb ed="#A" n="16"/>mos iustos facit, dum suae iustitiae participes reddit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 3</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 3</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="2-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a1dgah"><!-- c3 -->
+        <head xml:id="ho8ccf-a1dgah-Hd1e99">Caput 3</head>
+        <head xml:id="ho8ccf-a1dgah-Hd1e101" type="question-title">Quod Ecclesia, omnia quae ad fidem mediatoris pertinent, non modo scriptis et sermonibus, verum et certorum dierum observationibus et signis et imaginibus et habitu et gestu et variis caeremoniis, mentibus fidelium imprimere conata est. Ac primum de Anno in certa tempora distributo, deque beneficio Christi incarnationis</head>
+        <p xml:id="ho8ccf-a1dgah-d1e104">
+          <lb ed="#A" n="33"/>CAPVT TERTIVM.
+          <lb ed="#A" n="34"/>Quod Ecclesia, omnia quae ad fidem mediatoris
+          perti<lb ed="#A" n="35" break="no"/>nent, non modo scriptis &amp; sermonibus, verum &amp;
+          cer<lb ed="#A" n="36" break="no"/>torum dierion obseruationibus, &amp; signis, &amp;
+          imagini<lb ed="#A" n="37" break="no"/>bus, &amp; habitu, &amp; gestu, &amp; variis ceremoniis,
+          menti<lb ed="#A" n="38" break="no"/>bus fidelium imprimere conata est. Ac primum de
+          An<lb ed="#A" n="39" break="no"/>no in certa tempora distributo, deque beneficio Christi
+          <lb ed="#A" n="40"/>incarnationis.
+        </p>
+        <p xml:id="ho8ccf-a1dgah-d1e124">
+          <pb ed="#A" n="3-r"/>
+          <lb ed="#A" n="1"/><milestone ed="#A" unit="p" rend="initial"/> VErum videre licet admirabilem quandam curam,
+          <lb ed="#A" n="2"/>&amp; solicitudinem sanctae matris Ecclesiae, quae non
+          <lb ed="#A" n="3"/>contenta vel scripto, vel verbo singula
+          tradidis<lb ed="#A" n="4" break="no"/>se, quae necessario credenda sunt ad salutem,
+          di<lb ed="#A" n="5" break="no"/>igenter vias &amp; rationes omnes persecuta est, quibus ea
+          <lb ed="#A" n="6"/>quam maxime clara, &amp; manifesta redderet omnibus.
+        </p>
+        <p xml:id="ho8ccf-a1dgah-d1e143">
+          Itaque
+          <lb ed="#A" n="7"/>totum anni tempus ita distribuit, certos vt dies institueret,
+          <lb ed="#A" n="8"/>quibus eorum, quae credere nos oportet, si modo salui esse
+          <lb ed="#A" n="9"/>volumus, ita admoneremur, nunquam vt elabi e memoria
+          <lb ed="#A" n="10"/>nostra possent.
+        </p>
+        <p xml:id="ho8ccf-a1dgah-d1e155">
+          Quoniam vero primum inter ea locum
+          ob<lb ed="#A" n="11" break="no"/>tinet incarnatio Christi, non vtcunque ad celebrandam hu
+          <lb ed="#A" n="12"/>ius tanti benefici memoriam accedere liberos suos voluit,
+          <lb ed="#A" n="13"/>verum tribus, &amp; amplius etiam hebdomadis, vt se
+          praepa<lb ed="#A" n="14" break="no"/>rarent instituit, ad mediatorem redemptoremque suum, eo
+          <lb ed="#A" n="15"/>quo par est honore, excipiendum. Quod quidem tempus
+          <lb ed="#A" n="16"/>vocauit Aduentum: in quo sanctorum patrum desiderium
+          <lb ed="#A" n="17"/>nobis repraesentat, qui sedentes in tenebris &amp; in vmbra
+          <lb ed="#A" n="18"/>mortis, incredibili quodam animorum ardore, venturum
+          <lb ed="#A" n="19"/>in carne iustitiae solem, dominum nostrum Iesum
+          Chri<lb ed="#A" n="20" break="no"/>stum, expectantes, continuis &amp; flebilibus modis
+          clama<lb ed="#A" n="21" break="no"/>bant, dicentes: Rorate coeli desuper, &amp; nubes pluant
+          iu<lb ed="#A" n="22" break="no"/>stum, aperiatur terra, &amp; germinet Saluatorem. Quae
+          ver<lb ed="#A" n="23" break="no"/>ba &amp; in primis vesperis primae Dominicae, &amp; per totum
+          <lb ed="#A" n="24"/>Aduentum singulis diebus in Missa beatae virginis
+          can<lb ed="#A" n="25" break="no"/>tantur. Ad quam diluculo surgunt homines, tanquam vt
+          <lb ed="#A" n="26"/>gilantes, atque sui saluatoris aduentum expectantes. Qui
+          <lb ed="#A" n="27"/>vero maiore feruntur erga Christum charitate, carnem
+          <lb ed="#A" n="28"/>etiam suam per omne id tempus ieiunio macerant, quo
+          <lb ed="#A" n="29"/>domitis illius cupiditatibus, tanto magis expediti esse
+          que<lb ed="#A" n="30" break="no"/>ant ad illum venientem excipiendum, debitoque honore
+          <lb ed="#A" n="31"/>prosequendum, quem tanto studio praestolati fuerunt,
+          <lb ed="#A" n="32"/>Cuius posteaquam diu multumque expectatus ille dies
+          in<lb ed="#A" n="33" break="no"/>carnationis, &amp; natiuitatis aduenit, quanta est, per Deum
+          <lb ed="#A" n="34"/>immortalem, omnium laetitia? quam profusum gaudium,
+          <lb ed="#A" n="35"/>quam incredibilis exultatio? quod venerit tandem ille
+          <lb ed="#A" n="36"/>tantopere desideratus, qui dissolueret iugum nostrae
+          capti<lb ed="#A" n="37" break="no"/>uitatis, &amp; nos a graui seruitute, qua diabolo mancipati
+          <lb ed="#A" n="38"/>fueramus, in libertatem assereret. Surgitur nocte media,
+          <lb ed="#A" n="39"/>qua natum nobis puerum hunc admirabilem, ex historia
+          <lb ed="#A" n="40"/>didicimus Euangelica: Curritur ab omnibus ad
+          viden<lb ed="#A" n="41" break="no"/>dum, ad amplexandum, ad exosculandum nostrae salutis
+          <lb ed="#A" n="42"/>autorem. Illucescente vero sole, posteaquam solenni cum
+          <pb ed="#A" n="3-v"/>
+          <lb ed="#A" n="1"/>gaudio perfecta sunt in templo omnia, quae ad diem hunc
+          <lb ed="#A" n="2"/>tam festum iusta celebritate peragendum pertinere
+          vi<lb ed="#A" n="3" break="no"/>dentur, nequaquam iis finibus gaudium &amp; exultatio
+          pio<lb ed="#A" n="4" break="no"/>rum continetur: verum priuatis etiam cuiusque aedibus, non
+          <lb ed="#A" n="5"/>ab adultis modo, verum &amp; a pueris, ac tantum non ab ipsis
+          <lb ed="#A" n="6"/>lactentibus atque infantibus, natus nobis puerulus, datus
+          <lb ed="#A" n="7"/>nobis filius, decantatur
+        </p>
+        <p xml:id="ho8ccf-a1dgah-d1e244">
+          <lb ed="#A" n="8"/><milestone ed="#A" unit="p" rend="indent"/> Cursitatur per vicos &amp; plateas, in singulis aedibus
+          an<lb ed="#A" n="9" break="no"/>nuntiatur cum nubilo gaudium illud magnum, quod
+          na<lb ed="#A" n="10" break="no"/>tus est nobis hodie Saluator, qui est Christus dominus,
+          <lb ed="#A" n="11"/>Quoniam vero summa tum apparuit liberalitas Dei
+          pa<lb ed="#A" n="12" break="no"/>tris, qui cum sit diues in misericordia, propter nimiam
+          <lb ed="#A" n="13"/>charitatem suam, qua dilexit nos, misit filium suum
+          fa<lb ed="#A" n="14" break="no"/>ctum ex muliere, qui mortem nostram moriendo
+          destrue<lb ed="#A" n="15" break="no"/>ret, &amp; vitam resurgendo repararet, inuitantur a locuple
+          <lb ed="#A" n="16"/>tioribus tenuiores, vt &amp; ipsi qua possint communis
+          om<lb ed="#A" n="17" break="no"/>nium tam benigni patroni, vel patris potius
+          liberalita<lb ed="#A" n="18" break="no"/>tem imitentur, atque e suis copiis egentium subleuent
+          ino<lb ed="#A" n="19" break="no"/>piam. Hac ratione mater Ecclesia, quae in symbolo primo
+          <lb ed="#A" n="20"/>loco de Christo nato continentur, in pectoribus
+          libero<lb ed="#A" n="21" break="no"/>rum suorum defigenda curauit: vt ne facile excidere
+          pos<lb ed="#A" n="22" break="no"/>sent. Addidit iis etiam ea, quae non continentur in
+          sym<lb ed="#A" n="23" break="no"/>bolo. Nam octauo die post, circuncisi: quatuor deinde
+          <lb ed="#A" n="24"/>diebus interiectis, a Magis adorati: quadragesimo die
+          <lb ed="#A" n="25"/>post natalem, in templo oblati pueri Iesu, memoriam
+          <lb ed="#A" n="26"/>recolit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

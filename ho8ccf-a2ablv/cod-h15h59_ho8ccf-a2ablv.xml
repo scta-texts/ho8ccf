@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 34</title>
+        <author ref="#per-hos777">Stanislaus Hosius</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 34</title>
+          <date when="2026-11-13">Nov 13, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-h15h59">Antwerp, 1559</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#A" n="63-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ho8ccf-a2ablv"><!-- c34 -->
+        <head xml:id="ho8ccf-a2ablv-Hd1e99">Caput 34</head>
+        <head xml:id="ho8ccf-a2ablv-Hd1e101" type="question-title">De Baptismo</head>
+        <p xml:id="ho8ccf-a2ablv-d1e104">
+          <lb ed="#A" n="14"/>CAPVT XXXIIII.
+          <lb ed="#A" n="15"/>De Baptismo
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e111">
+          <lb ed="#A" n="16"/>AC primum quidem locum inter sacramenta
+          bap<lb ed="#A" n="17" break="no"/>tissimus obtinet, quem fidei sacramentum esse dixi
+          <lb ed="#A" n="18"/>mus, quod in eo Christianam fidem profitemur.
+          <lb ed="#A" n="19"/><milestone ed="#A" unit="p" rend="indent"/> qua etiam ex causa, fidei sigillum vocatur a
+          Basi<lb ed="#A" n="20" break="no"/>lio. Haec est ianua sacramentorum omnium, in quorum
+          <lb ed="#A" n="21"/>communionem non admittuntur nisi baptizati: hoc est no
+          <lb ed="#A" n="22"/>strae iustificationis exterius ac visibile principium. Nam
+          pe<lb ed="#A" n="23" break="no"/>baptismum incipimus esse membra Christi &amp; corporis eius
+          <lb ed="#A" n="24"/>ecclesiae, quae est congregatio fidelium: &amp; illius virtute pri
+          <lb ed="#A" n="25"/>mo fides datur omnibus. Est in hoc sacramento visibile
+          si<lb ed="#A" n="26" break="no"/>gnum, aqua, materiae locum obtinens: quod accedente
+          ver<lb ed="#A" n="27" break="no"/>bo, Ego te baptizo in nomine patris, &amp; filii, &amp; spiritus
+          <lb ed="#A" n="28"/>sancti, quod verbum forma est huius sacramenti, fit signum
+          <lb ed="#A" n="29"/>sacrae rei, hoc est inuisibilis gratiae, quae non modo
+          signifi<lb ed="#A" n="30" break="no"/>catur, verum etiam confertur multiplex per aquam
+          bap<lb ed="#A" n="31" break="no"/>tismi, fit sicut etiam varia est &amp; multiplex aquae
+          proprie<lb ed="#A" n="32" break="no"/>tas. Ac prima quidem gratia, quae &amp; confertur &amp;
+          signifi<lb ed="#A" n="33" break="no"/>catur per aquam baptismi est haec, quod qui nati eramus
+          <lb ed="#A" n="34"/>mundo, renascimur caelo: qui nati eramus serui peccati,
+          re<lb ed="#A" n="35" break="no"/>nascimur liberi iustitiae: qui nati eramus filii irae, filii
+          dia<lb ed="#A" n="36" break="no"/>boli, filii gehennae, renascimur filii gratiae, filii dei, haeredes
+          <lb ed="#A" n="37"/>regni coelorum. Hoc est quod Paulus baptismum vocat
+          la<lb ed="#A" n="38" break="no"/>uacrum regenerationis, dicens: Non ex operibus iustitiae,
+          <lb ed="#A" n="39"/>quae fecimus nos, sed secundum misericordiam suam saluo,
+          <lb ed="#A" n="40"/>nos fecit per lauacrum regenerationis &amp; renouationis
+          spi<lb ed="#A" n="41" break="no"/>ritus sancti, quem effudit in nos abunde, per Iesum
+          Chri<pb ed="#A" n="63-v"/><lb ed="#A" n="1" break="no"/>stum Dominum nostrum: vt imusicati gratia ipsius,
+          hae<lb ed="#A" n="2" break="no"/>edes simus secundum spem vit aeternae. Quibus verbis
+          <lb ed="#A" n="3"/>indicat simul Paulus &amp; causam nostrae salutis, &amp; rationem,
+          <lb ed="#A" n="4"/>&amp; modum, &amp; finem. Causam esse dicit spiritum sanctum.
+          <lb ed="#A" n="5"/>cui regenerationem hanc attribuit: sic enim edoctus erat
+          <lb ed="#A" n="6"/>a Christo, qui dixit. Nisi quis renatus fuerit ex aqua &amp;
+          spi<lb ed="#A" n="7" break="no"/>ritu sancto, non introibit in regnum dei. Quem locum
+          ex<lb ed="#A" n="8" break="no"/>plicans Cyrillus Gregorii Nazianzeni sententiam
+          sequun<lb ed="#A" n="9" break="no"/>tus: Cum non simplex, inquit, sit homo, sed compositus
+          <lb ed="#A" n="10"/>ex corpore sensibili &amp; intellectuali anima, duplici quodam
+          <lb ed="#A" n="11"/>ad generationem indiget modo, qui duplicitate sua ad
+          <lb ed="#A" n="12"/>vtrunque possit accommodari. Spiritu enim sancto,
+          spin<lb ed="#A" n="13" break="no"/>tus hominis, aqua vero corpus sanctificatur. Quemadmo
+          <lb ed="#A" n="14"/>dum enim viribus ignis intensius aqua calefacta, non aliter
+          <lb ed="#A" n="15"/>quam ignis vrit, sic spiritus sancti operatione ad diuinam
+          <lb ed="#A" n="16"/>aquae reformantur virtutem, qua baptizati corpus
+          abster<lb ed="#A" n="17" break="no"/>gunt. Quae ergo gratia est in aqua, non ex natura aquae,
+          <lb ed="#A" n="18"/>sed ex praesentia spiritus sancti: qui tamen non ita causa est
+          <lb ed="#A" n="19"/>regenerationis &amp; renouationis nostrae, vt non simul
+          cau<lb ed="#A" n="20" break="no"/>sa eius &amp; pater &amp; filius, quum inseparabilia sint opera
+          tri<lb ed="#A" n="21" break="no"/>nitatis. Et ideo tres personas hoc loco ponit Apostolus, in
+          <lb ed="#A" n="22"/>quarum vno nomine baptizat sacerdos: Non enim dicit
+          <lb ed="#A" n="23"/>in nominibus, sed in nomine patris, &amp; filii, &amp; spiritus
+          san<lb ed="#A" n="24" break="no"/>cti, vt quorum vna est diuinitas, vna esse largitio, nomenque
+          <lb ed="#A" n="25"/>trinitatis, vnus esse Deus intelligatur: tres enim personae
+          <lb ed="#A" n="26"/>Deus vnus est. Ac singulis quidem personis sua quasi
+          pro<lb ed="#A" n="27" break="no"/>pria tribuuntur: aliter enim causa est pater, aliter filius, ali
+          <lb ed="#A" n="28"/>ter spiritus sanctus. Pater est causa efficiens principalis qui
+          <lb ed="#A" n="29"/>saluos nos fecit: filius meritoria, nam per sanguinis ac
+          mor<lb ed="#A" n="30" break="no"/>tis eius meritum saluos nos fecit: per cum spiritum sanctum
+          <lb ed="#A" n="31"/>in nos effudit, misit eum in corda nostra, clamantem
+          Ab<lb ed="#A" n="32" break="no"/>ba pater. Huic ergo Paulus tribuit regenerationis &amp;
+          re<lb ed="#A" n="33" break="no"/>nouationis beneficium, cuius causa est spiritus sanctus, ex
+          <lb ed="#A" n="34"/>quo &amp; ex aqua renascimur. Deus itaque trinus &amp; vnus, ipse
+          <lb ed="#A" n="35"/>est qui nos saluos fecit. Quibus autem rationibus
+          addu<lb ed="#A" n="36" break="no"/>ctus est, vt saluos nos faceret? Non ex operibus iustitiae
+          <lb ed="#A" n="37"/>quae fecimus nos, dicit Paulus, sed secundum misericordi,
+          <lb ed="#A" n="38"/>am suam saluos nos fecit. Sic ad Israel dixit Moses: Scito
+          <lb ed="#A" n="39"/>quod non propter iustitias tuas Dominus Deus tuus
+          de<lb ed="#A" n="40" break="no"/>derit tibi terram hanc: Quid enim opera quae fidem
+          prae<lb ed="#A" n="41" break="no"/>cesserant, nisi poenas ignis aeterni merebantur? Facti
+          era<lb ed="#A" n="42" break="no"/>mus vt immundi omnes nos, &amp; quasi pannus menstruat,
+          <pb ed="#A" n="64-r"/>
+          <lb ed="#A" n="1"/>vniuersae iustitiae nostrae, vt recte cum Propheta nobis
+          di<lb ed="#A" n="2" break="no"/>cere licuerit: Misericordiae Domini quia non sumus
+          con<lb ed="#A" n="3" break="no"/>sumpti quia non defecerunt misericordiae eius.
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e272">
+          Verum
+          <lb ed="#A" n="4"/>qui diues est in inisericordia, propter nimiam charitatem
+          <lb ed="#A" n="5"/>qua dilexia nos, misit Deus filium suum vnigenitum, vt
+          si<lb ed="#A" n="6" break="no"/>scut per Moosen exaltatus est in deserto serpens, sic ille
+          exa<lb ed="#A" n="7" break="no"/>taretur in cruce, vt omnis qui credit in ipso, non pereat,
+          <lb ed="#A" n="8"/>sed habeat vitam aeternam. Neque tamen satis esse voluit
+          <lb ed="#A" n="9"/>credere, sed adipiscendae salutis, &amp; ad vitam aeternam
+          per<lb ed="#A" n="10" break="no"/>ueniendi ac in dei regnum introeundi nobis modum hunc
+          <lb ed="#A" n="11"/>praescripsit, vt fide suscepta renascamur ex aqua &amp; spiritu.
+          <lb ed="#A" n="12"/>Regenerationis itaque nostrae causam instrumentalem
+          <lb ed="#A" n="13"/>aquam esse baptisimi voluit, quod ad illam repraesentandam
+          <lb ed="#A" n="14"/>nihil aptius aqua reperiri potuit, cui generandi vis
+          conue<lb ed="#A" n="15" break="no"/>nire maxime videtur. Nam &amp; semina ex quibus
+          generan<lb ed="#A" n="16" break="no"/>tur omnia, non ipsa magis animantia quam plantae, humi
+          <lb ed="#A" n="17"/>da sunt &amp; ad aquam pertinent. Qua etiam ex causa non
+          <lb ed="#A" n="18"/>defuerunt Philosophi quidam, qui rerum omnium
+          princi<lb ed="#A" n="19" break="no"/>pium aquam esse dicerent.
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e310">
+          Quare cum aqua baptizatur ho
+          <lb ed="#A" n="20"/>mo, non modo significatur, verumetiam confertur ei
+          regene<lb ed="#A" n="21" break="no"/>rationis gratia: vt qui natus fuerat filius irae, ex aqua &amp;
+          <lb ed="#A" n="22"/>spiritu remascatur filius gratiae. Vim autem hanc regenera
+          <lb ed="#A" n="23"/>tiuam &amp; purgatiuam aquis tactu suae mundissimae carnis
+          <lb ed="#A" n="24"/>Christum contulisse, testatur Augustinus, &amp; cum
+          sequu<lb ed="#A" n="25" break="no"/>tus Beda. Saluatoris enim baptismo purgata sunt potius
+          <lb ed="#A" n="26"/>fluenta, quam vt ipsa purgarent: ac nouo
+          sanctificationi<lb ed="#A" n="27" break="no"/>genere Christum non tam lauit vnda, quam lota est: atque
+          <lb ed="#A" n="28"/>ex quo tempore se in aquam mersit, ex eo gurgitum
+          om<lb ed="#A" n="29" break="no"/>nium tractus, cunctorumque fontium venas mysterio bap
+          <lb ed="#A" n="30"/>tismatis consecrauit, vitalemque gratiam, non corpus ex flu
+          <lb ed="#A" n="31"/>mine, sed flumen mutuatum ex eo corpore: Qua de re sic
+          <lb ed="#A" n="32"/>a Leone quoque pontifice traditum legimus. Terra carni
+          <lb ed="#A" n="33"/>humanae, quae in primo fuerat praeuaricatore maledicta,
+          <lb ed="#A" n="34"/>in solo beatae Virginis partu germen edidit benedictum,
+          <lb ed="#A" n="35"/>&amp; a vitio suae stirpis alienum: cuius originem spiritualem
+          <lb ed="#A" n="36"/>in regeneratione quisque consequitur, &amp; omni homini
+          re<lb ed="#A" n="37" break="no"/>nascenti aqua baptismatis instar est vteri virginalis,
+          eo<lb ed="#A" n="38" break="no"/>dem spiritu sancto replente fontem, qui repleuit &amp;
+          virgi<lb ed="#A" n="39" break="no"/>nem, vt peccatum quod ibi vacuauit sacro conceptio, hic
+          <lb ed="#A" n="40"/>mystica tollat ablutio. Et proxime insequenti
+          sermo<lb ed="#A" n="41" break="no"/>ne: Nisi verbum Dei caro fieret &amp; habitaret in nobis,
+          <pb ed="#A" n="64-v"/>
+          <lb ed="#A" n="1"/>nisi in communionem creaturae creator ipse descenderet, &amp;
+          <lb ed="#A" n="2"/>vetustatem humanam ad nouum principium sua
+          natiui<lb ed="#A" n="3" break="no"/>tate reuocaret, regnaret mors ab Adam vsque in finem, &amp;
+          <lb ed="#A" n="4"/>super homines insolubilis condemnatio permaneret, cum
+          <lb ed="#A" n="5"/>de sola conditione nascendi vna cunctis esset causa
+          pereun<lb ed="#A" n="6" break="no"/>di. Solus itaque inter filios hominum Dominus Iesus in
+          <lb ed="#A" n="7"/>nocens natus, quia solus sine carnalis concupiscentiae
+          pol<lb ed="#A" n="8" break="no"/>lutione susceptus, factus est homo nostri generis, vt nos
+          <lb ed="#A" n="9"/>diuinae naturae possemus esse consortes. Originem quam
+          <lb ed="#A" n="10"/>sumpsit in vtero virginis, posuit in fonte baptismatis:
+          de<lb ed="#A" n="11" break="no"/>dit aquae, quod dedit matri virtus enim altissimi &amp; obum
+          <lb ed="#A" n="12"/>bratio spiritus sancti, quae fecit vt Maria pareret
+          Saluato<lb ed="#A" n="13" break="no"/>rem, eadem fecit vt regeneret vnda credentem. Haec est itaque
+          <lb ed="#A" n="14"/>prima gratia, cuius signum efficax est, quamque nobis
+          re<lb ed="#A" n="15" break="no"/>ipsa confert aqua baptismatis, regeneratio spiritualis qua
+          <lb ed="#A" n="16"/>ustificati haeredes efficimur secundum spem vitae aeternae
+          <lb ed="#A" n="17"/>qui finis est regenerationis huius, quam praecedit
+          ablutio<lb ed="#A" n="18" break="no"/>peccatorum, quae &amp; ipsa est inuisibilis gratia, cuius visibile
+          <lb ed="#A" n="19"/>signum &amp; quidem efficax est baptismus: Propterea
+          voca<lb ed="#A" n="20" break="no"/>tur a Paulo lauacrum, non hoc tantum loco quem nunc
+          <lb ed="#A" n="21"/>explicauimus, verumetiam cum ad Ephesios scribens
+          di<lb ed="#A" n="22" break="no"/>cit de Ecclesia, mundans eam lauacro aquae in verbo vitae.
+          <lb ed="#A" n="23"/>Haec est aqua illa, de qua Propheta praedixit, Effundam su
+          <lb ed="#A" n="24"/>per vos aquam mundam, &amp; mundabimini ab omnibus
+          <lb ed="#A" n="25"/>inquinamentis vestris. Hic est ille fons, de quo narrat
+          ali<lb ed="#A" n="26" break="no"/>us Propheta. In die illa, erit fons patens domui Dauid in
+          <lb ed="#A" n="27"/>ablutionem peccatoris &amp; menstruatae. Huic ablutioni
+          si<lb ed="#A" n="28" break="no"/>gnificandae quid esse potuit magis accommodum quam
+          <lb ed="#A" n="29"/>aqua, per quam sordes corporis abluuntur? Datur itaque
+          <lb ed="#A" n="30"/>baptismus in ablutionem, remissionem, &amp; indulgentiam
+          <lb ed="#A" n="31"/>omnium peccatorum. Quod ita intelligi vult
+          Augusti<lb ed="#A" n="32" break="no"/>nus, vt auferre credatur crimina, non radere. Nec vt
+          om<lb ed="#A" n="33" break="no"/>nium peccatorum radices in mala carne teneantur, quasi
+          <lb ed="#A" n="34"/>rasorum in capite capillorum vnde crescant iterum
+          rese<lb ed="#A" n="35" break="no"/>canda peccata.
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e438">
+          Caeterum quamuis, vt idem ait
+          Augusti<lb ed="#A" n="36" break="no"/>nus, omnia peccata baptismus abluat, &amp; quidem prorsus
+          <lb ed="#A" n="37"/>omnia, dictorum, factorum, cogitatorum, siue originalia
+          <lb ed="#A" n="38"/>siue addita, siue quae ignorantur, siue quae scienter admissa
+          <lb ed="#A" n="39"/>sunt, non tamen aufert infirmitatem cui regeneratus
+          resi<lb ed="#A" n="40" break="no"/>stit, quandiu bonum certamen certat: consentit autem, quan
+          <lb ed="#A" n="41"/>do sicut homo in aliquo delicto prae occupatur. Delata est
+          <lb ed="#A" n="42"/>igitur per baptismum iniquitas, sed manet infirmitas,
+          <pb ed="#A" n="65-r"/>
+          <lb ed="#A" n="1"/>Porro infirmitas haec, est concupiscentia camis, quae
+          di<lb ed="#A" n="2" break="no"/>mittitur quidem in baptismo, verum non ita vt non sit,
+          <lb ed="#A" n="3"/>sed vt in peccatum non imputetur. Nam cum sine
+          aduer<lb ed="#A" n="4" break="no"/>sario marcescat virtus, in hoc relinquitur, vt habeat homo
+          <lb ed="#A" n="5"/>baptizatus materiam, virtutem suam exercendi. In huius
+          <lb ed="#A" n="6"/>figura dictum est in libro Iudicum: Hae sunt gentes quas
+          <lb ed="#A" n="7"/>dominus dereliquit, vt erudiret in eis Israelem, &amp; postea
+          <lb ed="#A" n="8"/>discerent filii corum certare cum hostibus, &amp; haberent con
+          <lb ed="#A" n="9"/>uetudinem praeliandi. Vocatur autem haec concupiscentia
+          <lb ed="#A" n="10"/>peccatum, non vtique quia peccatum est, sed quia peccato
+          <lb ed="#A" n="11"/>primi hominis facta est: sicut scriptura manus cuiusque
+          di<lb ed="#A" n="12" break="no"/>citur, quod manus eam fecerit: siue etiam quod peccandi
+          <lb ed="#A" n="13"/>delectatione moueatur, &amp; si ei vincente delectatione
+          iusti<lb ed="#A" n="14" break="no"/>tiae non consentiantur.
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e488">
+          Quamobrem &amp; Paulus de hoc
+          <lb ed="#A" n="15"/>peccato scribens, non dixit, non sit, sed non regnet
+          pecca<lb ed="#A" n="16" break="no"/>tum in vestro mortali corpore. Quia quandiu corpus
+          no<lb ed="#A" n="17" break="no"/>strum mortale, hoc est necessitati morti addictum est, fieri
+          <lb ed="#A" n="18"/>non potest, quin sit in illo fomes concupiscentiae, qui
+          mi<lb ed="#A" n="19" break="no"/>nus quidem proprie, sed peccatum tamen vocatur.
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e501">
+          Quo<lb ed="#A" n="20" break="no"/>niam vero per baptisinum, in quo vetus homo noster
+          si<lb ed="#A" n="21" break="no"/>mul crucifixus est, vt destruatur corpus peccati, virtus pec
+          <lb ed="#A" n="22"/>cati sic est debilitata, regnum vt illius prorsus esse
+          subla<lb ed="#A" n="23" break="no"/>tum videatur, monet Paulus, vt omni cura prouideamus,
+          <lb ed="#A" n="24"/>ne quod semel amisit, regnum recuperet. Nam quod
+          habe<lb ed="#A" n="25" break="no"/>mus concupiscentiam, nihil ex eo nobis damnationis est
+          <lb ed="#A" n="26"/>caeterum si seruiamus illi, si regnum illius feramus, ca
+          de<lb ed="#A" n="27" break="no"/>mum res reos nos facit aeternae damnationis.
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e521">
+          Quamob<lb ed="#A" n="28" break="no"/>rem haud aliter se habet baptismus ad refrigerandum
+          <lb ed="#A" n="29"/>aestum concupiscentiae, quam se habet aqua ad calorem
+          ni<lb ed="#A" n="30" break="no"/>mium temperandum: vt apte admodum &amp; apposite
+          hu<lb ed="#A" n="31" break="no"/>ius quoque rei sacrae, hoc est inuisibilis gratiae visibile
+          si<lb ed="#A" n="32" break="no"/>gnum aqua esse baptismi dicatur, &amp; quidem signum
+          effi<lb ed="#A" n="33" break="no"/>cax. Remissis autem peccatis, a quibus abluimur per aquam
+          <lb ed="#A" n="34"/>baptismi, consequens est simul vt remittatur poena quae
+          pec<lb ed="#A" n="35" break="no"/>catis debetur: quod &amp; ipsum fit per aquam baptismi.
+          Si<lb ed="#A" n="36" break="no"/>tut enim elementum aquae flammas huius ignis
+          tempo<lb ed="#A" n="37" break="no"/>ralis extinguit, sic &amp; illa delet incendium ignis aeterni
+          <lb ed="#A" n="38"/>Hoc enim persuasum esse debet omnibus in Christum
+          cre<lb ed="#A" n="39" break="no"/>dentibus, quod a Paulo scriptum est: In baptismo
+          Chri<lb ed="#A" n="40" break="no"/>sto nos commori, atque haud aliter passionis eius &amp; mor
+          <lb ed="#A" n="41"/>tis participes fieri, quam si passi ipsi &amp; mortui essemus.
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e554">
+          <lb ed="#A" n="42"/>Quoniam vero passione sua Christus pro peccatis
+          to<pb ed="#A" n="65-v"/><lb ed="#A" n="1" break="no"/>tius mundi satisfecit, posteaquam per baptismum ipsius
+          <lb ed="#A" n="2"/>membra facti sumus, haud aliter hac satisfactione
+          Christi<lb ed="#A" n="3" break="no"/>liberamur a poenis omnibus, quae peccatis nostris debebar
+          <lb ed="#A" n="4"/>tur, quam si ipsi poenas easdem sustinendo pro illis
+          satisfe<lb ed="#A" n="5" break="no"/>cissemus. Quod tamen de solis aeternis ponis intelligi de
+          <lb ed="#A" n="6"/>bet: has enim &amp; non alias morte sua Christus aboleuit.
+          <lb ed="#A" n="7"/>Famem autem, sitim, &amp; alia corporis incommoda, quin &amp;
+          <lb ed="#A" n="8"/>mortem ipsam qua separatur a corpore anima, minime su
+          <lb ed="#A" n="9"/>stulisse morte sua Christus credendus est: nam post
+          acce<lb ed="#A" n="10" break="no"/>ptum etiam baptismum, aeque sumus iis malis obnoxii,
+          <lb ed="#A" n="11"/>atque antea fuimus. Habet hoc quoque natura aquae,
+          cla<lb ed="#A" n="12" break="no"/>ra vt sit &amp; perspicua. Qua ratione cumprimis est idonea
+          <lb ed="#A" n="13"/>ad significandum splendorem iustitiae, qui baptizatis
+          in<lb ed="#A" n="14" break="no"/>funditur: eius iustitiae, quae virtutes in se continet omnes,
+          <lb ed="#A" n="15"/>qua renouatur homo, non vt iam idem sit qui prius fuit,
+          <lb ed="#A" n="16"/>verum a sordibus peccatorum ablutus, omnium virtutum
+          <lb ed="#A" n="17"/>splendore fiat illustris: quod quidem fit dono spiritus
+          san<lb ed="#A" n="18" break="no"/>cti, quem gratiarum &amp; virtutum omnium largitorem ac
+          <lb ed="#A" n="19"/>cipimus in baptismo, remissionem peccatorum conseque
+          <lb ed="#A" n="20"/>ti. Quod illa Petri verba indicant dicentis: Baptizetur
+          <lb ed="#A" n="21"/>vnusquisque vestrum in nomine Iesu Christi in
+          remissio<lb ed="#A" n="22" break="no"/>nem peccatorum, &amp; accipietis donum spiritus sancti. Con
+          <lb ed="#A" n="23"/>fertur &amp; haec in baptismo gratia, quod qui de eo
+          egredi<lb ed="#A" n="24" break="no"/>tur, illi ianua regni celestis aperitur. Applicatur enim
+          ba<lb ed="#A" n="25" break="no"/>ptizato virtus passionis Christi, per quam quae fuit antea
+          <lb ed="#A" n="26"/>clausa, cunctis fidelibus ianua regni caelestis est aperta. Huic
+          <lb ed="#A" n="27"/>virtuti Christi passionis impie detrahunt, qui non
+          dubi<lb ed="#A" n="28" break="no"/>tant affirmare, etiam post passum Christum &amp; mortuum
+          <lb ed="#A" n="29"/>non peruenisse quenquam sanctorum ad regnum
+          coelo<lb ed="#A" n="30" break="no"/>rum. Quod si concedi debeat, nihil nobis fructus
+          attu<lb ed="#A" n="31" break="no"/>lisse videbitur Christi passio, si non meliore nunc sumus
+          <lb ed="#A" n="32"/>conditione post profusum illius sanguinem, quam fuerunt
+          <lb ed="#A" n="33"/>sanctae Patriarchae &amp; Prophetae, qui passionem illius &amp; mor
+          <lb ed="#A" n="34"/>tem praecesserunt. Habemus ergo iam quam varia sit &amp;
+          mul<lb ed="#A" n="35" break="no"/>tiplex gratia, cuius aqua baptisini signum est, &amp; quidem
+          <lb ed="#A" n="36"/>efficax: verum quo nobis haec ordine conferantur,
+          breui<lb ed="#A" n="37" break="no"/>ter explicemus. Primo, quoniam iniquitates nostrae sunt
+          <lb ed="#A" n="38"/>quae diuidunt inter nos &amp; Deum, quae nos ab illo separant
+          <lb ed="#A" n="39"/>&amp; elongant: Nam odio Deus habet impium &amp; impietatem
+          <lb ed="#A" n="40"/>eius, reconciliari cum eo necesse habemus. Quod sit,
+          qua<lb ed="#A" n="41" break="no"/>do pro foribus templi stantes, neque nos illius ingressu
+          <lb ed="#A" n="42"/>dignos iudicantes, abrenuntiamus Sathanae &amp; operibus
+          <pb ed="#A" n="66-r"/>
+          <lb ed="#A" n="1"/>tius, atque nos in Christum credere, in illo fiduciam
+          <lb ed="#A" n="2"/>nostram omnem collocare, illi tota mente nos adhaerere
+          <lb ed="#A" n="3"/>velle profitemur. Qua professione facta, quo planum
+          <lb ed="#A" n="4"/>fiat omnibus reconciliatum nobis esse Deum, accedimus
+          <lb ed="#A" n="5"/>ad aquam baptismi: qua cum abluimur, indubitatum signum
+          acci<lb ed="#A" n="6" break="no"/>pimus nos cum Deo patre per mortem filii eius reconciliatos,
+          <lb ed="#A" n="7"/>atque haud aliter a peccatis omnibus ablutos, quam ab
+          ini<lb ed="#A" n="8" break="no"/>uinamentis ablui corpus aqua consueuit: neque secus
+          <lb ed="#A" n="9"/>per baptismum ignis aeterni poenas, quae peccatis nostris
+          <lb ed="#A" n="10"/>debebantur, esse deletas, quam extingui flammarum
+          in<lb ed="#A" n="11" break="no"/>tendia per aquam videmus, ita vt plene iam simus &amp;
+          cul<lb ed="#A" n="12" break="no"/>nae &amp; poenae remissionem consequuti.
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e680">
+          Neque vero
+          fini<lb ed="#A" n="13" break="no"/>bus iis clauditur diuina in nos misericordia. Non satis
+          <lb ed="#A" n="14"/>habet post factam reconciliationem nos a peccatis
+          mun<lb ed="#A" n="15" break="no"/>dasse, &amp; ea nobis vna cum poenis illis debitis clementer
+          <lb ed="#A" n="16"/>condonasse, verum omne gratiarum genus nobis
+          infun<lb ed="#A" n="17" break="no"/>dens quo possimus in conspectu illius grati esse, induit
+          <lb ed="#A" n="18"/>eum qui baptizatur, nouum hominem, qui secundum
+          <lb ed="#A" n="19"/>Deum creatus est in iustitia &amp; sanctitate. Nouus hic
+          ho<lb ed="#A" n="20" break="no"/>mo Christus est, de quo Paulus ait: Induimini dominum
+          <lb ed="#A" n="21"/>Iesum Christum. Hunc induimus in baptismo, sicut idem
+          <lb ed="#A" n="22"/>testatur dicens: Quicunque in Christo baptizati estis,
+          <lb ed="#A" n="23"/>Christum induistis. Quid hoc est Christum induistis,
+          <lb ed="#A" n="24"/>Facti estis hoc quod Christus est. Quid est Christus?
+          <lb ed="#A" n="25"/>Est filius Dei: quod ille natura est, hoc vos per gratiam
+          <lb ed="#A" n="26"/>adoptionis facti estis filii Dei. CHRISTVS est
+          hae<lb ed="#A" n="27" break="no"/>res regni coelorum, vos quoque non vestro, sed illius merito
+          <lb ed="#A" n="28"/>facti estis haeredes regni caelorum. Qui veste aliqua induitur,
+          <lb ed="#A" n="29"/>protegit &amp; contegitur ea, &amp; apparet sub colore vestis eius,
+          <lb ed="#A" n="30"/>occultato colore proprio ad eundem modum, qui Christum
+          <lb ed="#A" n="31"/>induitur, protegitur &amp; contegitur a Christo, neque iam
+          <lb ed="#A" n="32"/>apparet in eo peccatum, quod fuit ante, sed sola iustitia &amp;
+          <lb ed="#A" n="33"/>innocentia Christi. Et sicut lignum accensum induitur
+          <lb ed="#A" n="34"/>gnem, &amp; virtutis eius sit particeps, ita baptizatus in
+          <lb ed="#A" n="35"/>Christo, Christum induitur, &amp; virtutum eius fit
+          parti<lb ed="#A" n="36" break="no"/>ceps. Non amplius dicitur filius Addam, neque reus est
+          <lb ed="#A" n="37"/>deinceps peccati eius, verum dicitur filius Dei, frater
+          <lb ed="#A" n="38"/>Christi dicitur haeres Dei, cohaeres Christi, dicitur
+          <lb ed="#A" n="39"/>sanctus, innocens, immaculatus, non suam sed Christi
+          <lb ed="#A" n="40"/>iustitiam indutus, hoc est non quam a seipso habet, quam
+          <lb ed="#A" n="41"/>ve suo merito consequutus, sed quam a Christo acceptam
+          <lb ed="#A" n="42"/>illius meritis est adeptus. Neque enim audiendi sunt, qui
+          <pb ed="#A" n="66-v"/>
+          <lb ed="#A" n="1"/>nos ea iustitia, qua Christus ipse iustus est, iustos dici
+          vo<lb ed="#A" n="2" break="no"/>unt: quin illud potius modis omnibus est tenendum,
+          Chri<lb ed="#A" n="3" break="no"/>sti quidem iustitia nos iustos esse, verum non ea, qua ipse
+          <lb ed="#A" n="4"/>iustus est, sed ea, quam nobis impertit, qua nos ipse iustos
+          <lb ed="#A" n="5"/>facit, qua donati ab eo, renouamur spiritu mentis nostrae
+          <lb ed="#A" n="6"/>ac non modo reputamur, sed vere iusti nominamur &amp;
+          su<lb ed="#A" n="7" break="no"/>mus. Neque enim existimandum est, nihil aliud nos in
+          ba<lb ed="#A" n="8" break="no"/>ptismo, quam remissionem peccatorum consequi: renoua
+          <lb ed="#A" n="9"/>mur praeterea, atque vt Paulus vocat, noua quaedam
+          creatu<lb ed="#A" n="10" break="no"/>ra efficimur.
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e771">
+          Neque vero aliud est noua creatura, quam
+          fi<lb ed="#A" n="11" break="no"/>des charitate formata, quae, cum baptizamur, per spiritum
+          <lb ed="#A" n="12"/>sanctum, qui datur omnibus renatis, diffunditur in
+          cordi<lb ed="#A" n="13" break="no"/>bus nostris, &amp; nobis inhaeret. Quamobrem a Cypriano
+          <lb ed="#A" n="14"/>baptismus non modo mors criminum, verumetiam vita
+          <lb ed="#A" n="15"/>vocatur virtutum, quod in ea iustitia, quae virtutes in se con
+          <lb ed="#A" n="16"/>tinet omnes, baptizatis infunditur. Manet quidem post
+          <lb ed="#A" n="17"/>baptismum eadem compago corporis quae fuit ante, sed
+          se<lb ed="#A" n="18" break="no"/>pulta peccatorum vetustate, mens hominis renouatur, &amp;
+          <lb ed="#A" n="19"/>ad integritatem naturae quodammodo redditur. Propterea
+          <lb ed="#A" n="20"/>Paulus hoc sacramentum vocat lauacrum regenerationis
+          <lb ed="#A" n="21"/>&amp; renouationis, in quo adeo mutamur ab illis qui fuimus
+          <lb ed="#A" n="22"/>ante, vt veterem hominem cum suis actibus expoliantes
+          <lb ed="#A" n="23"/>diuinae naturae consortes efficiamur, filiique Dei
+          nomine<lb ed="#A" n="24" break="no"/>mur &amp; simus: si autem filii, &amp; haeredes: haeredes quidem
+          <lb ed="#A" n="25"/>dei, cohaeredes autem Christi: si tamen compatimur, vt &amp;
+          <lb ed="#A" n="26"/>conglorificemur. Posteaquam enim in baptismo Christum
+          <lb ed="#A" n="27"/>induimus, debemus sicut ipse ambulauit &amp; nos
+          ambula<lb ed="#A" n="28" break="no"/>re: &amp; cum illum oportuerit pati prius, &amp; ita intrare in
+          glo<lb ed="#A" n="29" break="no"/>nam suam, non debemus meliore conditione esse velle,
+          <lb ed="#A" n="30"/>quam fuerit ille, qui principalis est haeres, cuius merito
+          fa<lb ed="#A" n="31" break="no"/>ctum est, vt &amp; nobis eiusdem regni celestis haeredibus esse
+          <lb ed="#A" n="32"/>liceret, vt sine vllis operibus, sine vllo labore nostro aut
+          <lb ed="#A" n="33"/>molestia, haereditatem hanc assequi nos posse credamus.
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e823">
+          <lb ed="#A" n="34"/><milestone ed="#A" unit="p" rend="indent"/> Si quid autem, aut facere nobis aut pati pro Christi
+          nomi<lb ed="#A" n="35" break="no"/>ne contigerit, nemini dubium esse debet, quin id nobis iam
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e831">
+          <lb ed="#A" n="36"/>regeneratis &amp; renouatis, iam Christi corporis insitis, iam
+          <lb ed="#A" n="37"/>in dei filios adoptatis, ad promerendam haereditatem illius
+          <lb ed="#A" n="38"/>aeternae gloriae, sit vel maxime profuturum: Est quidem
+          <lb ed="#A" n="39"/>ita, quod non sunt condignae passiones huius temporis
+          <lb ed="#A" n="40"/>ad futuram gloriam, sed nihilominus quod in praesenti
+          <lb ed="#A" n="41"/>momentaneum est &amp; leue tribulationis nostrae, supra
+          mo<lb ed="#A" n="42" break="no"/>dum in sublimitate aeternum gloriae pondus operatur.
+          <pb ed="#A" n="67-r"/>
+          <lb ed="#A" n="1"/>Tolle sublimitatem hanc, ad quam nos Deus benignitate
+          <lb ed="#A" n="2"/>sua prouehere dignatus est, qui nos in filiorum suorum
+          <lb ed="#A" n="3"/>numerum adoptauit, qui dignos nos fecit in partem
+          sorti<lb ed="#A" n="4" break="no"/>sanctorum, qui diuinae suae naturae consortes reddidit: quis
+          <lb ed="#A" n="5"/>ambiget, quin omnes labores, omnes passiones &amp;
+          tribu<lb ed="#A" n="6" break="no"/>lationes nostrae quoniam sunt huius temporis, leues &amp;
+          mo<lb ed="#A" n="7" break="no"/>mentaneae, neque ad futuram gloriam, quae sempiterna est,
+          <lb ed="#A" n="8"/>sint condignae?
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e868">
+          Caeterum duplici ratione meritis
+          ope<lb ed="#A" n="9" break="no"/>rum, quae hunt a regeneratis &amp; renouatis, deberi coelestia
+          <lb ed="#A" n="10"/>praemia dicimus: primum ex Dei promisso liberali, qui
+          <lb ed="#A" n="11"/>fallere nescit: deinde ex ea dignitate, quam regeneratis
+          <lb ed="#A" n="12"/>nobis praeter omne meritum nostrum conferre dignatus
+          <lb ed="#A" n="13"/>est. Christum enim induimus in baptismo: quod ille
+          na<lb ed="#A" n="14" break="no"/>tura est, per adoptionis gratiam filij Dei facti sumus.
+          Qua<lb ed="#A" n="15" break="no"/>re si Christum induimus, quae proficiscuntur a nobis ope
+          <lb ed="#A" n="16"/>ra, tanquam Christi opera placere Deo, neque secus ab
+          il<lb ed="#A" n="17" break="no"/>lo acceptari persuasum habere debemus. Et sicut Paulus
+          <lb ed="#A" n="18"/>dicit: Vnuo autem iam non ego, viuit vero in me
+          Chri<lb ed="#A" n="19" break="no"/>stus: ita &amp; nos post acceptam regenerationis gratiam
+          di<lb ed="#A" n="20" break="no"/>cere possumus: Operor autem iam non ego, operatur
+          ve<lb ed="#A" n="21" break="no"/>ro in me Christus: mereor iam non ego, meretur in me
+          <lb ed="#A" n="22"/>Christus: satisfacio iam non ego, satisfacit in me Christus.
+          <lb ed="#A" n="23"/>Huius enim vita viuimus, huius merito meremur. Ex quo
+          <lb ed="#A" n="24"/>videre licet, quemadmodum Christi gloriam obscurare,
+          <lb ed="#A" n="25"/>crucem euacuare, &amp; sanguinis eius pretium imminuere
+          <lb ed="#A" n="26"/>conantur, qui vitae, qua viuit Christus in nobis, qui
+          meri<lb ed="#A" n="27" break="no"/>tis operum, quae operatur in nobis, omnem dignitatem
+          <lb ed="#A" n="28"/>atque omne praemium ademptum cupiunt. Reuera, si ipsa
+          <lb ed="#A" n="29"/>opera ex se metiare, momentanea suut, leuia sunt, non sunt
+          <lb ed="#A" n="30"/>condigna ad futuram gloriam, quae aeterna est: Recte enim
+          <lb ed="#A" n="31"/>illud dictum est, quod finiti ad infinitum nulla est
+          pro<lb ed="#A" n="32" break="no"/>portio: sed si consyderes immensum illud pretium
+          san<lb ed="#A" n="33" break="no"/>guinis Christi, quo respersa sunt, ex quo meritum habent
+          <lb ed="#A" n="34"/>omne, illius dignitati derogaueris, quantum operibus
+          de<lb ed="#A" n="35" break="no"/>rogaueris. Si spectes etiam ea tanquam ab Adae filio
+          pro<lb ed="#A" n="36" break="no"/>fecta, in quo mortui sumus omnes, qualibet iusta, quam
+          <lb ed="#A" n="37"/>libet in speciem sancta videantur, haud aliter tamen appa
+          <lb ed="#A" n="38"/>rebunt in conspectu Dei, quam pannus menstruatae. Si
+          ve<lb ed="#A" n="39" break="no"/>ro contempleris ea tanquam a filio Dei, tanquam ab eo
+          <lb ed="#A" n="40"/>profecta qui Christum induit, in quo Christus viuit, in
+          <lb ed="#A" n="41"/>quo Christus operatur, non iam hominis, verum Christi
+          <lb ed="#A" n="42"/>meritis detraxeris, si nullum eorum esse meritum dixeris.
+          <pb ed="#A" n="67-v"/>
+          <lb ed="#A" n="1"/>Haec nos ideo fusius aliquanto duximus explicanda
+          pla<lb ed="#A" n="2" break="no"/>num vt omnibus faceremus, quantum sit discimen inter
+          <lb ed="#A" n="3"/>opera regeneratorum qui Christum induti sunt, &amp; eius
+          cor<lb ed="#A" n="4" break="no"/>pori insiti, atque infidelium, qui sunt adhuc filii nae, filii
+          dia<lb ed="#A" n="5" break="no"/>boli. Illis Deum diligentibus omnia etiam peccata coope
+          <lb ed="#A" n="6"/>rantur in bonum: cum enim ceciderit iustus, non
+          collide<lb ed="#A" n="7" break="no"/>tur, quia dominus supponit manum suam: iis contra, etiam
+          <lb ed="#A" n="8"/>quae recte facta videbuntur, magis adeo ad damnationem,
+          <lb ed="#A" n="9"/>quam ad gloriam aeternam profecerint. Nulla enim
+          iusti<lb ed="#A" n="10" break="no"/>tia extra Christum, nulla sunt extra fidem eius recte
+          facta<lb ed="#A" n="11" break="no"/>abominatio sunt apud Deum quaecunque fiunt ab iis, qui
+          <lb ed="#A" n="12"/>non credunt in eum.
+        </p>
+        <p xml:id="ho8ccf-a2ablv-d1e972">
+          Quamobrem non mediocria bona
+          <lb ed="#A" n="13"/>sunt, quae nobis baptismus affert. Per illum reconciliamur
+          <lb ed="#A" n="14"/>cum Deo: reconciliatis &amp; culpa &amp; poena omnis peccatis
+          de<lb ed="#A" n="15" break="no"/>bita remittitur: postquam remissa sunt nobis peccata, rege
+          <lb ed="#A" n="16"/>neramur &amp; renouamur infusa nobis fide, spe, &amp; charitate
+          <lb ed="#A" n="17"/>quae dicitur iustitia Christiana, neque iam deinceps filii
+          Adae<lb ed="#A" n="18" break="no"/>sed filii dei nominamur &amp; sumus: si filii, &amp; haeredes,
+          haere<lb ed="#A" n="19" break="no"/>des autem secundum spem vitae aeternae, quam nos assequu
+          <lb ed="#A" n="20"/>turos certo persuasum habemus, si vel baptizati statim
+          ex<lb ed="#A" n="21" break="no"/>hac vita excesserimus, vel post baptismum ambulauerimus
+          <lb ed="#A" n="22"/>digne, Deo per omnia placentes: &amp; abundauerimus in om
+          <lb ed="#A" n="23"/>ni opere bono: scientes quod labor noster non est inanis
+          <lb ed="#A" n="24"/>in domino, cum bonorum laborum gloriosus sit fructus
+          <lb ed="#A" n="25"/>neque iniustus est Deus, vt obliuiscatur operis nostri &amp;
+          di<lb ed="#A" n="26" break="no"/>lectionis quam ostenderimus in nomine ipsius. Atque haec
+          <lb ed="#A" n="27"/>quidem de eo, cuius inuisibilis gratiae visibile signum sit
+          ba<lb ed="#A" n="28" break="no"/>tismus, dicta sufficiant. Nunc de suscipientibus baptismum
+          <lb ed="#A" n="29"/>paucis disseramus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

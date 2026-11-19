@@ -63,7 +63,7 @@
           trans<lb ed="#A" n="35" break="no"/>gredi praeceptum de diligendo Deo. Sic igitur dicit
         </p>
         <p xml:id="ho8ccf-a3gx5q-d1e119">
-          <lb ed="#A" n="36"/><milestone ed="#A" unit="p" rend="initial"/> Dominus: <quote source="http://scta.info/resource/ex20_7">Non assumes nomen domini Dei tui
+          <lb ed="#A" n="36"/><milestone ed="#A" unit="p" rend="initial"/> Dominus: <quote xml:id="ho8ccf-a3gx5q-Qd1e125" source="http://scta.info/resource/ex20_7">Non assumes nomen domini Dei tui
           in<lb ed="#A" n="37" break="no"/>uanum: nec enim habebit insontem Deus eum, qui
           <lb ed="#A" n="38"/>assumpserit nomen domini Dei sui frustra</quote>. Qui
           diligi<lb ed="#A" n="39" break="no"/>&amp; colit aliquem, non meminit illius nisi reuerenter, &amp; cum
@@ -83,7 +83,7 @@
           <lb ed="#A" n="12"/>iusiurandum, quod non vel dei gloria, vel fructum vsus
           <lb ed="#A" n="13"/>necessario postulet. Peccat igitur contra praeceptum hoc,
           <lb ed="#A" n="14"/>quisquis voluntarie iurat. Nam si quis iuret exigente
-          ma<lb ed="#A" n="15" break="no"/>gistratu, sibique iuramentum deferente, modo id faciat <quote source="http://scta.info/resource/ier4_2@5-12">in
+          ma<lb ed="#A" n="15" break="no"/>gistratu, sibique iuramentum deferente, modo id faciat <quote xml:id="ho8ccf-a3gx5q-Qd1e171" source="http://scta.info/resource/ier4_2@5-12">in
           <lb ed="#A" n="16"/>veritate &amp; in iudicio, &amp; in iustitia</quote>, non peccat. Nam quod
           <lb ed="#A" n="17"/>prohibuit Deus ne iuretur, illud Augustinus prohibuisse
           <lb ed="#A" n="18"/>vult intelligi, ne quisquam, sicut bonum appetat
@@ -102,7 +102,7 @@
           <lb ed="#A" n="28"/>iudicio &amp; iustitia iusiurandum praestatur, non modo
           con<lb ed="#A" n="29" break="no"/>tra praeceptum hoc nihil fieri, verum illud magis
           imple<lb ed="#A" n="30" break="no"/>ri credendum est, quod in Deuteronomio scribitur.
-          <quote source="http://scta.info/resource/deut6_13@15-26">De<lb ed="#A" n="31" break="no"/>um tuum timebis &amp; illi soli seruies, ac per nomen illius
+          <quote xml:id="ho8ccf-a3gx5q-Qd1e210" source="http://scta.info/resource/deut6_13@15-26">De<lb ed="#A" n="31" break="no"/>um tuum timebis &amp; illi soli seruies, ac per nomen illius
           <lb ed="#A" n="32"/>iurabis</quote>.
         </p>
       </div>

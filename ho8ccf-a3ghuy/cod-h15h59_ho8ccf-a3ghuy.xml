@@ -74,8 +74,8 @@
         <p xml:id="ho8ccf-a3ghuy-d1e137">
           Quoniam vero sicut
           prin<lb ed="#A" n="9" break="no"/>cipes non sunt in terrorem bene operantium, sed
-          male<lb ed="#A" n="10" break="no"/>mittuntur enim <quote source="http://scta.info/resource/Ipetr2_14@7-12">ad vindictam malefactorum, laudem
-          ve<lb ed="#A" n="11" break="no"/>ro bonorum</quote>: ita <quote source="http://scta.info/resource/Itim1_9">lex iusto non est posita, sed iniustis &amp;
+          male<lb ed="#A" n="10" break="no"/>mittuntur enim <quote xml:id="ho8ccf-a3ghuy-Qd1e144" source="http://scta.info/resource/Ipetr2_14@7-12">ad vindictam malefactorum, laudem
+          ve<lb ed="#A" n="11" break="no"/>ro bonorum</quote>: ita <quote xml:id="ho8ccf-a3ghuy-Qd1e149" source="http://scta.info/resource/Itim1_9">lex iusto non est posita, sed iniustis &amp;
           <lb ed="#A" n="12"/>non subditis, impiis &amp; peccatoribus, sceleratis &amp; non
           con<lb ed="#A" n="13" break="no"/>taminatis</quote>: est enim posita, propter transgressionem. Deus
           <lb ed="#A" n="14"/>nutem quoniam, cum iustum in terris reperiret neminem,
@@ -93,7 +93,7 @@
           <lb ed="#A" n="26"/>cundo quae fit ore, tertio quae fit opere. Corde de colendo
           <lb ed="#A" n="27"/>vno Deo legem transgredimur, si deos habeamus alienos,
           <lb ed="#A" n="28"/>si faciamus nobis sculptile, aut similitudinem aliquam
-          <lb ed="#A" n="29"/>Haec tria primo praecepto Deus fieri vetat dicens: <quote source="http://scta.info/resource/ex20_3 http://scta.info/resource/ex20_4 http://scta.info/resource/ex20_5">Non
+          <lb ed="#A" n="29"/>Haec tria primo praecepto Deus fieri vetat dicens: <quote xml:id="ho8ccf-a3ghuy-Qd1e191" source="http://scta.info/resource/ex20_3 http://scta.info/resource/ex20_4 http://scta.info/resource/ex20_5">Non
           ha<lb ed="#A" n="30" break="no"/>bebis deos alienos coram me, non facies tibi sculptile,
           <lb ed="#A" n="31"/>neque omnem similitudinem, quae est in coelo desuper, &amp;
           <lb ed="#A" n="32"/>quae in terra deorsum, nec eorum quae sunt in aquis sub
@@ -104,7 +104,7 @@
           <lb ed="#A" n="37"/>eius partem alicuius alterius amor occupet. Est enim
           do<lb ed="#A" n="38" break="no"/>minus Deus noster Zelotes: non modo non praese, sed
           <lb ed="#A" n="39"/>nec exequari sibi, quicquam in amore patitur: Quod ab
-          <lb ed="#A" n="40"/>Esaia dictum est: <quote source="http://scta.info/resource/is28_20@1-15">Coangustatum est stratum: ita vt alter
+          <lb ed="#A" n="40"/>Esaia dictum est: <quote xml:id="ho8ccf-a3ghuy-Qd1e217" source="http://scta.info/resource/is28_20@1-15">Coangustatum est stratum: ita vt alter
           <lb ed="#A" n="41"/>decidat, &amp; pallium breue vtrunque operire non potest</quote>: de
           <lb ed="#A" n="42"/>cordis humani strato recte dici potest, quod tam
           angu<pb ed="#A" n="266-r"/><lb ed="#A" n="1" break="no"/>stum &amp; arctum est, vt ipsum etiam Deum solum, pro eo vt
@@ -113,10 +113,10 @@
         <p xml:id="ho8ccf-a3ghuy-d1e219">
           Quamobrem excidit is euestigio
           <lb ed="#A" n="3"/>de strato cordis nostri, simul vt alius admissus fuerit: Hoc
-          <lb ed="#A" n="4"/>est, quod Apostolus dicit: <quote source="http://scta.info/resource/Icor10_20 http://scta.info/resource/Icor10_21">Non potestis calicem domini
+          <lb ed="#A" n="4"/>est, quod Apostolus dicit: <quote xml:id="ho8ccf-a3ghuy-Qd1e237" source="http://scta.info/resource/Icor10_20 http://scta.info/resource/Icor10_21">Non potestis calicem domini
           <lb ed="#A" n="5"/>bibere, &amp; calicem daemoniorum: non potestis mensae
           do<lb ed="#A" n="6" break="no"/>mini esse participes, &amp; mensae idolorum</quote>: Quod a Christo
-          <lb ed="#A" n="7"/>quoque dictum est: <quote source="http://scta.info/resource/mt6_24@20-25">Non potestis Deo seruire &amp;
+          <lb ed="#A" n="7"/>quoque dictum est: <quote xml:id="ho8ccf-a3ghuy-Qd1e246" source="http://scta.info/resource/mt6_24@20-25">Non potestis Deo seruire &amp;
           mammo<lb ed="#A" n="8" break="no"/>nae</quote>. Atque hac de causa dicit hoc loco Deus: Non
           habe<lb ed="#A" n="9" break="no"/>bis deos alienos, non facies tibi sculptile, aut aliquam
           si<lb ed="#A" n="10" break="no"/>militudinem. Sunt qui inter deos alienos &amp; inter
@@ -135,21 +135,21 @@
           <lb ed="#A" n="20"/>lorum seruitutem vocat. Hinc est quod ab Hieronymo
           <lb ed="#A" n="21"/>quoque scriptum legimus: vnusquisque adorans vitia sua
           <lb ed="#A" n="22"/>atque peccata, Deum habere coepit a quo victus est,
-          dicen<lb ed="#A" n="23" break="no"/>te Petro Apostolo: <quote source="http://scta.info/resource/IIpetr2_19@9-18">Aquo enim quis superatur huius &amp;
+          dicen<lb ed="#A" n="23" break="no"/>te Petro Apostolo: <quote xml:id="ho8ccf-a3ghuy-Qd1e286" source="http://scta.info/resource/IIpetr2_19@9-18">Aquo enim quis superatur huius &amp;
           <lb ed="#A" n="24"/>seruus est</quote>. Auarus aurum, gulosus ventrem, libidinosus
           <lb ed="#A" n="25"/>penem &amp; Beelphegor colit, lasciua mulier, quae cum sit in
           <lb ed="#A" n="26"/>deliriis viuens, mortua est, adorat Venereas voluptates
           <lb ed="#A" n="27"/>Qui etiam alio loco non ea tantum, quae manu fiunt
-          arti<lb ed="#A" n="28" break="no"/>ficis, de quibus scriptum est: <quote source="http://scta.info/resource/ps113_12@1-8">Simulachra gentium
+          arti<lb ed="#A" n="28" break="no"/>ficis, de quibus scriptum est: <quote xml:id="ho8ccf-a3ghuy-Qd1e300" source="http://scta.info/resource/ps113_12@1-8">Simulachra gentium
           argen<lb ed="#A" n="29" break="no"/>tum &amp; aurum, opera manuum hominum</quote>, recte
           vocan<lb ed="#A" n="30" break="no"/>idola: verumetiam haereticorum peruersam doctrinam,
           <lb ed="#A" n="31"/>quae quodcunque simulauerit, vertit in idolum, &amp; pro
           <lb ed="#A" n="32"/>Christo facit adorari Antichristum. Illum quoque locum
-          <lb ed="#A" n="33"/>enarrans Esaiae: <quote source="http://scta.info/resource/is2_8 http://scta.info/resource/is2_9">Repleta est terra idolis, opera manuum
+          <lb ed="#A" n="33"/>enarrans Esaiae: <quote xml:id="ho8ccf-a3ghuy-Qd1e314" source="http://scta.info/resource/is2_8 http://scta.info/resource/is2_9">Repleta est terra idolis, opera manuum
           <lb ed="#A" n="34"/>suarum adorauerunt, quod fecerunt digiti eorum, &amp;
           in<lb ed="#A" n="35" break="no"/>curuauit se homo, &amp; humiliatus est vir</quote>: Idola
           interpre<lb ed="#A" n="36" break="no"/>tatur, dogmata veritati contraria. Neque secus
-          intelligi<lb ed="#A" n="37" break="no"/>vult quod ab Ozea scriptum est: <quote source="http://scta.info/resource/os8_4@12-21">Argentum suum &amp;
+          intelligi<lb ed="#A" n="37" break="no"/>vult quod ab Ozea scriptum est: <quote xml:id="ho8ccf-a3ghuy-Qd1e325" source="http://scta.info/resource/os8_4@12-21">Argentum suum &amp;
           au<lb ed="#A" n="38" break="no"/>rum suum fecerunt sibi idola, vt interirent</quote>. Augustinus
           <lb ed="#A" n="39"/>quoque, posteaquam de simulachris manu factis plera
           <lb ed="#A" n="40"/>que dixerat: Est, inquit, alius deterior, &amp; inferior cultus
@@ -157,12 +157,12 @@
           <lb ed="#A" n="42"/>animo errante, cum superbia &amp; tumore errante
           ima<pb ed="#A" n="266-v"/><lb ed="#A" n="1" break="no"/>ginitati fuerint, religionis nomine obseruant. De cuius ge
           <lb ed="#A" n="2"/>neris phantasmatibus, illum etiam Iosue locum exponit:
-          <lb ed="#A" n="3"/><quote source="http://scta.info/resource/ios24_23@4-17">Auferte Deos alienos de medio vestri, &amp; inclinate corda
+          <lb ed="#A" n="3"/><quote xml:id="ho8ccf-a3ghuy-Qd1e346" source="http://scta.info/resource/ios24_23@4-17">Auferte Deos alienos de medio vestri, &amp; inclinate corda
           <lb ed="#A" n="4"/>vestra ad dominum Deum vestrum</quote>. Vincentius quoque
           Li<lb ed="#A" n="5" break="no"/>rinensis, aliena ab Ecclesia dogmata, vetus Testamentum
           <lb ed="#A" n="6"/>Deos alienos appellare scribit, quod ab haereticis ipsorum
           <lb ed="#A" n="7"/>opiniones haud aliter obseruentur, quam a gentilibus
-          di<lb ed="#A" n="8" break="no"/>sui. Quod itaque legitur in Deuteronomio: <quote source="http://scta.info/resource/deut13_1 http://scta.info/resource/deut13_2 http://scta.info/resource/deut13_3">si surrexerit
+          di<lb ed="#A" n="8" break="no"/>sui. Quod itaque legitur in Deuteronomio: <quote xml:id="ho8ccf-a3ghuy-Qd1e360" source="http://scta.info/resource/deut13_1 http://scta.info/resource/deut13_2 http://scta.info/resource/deut13_3">si surrexerit
           <lb ed="#A" n="9"/>in medio tui Prophetes, &amp; praedixerint signum, atque
           por<lb ed="#A" n="10" break="no"/>tentum &amp; euenerit quod locutus est &amp; dixerit tibi:
           Ea<lb ed="#A" n="11" break="no"/>mus &amp; sequamur deos alienos, quos ignoras, non audies
@@ -173,7 +173,7 @@
           inau<lb ed="#A" n="16" break="no"/>ditos, quos propterea spargi nonnunquam patitur Deus.
           <lb ed="#A" n="17"/>vt probet constantiam nostram in diligendo se, &amp; in ad
           <lb ed="#A" n="18"/>haerendo sanae doctrinae. Quemadmodum etiam a
-          Pau<lb ed="#A" n="19" break="no"/>lo scriptum est: <quote source="http://scta.info/resource/Icor11_19@1-12">Oportet &amp; haereses esse, vt qui probati
+          Pau<lb ed="#A" n="19" break="no"/>lo scriptum est: <quote xml:id="ho8ccf-a3ghuy-Qd1e387" source="http://scta.info/resource/Icor11_19@1-12">Oportet &amp; haereses esse, vt qui probati
           <lb ed="#A" n="20"/>sunt, manifesti fiant</quote>, Ob hoc (ait Vincentius)
           haerescon<lb ed="#A" n="21" break="no"/>non statur eradicantur authores, vt probati
           manifesti<lb ed="#A" n="22" break="no"/>fiant, id est, vt vnusquisque quam tenax &amp; fidelis &amp; fixus
@@ -247,7 +247,7 @@
           <lb ed="#A" n="41"/>fantasmata, &amp; coli volunt ab iis, tanquam idola, &amp; quod
           <lb ed="#A" n="42"/>ipsi sentiunt, Dei verbum vocant, &amp; Euangelium: vt sic
           <pb ed="#A" n="267-v"/>
-          <lb ed="#A" n="1"/>eueniat, quod a Propheta scriptum est: <quote source="http://scta.info/resource/ps48_12@14-19">Vocauerunt in
+          <lb ed="#A" n="1"/>eueniat, quod a Propheta scriptum est: <quote xml:id="ho8ccf-a3ghuy-Qd1e542" source="http://scta.info/resource/ps48_12@14-19">Vocauerunt in
           ter<lb ed="#A" n="2" break="no"/>ris nomina sua</quote>. Haud aliter enim isti diuinitatis
           opinio<lb ed="#A" n="3" break="no"/>nem affectant, quam fecisse scribit olim in Lybia
           Plapho<lb ed="#A" n="4" break="no"/>nem quendam, Tyrius ille maximus, qui quamplurimas
@@ -310,18 +310,18 @@
           <lb ed="#A" n="10"/>repraesentatio, eius in se fructum faciat redundare. Neque
           <lb ed="#A" n="11"/>minus grauiter contra praeceptum hoc peccant, qui bonis
           <lb ed="#A" n="12"/>operibus Deum colendum esse negant: quum &amp; hic sit cul
-          <lb ed="#A" n="13"/>tus Deo longe gratissimus. <quote source="http://scta.info/resource/mt7_21">Non enim qui dicit mihi
+          <lb ed="#A" n="13"/>tus Deo longe gratissimus. <quote xml:id="ho8ccf-a3ghuy-Qd1e674" source="http://scta.info/resource/mt7_21">Non enim qui dicit mihi
           do<lb ed="#A" n="14" break="no"/>mine domine, introibit, inquit, in regnum coelorum, Sed
           <lb ed="#A" n="15"/>qui facit voluntatem patris mei, qui in coelis est, ipse intra
           <lb ed="#A" n="16"/>bit in regnum caelorum</quote>. Opera Deus a nobis exigit, non
-          ver<lb ed="#A" n="17" break="no"/>ba: <quote source="http://scta.info/resource/io8_39@12-18">Si filii Abrahae, inquit, estis, opera Abrahae facite</quote>. Ac
-          di<lb ed="#A" n="18" break="no"/>lectus illi discipulus: <quote source="http://scta.info/resource/Iio3_18@1-10">Filioli mei, non diligamus verbo,
+          ver<lb ed="#A" n="17" break="no"/>ba: <quote xml:id="ho8ccf-a3ghuy-Qd1e685" source="http://scta.info/resource/io8_39@12-18">Si filii Abrahae, inquit, estis, opera Abrahae facite</quote>. Ac
+          di<lb ed="#A" n="18" break="no"/>lectus illi discipulus: <quote xml:id="ho8ccf-a3ghuy-Qd1e690" source="http://scta.info/resource/Iio3_18@1-10">Filioli mei, non diligamus verbo,
           ne<lb ed="#A" n="19" break="no"/>que lingua, sed opere, &amp; veritate</quote>.
         </p>
         <p xml:id="ho8ccf-a3ghuy-d1e647">
           Quamobrem vocem
           eu<lb ed="#A" n="20" break="no"/>angelii negant, qui Deum operibus colendum esse negant.
-          <lb ed="#A" n="21"/>cum a Paulo quoque scriptum legamus. <quote source="http://scta.info/resource/hebr13_16">Beneficentiae &amp;
+          <lb ed="#A" n="21"/>cum a Paulo quoque scriptum legamus. <quote xml:id="ho8ccf-a3ghuy-Qd1e702" source="http://scta.info/resource/hebr13_16">Beneficentiae &amp;
           <lb ed="#A" n="22"/>communicationis nolite obliuisci: talibus enim hostiis
           <lb ed="#A" n="23"/>promeretur Deus</quote>. Etiam ab Ethnico quodam pio dictum
           <lb ed="#A" n="24"/>est. Vis deos propitiari? bonus esto. Clamat aliquis ad
